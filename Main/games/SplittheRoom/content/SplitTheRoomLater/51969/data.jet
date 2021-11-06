@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Donald Trump | tu hermanastro | tu mejor amigo | tu jefe | tu segundo primo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.78",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.37",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.70",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Está dispuesto a probar si tú aceptas.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás en un partido de baloncesto y apareces en la Cámara de Besos. El premio al Mejor Beso son boletos para toda la temporada.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero estás sentado junto a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.03",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Darías el beso?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Bésame, soy competitivo",
+            "t": "A",
+            "v": "742709_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re at a basketball game and you end up on the Kiss Cam. The prize for Best Kiss is season tickets. But you’re sitting next to <BLANK>. They’re game to try if you are. Do you kiss ‘em?",
+            "t": "A",
+            "v": "742710_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

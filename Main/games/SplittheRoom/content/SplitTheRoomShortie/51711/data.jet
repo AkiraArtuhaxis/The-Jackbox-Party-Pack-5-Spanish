@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un billete de $100 | una foto tuya desnudo | un cráneo humano | un pez muerto | tu diario a prueba de agua",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.08",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.42",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "en el fondo.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.55",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes 5 minutos antes de que entre un grupo de escuela primaria.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres el director de un acuario. Una mañana, notas que tu tanque más grande tiene",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.53",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te tiras a sacarlo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "A tanquear",
+            "t": "A",
+            "v": "739155_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re the director of an aquarium. One morning, you notice your largest tank has this at the bottom of it.  You have 5 minutes before an elementary school group is going to walk in.  Do you take the plunge?",
+            "t": "A",
+            "v": "739156_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

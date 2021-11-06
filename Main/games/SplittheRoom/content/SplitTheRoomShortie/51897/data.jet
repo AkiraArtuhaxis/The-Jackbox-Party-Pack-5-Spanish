@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "estrellas porno | la guerra química | por qué los bebés apestan | la pena de muerte | anarquía",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+13.54",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.66",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.23",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tus padres vendrán a la ciudad a cuidarla durante el fin de semana.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu recién nacida NO se duerme. Grita y no para de gritar.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Inquietantemente y de casualidad, descubres que tu bebé dormirá en paz si escucha un podcast sobre",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.83",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Les cuentas sobre el truco para dormir?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Aprender a dormir es agotador",
+            "t": "A",
+            "v": "741675_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your newborn will NOT fall asleep. She screams and screams. Through a disturbing fluke, you find that your baby will sleep peacefully if listening to a podcast about this subject. Your parents are coming to town to watch her for the weekend. Do you tell them about the sleep hack?",
+            "t": "A",
+            "v": "741676_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

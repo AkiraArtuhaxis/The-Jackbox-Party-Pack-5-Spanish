@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "piel azul brillante | piel burbujeante | piernas que literalmente parecen palos | cabello espagueti | cuernos de cabra",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "pelaje en la cara",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.77",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.12",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Te ves mejor que nunca antes...para los demás.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Cuando TÚ te miras en el espejo, te ves distorsionado, ya sea con un pelaje grueso en la cara o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué autoimagen eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Defecto de imagen propia [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You look better than you ever have before...to everyone else. When YOU look in the mirror, you see yourself distorted, either as having thick face fur, or this. Which self-image do you choose?",
+            "t": "A",
+            "v": "760012_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Hey, no critiquen el pelaje en la cara hasta que lo prueben.",
+            "t": "A",
+            "v": "760015_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

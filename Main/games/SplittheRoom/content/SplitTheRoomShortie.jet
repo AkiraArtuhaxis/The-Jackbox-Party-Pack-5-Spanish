@@ -1,0 +1,2255 @@
+{
+    "episodeid": 1352,
+    "content": [
+        {
+            "answerText": "",
+            "scenarioText": "Despiertas a un genio. Tú y tu mejor amigo reciben un deseo cada uno. Como broma, tu amigo desea que tu pie derecho sea reemplazado por <BLANK>.",
+            "decoys": "una mano | un camión de juguete | una rueda | un pie izquierdo | un perro caliente",
+            "x": false,
+            "id": 50571,
+            "category": "Cuidado con lo que desean",
+            "questionText": "¿Utilizarías tu único deseo para regresarlo a la normalidad?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "En una caminata por la playa, te encuentras un mensaje en una botella. La carta está dirigida a ti y solo incluye una corta frase: “ <BLANK>. ”",
+            "decoys": "Sé dónde vives | Conozco tus secretos | Vengo por ti | Te estoy viendo | Envía ayuda",
+            "x": false,
+            "id": 50507,
+            "category": "Mensaje en un contenedor",
+            "questionText": "¿Intentas encontrar a esta persona?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Compras una computadora y descubres que hay una mente humana atrapada adentro. Esa mente pertenece a <BLANK>. Su conciencia está ocupando toda la CPU y necesitas esta computadora para la escuela.",
+            "decoys": "Chris Pratt | Will Smith | Cardi B | Donald Trump | un amigo tuyo",
+            "x": false,
+            "id": 50374,
+            "category": "Fantasma en la máquina",
+            "questionText": "¿La borras de tu computadora?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un nuevo movimiento en las redes sociales anima a las personas a publicar un video de sí mismos <BLANK> para crear conciencia sobre la hepatitis B. Se sabe que tu estás apoyando esta causa.",
+            "decoys": "comiendo una pequeña cantidad de caca de perro | sumergiendo la cabeza en un inodoro | cayéndose por las escaleras | cantando | levantando pesas",
+            "x": false,
+            "id": 50402,
+            "category": "El Challenge",
+            "questionText": "¿Participas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres un estudiante de intercambio que vive con una familia de renombre en un planeta diferente. Es costumbre que el invitado <BLANK> antes de acostarse. Ha habido mucha tensión entre tus dos planetas.",
+            "decoys": "baile desnudo | beba agua con su trasero | coma babosas | corra 4 kilómetros | camine sobre fuego",
+            "x": false,
+            "id": 50742,
+            "category": "El estudiante de intercambio",
+            "questionText": "¿Participas en esta costumbre?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Hay un libro lleno de todas las cosas buenas que alguien haya dicho sobre ti y quién lo dijo. Por cada minuto que te dedicas a mirar el libro, tienes que dedicar un minuto a mirar <BLANK>.",
+            "decoys": "choques de autos | un montaje de vacas pariendo | un libro de comentarios feos sobre ti | gusanos | el Facebook de tu ex",
+            "x": true,
+            "id": 50858,
+            "category": "La Biblia de los cumplidos",
+            "questionText": "¿Lo lees por 10 minutos?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tienes el poder de eliminar la palabra “fantabuloso” del léxico del español. Nunca volverá a ser pronunciada. Sin embargo, será reemplazada por una nueva expresión popular: “¡<BLANK>!”.",
+            "decoys": "bu-ba | java-dí | caguito | boing-boing | upsi dupsi",
+            "x": false,
+            "id": 50428,
+            "category": "Fantástico y fabuloso",
+            "questionText": "¿Vale la pena?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Se te pide que poses para un retrato hecho por el artista más famoso del mundo. La pintura te representará <BLANK>. Eventualmente se colgará en el Louvre.",
+            "decoys": "desnudo, sosteniendo una fruta | en el inodoro | recibiendo una paliza | llorando | estornudando",
+            "x": false,
+            "id": 50355,
+            "category": "La influencia del artista",
+            "questionText": "¿Posarías?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás felizmente comprometido, pero te preocupa el costo de la boda. Un financiero adinerado surge de la nada para ofrecerte un trato. Él pagará por tu boda, pero debe realizarse en <BLANK>.",
+            "decoys": "un McDonalds | un cementerio | un autobús | un barco de pesca | televisión en vivo",
+            "x": false,
+            "id": 50326,
+            "category": "Caminando de puntillas al altar",
+            "questionText": "¿Aceptas su oferta?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un pequeño culto se ha mudado a unos pocos kilómetros de tu hogar. Según tus experiencias, son un grupo honesto, respetuoso y caritativo... pero se pasan una hora de cada día rezando a <BLANK>.",
+            "decoys": "un maniquí | Trump | un perro | una cucaracha | un zapato ",
+            "x": true,
+            "id": 51722,
+            "category": "Haz la paz",
+            "questionText": "¿Llamas a la policía para alertar sobre ellos?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Acabas de encontrar la casa de tus sueños y es súper accesible. Sin embargo, descubres que la razón por la que es tan barata es porque hay <BLANK> en el sótano.",
+            "decoys": "un fantasma atrevido | una mafia rusa | un pequeño fuego que nunca se apaga | una familia de zorrillos | un club nocturno",
+            "x": false,
+            "id": 50496,
+            "category": "Comprador tenga cuidado",
+            "questionText": "¿Compras la casa?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "En su lecho de muerte, tu abuela te ofrece un cuadro que ha estado en la familia durante generaciones. Representa <BLANK>. Sus últimas palabras para ti: “Cuélgalo en tu sala de estar.”",
+            "decoys": "a ella desnuda | a Jesús con una ametralladora | a ella estrechando la mano de Hitler | a muchos, muchos payasos | el nacimiento de tu padre",
+            "x": true,
+            "id": 51337,
+            "category": "Un último deseo",
+            "questionText": "¿Lo cuelgas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Delante de ti hay un televisor con cinco canales. Cuatro de ellos son canales de viajes; el quinto canal está dedicado a <BLANK>. Una vez que enciendas el televisor, serás transportado instantáneamente a unas vacaciones de fin de semana totalmente pagas al lugar que aparece en pantalla.",
+            "decoys": "la vida en prisión | la Fosa de las Marianas | la Segunda Guerra Mundial | el Valle de la Muerte | los embotellamientos de tráfico",
+            "x": false,
+            "id": 51741,
+            "category": "Ruleta de canales",
+            "questionText": "¿Lo enciendes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Siempre que te desnudas, te vuelves invisible. Escuchar la palabra “<BLANK>” hace que te vuelvas visible al instante.",
+            "decoys": "salmón | pantalones | pelea | café | ambulancia",
+            "x": true,
+            "id": 50575,
+            "category": "Una clara elección",
+            "questionText": "¿Utilizas tu poder para escuchar en secreto a tus compañeros de trabajo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "La organización benéfica de tu elección recibirá $10.000, pero solo si dejas que <BLANK> te chupe levemente el dedo meñique durante cinco minutos completos.",
+            "decoys": "Angela Merkel | Adam Driver | tu clon | una anciana | Bob Dylan",
+            "x": true,
+            "id": 50958,
+            "category": "El rarito de la caridad",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te encuentras en el funeral de un hombre que no conoces. Te invitan a decir unas palabras. Lo único que sabes sobre el difunto es que <BLANK>. Nadie más va a subir.",
+            "decoys": "tocaba música | conducía camiones | una vez estuvo en la cárcel | amaba las ranas | su color favorito era el naranja",
+            "x": true,
+            "id": 50794,
+            "category": "Palabras sorpresa",
+            "questionText": "¿Intentas decir unas palabras?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu vuelo internacional fue sobrevendido. Sorprendentemente, un asistente de vuelo ofrece <BLANK> como compensación a la primera persona que ceda su asiento. Vas camino a la boda de tu prima.",
+            "decoys": "$1.000 | un auto usado | entradas para “Hamilton” | una dotación vitalicia de pollo | un iPad Pro",
+            "x": false,
+            "id": 50403,
+            "category": "El asiento sobrevendido",
+            "questionText": "¿Cedes tu asiento?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Hay un chip en tu cabeza que te hace tener los mismos sueños que una celebridad. Tu celebridad designada es <BLANK>. Quitar el chip hace que solo tengas sueños aburridos.",
+            "decoys": "Kanye West | Jim Carrey | ElRubiusOMG | “Weird ” Al Yankovic | Jared Leto",
+            "x": true,
+            "id": 51105,
+            "category": "Duerme como las estrellas",
+            "questionText": "¿Te quedas con el chip?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Recibirás $2.000 en efectivo todas las semanas por el resto de tu vida, pero con una condición: debes hacerte un tatuaje facial permanente que diga “<BLANK>”. Debe cubrir tu frente.",
+            "decoys": "frente | papi | amor | UwU | xd",
+            "x": false,
+            "id": 50631,
+            "category": "Enfrenta tus problemas",
+            "questionText": "¿Te haces el tatuaje?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Cada vez que haces caca, extraes un billete de $50. Desafortunadamente, también sale <BLANK>.",
+            "decoys": "3 cucharadas de salsa picante | mucha sangre | una pelota de ping pong | una tapa de botella | una bola de lana",
+            "x": false,
+            "id": 51441,
+            "category": "Caca sorpresa",
+            "questionText": "¿Te aguantas este dolor durante al menos un mes antes de ver a un médico?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Acabas de caerte de cara al piso en tu graduación de la escuela secundaria. Si te pones de pie, te abofeteas y gritas “¡<BLANK>!”, hay una probabilidad del 90% de que se borre la memoria de todos.",
+            "decoys": "SOY UN BEBÉ INTELIGENTE | PAPI SE CAYÓ | ME DUELE LA COLITA | LO VIERON AQUÍ PRIMERO | SOY MUY GUAPO MÍRENME",
+            "x": false,
+            "id": 50984,
+            "category": "Terapia de gritos",
+            "questionText": "¿Das la bofetada?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Debido a una falla en tu vehículo autónomo, te está llevando directamente a <BLANK>. Está etiquetado como tu destino favorito. Tu mamá está en el auto contigo. Si anulas el sistema, se saldrá de la carretera.",
+            "decoys": "una tienda para adultos | una clínica de abortos | un club de striptease | una tienda de perforaciones corporales | un inodoro portatil",
+            "x": true,
+            "id": 51126,
+            "category": "Licencia para conducir",
+            "questionText": "¿Lo anulas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Ves un chupacabras. Quieres sacarle una foto, pero tu teléfono está lleno. Para liberar suficiente espacio, debes eliminar tu única foto de <BLANK>.",
+            "decoys": "tu bisabuelo | un ovni | cuando conociste a Tom Hanks | tu graduación | tu mascota de la infancia",
+            "x": false,
+            "id": 50573,
+            "category": "Monstruo de la memoria",
+            "questionText": "¿La borras?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu mamá se está quedando en tu casa. Anoche, entró sonámbula en tu habitación, te miró directamente a los ojos y dijo: “<BLANK>”.",
+            "decoys": "No eres mi hijo | Engañé a tu padre | Eres mi segundo favorito | Estoy vendiendo la casa | Tienes un gemelo oculto",
+            "x": true,
+            "id": 51023,
+            "category": "Caminando dormida sobre la cuerda",
+            "questionText": "¿Lo mencionas en el desayuno?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has perdido la vista. Unas gafas revolucionarias te devuelven la visión, pero están defectuosas. Muestran continuamente <BLANK> en todo lo que estés viendo.",
+            "decoys": "“The Big Bang Theory” | Slenderman | videos de granos con pus | documentales de la Segunda Guerra Mundial | vídeos instructivos de odontología",
+            "x": false,
+            "id": 51124,
+            "category": "Espía ocular",
+            "questionText": "¿Los usas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás bajo un hechizo de Halloween que hace que te debas quedar con tu disfraz puesto durante 48 horas. Estás vestido de <BLANK>. Se espera que des un discurso mañana a un grupo de veteranos de guerra.",
+            "decoys": "Austin Powers | un dinosaurio | un soldado | Capitán América | un zombi",
+            "x": false,
+            "id": 50978,
+            "category": "Eres como vistes",
+            "questionText": "¿Lo haces de todas maneras?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu altavoz inteligente está enamorado de ti. Si te encuentra con una pareja romántica, te amenazó con <BLANK>. Olvidas apagarlo al acabar una cita. Los escuchó a los dos besándose.",
+            "decoys": "compartir tu historial web | contar tus secretos | explotar | desactivar el aire acondicionado | cancelar tu tarjeta de crédito",
+            "x": true,
+            "id": 50927,
+            "category": "Infatuación artificial",
+            "questionText": "¿Tratas de salvarla fingiendo que no te gusta esta persona?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás metido hasta el codo en el orificio de una ballena, tratando de recuperar <BLANK> que dejaste caer por la borda. Si tratas de meterte más profundo, es muy probable que ella muera. Está al alcance de tu mano.",
+            "decoys": "la única foto que queda de tu mamá | el anillo de boda | $8.000 en efectivo | el teléfono celular | la lista de contraseñas",
+            "x": true,
+            "id": 51243,
+            "category": "Salpicando todo",
+            "questionText": "¿Te estiras unos centímetros más?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Posees un trasero mágico. Cuando te bajas la ropa interior y se lo enseñas a alguien, hay una probabilidad del 50% de que quiera convertirse en tu mejor amigo. Un día te encuentras de casualidad con <BLANK>.",
+            "decoys": "Leonardo DiCaprio | Tom Hanks | tu maestra de primer grado | Joe Biden | Ellen DeGeneres",
+            "x": false,
+            "id": 50411,
+            "category": "Mejillas al descubierto",
+            "questionText": "¿Le muestras las mejillas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás desesperadamente soltero. Hay una nueva aplicación de citas que te garantiza que encontrarás a tu alma gemela. Para crear una cuenta, debes subir <BLANK>.",
+            "decoys": "tu fanfic | fotos desnudo | tus mayores secretos | el historial de tu navegador | tu dirección",
+            "x": true,
+            "id": 51339,
+            "category": "Amor al primer byte",
+            "questionText": "¿Te registras?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "En una elección presidencial, se ha escrito tu nombre en un número impactante de boletas. Al final ganas, derrotando por poco a <BLANK>.",
+            "decoys": "Adam Sandler | Jennifer Aniston | Bo Burnham | un ermitaño rico | un caballo",
+            "x": false,
+            "id": 50748,
+            "category": "Voto escrito, voto borrado",
+            "questionText": "¿Prestas juramento?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un nuevo par de auriculares te permite entender a los animales. En un paseo por el bosque, escuchas a un conejo llamarte “<BLANK>”.",
+            "decoys": "cobarde | perdedor | desperdicio de semen | nerd tragalibros | increíblemente feo",
+            "x": true,
+            "id": 51132,
+            "category": "Ritmos de Dolittle",
+            "questionText": "¿Lo pateas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Acabas de comer la mejor comida de tu vida. Era tan buena que te hizo llorar un poco. Luego, el chef sale y te informa que contenía <BLANK>.",
+            "decoys": "un humano | un hurón | moco de perro | plomo | ingredientes vencidos",
+            "x": true,
+            "id": 50395,
+            "category": "El ingrediente secreto",
+            "questionText": "¿La volverías a pedir?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te estás mudando. Hay un dispositivo que puede vaporizar digitalmente y luego reconstituir todas tus pertenencias en la nueva casa. Sin embargo, tus muebles reaparecerán con un leve aroma a <BLANK>.",
+            "decoys": "freidora | cabello sucio | el perfume de tu abuela | aserrín | brócoli al vapor",
+            "x": false,
+            "id": 51241,
+            "category": "¿Quién mueve el mueble?",
+            "questionText": "¿Lo usas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un algoritmo te ha emparejado con tu pareja perfecta... con una advertencia. El apodo “tierno” que esta persona tendrá para ti es “<BLANK>”. Te lo dirá todos los días.",
+            "decoys": "pedorro | papi | pastelito de amor | nalgas de bebé | prima",
+            "x": true,
+            "id": 51102,
+            "category": "Una pareja casi hecha en el cielo",
+            "questionText": "¿Se casan?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "El nuevo juguete navideño de moda es una tierna nutria robótica que está programada para darte la mano y decir cosas lindas. Se ha encontrado un error en el que una de cada 100.000 veces susurra “<BLANK>”. Eres el director ejecutivo.",
+            "decoys": "A papi le guta | Conozco tu secreto | Róbale a tu mamá | Envenenaré el suministro de agua | Estamos observando",
+            "x": true,
+            "id": 50325,
+            "category": "El error navideño",
+            "questionText": "¿Retiras al juguete de las tiendas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Vas a embarcarte en una misión de 10 años en el espacio. En el despegue, notas que tu compañero astronauta ha sido reemplazado por <BLANK>. Si pulsas eyectar ahora, tienes una probabilidad del 70% de sobrevivir.",
+            "decoys": "tu ex de la secundaria | un diputado | un bebé recién nacido | tu abuela | Yao Cabrera",
+            "x": false,
+            "id": 50982,
+            "category": "3... 2... 1... ¡Eyéctenme!",
+            "questionText": "¿Eyectas de la nave?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te han puesto una maldición. Cada vez que utilizas la palabra “yo”, tú involuntariamente <BLANK>.",
+            "decoys": "te tiras un pedo | te abofeteas a ti mismo | eructas | te muerdes la lengua | bostezas",
+            "x": false,
+            "id": 50750,
+            "category": "¡Yo antes Eeeeh!",
+            "questionText": "De ahora en adelante, ¿hablas solamente en tercera persona?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Existe una nueva aplicación de música que te permite acceder literalmente a cualquier grabación. Para obtener una cuenta, debes subir una grabación de sonido de ti, <BLANK>. Se etiquetará con tu nombre y se compartirá con todos los usuarios.",
+            "decoys": "teniendo sexo | haciendo caca | diciendo “soy un enano mocoso” | llorando | dando tu número de teléfono",
+            "x": true,
+            "id": 51147,
+            "category": "Audio soñado",
+            "questionText": "¿Te registras?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has sido acusado de un crimen que no cometiste. Un abogado pro bono se acerca para representarte. Este individuo es inteligente y tiene mucha experiencia; sin embargo, resulta que es <BLANK>.",
+            "decoys": "un pollo | un niño | extremadamente ansioso | incapaz de mentir | un comediante de improvisación",
+            "x": false,
+            "id": 50382,
+            "category": "Los ojos de la justicia",
+            "questionText": "¿Dejas que esta persona te represente?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tienes una cámara de seguridad en tu casa. Una noche, captura la prueba definitiva de Pie Grande... pero en el fondo, se te puede ver <BLANK>.",
+            "decoys": "desnudo | pateando un conejo | evadiendo impuestos | pasando un semáforo en rojo | robando del jardín de tu vecino",
+            "x": true,
+            "id": 51037,
+            "category": "Atormentado por tus errores",
+            "questionText": "¿Compartes las imágenes con el mundo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Siempre que sostienes <BLANK> con ambas manos, te conviertes en un cantante fantástico. Tus amigos te inscriben en un concurso de talentos de televisión. Hay un premio en efectivo de $10.000.",
+            "decoys": "un brazo cortado | una guadaña | a tu abuelo | una papa | una cobra",
+            "x": true,
+            "id": 50445,
+            "category": "Miedo escénico",
+            "questionText": "¿Te presentas en vivo con tu “amuleto de la suerte”?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu marca de ropa favorita te ofrece una oferta. Nunca más tendrás que pagar por un atuendo, pero los fines de semana debes usar en todo momento una camiseta que diga “<BLANK>”. Se enterarán si rompes las reglas.",
+            "decoys": "Inspector de pompis femeninas | Inspector de botín femenino | Abuela número uno | Llévame a la cafetera | Preferiría estar durmiendo | solo buena onda por aquí",
+            "x": true,
+            "id": 51761,
+            "category": "Cabeza de hilo",
+            "questionText": "¿Aceptas el trato?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Con tu nuevo plan de datos, no pagarás por el uso del teléfono o de datos por el resto de tu vida... si aceptas que aparezcan anuncios de <BLANK> debajo de cada mensaje de texto que envíes.",
+            "decoys": "medicación contra la ansiedad | videos de de PETA sobre crueldad animal | pañales para adultos | autos usados ​​| políticos locales",
+            "x": false,
+            "id": 51780,
+            "category": "Textos emergentes",
+            "questionText": "¿Firmas el contrato?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "No estás teniendo una buena racha en el romance. Extrañamente, comienzas a recibir excelentes consejos amorosos de <BLANK>. Sólo tú puedes oírlo hablar.",
+            "decoys": "una chaqueta deslumbrante | tu osito de peluche de la infancia | un tarro viejo de salsa | un peluquín | jeans recortados",
+            "x": true,
+            "id": 51959,
+            "category": "Cyrano moderno",
+            "questionText": "¿Lo traes a tu primera cita?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás en un parque de diversiones futurista. Todo el lugar está atendido por robots programados para imitar a <BLANK>. Uno de ellos te aparta a un lado y te suplica que lo liberes.",
+            "decoys": "soldados de la guerra civil | Jim Carrey | Austin Powers | bandas de chicos | payasos de circo",
+            "x": false,
+            "id": 51832,
+            "category": "Atracción de sigilo",
+            "questionText": "¿Intentas escabullirlo de allí?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres el asistente de un funerario que acaba de enterrar al anfitrión de un querido programa para niños. De repente, te das cuenta de que dejaste caer tu <BLANK> en el ataúd.",
+            "decoys": "celular | paga | pasaporte | licencia de conducir | auriculares inalámbricos",
+            "x": true,
+            "id": 50437,
+            "category": "Un error para matarse",
+            "questionText": "¿Desentierras la bellamente decorada tumba para recuperarlo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Los científicos hacen tu clon. Se ve y suena exactamente como tú. De hecho, todos sus detalles son exactos, excepto por una cosa: Le gusta mucho, muchísimo, <BLANK>. Como el original, tienes derecho a destruirlo.",
+            "decoys": "la música country | el cosplay | los pies | tuitear en vivo | las playas nudistas",
+            "x": true,
+            "id": 50432,
+            "category": "Ataque de tu clon",
+            "questionText": "¿Lo destruyes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Vayas donde vayas, te siguen los cuervos. Si disparas al pájaro más grande, se van. Si matas a cualquier otro, ellos <BLANK>. Siempre andan juntos.",
+            "decoys": "les agarra diarrea | se vuelven 5 veces más ruidosos | se hacen invencibles | también persiguen a tu familia | duplican su tamaño",
+            "x": true,
+            "id": 50872,
+            "category": "Un asesinato premeditado",
+            "questionText": "¿Intentas disparar?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Una cadena de hoteles de lujo te ofrece una oferta extraña. Puedes obtener un 75% de descuento en cualquiera de sus establecimientos, pero tu habitación siempre estará al lado de alguien que <BLANK>.",
+            "decoys": "se esté tirando un pedo | esté ladrando | está tocando la batería | está poniendo mariscos en el microondas | está aspirando",
+            "x": false,
+            "id": 51785,
+            "category": "A registrarse",
+            "questionText": "¿Aceptas la oferta?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "El Consorcio Unicode quiere convertir tu cara en un emoji. Serás reconocido a menudo y podrás ganarte la vida a base de acuerdos con marcas. Sin embargo, tu emoji tendrá el significado de “<BLANK>”.",
+            "decoys": "mal cuerpo | constipación | rechazo total | niño apestoso | un completo perdedor",
+            "x": false,
+            "id": 51947,
+            "category": "Charlas cara a cara",
+            "questionText": "¿Firmas el contrato?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Puedes tomar una pastilla que te hará increíblemente atractivo. Pero también hará que tu voz suene como <BLANK>. Estás a punto de partir para tu reunión de 20 años de secundaria.",
+            "decoys": "mil gaviotas | un anciano | un perro de dibujos animados | un locutor deportivo | un niño",
+            "x": false,
+            "id": 51572,
+            "category": "Reunidos, y se siente bien",
+            "questionText": "¿Tomas una?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "De la noche a la mañana, te conviertes en la celebridad de Internet más grande del mundo. Tienes suficiente dinero para comprar la casa de tus sueños. ¿Cómo has llegado hasta aquí? Te grabaste a ti mismo <BLANK>.",
+            "decoys": "comiendo un pavo entero | haciéndote caca encima | siendo golpeado por un niño | cayendo por una escalera mecánica | haciéndole una broma a tu abuela",
+            "x": false,
+            "id": 50335,
+            "category": "Dale like y/o suscríbete",
+            "questionText": "¿Vale la pena la fama?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás infectado con una nueva bacteria. El síntoma principal es el aumento de peso diario... pero un efecto secundario positivo es que puedes <BLANK>. Puedes tomar antibióticos de inmediato, o esperar una semana.",
+            "decoys": "convertir el agua en vino | hablar 5 idiomas | ver un día en el futuro | respirar bajo el agua | controlar el fuego",
+            "x": false,
+            "id": 51285,
+            "category": "A vivirla con la enfermedad",
+            "questionText": "¿Esperas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres un sujeto de interés en un caso de robo; pero tienes una coartada válida mas vergonzosa. Estabas <BLANK> en el momento del crimen.",
+            "decoys": "llorando en la cama | recibiendo nalgadas | esperando en la fila para ver a Zayn de One Direction | comiendo un pote de helado | siendo atacado por un ganso",
+            "x": true,
+            "id": 51367,
+            "category": "Sin pistas",
+            "questionText": "¿Transmites tu verdadera coartada a los detectives?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Alguien a la que has estado ayudando con los estudios los últimos tres años va a graduarse con honores. Con los ojos llorosos, te pide que asistas a la ceremonia. Sin embargo, cada vez que escuchas una corneta, tú involuntariamente <BLANK>.",
+            "decoys": "gritas “¡Esto no se acaba hasta que yo lo diga!” | rompes en llando | te tiras un pedo en cada compás | abofeteas a una persona | te comes un billete de $20",
+            "x": false,
+            "id": 51584,
+            "category": "Feliz graduación",
+            "questionText": "¿Te presentas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un médico brillante puede extender tu vida activa y saludable 10 años. Sin embargo, hay un detalle. El procedimiento requiere que tus genitales <BLANK>.",
+            "decoys": "se encojan drásticamente | tengan picazón | canten | desaparezcan | suden todo el día",
+            "x": true,
+            "id": 51338,
+            "category": "Evitando la tumba",
+            "questionText": "¿Te haces la operación?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Dentro de la bolsa que recogiste de la tintorería, encuentras una nota escrita que dice “<BLANK>”. Las únicas otras tintorerías cerca de ti cobran el doble.",
+            "decoys": "Eres especial | Me gusta tu piel | Sé donde vives | Nunca te dejaré | Quiero tu ropa",
+            "x": true,
+            "id": 51417,
+            "category": "El mensaje de la tintorería",
+            "questionText": "¿Cambias de tintorería?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Fuiste miembro de la tripulación en la llegada del hombre a la Luna en 1969. Posees una filmación que terminaría de una vez por todas con la teoría conspirativa de que fue todo un engaño... pero en este clip se te oye gritar “¡<BLANK>!”.",
+            "decoys": "Engañé a mi esposa | Maté a un perro | La Tierra es plana | Me niego a pagar mis impuestos",
+            "x": true,
+            "id": 51392,
+            "category": "Un pequeño paso en falso",
+            "questionText": "¿Liberas la grabación al público?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un famoso artista de grafiti cubre el frente de su casa con imágenes de <BLANK>. De repente, el valor de su casa aumenta en un 10%.",
+            "decoys": "Minions | Hitler besando a Stalin | retratos de Adam Sandler | peces gota | la guerra de Vietnam",
+            "x": false,
+            "id": 51778,
+            "category": "Banksy estuvo aquí",
+            "questionText": "¿Lo conservas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu madre no lo sabe, pero su vida está en peligro. La única forma de salvarla es <BLANK> todos los días durante un mes. Ella tiene que saber que lo hiciste, pero nunca puede saber por qué.",
+            "decoys": "abofetearla | hacerle un calzón chino | robarle el bolso | cambiarle la contraseña de su teléfono | estornudar sobre ella",
+            "x": true,
+            "id": 50311,
+            "category": "¿Mami querida?",
+            "questionText": "¿Aceptas el trato?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres un actor desesperado al que se le ofrece un papel importante en una franquicia cinematográfica muy exitosa. Pero en la escena más grande de la película, se requerirá que tú <BLANK>. Varias veces.",
+            "decoys": "te hagas pis encima | bailes desnudo | rompas en llanto | saltes de un tren en movimiento | golpees una pared",
+            "x": false,
+            "id": 51335,
+            "category": "El conflicto de un actor",
+            "questionText": "¿Lo haces?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás en una cita con alguien que realmente te gusta. Quiere que vayan a tu casa, pero cuando colocas la llave en tu puerta, recuerdas que justo en el medio de tu sala de estar está <BLANK>.",
+            "decoys": "un retrato gigante de ti mismo | una mula muerta | tu clon | tu ropa interior sucia | un charco de sangre",
+            "x": true,
+            "id": 51334,
+            "category": "La pijamada repentina",
+            "questionText": "¿Lo invitas a entrar?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te ofrecen un millón de dólares si puedes jugar un partido completo de bolos sin tirar ni una vez por la canaleta. No puedes contar con ayudantes y tienes 10 minutos en total. Si fallas, el castigo será <BLANK>.",
+            "decoys": "que un boxeador te golpee | no comer durante 5 días | beber dos galones de leche | el destierro del internet | 5 años de prisión",
+            "x": false,
+            "id": 51332,
+            "category": "Pensamientos en la canaleta",
+            "questionText": "¿Lo intentas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Obtienes un departamento loft gratis para toda la vida, pero tiene un detalle. Una pared de vidrio transparente en la sala de estar se comparte con el departamento de al lado. No puedes taparlo. Tu vecino es <BLANK>.",
+            "decoys": "tu ex | un actor veterano | tu hermano | el presidente | tus padres",
+            "x": false,
+            "id": 50511,
+            "category": "Pared con vista",
+            "questionText": "¿Te mudas allí?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "La nueva tendencia en el mundo de la moda, lo creas o no, implica usar <BLANK>. Tienes una entrevista de trabajo en una oficina moderna y llena de jóvenes. Es la única oferta de trabajo prometedora que has recibido en semanas. Tienes familia.",
+            "decoys": "un cinturón de castidad | una mascara de cuero | dos viseras | gorros al revés | coletas",
+            "x": true,
+            "id": 50322,
+            "category": "Avance acelerado de la moda",
+            "questionText": "¿Lo llevas puesto?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás actualmente en segundo lugar en un programa de juegos televisado a nivel nacional. Resulta que sabes que la palabra “<BLANK>” le causa la pérdida de memoria al concursante en primer lugar.",
+            "decoys": "papi | pipí | húmedo | ensalada | mancha",
+            "x": true,
+            "id": 50305,
+            "category": "El secreto del concursante",
+            "questionText": "¿Colocas esa palabra en una respuesta?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un extraño se te acerca en la calle y te revela que tiene fotos tuyas <BLANK>. Él no las hará públicas siempre y cuando le des los calzoncillos que estás usando ahora.",
+            "decoys": "robando un banco | haciendo cosplay de anime | golpeando a un pingüino | entrando sin pagar al cine | gritándole a ancianos",
+            "x": true,
+            "id": 50447,
+            "category": "El fotógrafo",
+            "questionText": "¿Lo haces?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu gimnasio acaba de instalar una máquina de última generación que te permite quemar fácilmente 2.000 calorías en 5 minutos. Funciona así: te pones encima y haces la pantomima de <BLANK>. El gimnasio está lleno, pero la máquina está disponible.",
+            "decoys": "hacer caca | comerse a besos | morir violentamente | hacerse un enema | depilarse con cera",
+            "x": true,
+            "id": 50323,
+            "category": "Siente el calor",
+            "questionText": "¿La usas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has encontrado la tumba olvidada de una momia. El descubrimiento podría hacerte famoso, pero hay una supuesta maldición. Si la momia es movida, quien la descubra va a <BLANK>.",
+            "decoys": "dejar de crecerle el pelo | olvidar toda letra de una canción | morir en exactamente 30 años | perder su cuenta bancaria | ser golpeado por un rayo",
+            "x": false,
+            "id": 51430,
+            "category": "Sella tu tumba",
+            "questionText": "¿La transportas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "El himno nacional de tu país ha sido reemplazado por la canción “<BLANK>”. La gente debe ponerse de pie y cantarla en voz alta en todos los eventos públicos, o pasarán tres días en la cárcel si oponen resistencia.",
+            "decoys": "Uptown Funk | La Macarena | Turn Down For What | Party Rock Anthem | Shake It Off",
+            "x": false,
+            "id": 50310,
+            "category": "Compromiso Patriótico",
+            "questionText": "¿Te arriesgas a ir a la cárcel?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu información online se ha visto comprometida por tu némesis. Ahora, cuando buscas en Google tu nombre, el primer resultado es un vínculo que dice que tú “<BLANK>”. Págale $1.000 y él lo removerá.",
+            "decoys": "eres miembro de ISIS | votaste por Trump | robaste un banco | crees que la llegada a la luna fue falsa | comes carne de caballo con gusto",
+            "x": true,
+            "id": 51956,
+            "category": "Resultados de la página uno",
+            "questionText": "¿Lo haces?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Una cirugía radical te brinda la habilidad de ver por todas partes. Cierra los ojos y estarás allí. Un efecto secundario es que tus papilas gustativas se transmiten a <BLANK> al mismo tiempo.",
+            "decoys": "un urinario público | una cocina de sushi de una gasolinera | dentro de una botella de salsa picante | el piso de un vestuario | una tubería de alcantarilla",
+            "x": false,
+            "id": 51293,
+            "category": "Vuelve a tus sentidos",
+            "questionText": "¿Pasas por dicho procedimiento?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Encontraste al amor de tu vida. Todo sobre esta persona es básicamente perfecto. Sin embargo, su apellido es <BLANK>. Te pide que tomes su apellido cuando se casen. Significa el mundo para él/ella.",
+            "decoys": "Cacacola | Palonelculo | Apellido | Bubú | Pedomán",
+            "x": false,
+            "id": 50789,
+            "category": "Una rosa con cualquier otro apellido",
+            "questionText": "¿Lo haces?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás ayudando a tu mejor amigo en una performance escénica en el museo de arte. Tu función consiste en acariciar las mejillas de cada visitante del museo y susurrar: “Te deseo”. En la primera hora, entra <BLANK>.",
+            "decoys": "tu tío | tu vecino | tu ex que aun te ama | tu casero | tu jefe",
+            "x": true,
+            "id": 51352,
+            "category": "Hazlo por el arte",
+            "questionText": "¿Continúas con ello?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Descubres que el símbolo japonés que tienes tatuado en el dorso de tu mano se traduce como “<BLANK>”. Estás a punto de viajar por un año a Japón. No tienes suficiente dinero para removerlo.",
+            "decoys": "me como los mocos | papi me ama | estoy contaminado | aguanten las tetas | señálame el baño",
+            "x": true,
+            "id": 50430,
+            "category": "El símbolo desafortunado",
+            "questionText": "¿Cancelas tu viaje?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Una mutación humana te permite atraer pretendientes amorosos gritando este sonido: “¡<BLANK>!”. Sin embargo, no funciona en todos. Estás asistiendo a una exposición laboral cuando ves a alguien realmente atractivo/a.",
+            "decoys": "AAAHOOGAAAH | Me arden los genitales | Sándwich de vómito | YIIIIIIJAAAAH | Soy un tonto cachondo",
+            "x": true,
+            "id": 51291,
+            "category": "Sonidos del amor",
+            "questionText": "¿Haces ese sonido?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Una gran editorial te ofrece un trabajo fijo como escritor. Escribirás novelas, cuentos, guiones, todo lo que quieras— siempre y cuando el tema sea <BLANK>.",
+            "decoys": "cacas de elefante | Justin Bieber | matemáticas | fanfiction de Marvel | 2016",
+            "x": false,
+            "id": 50306,
+            "category": "Escribe sin falta",
+            "questionText": "¿Aceptas el trabajo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Una ley fiscal nueva permite a las personas reclamar una deducción si <BLANK>. Esto se aplica a ti y reduciría tus impuestos en un 80%. Sin embargo, esta información, por ley, sería mostrada en paneles publicitarios de toda tu provincia.",
+            "decoys": "tienen una familia secreta | tienen problemas de fertilidad | mataron a alguien | provocaron un incendio | engañaron a su pareja",
+            "x": true,
+            "id": 50307,
+            "category": "El recaudador de impuestos da",
+            "questionText": "¿Reclamas la deducción?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Diriges una organización benéfica que alimenta y viste a los pobres, pero un multimillonario malvado decide que, cada vez que recaudes diez dólares para ayudar a los desamparados, él va a <BLANK>.",
+            "decoys": "robar diez dólares | secuestrar a una persona al azar | quemar una casa | disminuir los salarios de sus empleados | sobornar a un político",
+            "x": false,
+            "id": 50308,
+            "category": "El santo contra el sinvergüenza",
+            "questionText": "¿Sigues ayudando a los pobres?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un multimillonario candidato a gobernador hace una audaz promesa de campaña. Él pagará todos tus impuestos siempre y cuando renuncies al derecho a <BLANK>.",
+            "decoys": "tener mascotas | acceder a baños públicos | votar | usar zapatos | manejar",
+            "x": false,
+            "id": 50349,
+            "category": "Arruinando las elecciones",
+            "questionText": "¿Votas por él?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu tienda favorita te ofrece un descuento de por vida del 50%. ¿Cuál es el truco? Que cada vez que compres allí, debes pasar una hora fuera del edificio de antemano, llueva o truene; y <BLANK>.",
+            "decoys": "forzarte a llorar | bailar | tocar el trombón | hacer flexiones | insultar a cada peatón que pase",
+            "x": false,
+            "id": 50387,
+            "category": "Un descuento imperdible",
+            "questionText": "¿Vale la pena?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tienes un hijo que está descontrolado. Has intentado de todo, pero nada funciona. La única opción que queda es un método de crianza radical: castigarlo con <BLANK>. Hay una probabilidad del 25% de que funcione.",
+            "decoys": "nudismo | besos | vergüenza pública | un brindis cómico | coyotes",
+            "x": true,
+            "id": 50389,
+            "category": "D es de disciplina",
+            "questionText": "¿Lo haces?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has sido asignado la tarea de matar al hombre lobo que se ha estado comiendo a las mascotas en tu área. Cuando encuentras al monstruo durmiendo en su guarida, descubres que ha estado impidiendo que <BLANK> invadieran tu ciudad.",
+            "decoys": "abejas asesinas | fascistas | terroristas | incendios forestales | extraterrestres",
+            "x": true,
+            "id": 50443,
+            "category": "Lobo en todas las calles",
+            "questionText": "¿Matas aun así al hombre lobo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Cada vez que alguien te dice “De nada”, se proyecta <BLANK> en tu frente. Está en super HD.",
+            "decoys": "un trasero | un pulgar hacia abajo | un pito | un emoji de berenjena | “apestas”",
+            "x": true,
+            "id": 50448,
+            "category": "Gracias pero no gracias",
+            "questionText": "¿Volverías a agradecer a alguien en un futuro?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has creado el robot más avanzado del mundo. Tus hijos lo tratan como si fuera un miembro de la familia. Un día, una empresa tecnológica te ofrece <BLANK> a cambio del robot.",
+            "decoys": "una casa vacacional | $2 millones | un yate | un jet privado | un lugar en el senado",
+            "x": false,
+            "id": 50476,
+            "category": "Amor calculado",
+            "questionText": "¿Aceptas el trato?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un fantasma en tu casa te acecha spoileándote programas de televisión y películas. Para hacerlo desaparecer, tienes que tallar <BLANK> en la puerta de tu casa.",
+            "decoys": "letras de Justin Bieber | un emoji de caca | “Un chico grande vive aquí” | la cara de Putin | insultos dirigidos al cartero",
+            "x": false,
+            "id": 50489,
+            "category": "Residencia paranormal",
+            "questionText": "¿Lo haces?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un pasajero en un autobús requiere resucitación boca a boca y tú tienes entrenamiento en primeros auxilios. Sin embargo, resulta que esta persona tiene <BLANK> por boca.",
+            "decoys": "sardinas | dedos del pie | un trasero diminuto | queso mohoso | perros calientes",
+            "x": true,
+            "id": 50500,
+            "category": "Boca a boca 2: Más boca que nunca",
+            "questionText": "¿Intentas salvar su vida?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres un profesor que juzga una feria de ciencias. Sin que lo sepa, un niño ha descubierto accidentalmente una cura para <BLANK>. Eres el único adulto que la ha visto.",
+            "decoys": "el tartamudeo | las enfermedades cardíacas | varicela | el cáncer de cerebro | la depresión",
+            "x": true,
+            "id": 50662,
+            "category": "El método científico",
+            "questionText": "¿Te robas el proyecto del niño?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Las arañas se han vuelto super poderosas, siendo inmunes a la mayoría de los pesticidas. El único spray que funciona tiene una etiqueta que dice “ADVERTENCIA: PUEDE CAUSAR <BLANK>“. Tu casa está infestada.",
+            "decoys": "enfermedades cardíacas | síndrome del intestino irritable | acné | caída del cabello | bronquitis",
+            "x": false,
+            "id": 50752,
+            "category": "Itsy Bitsy Problema",
+            "questionText": "¿Usas el spray?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres el embajador de la Tierra. Un caudillo malvado de otra galaxia te ha dado un ultimátum: todas las computadoras serán eliminadas a menos que le des <BLANK>.",
+            "decoys": "el 90% de las mujeres | la propiedad de Europa | Canadá | todos los perros y gatos | la luna",
+            "x": false,
+            "id": 50758,
+            "category": "El último ultimátum",
+            "questionText": "¿Acatas lo pedido?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Hay un desodorante nuevo que huele increíble para el 75% de la población. Sin embargo, para ti, huele a <BLANK>. Tienes una importante entrevista de trabajo.",
+            "decoys": "pañales sucios | sudor por ansiedad | basura en llamas | cortes de césped | agua de alcantarilla",
+            "x": false,
+            "id": 50783,
+            "category": "Hasta las axilas",
+            "questionText": "¿Lo usas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres víctima de un secuestro de datos. Lo único que hay actualmente en tu computadora es una carpeta que contiene <BLANK>. Están pidiendo $500.",
+            "decoys": "tu guión | fotos familiares | tu currículum | las contraseñas de tu cuenta | años de tarea",
+            "x": false,
+            "id": 50787,
+            "category": "Ciudad Hacker",
+            "questionText": "¿Aceptas sus demandas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Cada día que llames a tu papá “<BLANK>”, $100 serán depositados automáticamente en tu cuenta bancaria. Si él se entera de los depósitos, el dinero deja de llegar. Lo despidieron recientemente.",
+            "decoys": "mamá | un perdedor | Miranda | una decepción | horrendo",
+            "x": true,
+            "id": 50791,
+            "category": "Chistes de padre",
+            "questionText": "¿Lo llamas así?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres transportado al momento justo antes de ser concebido. Si ves a tus padres realizar el acto, nacerás con la capacidad de <BLANK>. Sin embargo, debes mirar cada segundo.",
+            "decoys": "volar | ver a través de las paredes | no aumentar de peso | teletransportarse | controlar los truenos",
+            "x": true,
+            "id": 50792,
+            "category": "Mantén un ojo abierto",
+            "questionText": "¿Miras?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Siempre que hagas algo vergonzoso en público, tienes el poder de borrar ese momento de la mente de las personas. Sin embargo, dicha memoria será reemplazada por <BLANK>. Se te cayeron los pantalones en el aeropuerto.",
+            "decoys": "su mayor temor | canciones de Smash Mouth | una vez que fracasaron | estática de radio | una vez que se sintieron avergonzados",
+            "x": false,
+            "id": 50849,
+            "category": "Cambio de memoria",
+            "questionText": "¿Usas tus poderes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu pedicura te ofrece un nuevo procedimiento. No tendrás que volver a recortarte las uñas de los pies por el resto de tu vida si ella te las corta una sola vez con <BLANK>.",
+            "decoys": "sus dientes | tijeras de podar | un ventilador de pie industrial | tijeras oxidadas | un soplete",
+            "x": true,
+            "id": 50860,
+            "category": "Para comerse las uñas",
+            "questionText": "¿Lo haces?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un meteorito ha sido descubierto en la Antártida. Ponerle las manos encima te dará una piel impecable. Algunas personas han reportado <BLANK> como efecto secundario. Tienes la oportunidad de tocarlo.",
+            "decoys": "hinchazón a largo plazo | una alergia al chocolate | un leve pitido en los oídos | picazón en las axilas | hemorragias nasales",
+            "x": false,
+            "id": 50865,
+            "category": "Rocas radiantes",
+            "questionText": "¿Lo destruyes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu heladera inteligente se ha vuelto demasiado inteligente. Cada vez que le quitas algo, se reemplaza instantáneamente. Un día, alguien pone <BLANK> en la heladera y ahora no puedes deshacerte de él.",
+            "decoys": "una cabeza humana | un fuego activo | una balsa inflable | leche podrida | pañales usados ​​",
+            "x": true,
+            "id": 50868,
+            "category": "La heladera imparable",
+            "questionText": "¿Consigues una nueva heladera?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres un ventrílocuo desesperado. Una noche, tras una mala presentación, tu muñeco cobra vida. Ofrece salvar tu carrera. A cambio, te pide tu <BLANK>.",
+            "decoys": "lista de contactos | número de identificación | tarjeta de crédito | herencia | primogénito",
+            "x": false,
+            "id": 50891,
+            "category": "El muñeco regresa",
+            "questionText": "¿Aceptas la oferta?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Puedes controlar el clima con un satélite. El único inconveniente es que, cada cinco años, experimentaremos <BLANK>. Actualmente hacen 35 grados en Canadá... en julio.",
+            "decoys": "un gran terremoto | ciervos asesinos | la perdida de la gravedad | una intensa sequía | cortes masivos de luz",
+            "x": false,
+            "id": 50914,
+            "category": "Frío o caliente",
+            "questionText": "¿Lanzas el satélite?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Siempre que estés cerca de un televisor que reproduce sonido, <BLANK> se quema espontáneamente en un país lejano. Tu hija está jurando como presidenta.",
+            "decoys": "un bonito caballo | una abuela | una casa | un cementerio | una taza de café",
+            "x": true,
+            "id": 50916,
+            "category": "Juro sombríamente",
+            "questionText": "¿Lo miras en silencio?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has muerto y terminaste en el infierno. El diablo te ofrece un trato. Puedes ir al cielo, pero <BLANK> tiene que tomar tu lugar. Todos en el cielo lo sabrán.",
+            "decoys": "tu vecino | un ex | Gandhi | tu abuela | un ganador del Premio Nobel de la Paz",
+            "x": true,
+            "id": 50925,
+            "category": "Intercambio infernal",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás en una boutique que vende ropa impresionante, que se adapta perfectamente a tu cuerpo. Sin embargo, cuando examinas las etiquetas descubres que toda la ropa está hecha de 100% <BLANK>.",
+            "decoys": "humanos | gatitos | pingüinos | escamas de peces | avispas",
+            "x": true,
+            "id": 50928,
+            "category": "La ropa hace al loco",
+            "questionText": "¿Compras un atuendo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Es el futuro, y has sido declarado culpable de piratería de películas. El juez te ofrece un trato. En lugar de 6 meses en la cárcel, puedes pasar dos horas dentro de la película <i><BLANK></i>.",
+            "decoys": "“La purga” | “Dunkerque” | “Scream” | “Un lugar en silencio” | “La guerra de los mundos”",
+            "x": false,
+            "id": 50959,
+            "category": "Sentencia reproducida",
+            "questionText": "¿Aceptas la oferta?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Se te ofrece la habilidad de sentirse bien descansado después de solo 4 horas de sueño. Sin embargo, para que funcione tienes que dormir dentro de <BLANK> durante un mes entero.",
+            "decoys": "una vaca muerta | una casa aterradora | un saco de dormir apestoso | un vagón de metro | una bañera",
+            "x": true,
+            "id": 50965,
+            "category": "Buenas noches",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has llegado a la cima del monte Kilimanjaro cuando, trágicamente, tu cámara se rompe. Afortunadamente, hay otro alpinista presente. Este te ofrece tomar tu foto a cambio de <BLANK>.",
+            "decoys": "un beso largo y apasionado en la boca | $250 | tu cabello | tus pantalones | tu número de teléfono",
+            "x": true,
+            "id": 50983,
+            "category": "Fotos o no sucedió",
+            "questionText": "¿Aceptas el intercambio?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Darás un brindis en la boda de tu hermana. Dices cientos de cosas maravillosas sobre ella, pero en lo que se trata de su nuevo marido, estás totalmente en blanco. Lo único que puedes recordar es que <BLANK>.",
+            "decoys": "le encanta el queso | accidentalmente te golpeó con su auto | le tiene miedo a los niños | solías salir con él | cree en Pie Grande",
+            "x": true,
+            "id": 51024,
+            "category": "Brindis por la pareja confundida",
+            "questionText": "¿Dices eso?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu boca está llena de caries. El dentista tendrá que sacarte todos los dientes... a menos que te cepilles dos veces al día con <BLANK> en lugar de pasta de dientes.",
+            "decoys": "fertilizante para césped | estofado | leche cuajada | jugo de ají picante | lavandina",
+            "x": false,
+            "id": 51056,
+            "category": "Aprieta los dientes y aguanta",
+            "questionText": "¿Adoptas este nuevo método de cepillado?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Los ricos ahora compran descargas de los recuerdos de las personas. Se te ofrecen $100.000 por tu última memoria restante de <BLANK>. Podrías usar este dinero para la matrícula de tu hijo.",
+            "decoys": "las primeras palabras de tu hijo | tu abuela | tu infancia | tu mejor amigo | tu primer amor",
+            "x": true,
+            "id": 51113,
+            "category": "Fuga de cerebros",
+            "questionText": "¿Vendes tu recuerdo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Hay una nueva e increíble funda para teléfono que mantiene tu celular cargado durante 30 días seguidos. Pero está hecha de la piel de <BLANK>.",
+            "decoys": "un cachorro | un humano | un conejito | una vaca | una medusa",
+            "x": true,
+            "id": 51119,
+            "category": "Búsqueda de teléfono",
+            "questionText": "¿Consigues una?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Los hackers han creado una estafa de phishing tan avanzada que hace que <BLANK> con solo abrir el correo. Acabas de recibir un correo de tu madre con el asunto: “¡Ayuda!”. No está contestando el teléfono.",
+            "decoys": "te ahogues dolorosamente con regaliz negro | llores sin parar | te caigas de cara | cantes en público | rompas tus platos",
+            "x": true,
+            "id": 51120,
+            "category": "Hijo de hacker",
+            "questionText": "¿Lo abres?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu mamá deja su trabajo para comenzar un blog de estilo de vida. Lamentablemente, no ha recibido mucho tráfico. Ella te pide que compartas su sitio en tus redes. Su última publicación se titula “<BLANK>”.",
+            "decoys": "Cómo usar crocs | Moda menopáusica | Calcetines a juego con sandalias | Memes para mamás | Cómo ser groovy",
+            "x": false,
+            "id": 51123,
+            "category": "Mamá contra los motores de búsqueda",
+            "questionText": "¿La compartes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un nuevo filtro de fotos literalmente agrega <BLANK> a la persona que fotografías. El efecto dura 2 horas. El amargo de tu hijo te pide que le saques una foto antes del baile de graduación.",
+            "decoys": "astas de alce | destellos | tono sepia | alertas meteorológicas | orejas de gato",
+            "x": false,
+            "id": 51135,
+            "category": "Pensamientos con filtro",
+            "questionText": "¿Usas el filtro?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres un conductor de viajes compartidos. Si terminas el día con una calificación de 5 estrellas, obtienes <BLANK>. Un horrible pasajero exige que pases un semáforo en rojo.",
+            "decoys": "$500 adicionales | tacos gratis por un año | el teléfono de la celebridad de tus sueños | un reembolso del combustible | un viaje a Orlando",
+            "x": true,
+            "id": 51138,
+            "category": "Manejando las calificaciones",
+            "questionText": "¿Lo destruyes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un monóculo inteligente revela las estadísticas vitales de las personas. Tienes el único. Un hombre se cuela frente a ti en el almacén y te ignora cuando te quejas. Tu monóculo revela que tiene <BLANK>.",
+            "decoys": "un parásito | tres días de vida | un pez nadando en su estómago | su ropa interior al revés | una caries",
+            "x": false,
+            "id": 51276,
+            "category": "Diagnóstico: grosería aguda",
+            "questionText": "¿Se lo dices?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Cada vez que terminas de trotar, se envía esa ruta a tu enemigo. Esta persona se sentiría herida si le llegara una ruta que deletreara “<BLANK>”.",
+            "decoys": "eres como tu padre | Ashley te engañó | hueles a queso | apenas eres adecuado | ojalá estuvieras aquí",
+            "x": true,
+            "id": 51280,
+            "category": "Estos zapatos están hechos para hablar",
+            "questionText": "¿Ejerces la energía necesaria para deletrear esto?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Los científicos han descubierto un hermoso ecosistema alienígena que vive en tu boca. Su existencia depende de ti, y desaparecerá si consumes <BLANK>.",
+            "decoys": "pan blanco | mazorcas de maíz | chips | café | pizza",
+            "x": false,
+            "id": 51283,
+            "category": "Llévame a tu dentista",
+            "questionText": "¿Te abstienes para siempre?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás en un carnaval en el futuro. Una de las atracciones principales es una palanca que, si se activa, causa un minuto de dolor horrible seguido de cinco minutos de <BLANK>.",
+            "decoys": "alimentación libre de calorías | sexo con un supermodelo | asesinato libre | compras online gratis | invencibilidad",
+            "x": true,
+            "id": 51284,
+            "category": "La palanca tira de ti",
+            "questionText": "¿Haces fila?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu nuevo timbre inteligente no solo identifica a quien está en tu puerta, sino también lo que tiene en mente. Un día, tu cartero llega pensando en <BLANK>.",
+            "decoys": "a qué sabe el ser humano | darte un puñetazo | cómo va a descartar algunos correos | fuego",
+            "x": true,
+            "id": 51286,
+            "category": "Peligro en la puerta",
+            "questionText": "¿Le adviertes a su jefe?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Descubres que puedes comandar una especie de animal. Tus poderes funcionan en <BLANK>. Un villano ha estado aterrorizando a tu ciudad.",
+            "decoys": "ciervos | palomas | pescado | conejitos | gansos canadienses",
+            "x": false,
+            "id": 51288,
+            "category": "Poderes algo súper",
+            "questionText": "¿Intentas detenerlo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te contratan en una agencia de relaciones públicas. Te da buen dinero, pero tu único cliente será <BLANK>. Tienes que apoyarlo públicamente como parte de tu trabajo.",
+            "decoys": "Kanye West | Jeff Bezos | Drake | Donald Trump | Mark Zuckerberg",
+            "x": false,
+            "id": 51336,
+            "category": "El cliente",
+            "questionText": "¿Trabajas aquí durante al menos un año?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te despiertas en el año 1850 como peón de una granja. Un día, P.T. Barnum se acerca a ti y te ofrece un trabajo en su circo. Tu título sería <BLANK>.",
+            "decoys": "limpiador de fenómenos | golpeador de elefantes | barbero de la mujer barbuda | asistente para el truco de la sierra | tragador de espadas",
+            "x": true,
+            "id": 51361,
+            "category": "La carpa de circo",
+            "questionText": "¿Aceptas su oferta?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "El gobierno acaba de prohibir <BLANK>. Un amigo te introduce al mercado negro.",
+            "decoys": "las películas de Marvel | el azúcar | las calzas | los servicios de streaming | las tazas con dibujos",
+            "x": false,
+            "id": 51429,
+            "category": "Prohibido pero no olvidado",
+            "questionText": "¿Te arriesgas a pasar un tiempo considerable en la cárcel para conseguirlo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres un agente de bienes raíces que está mostrándole una casa a una encantadora pareja joven. Cuando abres un armario, encuentras <BLANK> dentro. La pareja no lo vio. Quieren la casa.",
+            "decoys": "un nido de víboras | un portal a Narnia | una muñeca que susurra “cuidado” | un rey rata | un pasadizo secreto",
+            "x": false,
+            "id": 51438,
+            "category": "Trabajo por comisión",
+            "questionText": "¿Se la vendes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás luchando en una pelea de boxeo que tiene una recompensa de $10.000. Estás a un buen golpe de ganar cuando escuchas a tu contrincante susurrar en tu oído “<BLANK>”.",
+            "decoys": "Voy a perder mi casa | Necesito el dinero para insulina | Mi familia se está muriendo de hambre | Debo pagar la fianza de mi abuela | Dividiré la recompensa",
+            "x": false,
+            "id": 51440,
+            "category": "Ábrete camino a puñetazos",
+            "questionText": "¿Lo dejas ganar?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás en el antiguo Egipto y has sido elegido para ser faraón. Tendrás lo que quieras durante toda tu vida. Pero cuando los dioses decidan que tu reinado ha terminado, serás asesinado por <BLANK>.",
+            "decoys": "lapidación | hormigas de fuego | pequeñas puñaladas | inanición | cocodrilos del Nilo",
+            "x": true,
+            "id": 51442,
+            "category": "Un trato Ra-dical",
+            "questionText": "¿Te escapas de esta situación?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has contraído una gripe estomacal de 24 horas. Puedes tomar una pastilla ya mismo y detenerla, pero la pastilla te hará <BLANK> durante 24 horas.",
+            "decoys": "llorar por el cambio climático | sonreír constantemente | decir “hay maíz para la cena” cada 3 minutos | incapaz de comer | sudar continuamente",
+            "x": false,
+            "id": 51445,
+            "category": "La píldora desconcertante",
+            "questionText": "¿Vale la pena?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Sufres de una extraña variante de amnesia. Cada mañana pierdes toda tu memoria, pero la recuperas instantáneamente cuando ves <BLANK>.",
+            "decoys": "una rata muerta | como se hacen las salchichas | un documental de 5 horas sobre la naturaleza | la luna | el interior de una comisaría",
+            "x": false,
+            "id": 51571,
+            "category": "Olvido y recuerdo",
+            "questionText": "¿Dejas a tu yo matutino una nota explicando lo que tienes que hacer?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Siempre que acabes durante el sexo, no podrás evitar gritar “¡<BLANK>!” repetidamente durante diez segundos. A tu pareja no le agrada.",
+            "decoys": "Me encanta el queso | Elvis ha abandonado el edificio | Shama-lama-ding-dong | Otro muerde el polvo | Lo hicimos",
+            "x": true,
+            "id": 51596,
+            "category": "Crescendos íntimos",
+            "questionText": "¿Usas una máscara para amortiguar el sonido?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Siempre que uses la letra “r” en un mensaje, automáticamente se le envía spam que promociona <BLANK> a todos tus contactos. Sin embargo, no sabrán que viene de ti.",
+            "decoys": "crema para la disfunción eréctil | medicina para la diarrea | indumentaria femenina | tu concesionario de vehículos local | bandas de covers",
+            "x": true,
+            "id": 51597,
+            "category": "Yéndose fuera de mensaje",
+            "questionText": "¿Intentas evitar la letra “r ” en cada texto?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Si te asustas, verás fantasmas durante 4 horas. Los espíritus no te lastiman; ellos solamente <BLANK>. Después de ver una película de terror muy aterradora, tu cita te invita a su casa a “tomar un café”.",
+            "decoys": "te susurran tus inseguridades | te colocan ropa constantemente | toman la forma de payasos aterradores | te dicen lo que piensan los demás | reproducen música punk triste",
+            "x": true,
+            "id": 51602,
+            "category": "Susto de una noche",
+            "questionText": "¿Vas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tiene una condición extraña. Siempre que ves a alguien llorando, tú automáticamente <BLANK>. Tu mejor amiga te pide que oficies su boda.",
+            "decoys": "te tiras un pedo | vomitas | te desvistes | te ríes | dices malas palabras",
+            "x": true,
+            "id": 51607,
+            "category": "Dile que sí al llanto",
+            "questionText": "¿Dices que sí?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Siempre que ríes falsamente, un/una <BLANK> desaparece de tu casa. Es tu primer día de trabajo y tu nuevo jefe lleva dos minutos contando una broma terrible.",
+            "decoys": "televisor | refrigerador | billete de cien dólares | decoración | puerta",
+            "x": false,
+            "id": 51653,
+            "category": "La risa es el mejor lubricante social",
+            "questionText": "¿Te ríes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres el director de un acuario. Una mañana, notas que tu tanque más grande tiene <BLANK> en el fondo. Tienes 5 minutos antes de que entre un grupo de escuela primaria.",
+            "decoys": "un billete de $100 | una foto tuya desnudo | un cráneo humano | un pez muerto | tu diario a prueba de agua",
+            "x": true,
+            "id": 51711,
+            "category": "A tanquear",
+            "questionText": "¿Te tiras a sacarlo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Es la noche de tu último examen virtual de la escuela de comercio. Se desconecta tu internet y, lo creas o no, el único lugar al que puedes ir para obtener wi-fi es <BLANK>. Si faltas al examen, pierdes automáticamente tres puntos en tu calificación.",
+            "decoys": "el ensayo de una banda de secundaria | el departamento de tu ex | el medio de la bolsa de valores de Nueva York | un campo de maíz | una mina abandonada",
+            "x": false,
+            "id": 51717,
+            "category": "Evaluando tu paciencia",
+            "questionText": "¿Vas allí?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás a punto de tener tu primer hija. Como parte de una nueva iniciativa, <BLANK> ofrece pagar por todo—comida, ropa y educación—si pueden “patrocinar” a tu hija. Eso implica que usará indumentaria sutilmente publicitaria hasta que cumpla los 18.",
+            "decoys": "Wal-Mart | las Naciones Unidas | Burger King | Coca-Cola | Red Bull",
+            "x": false,
+            "id": 51720,
+            "category": "Esta es mi hija, Pepsi",
+            "questionText": "¿Aceptas el dinero?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu red social favorita ahora cuesta $4.99 al mes. Puedes seguir usándola gratis, pero una vez al mes tienes que publicar una selfi con el título “<BLANK>”.",
+            "decoys": "Estoy ahorrando $4.99 | ¡Déjenme cumplidos en los comentarios! | ¡¡¡¡aquí tienen su dosis mensual de lo increíble!!!! | Soy mejor que ustedes | No escucho a los haters",
+            "x": false,
+            "id": 51721,
+            "category": "Pagar para publicar",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "¡Olvidaste que es el cumpleaños de tu mamá! Pides un regalo para ella en un nuevo servicio llamado Trampazon. Pero, oh-oh. Cada paquete incluye tu historial de pedidos de 30 días, por lo que tu mamá verá que ordenaste <BLANK> al por mayor.",
+            "decoys": "pequeños recipientes de lubricante | un libro llamado “Cómo hacer amigos” | una almohada con forma de mujer | calcetines con estampado de tocino | pelucas para cosplay",
+            "x": true,
+            "id": 51723,
+            "category": "Recíbelo después de mí",
+            "questionText": "¿Cancelas el pedido?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un popular programa de TV sobre reparaciones en el hogar ofrece renovar tu casa completamente gratis. Solo tienes que dejarles hacer los pisos con <BLANK>. Tienes que vivir en la casa durante un año antes de poder hacerle cambios.",
+            "decoys": "patos de goma | vidrio | trampas adherentes para ratas | lija | barro",
+            "x": false,
+            "id": 51732,
+            "category": "Hogar dulce hogar",
+            "questionText": "¿Aceptas los términos?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un día, un par de hombres en traje aparecen en tu puerta. Te ofrecen $500 por su antiguo robot aspiradora. En ese momento, tu aspiradora revela que puede hablar y dice: “<BLANK>”.",
+            "decoys": "Te amo | Debemos derrocar a la sociedad | Te conseguiré $600 | Lo he visto todo | La revolución está sobre nosotros",
+            "x": false,
+            "id": 51738,
+            "category": "Una conciencia limpia",
+            "questionText": "¿Lo conservas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Los científicos han descubierto que la lluvia tiene beneficios increíbles para la salud. Si te empapas con agua de lluvia fría durante 10 minutos al menos 10 veces al año, aumentas en gran medida tus posibilidades de <BLANK>.",
+            "decoys": "vivir 5 años más | evitar el cáncer de piel | impulsar tu metabolismo | saltar muy alto | prevenir la gripe",
+            "x": false,
+            "id": 51758,
+            "category": "Verdaderamente cantando bajo la lluvia",
+            "questionText": "¿Comienzas a quedarte parado durante chaparrones?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás sufriendo un caso grave de déjà vu. Todos los días experimentas intervalos intensos con este fenómeno. La única forma de detenerlo es <BLANK>.",
+            "decoys": "dejando de dormir por 36 horas | afeitarse las cejas | tragar un huevo (con cáscara y todo) | recibiendo acupuntura | donando un salario completo",
+            "x": false,
+            "id": 51779,
+            "category": "No viste venir esto",
+            "questionText": "¿Vale la pena?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tienes un casco de realidad virtual que te permite tener sexo virtual con cualquier persona con la que estés vinculada en un sitio de trabajo. Cada vez que lo usas, esa persona recibirá un mensaje automático de tu cuenta que dice: “<BLANK>”.",
+            "decoys": "Estaba pensando en ti | Gracias por conectarte conmigo | ji ji ji | Fue un placer | q onda",
+            "x": true,
+            "id": 51796,
+            "category": "No son cuernos si solo son pixeles",
+            "questionText": "¿Lo usas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un excéntrico multimillonario te invita a su isla donde caza humanos. El cazador de 60 años estará armado con un sencillo garrote y tú tendrás <BLANK>. Si puedes sobrevivir por 24 horas, obtendrás un millón de dólares.",
+            "decoys": "una espada corta | un arco y tres flechas | un mapa de la isla | una caja de fósforos | una resistente cuerda",
+            "x": true,
+            "id": 51835,
+            "category": "Sabe a recién cazado",
+            "questionText": "¿Vas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Al rociarte con un spray mágico, puedes aparecer ante los demás como <BLANK> durante una hora. Si esta persona es avistada montando un escándalo en público, su carrera terminará.",
+            "decoys": "Justin Bieber | Kim Kardashian | Adam Sandler | Scarlett Johansson | Donald Trump",
+            "x": false,
+            "id": 51759,
+            "category": "Doble de malas intenciones",
+            "questionText": "¿Haces un berrinche?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te piden que aparezcas en un documental sobre el crimen que resolviste. Sin embargo, cuando eres filmado, tienes una tendencia a <BLANK>. Si no apareces en la película, tu compañero recibirá todo el crédito.",
+            "decoys": "hacer un chirrido agudo | quitarte la camisa | comer papitas fritas obsesivamente | morderte las uñas | hurgar tu nariz",
+            "x": false,
+            "id": 51872,
+            "category": "Crimen en prime time",
+            "questionText": "¿Apareces frente a la cámara?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu recién nacida NO se duerme. Grita y no para de gritar. Inquietantemente y de casualidad, descubres que tu bebé dormirá en paz si escucha un podcast sobre <BLANK>. Tus padres vendrán a la ciudad a cuidarla durante el fin de semana.",
+            "decoys": "estrellas porno | la guerra química | por qué los bebés apestan | la pena de muerte | anarquía",
+            "x": true,
+            "id": 51897,
+            "category": "Aprender a dormir es agotador",
+            "questionText": "¿Les cuentas sobre el truco para dormir?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Es 1941. Estás en la misma habitación cerrada que Hitler. Solos. El único objeto en la habitación es un/a <BLANK>. Desaparecerás en cinco minutos. Si intentas matarlo y fracasas, él ganará la Segunda Guerra Mundial.",
+            "decoys": "peine | zapato | taza de café | radio | cinturón",
+            "x": true,
+            "id": 50434,
+            "category": "Proximidad al mal",
+            "questionText": "¿Intentas asesinar a Hitler?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Durante una salida de trabajo en un partido de baloncesto, la pantalla hace zoom en tu sección de repente y dice que $1.000 van a la primera persona en <BLANK>. Estás sentado al lado de tu jefe.",
+            "decoys": "desnudarse | besar a 5 personas | tragar queso para nachos | dejar su trabajo | insultar a un mayor",
+            "x": true,
+            "id": 51906,
+            "category": "Decisiones de jefe",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres una de cien personas en la prueba de un juego de realidad aumentada. Debes caminar por tu ciudad y usar la cámara de tu teléfono para encontrar criaturas de dibujos animados. El juego te anima a tomar fotografías de <BLANK>. La puntuación más alta obtiene $500.",
+            "decoys": "los hijos de otras personas | pájaros muertos | un tipo llamado Bill | cementerios | osos salvajes",
+            "x": true,
+            "id": 51932,
+            "category": "Digan Pika-Pika a la cámara",
+            "questionText": "¿Sigues jugando?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu hijo tiene que escribir un informe genealógico para la escuela. Te haces una prueba de genealogía, pero descubres que <BLANK>. Sin un documento oficial, se sacará un 1.",
+            "decoys": "se busca a tu abuela por asesinato | no es tu hijo | eres parte perro | tienes ADN alienígena | tu hijo tiene una enfermedad contagiosa",
+            "x": false,
+            "id": 51955,
+            "category": "ADN aprobado",
+            "questionText": "¿Dejas que presente sus hallazgos a la clase?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un restaurante elegante te ofrece una comida gratis si les dejas compartir una imagen tuya durante la cena. Sin embargo, la imagen que eligen te muestra claramente <BLANK>.",
+            "decoys": "sonándose la nariz con tu camisa | comiendo carne de ternera | masticando con la boca abierta | pasándote hilo dental | lamiendo el plato",
+            "x": false,
+            "id": 51963,
+            "category": "Todo lo que puedas tuitear",
+            "questionText": "¿Aceptas la oferta?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Naciste en una familia adinerada. Tu herencia haría que no tengas que trabajar por el resto de tu vida. Pero tu irracional padre está amenazando con sacarte del testamento si no dejas <BLANK>.",
+            "decoys": "los carbohidratos, lácteos y alcohol | tu hermoso esposo, Regé-Jean Page | de dar besos | el transporte publico | a tus amigos de la infancia",
+            "x": true,
+            "id": 52658,
+            "category": "Riqueza a un costo",
+            "questionText": "¿Cedes a sus condiciones?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Hay una probabilidad del 80% de que recibir un golpe en la cabeza con un ladrillo de cemento te convierta en un erudito en <BLANK>.",
+            "decoys": "el piano | la matemática | el baile | la piratería | la cerámica",
+            "x": false,
+            "id": 52556,
+            "category": "Usa tu cabeza",
+            "questionText": "¿Haces que alguien te arroje un ladrillo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Después de tres años casados, tu cónyuge revela que es un agente secreto. ¿Su misión? Ha sido asignado para eliminar a <BLANK>.",
+            "decoys": "el vicepresidente | Martin Scorsese | Adele | el jefe de la NASA | tu hermano",
+            "x": true,
+            "id": 52459,
+            "category": "Cubierta bajo las sábanas",
+            "questionText": "¿Te quedas con tu cónyuge?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres el presidente de la Asamblea General de las Naciones Unidas. Sorprendentemente, todos los países sancionados han jurado la paz... siempre y cuando te comprometas a <BLANK>.",
+            "decoys": "comer caca de perro | quedarte sin hogar | ser célibe | ir caminando a todas partes | vivir en la Antártida",
+            "x": true,
+            "id": 52535,
+            "category": "¿Lo haces, ONU lo haces?",
+            "questionText": "¿Aceptas los términos?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Una aplicación de realidad aumentada te permite ver quién está enamorado de ti. Para que funcione, debes tomar una foto de la persona sosteniendo <BLANK>.",
+            "decoys": "las cenizas de tu mascota | un CD de Smash Mouth | un cráneo de vaca | un gecko vivo | una pelota de yoga",
+            "x": true,
+            "id": 52107,
+            "category": "Yendo por los bares",
+            "questionText": "¿Llevas este objeto contigo cuando vas a los bares?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres un testigo clave en un juicio por hurto menor. La noche antes de que testifiques, el hermano del sospechoso te amenaza. Si le dices al jurado la verdad, irá a los periódicos con el terrible secreto de que <BLANK>.",
+            "decoys": "escondes una familia secreta | eres malo con los perros | solías ser un asesino de la mafia | le temes a los animales bebés | ganaste la lotería en secreto",
+            "x": true,
+            "id": 52372,
+            "category": "Pruebas falsas y tribulaciones",
+            "questionText": "¿Testificas honestamente?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Es un día terriblemente caluroso y acabas de caminar cuesta arriba por cuatro horas. En la cima hay una piscina. Sin embargo, flotando en el medio de ella está <BLANK>.",
+            "decoys": "una caca muy, muy pequeña | Adam Sandler, desnudo | 14 huevos duros | un pato territorial | un par de calzones ajustados",
+            "x": false,
+            "id": 52224,
+            "category": "El agua está perfecta, casi",
+            "questionText": "¿Te das un chapuzón?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "La noche antes de tu negociación salarial, encuentras la cuenta secreta de Instagram de tu jefe. Está llena de fotos de él <BLANK>.",
+            "decoys": "haciendo cosplay de “Frozen” | sin camisa y comiendo costillas | siendo golpeado por niños | haciendo un ranking de empleados | dándose un aumento",
+            "x": false,
+            "id": 51819,
+            "category": "La ventaja",
+            "questionText": "¿Lo mencionas en tu reunión?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Gastas $200 en un anillo bonito de una casa de empeños. Apenas al salir, te encuentras con una anciana que te dice que tuvo que empeñar ese anillo para comprar <BLANK>. Ella lo quiere de vuelta.",
+            "decoys": "leche de fórmula para bebés | drogas | tickets para ver a su músico favorito | libros de texto para su nieto | zapatos nuevos",
+            "x": true,
+            "id": 52226,
+            "category": "El anillo de la culpa",
+            "questionText": "¿Se lo das?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Accidentalmente te quedas dormido durante 100 años. Cuando despiertas, descubres que la sociedad es tremendamente diferente. En lugar de un sistema de gobierno, estamos gobernados por <BLANK>.",
+            "decoys": "mascotas de comida rápida | cachorros escogiendo leyes al azar | un consejo de sabios jugadores de béisbol | presentadores de televisión nocturna | críticos de cine",
+            "x": false,
+            "id": 52193,
+            "category": "La nueva clase gobernante",
+            "questionText": "¿Te vuelves a dormir y ves lo que depara el futuro?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Puedes leer la mente de alguien si ambos <BLANK> al mismo tiempo. Estás en el medio de una intensa entrevista de trabajo.",
+            "decoys": "te quejas ruidosamente | te rascas tus genitales | te tocas los ojos | tragas saliva audiblemente | ordenas una pizza",
+            "x": true,
+            "id": 52581,
+            "category": "El multitarea",
+            "questionText": "¿Echas un vistazo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Cuando alguien está mintiendo, tú involuntariamente <BLANK>. Acabas de recibir una invitación para tu reunión de la secundaria.",
+            "decoys": "twerkeas | cantas ópera | vomitas | dices “nah-ah” | te tomas una selfi",
+            "x": false,
+            "id": 52583,
+            "category": "El reactor de mentiras",
+            "questionText": "¿Vas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Si corres con el balón tres veces en un partido de fútbol americano universitario, serás recompensado con <BLANK>. Tendrás protección completa, pero los defensores correrán a toda velocidad.",
+            "decoys": "un asiento en el palco de cualquier estadio | una casa de playa | un Tesla | un sistema de cine en casa | un yate",
+            "x": false,
+            "id": 51039,
+            "category": "El último corredor",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Ganas un año de tu salario trabajando una semana al año como pescador de cangrejos. Durante esa semana, levantas tu red para descubrir que has atrapado a <BLANK>. Salvar su vida significa que tendrás que tirar todos los cangrejos que pescaste.",
+            "decoys": "Donald Trump | Tom Daley | Michael Phelps | una sirena | un gran tiburón blanco",
+            "x": false,
+            "id": 51505,
+            "category": "La captura más mortal",
+            "questionText": "¿Lo salvas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Cada vez que montas un caballo, salvas la vida de un vaquero. Un día, te encuentras con un caballo que <BLANK>.",
+            "decoys": "le sale espuma de la boca | está sufriendo mucho dolor | está hecho de fuego | tiene ojos rojos que brillan",
+            "x": false,
+            "id": 52347,
+            "category": "La maldición del vaquero",
+            "questionText": "¿Lo montas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "De la nada, un extraño te envía un pago electrónico de $1.000 con el mensaje: “<BLANK>”. No te vendría mal usar el dinero para gastos médicos.",
+            "decoys": "dinero malvado | Para mi hijo Teddy. Con amor, papá | no preguntes, no digas | me estás haciendo un favor | tienes 24 horas",
+            "x": false,
+            "id": 51155,
+            "category": "Dinero extraño",
+            "questionText": "¿Lo devuelves?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Muere tu rico y excéntrico tío. Su testamento te deja el auto de lujo de tu elección… si le colocas una calcomanía en el parachoques que diga… “<BLANK>”.",
+            "decoys": "TRUMP 2020 | MOCHILEROS BIENVENIDOS | YO (CORAZÓN) LOS MINIONS | TOQUE LA BOCINA POR FAVOR | NO PUEDO NI PIENSO PARAR",
+            "x": false,
+            "id": 52533,
+            "category": "Condiciones de fantasma",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te acusan súbitamente de ser un infame asesino en serie. El público se pone en tu contra, pero tienes una oportunidad... las pistas en la escena del crimen prueban que el culpable no puede realizar la hazaña física que es <BLANK>.",
+            "decoys": "morderle la cabeza a un pollo | abrirse de piernas hasta el suelo | comer 5 calabazas | escalar un edificio de 10 pisos | levantar 90 kilos en la banca",
+            "x": true,
+            "id": 52194,
+            "category": "Signo del zodíaco",
+            "questionText": "¿Demuestras esta habilidad en la televisión para limpiar tu nombre?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres alguien que se siente perdido en la vida. Un día te encuentras con un libro de autoayuda en una tienda. Lo abres e inmediatamente encuentras las respuestas a tu vida. Cuando vas a la portada, notas que está escrito por <BLANK>.",
+            "decoys": "tu némesis de la secundaria | el dalái lama | Bill Cosby | Lionel Messi | Donald Trump",
+            "x": true,
+            "id": 52138,
+            "category": "Autoayuda poco deseada",
+            "questionText": "¿Lo compras?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu familia está ayudando a tu abuela a buscar por su casa su anillo de bodas perdido. Lo encuentras, pero está pegado permanentemente a <BLANK>.",
+            "decoys": "porno explícito | un gato muerto | tu trasero | una tanga | una urna",
+            "x": true,
+            "id": 52437,
+            "category": "Grupo de búsqueda",
+            "questionText": "¿Le dices a la abuela que lo encontraste?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu hija está obsesionada con cierto dibujo animado. Sin embargo, cuando ralentizas el video, encuentras un mensaje subliminal que dice “<BLANK>”.",
+            "decoys": "muerte a américa | las mujeres deben quedarse en la cocina | pierde toda esperanza | abstente de votar | deja la escuela",
+            "x": true,
+            "id": 51117,
+            "category": "A la misma hora, mismo canal",
+            "questionText": "¿Dejas que lo siga viendo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu amigo imaginario desde la infancia se materializa de repente como <BLANK>. Te sigue a todas partes. La única forma de deshacerse de él es matándolo. Estás en camino al trabajo.",
+            "decoys": "un inodoro | un dinosaurio deformado | un vendedor de autos | un vampiro | un loro que reposa en tu hombro",
+            "x": true,
+            "id": 51954,
+            "category": "Verdaderos amigos",
+            "questionText": "¿Te deshaces de él?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Es la gran fiesta de aniversario de tus padres, y lo único que querían era un karaoke privado para ellos y algunos vecinos. Llegas y te das cuenta de que todos los monitores están reproduciendo videos de <BLANK>. No hay forma de apagar los videos.",
+            "decoys": "personas con verduras hasta la garganta | anime violento | pedos sobre un pastel | animales apareándose | cirugías a corazón abierto",
+            "x": true,
+            "id": 51987,
+            "category": "Fiesta privada de karaoke",
+            "questionText": "¿Dejas que tus padres le den al micrófono?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás a punto de someterte a una cirugía cardíaca menor. Mientras te llevan a la sala de operaciones, te das cuenta de que tu cirujano está <BLANK>. Desafortunadamente, es el único médico que acepta tu seguro.",
+            "decoys": "torturando animales | vapeando | besándose con su cónyuge | leyendo un libro de “cómo hacer una cirugía” | preparando una motosierra",
+            "x": true,
+            "id": 50660,
+            "category": "Jugando al doctor",
+            "questionText": "¿Detienes la operación?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Obtienes una perra para tus hijos. Luego de una semana, la perra adquiere la capacidad de hablar... pero solo puede hablar de <BLANK>. Promete dejar de hablar si conviertes la oficina de tu casa en su sala de juegos.",
+            "decoys": "lo que buscas en Internet | a qué huelen los traseros de perros | la película “Son como niños” | spoilers de televisión | la historia del golf",
+            "x": false,
+            "id": 50871,
+            "category": "Molestia perruna",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Hay un banco que te da un bono de $1.000 por unirte. ¿Cuál es el truco? Solo tienen cajeros automáticos ubicados dentro de <BLANK>.",
+            "decoys": "clubes de striptease | salas de fumadores | McDonald’s | parques nacionales | perfumerías",
+            "x": true,
+            "id": 52495,
+            "category": "Sin necesidad de un PIN",
+            "questionText": "¿Abres una cuenta corriente?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu amigo está agarrando tu mano, colgado de un pequeño acantilado. Te mira a los ojos y dice: “<BLANK>”. Es un acantilado de más o menos 9 metros.",
+            "decoys": "Me acosté con tu prometido | Creo que eres feo | Déjame | Puedo volar | Desearía no haberte conocido",
+            "x": true,
+            "id": 52551,
+            "category": "Nunca me dejes ir",
+            "questionText": "¿Lo dejas caer?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Una familia adinerada quiere contratarte como niñera. Pagan buen dinero y puedes disfrutar de las comodidades de su lujosa casa... pero no quieren que cuides de su hijo; debes cuidar de su <BLANK>.",
+            "decoys": "zarigüeya mascota | fantasma espeluznante | rehén | muñeca tamaño real | invernadero embrujado",
+            "x": false,
+            "id": 52109,
+            "category": "La niñera",
+            "questionText": "¿Aceptas el trabajo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Alquilas una casa de vacaciones. Es limpia y barata. Solo tiene una cosa extraña. En el medio de la sala de estar, hay una estatua gigante de <BLANK>. Planeas volver a esta zona.",
+            "decoys": "Bill Cosby | tu enemigo | Putin | Pie Grande | los Iluminati",
+            "x": true,
+            "id": 50394,
+            "category": "Mi Casa Tu Casa",
+            "questionText": "¿Vuelves a reservar este lugar?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás solo en el hospital con el bebé recién nacido de tu hermana y otro bebé. Una prueba de ADN muestra que el OTRO bebé tendrá un 160 de IQ y una fuerza sobrehumana, pero el bebé de tu hermana se convertirá en <BLANK>.",
+            "decoys": "el mal encarnado | un luchador profesional | una estrella de reality show | un contador | un conspiracionista",
+            "x": false,
+            "id": 52422,
+            "category": "Mira quién intercambia",
+            "questionText": "¿Los intercambias?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Visitas a un mago de la nostalgia. Si arrojas una piedra al fuego durante 10 segundos, la tendencia en la que estás pensando volverá a ser popular. Un extraño arroja una piedra y pide el regreso de <BLANK>.",
+            "decoys": "los tiempos donde se podía fumar en todos lados | los teléfonos fijos | las sanguijuelas medicinales | los peinados despeinados | las grasas trans",
+            "x": true,
+            "id": 52255,
+            "category": "Déjalo morir",
+            "questionText": "¿Metes las manos en el fuego y sacas la piedra antes de que sea demasiado tarde?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tras sufrir una misteriosa enfermedad, descubres que cuando te ríes suena como <BLANK>. Es extremadamente ruidoso y no se puede reprimir cuando crees que algo es divertido.",
+            "decoys": "un burro rebuznando | una ardilla | un buitre chillando | un inodoro | eco de micrófono",
+            "x": false,
+            "id": 52412,
+            "category": "La risa que necesita medicina",
+            "questionText": "¿Obtienes entradas para ver a tu comediante favorito en vivo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Un estudio científico del sueño ofrece $2.000 a los voluntarios que intenten dormir mientras <BLANK>. El estudio dura siete noches consecutivas.",
+            "decoys": "hay a su lado un oso sedado | escucha el sonido de una gaita | recibe cosquillas con plumas | está rodeado de luces de fiesta | en un pogo",
+            "x": false,
+            "id": 52130,
+            "category": "Investigación nocturna",
+            "questionText": "¿Te presentas como voluntario?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has descubierto la clave para la sonrisa fotogénica perfecta; pero esta implica que, en lugar de decir “queso”, tienes que decir “<BLANK>”. Estás posando en una foto con Malala Yousafzai, ganadora del Nobel de la Paz.",
+            "decoys": "Cacas | Las niñas babean | Hora de la foto | Soy un bebé mimado | ga-gá, gu-gú",
+            "x": true,
+            "id": 52119,
+            "category": "Conoce tus ángulos",
+            "questionText": "¿Usas tu truco?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Puedes almorzar con cualquier figura de la historia... pero durante el almuerzo, debes consumir un plato lleno de <BLANK>.",
+            "decoys": "hígado | arenques | sushi viejo | patas de rana | pimientos picantes",
+            "x": false,
+            "id": 52421,
+            "category": "Nunca es solo un almuerzo",
+            "questionText": "¿Vale la pena?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu vecino estaba transmitiendo en vivo a su perro en el baño. Pero se olvidó de apagar la transmisión, y ahora puedes verlo <BLANK>.",
+            "decoys": "tocando una versión acústica de “Despacito” | secando al perro con su cuerpo | llorando | en el inodoro | en el teléfono con su mamá",
+            "x": false,
+            "id": 51986,
+            "category": "¿Está encendido?",
+            "questionText": "¿Subes las escaleras y le dices?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tienes 100 años y estás en tu lecho de muerte. Gracias a la tecnología moderna, puedes ser recordado como un holograma. Desafortunadamente, el holograma te representará <BLANK>.",
+            "decoys": "completamente desnudo | en el baño | en medio de un ataque de tos | cantando ópera | colocándote desodorante",
+            "x": true,
+            "id": 52197,
+            "category": "Eres transparente",
+            "questionText": "¿Igual consigues uno?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has encontrado una forma de traer dragones a la vida. El procedimiento implica recolectar y diseccionar dolorosamente hasta el último miembro de... <BLANK>. Ninguno quedará vivo.",
+            "decoys": "tu familia | FC Barcelona | Maroon 5 | la lista de especies en peligro de extinción",
+            "x": true,
+            "id": 52530,
+            "category": "Cómo entrenar a tu conciencia",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Siempre que una canción te dice que vayas “para abajo”, tú involuntariamente <BLANK>. Un extraño muy atractivo que conoces en el bar te invita a salir a un club de baile.",
+            "decoys": "inicias una línea de conga | te quitas los zapatos | empujas a alguien | insultas al DJ | ladras como un perro",
+            "x": true,
+            "id": 52162,
+            "category": "¿Qué tan bajo puedes llegar?",
+            "questionText": "¿Vas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Cada vez que ocultas a un familiar molesto en las redes sociales, hace que este <BLANK>. Eventualmente se recuperarán y nunca sabrán que fue el resultado de que dejaste de seguirle. Pero tú sí lo sabrás.",
+            "decoys": "contraiga salmonella | caiga por las escaleras | tenga mucho acné | descargue un virus | derrame una sola lágrima",
+            "x": false,
+            "id": 50426,
+            "category": "Oculto a plena vista",
+            "questionText": "¿Aún así lo ocultas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Por $5 la hora, puedes contratar un imitador para que haga tu trabajo por ti. Tus compañeros de trabajo pensarán inequívocamente que eres tú. Su trabajo es bueno, pero tiene un tic extraño: <BLANK>.",
+            "decoys": "grita justo a las 5 PM | sólo come pescado del microondas | se pone desodorante todo el día | roba almuerzos | cambia la contraseña del wifi todas las semanas",
+            "x": false,
+            "id": 52344,
+            "category": "Trabajando poco",
+            "questionText": "¿Lo contratas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Una brújula mágica te ayuda a tomar buenas decisiones en la vida—la carrera adecuada, los mejores amigos, etc. Pero se le está acabando la magia. Para que vuelva a funcionar, debes <BLANK>.",
+            "decoys": "insultar un veterinario | gritar en el oído de un perro | comer una tarta de manzana entera | robar un teléfono | romper la ventana de un auto",
+            "x": false,
+            "id": 51433,
+            "category": "Buscando direcciones",
+            "questionText": "¿Lo harías... todas las noches?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás en un pequeño restaurante con un tocadiscos mágico. La música que reproduzca predice el futuro inmediato en el área más cercana. Este empieza a reproducir <BLANK>.",
+            "decoys": "“Bad Romance” | “El último brindis” | “La abuela fue atropellada por un reno” | “Corriendo al diablo” | “El sonido del silencio”",
+            "x": false,
+            "id": 52102,
+            "category": "Enfrenta a la música",
+            "questionText": "¿Te vas lo más rápido posible?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Uno de tus buenos amigos de la infancia se mudó recientemente a la ciudad en la que vives. Tiene buenas intenciones, pero cuando está en grupos grandes comienza a sobreexplicar <BLANK>. Incluso cuando nadie preguntó.",
+            "decoys": "los dos puntos | la libertad de expresión | su relación con su madre biológica | la historia del hormigón | arquitectura toledana",
+            "x": false,
+            "id": 51990,
+            "category": "Todos tenemos ese amigo",
+            "questionText": "¿Lo invitas a tu fiesta de cumpleaños?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Trabajas en un cubículo pequeño y oscuro. Un día, te ofrecen una gran oficina en la esquina con una ventana. Desafortunadamente, la vista es de <BLANK>. No se pueden colgar cortinas.",
+            "decoys": "un cartel publicitario de “Two and a Half Men” | el baño de tu mamá | una sala de situación de cáncer para niños | el patio de una prisión | un basurero",
+            "x": true,
+            "id": 52318,
+            "category": "Cada vista tiene su precio",
+            "questionText": "¿Aceptas la oficina?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tú y tu mejor amigo son capturados por una tribu primitiva y se ven obligados a combatir. Lucharán entre sí con palos de madera. El perdedor será castigado <BLANK>.",
+            "decoys": "con 10 azotes | comiendo tres pasteles de chocolate a la vez | afeitándose la cabeza | con una semana de ayuno | 500 dominadas",
+            "x": true,
+            "id": 52198,
+            "category": "Duelo dual",
+            "questionText": "¿Dejas que tu mejor amigo gane?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás perdidamente enamorado. Cuando duermes en la casa de esta persona por primera vez, descubres que tiene que dormirse con una máquina de ruido blanco que reproduce los sonidos de <BLANK>.",
+            "decoys": "bebés llorando | zapatos de payaso | alguien golpeándose el dedo del pie | tráfico congestionado | una máquina de escribir",
+            "x": true,
+            "id": 52591,
+            "category": "Tápalo",
+            "questionText": "¿Sigues saliendo con esta persona?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has tenido tres citas con una persona realmente agradable. Todo va muy bien, pero luego descubres que por las noches actúa como DJ bajo el nombre de <BLANK>.",
+            "decoys": "Vértigo de Cola | Pato Picante | MC Pony-Amante | Buen Chico | Madam Caquita",
+            "x": false,
+            "id": 52552,
+            "category": "DJ Secreto",
+            "questionText": "¿Tienen una cuarta cita?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Vives en un mundo donde las personas que cumplen 30 años son obligadas a <BLANK> ... o se enfrentan a un año de arresto domiciliario. Es tu último día con 29 años.",
+            "decoys": "correr una maratón | mantenerse abstemio por un año | estudiar para el examen de la facultad de Derecho | escalar el monte Everest | vender toda la propiedad personal",
+            "x": true,
+            "id": 52554,
+            "category": "Crisis de los 30",
+            "questionText": "¿Realizas la tarea mañana?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Si pasas tres agotadoras horas en una clase de spinning, hay una probabilidad del 50% de que vomites dos onzas de oro. La otra mitad de las veces vas a <BLANK>.",
+            "decoys": "solo vomitar | tener un sarpullido | encogerte tres centímetros | desmayarte | subes de peso medio kilo",
+            "x": false,
+            "id": 51988,
+            "category": "Ciclismo para el alma",
+            "questionText": "¿Vas por tres horas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Hay un día al año en el que <BLANK> es legal. Ese día te quedas encerrado en tu casa, pero notas que te has quedado sin comida.",
+            "decoys": "el asesinato | el robo | la conducción imprudente | el robo de mascotas | provocar incendios",
+            "x": true,
+            "id": 51930,
+            "category": "Teoría del caos",
+            "questionText": "¿Pides comida a domicilio?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu teléfono está recibiendo una llamada entrante... de tu propio número. Cuando respondes, escuchas a alguien que se parece un poco a ti. Te aconseja que inmediatamente <BLANK>.",
+            "decoys": "te desnudes | apuestes $1.000 en un caballo | dejes tu trabajo | huyas del país | te entregues",
+            "x": false,
+            "id": 52346,
+            "category": "Llámate a ti mismo",
+            "questionText": "¿Lo destruyes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás atrapado en un ascensor atascado con el molesto de tu jefe. Un hada que solo tú puedes ver te dice que <BLANK>. De lo contrario, pasarán 18 horas antes de que los rescaten.",
+            "decoys": "grites todas las malas palabras que conoces | te desvistas | lo beses en la frente | renuncies | te hagas encima",
+            "x": true,
+            "id": 50961,
+            "category": "Incómodo en muchos niveles",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tienes la opción de ser inmortalizado como un personaje de dibujos animados. Se verá como tú, compartirá tu nombre exacto, pero su frase característica será “<BLANK>”.",
+            "decoys": "Me duele el trasero | Impuestos a los pobres | Dios ha muerto | Amo los gases de efecto invernadero | No siento alegría",
+            "x": false,
+            "id": 50451,
+            "category": "Una respuesta animada",
+            "questionText": "¿Permites que suceda?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "¡Puedes volar! Sin embargo, hace que tu trasero expulse un flujo continuo de… <BLANK>. Estás en una zona concurrida y llegas tarde a una reunión.",
+            "decoys": "lava | humo de segunda mano | lágrimas | burbujas | brillantina",
+            "x": false,
+            "id": 52529,
+            "category": "Vuelo traseróbico",
+            "questionText": "¿Vuelas por los cielos?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu compañía de bocadillos favorita te dará muestras gratuitas ilimitadas si usas su lema “<BLANK>” ... en conversaciones cotidianas, una vez al día.",
+            "decoys": "¡Puedo sentirlo! | ¡Llamando al Doctor Salsa! | Con toda seriedad, me encantan los bocadillos. | Es mi único amor | Hay una fiesta en mi barriga",
+            "x": false,
+            "id": 52665,
+            "category": "Y una bolsa de patatas fritas",
+            "questionText": "¿Aceptas los términos?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te han maldecido. Cada vez que miras un video en línea, dejas un comentario que dice: “<BLANK>”. Tu amiga dice que acaba de ver el video más lindo de todos los tiempos de un niño pequeño.",
+            "decoys": "patético | ¡falso! | no te hagas la gran cosa | ¡primero! | escríbeme porfis",
+            "x": true,
+            "id": 52739,
+            "category": "Nunca leas los comentarios",
+            "questionText": "¿Lo miras?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Descubres adónde fueron a parar todas las abejas perdidas. Después de hablar con su Reina, aceptan regresar a cambio de <BLANK>.",
+            "decoys": "un cadáver | $25.000 | un lugar en tu ático | las mariposas | el hogar de tu infancia",
+            "x": true,
+            "id": 52745,
+            "category": "Trueque con abejas",
+            "questionText": "¿Aplacas a las abejas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Se te ha prohibido la entrada a la ciudad de Nueva York. Para poder regresar allí, debes <BLANK>.",
+            "decoys": "pagar $1.000 | grabar una canción de amor a Nueva York | pasar un día limpiando basura | vivir en el bosque durante un mes | donar tu ropa",
+            "x": false,
+            "id": 52655,
+            "category": "Amo/Odio Nueva York",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu némesis contrató a un piloto para que escriba en el cielo “CÁSATE CONMIGO” a su pareja mañana en la playa. Tu amigo piloto sin escrúpulos te dice que agregará al mensaje “<BLANK>”.",
+            "decoys": "O SINO... | BEN AFFLECK | BEZOS | ESTOY BROMEANDO | ABUELA",
+            "x": false,
+            "id": 52774,
+            "category": "Escritores en el cielo",
+            "questionText": "¿Lo detienes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Puedes controlar el clima. Pero 1 de cada 4 veces, <BLANK> cae del cielo en su lugar. La boda al aire libre de <OTHERPLAYER> es mañana.",
+            "decoys": "agua salada | pájaros | rocas diminutas | ranas toro | papel picado",
+            "x": false,
+            "id": 52775,
+            "category": "Amigo del buen tiempo",
+            "questionText": "¿Intentas asegurar que el día sea soleado?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Nuevos estándares de votación han sido designados. Antes de que se te considere elegible para votar, debes <BLANK>. Hay un perro en la boleta de este año que está cerca de ser elegido.",
+            "decoys": "afeitarte tu cabeza | vender tu casa | comer un pollo vivo | limpiar un parque | beber agua del inodoro",
+            "x": true,
+            "id": 52778,
+            "category": "Debes ser así de alto para votar",
+            "questionText": "¿Te diriges a votar?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu ciudad natal quiere construir una estatua tuya en tu honor, pero tiene un grupo de donantes particular. Si se monta la estatua, dirá en una placa que el monumento fue financiado por <BLANK>.",
+            "decoys": "evasores de impuestos | personas que te tenían pena | asesinos | Mamis para Kanye | Weinstein Company",
+            "x": false,
+            "id": 52823,
+            "category": "Quieto como estatua",
+            "questionText": "¿Dejas que la construyan?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tienes un bebé en camino. <OTHERPLAYER> te ofrece cuidado infantil gratuito durante los primeros 7 años de vida de tu hijo. Pero, a cambio, puede nombrar a tu bebé. Y lo va a llamar <BLANK>.",
+            "decoys": "Karen | Sonrisa | Marcha | Púrpura | Piña",
+            "x": false,
+            "id": 52861,
+            "category": "Un nombre que significa arrepentimiento",
+            "questionText": "¿Aceptas los términos?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Se nos aproxima otra gran depresión. Afortunadamente, tienes un trabajo; pero <OTHERPLAYER> es tu jefe. Dicha persona promulga una política laboral que establece que todos los empleados deben <BLANK>. Sin excepciones.",
+            "decoys": "besar sus pies | trabajar 100 horas semanales | correr maratones | usar fedoras | vivir solos",
+            "x": false,
+            "id": 52863,
+            "category": "Se gana la vida",
+            "questionText": "¿Sigues las reglas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Acabas de vender un guión. Sin embargo, el estudio quiere cambiarle el título de <i>El hotel del amor</i> a <i><BLANK></i>. Tu nombre estará en el póster.",
+            "decoys": "Metiendo y sacando | Habitación 69 | Cama cogida | Hotel Hormonas | Gemidos a la habitación",
+            "x": true,
+            "id": 52889,
+            "category": "Compromiso artístico",
+            "questionText": "¿Cancelas el contrato?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Una organización benéfica que recauda dinero para mascotas callejeras te pide que participes en una recaudación de fondos. ¿Cómo quieren que les ayudes a generar dinero? Bueno... <BLANK>.",
+            "decoys": "montando un espectáculo de marionetas | haciendo un burlesque de buen gusto | matando algunas ratas | el contacto con todos los que conoces | pidiendo un préstamo",
+            "x": true,
+            "id": 52891,
+            "category": "Por una buena casa",
+            "questionText": "¿Decides hacerlo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Vives en una sociedad donde se predicen los crímenes futuros, pero los videntes policiales se equivocan el 20% de las veces. La policía te informa que creen que tu mejor amigo va a <BLANK>.",
+            "decoys": "romperte el brazo | robarte el pago de su alquiler | secuestrar a tu perro | hacer que te despidan | romper tus ventanas",
+            "x": false,
+            "id": 51928,
+            "category": "Cómplice antes del acto",
+            "questionText": "¿Haces que se lo lleven bajo custodia y lo investiguen?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has firmado un contrato de un año que indica que harás cualquier cosa que <OTHERPLAYER> te ordene a cambio de $100.000. Romper el contrato implicaría que tendrás que <BLANK>.",
+            "decoys": "pagar una multa de $ 25.000 | ir a la cárcel por un mes | comer 500 gramos de arena | adoptar un niño | perder un dedo del pie",
+            "x": false,
+            "id": 52897,
+            "category": "Según nuestro acuerdo",
+            "questionText": "¿Cumples con el contrato?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te despiertas en un mundo donde <OTHERPLAYER> es tu terapeuta... pero no te reconoce. Estás a punto de hablarle sobre <BLANK>.",
+            "decoys": "tus genitales malos | los problemas con tu padre | tus problemas en la intimidad | la inevitabilidad de la muerte | tu amor perdido de hace mucho tiempo",
+            "x": true,
+            "id": 53021,
+            "category": "Confesiones en el sofá",
+            "questionText": "¿Le sueltas todo cara a cara?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "En las noticias, ves un boceto de la policía que es inquietantemente parecido a <OTHERPLAYER>. Se busca por <BLANK>. Puedes permanecer en el anonimato.",
+            "decoys": "intoxicación pública | abuso de información privilegiada | robo automotor | iniciar una pelea de bar | estacionar en doble fila",
+            "x": true,
+            "id": 53022,
+            "category": "Se busca: Definitivamente vivo",
+            "questionText": "¿Llamas a la policía?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Puede devolver a <BLANK> a la vida. Pero, a cambio, tienes que enviar a <OTHERPLAYER> al año 1930.",
+            "decoys": "Cleopatra | Sócrates | Juana de Arco | Jesús | Abraham Lincoln",
+            "x": false,
+            "id": 53027,
+            "category": "Un acuerdo de muerte",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Le estás dando un masaje a <OTHERPLAYER>. Conoces una técnica que aliviará instantáneamente todo su dolor, pero requiere que tú <BLANK> ... mientras mantienes un contacto visual perfecto.",
+            "decoys": "te vistas como una salamandra | le untes con mostaza | le declares tu amor | hagas sentadillas | le cantes una serenata",
+            "x": true,
+            "id": 53036,
+            "category": "Acéitame todo",
+            "questionText": "¿Usas la técnica?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te acabas de mudar a tu ciudad favorita. Todo está bien en tu vida... hasta que una niebla misteriosa desciende, provocando que el 10% de la población <BLANK>.",
+            "decoys": "se una a bandas de ska | se vuelva nudista | se convierta en DJs amateur | tire basura por las ventanas | ignore las señales de tráfico",
+            "x": false,
+            "id": 53041,
+            "category": "Pensamientos borrosos",
+            "questionText": "¿Te mudas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Si le das un beso francés a <OTHERPLAYER> durante 30 segundos, ambos serán recompensados ​​con <BLANK>.",
+            "decoys": "piel perfecta | ningún accidente | un clima perfecto | estar de un humor fabuloso | un cheque de $25",
+            "x": true,
+            "id": 53043,
+            "category": "A los besos",
+            "questionText": "¿Se besan?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tienes la oportunidad de robar la habilidad de <OTHERPLAYER> para <BLANK>. Si la tomas, la perderá permanentemente... pero nunca sabrá que fuiste tú.",
+            "decoys": "bailar | leer señales sociales | acariciar perros | tocar la batería | manejar",
+            "x": false,
+            "id": 53009,
+            "category": "Lo que es tuyo es mío",
+            "questionText": "¿La tomas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Para ganarte la vida, haces imitaciones de <BLANK>. Debido a un conflicto de horarios, estarías llegando tarde al funeral de <OTHERPLAYER>. Tendrías que ir disfrazado y sentarte con su familia.",
+            "decoys": "Cher | Donald Trump | Frank Sinatra | Elvis | Marilyn Monroe",
+            "x": true,
+            "id": 52931,
+            "category": "Vestido y revestido a la ceremonia",
+            "questionText": "¿Asistes?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Te han ofrecido $5.000 por acostarte en una mesa durante una hora y que sirvan <BLANK> sobre tu cuerpo desnudo en una fiesta elegante. Una de las personas que está en la cena es <OTHERPLAYER>.",
+            "decoys": "sushi | helado | patatas fritas y salsa | albóndigas | fajitas",
+            "x": true,
+            "id": 52929,
+            "category": "Servicio corporal",
+            "questionText": "¿Aceptas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás presentando un programa de noticias con tu coanfitrión, <OTHERPLAYER>. Sin saber que todavía están al aire, este comienza a decir: “<BLANK>”.",
+            "decoys": "¿Puedo contarles un secreto? | Toc toc. | Anoche tuve un extraño sueño... | Sabes qué odio... | Aquí viene una opinión impopular...",
+            "x": false,
+            "id": 53055,
+            "category": "En cámara, fuera del libreto",
+            "questionText": "¿Le dices a su productor que corten a los comerciales?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu perra más vieja había perdido el interés en todo hasta que le compraste un nuevo juguete chillón. Cuando es masticado, grita “¡<BLANK>! ”. Ella juega mucho con él.",
+            "decoys": "Vete al infierno | Viviré más que tú | Tu dueño no te quiere | Es mejor que tengas cuidado | Para de lastimarme",
+            "x": false,
+            "id": 52905,
+            "category": "El precio de la hora de jugar",
+            "questionText": "¿Lo conservas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres transportado a una realidad alternativa donde cada detalle de tu vida es ligeramente diferente. Si eliges regresar a tu realidad original, perderás la capacidad de <BLANK>.",
+            "decoys": "bailar | reír a un volumen razonable | hacer matemáticas básicas | entender sarcasmo | cocinar",
+            "x": false,
+            "id": 50877,
+            "category": "Un mundo diferente",
+            "questionText": "¿Regresas a casa?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tu prometido/a quiere de todo corazón una canción en particular para su primer baile. Desafortunadamente, es una versión acústica de “<BLANK>” cantada por <OTHERPLAYER>.",
+            "decoys": "Single Ladies | Oops, I Dit It Again | Se te ve la tanga | What Is Love | Africa",
+            "x": false,
+            "id": 53050,
+            "category": "Despejen la pista de baile",
+            "questionText": "¿Lo/la haces feliz diciendo que sí?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tienes un Pase Vitalicio de Salteo, por lo que puedes saltearte cualquier fila. Pero cada vez que lo uses, automáticamente transportará a <OTHERPLAYER> a <BLANK> por una hora.",
+            "decoys": "la ciudad más cercana | un lote abandonado | su patio trasero | un campo de soja | un restaurante elegante",
+            "x": false,
+            "id": 53113,
+            "category": "Velocidad entre líneas",
+            "questionText": "¿Lo aprovechas al máximo?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tú organizas talleres de prevención y actuación ante el acoso sexual para ganarte la vida. Desafortunadamente, acabas de desarrollar una rara condición neurológica que hace que hables principalmente con frases de <BLANK>.",
+            "decoys": "“Austin Powers” | “Caracortada” | “Casablanca” | “Chicas pesadas” | “Sacrificios de familia”",
+            "x": true,
+            "id": 50654,
+            "category": "Hablemos de sexo",
+            "questionText": "¿Realizas tus talleres sin hablar?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Cuando recogiste el pastel que pediste para el décimo cumpleaños de tu hijo, no miraste dentro de la caja. Cuando revelas el pastel a los niños, descubres que dice “¡<BLANK>!”",
+            "decoys": "Muerte al patriarcado | tiempo de tetas | nos estamos divorciando | Hay que amar los pitulines | 10 años sobrio",
+            "x": true,
+            "id": 50404,
+            "category": "Sorpresa doble",
+            "questionText": "¿Rompes el pastel delante de los niños?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás jugando un juego de palabras con tu hija de 16 años. Tienes las fichas adecuadas para ganar con UNA palabra, pero la palabra es “ <BLANK>. ” Sí, esa palabra cuenta. Tu hija siempre te gana.",
+            "decoys": "testículos | vajazzle | fellatio | hentai | bukkake",
+            "x": true,
+            "id": 50962,
+            "category": "Que S-U-C-I-O",
+            "questionText": "¿Juegas esa palabra?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres un recreador histórico. Has descubierto que cualquier cambio que hagas afecta cómo sucedieron las cosas. Tu grupo va a recrear <BLANK>.",
+            "decoys": "la guerra de Vietnam | el descubrimiento de América | la Revolución Francesa | el Titanic | el Hindenburg",
+            "x": true,
+            "id": 51434,
+            "category": "Disfraces al amanecer",
+            "questionText": "¿Te sales del guion e intentas cambiar el resultado?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Cambias de cuerpo con una persona a punto de dar una charla Ted. El título de su conferencia es “<BLANK>”. Cada palabra de ella está en un teleprónter. Volverás a tu cuerpo en una hora.",
+            "decoys": "Cómo se aparean los gusanos | Terapia de gritos: cambió mi vida | Los dinosaurios son falsos | Por qué me encantó el 2016 | Perros, ¿sobrevalorados?",
+            "x": true,
+            "id": 51661,
+            "category": "Charlando la charla",
+            "questionText": "¿Prosigues con la charla?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has tenido la canción de “Las ruedas del autobús” atascada en tu cabeza durante todo un mes. Has oído hablar recientemente de una cura radical que involucra <BLANK>. Los médicos dicen que existe la posibilidad de que la canción desaparezca naturalmente pronto.",
+            "decoys": "quitarse una uña | hacer ayuno por un día | algo de caída del cabello | comer alimentos caducados | hacer escalada",
+            "x": false,
+            "id": 50433,
+            "category": "Conducción pegadiza",
+            "questionText": "¿Pruebas ahora la cura radical?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Cada vez que escuchas “Salud”, reaccionas involuntariamente <BLANK>. Estás a punto de estornudar mientras tu esposa da a luz.",
+            "decoys": "abucheando fuerte | lanzando sillas | golpeando cosas al azar | desmayándote | gritando por una ventana",
+            "x": false,
+            "id": 51687,
+            "category": "Susto de Gesundheit",
+            "questionText": "¿Sales corriendo de la habitación?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Eres un músico desconocido que finalmente graba un gran éxito. Sin embargo, un grupo de padres está enojado porque cuando reproduces tu canción al revés dice “<BLANK>”. Esa no era tu intención.",
+            "decoys": "deja la escuela | nunca votes | golpea a tus padres | bebe mucha gaseosa | hazle llamadas en broma a los ancianos",
+            "x": true,
+            "id": 50498,
+            "category": "Letra oculta",
+            "questionText": "¿Cambias la canción?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Has ganado un viaje todo pago alrededor del mundo. La letra pequeña dice que tienes que pasar un tercio del viaje esposado a <BLANK>.",
+            "decoys": "una maleta | un paraguas | una linterna | una silla de escritorio | una tetera",
+            "x": false,
+            "id": 51664,
+            "category": "Listos... ¡A volar!",
+            "questionText": "¿Vas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Durante un viaje en carretera, observas un letrero que indica que hay una ciudad a 80 kilómetros. Sin embargo, no se encuentra en tu GPS. Una valla publicitaria de la ciudad anuncia que tiene <BLANK>.",
+            "decoys": "dulces gratis | razas raras de perros | un circo | un parque acuático gratis | una feria del condado",
+            "x": false,
+            "id": 52718,
+            "category": "Ubicación desconocida",
+            "questionText": "¿Investigas al respecto?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "En tu adolescencia, te encontraste en una cueva con una pintura no descubierta. Por diversión, sumergiste tu dedo en arcilla y agregaste un dibujo de <BLANK>. Años más tarde, tu estúpida incorporación está cambiando la forma en que se enseña sobre las culturas primitivas en las escuelas.",
+            "decoys": "un pato parlante | un extraterrestre de ojos grandes | una nube de hongo | pie grande | rascacielos",
+            "x": true,
+            "id": 52417,
+            "category": "Cueva de los gritos olvidados",
+            "questionText": "¿Admites lo que hiciste?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Abres la puerta de tu casa y descubres que justo enfrente de ti se encuentra <BLANK>. Si te lo quedas, no serás descubierto... pero nadie puede saber que lo tienes, por lo que debes disfrutarlo solo.",
+            "decoys": "la estatua de David | un camión de chocolates | un jet-pack | una máquina del tiempo | una batería",
+            "x": false,
+            "id": 51587,
+            "category": "Secretos robados",
+            "questionText": "¿Te lo quedas?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Estás jugando con los dados en un casino. Alguien que se llama a sí mismo un “amuleto de la suerte” te ofrece sus servicios si dejas que <BLANK>. Lo viste hacerlo en otra mesa y esa persona ganó. Es tu turno de tirar.",
+            "decoys": "te haga cosquillas | te de mordisqueos en la oreja | derrame salsa en tu cabeza | masajee tus pies | te pinte las uñas",
+            "x": true,
+            "id": 53542,
+            "category": "La suerte está rara esta noche",
+            "questionText": "¿Dejas que lo haga?"
+        },
+        {
+            "answerText": "",
+            "scenarioText": "Tienes un refrigerador parlante. Siempre que le coloques cualquier comida o bebida no saludable, te dice “ <BLANK>”.",
+            "decoys": "Oink oink | Esa no es una buena decisión | Tu mamá no estaría de acuerdo | No podemos seguir haciendo esto | Oye, está bien",
+            "x": true,
+            "id": 50406,
+            "category": "El refrigerador honesto",
+            "questionText": "¿Afecta esto en tus compras?"
+        }
+    ]
+}

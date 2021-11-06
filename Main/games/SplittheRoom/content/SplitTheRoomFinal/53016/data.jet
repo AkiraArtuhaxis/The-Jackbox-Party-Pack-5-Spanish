@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "cepillar dientes de tigre | medir elefantes | limpiar el interior de los tanques de tiburones | ser un luchador de comadrejas | vigilar la puerta de la jirafa",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "presentar el espectáculo de serpientes",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+6.16",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.50",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.14",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Te acaban de contratar en un zoológico poco convencional.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes presentar el espectáculo de serpientes o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué trabajo eliges en este extraño zoológico?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Trabajo de zoológico no convencional [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You just got hired at an unconventional zoo. You can either host the snake show, or do this. Which job do you take at this strange zoo?",
+            "t": "A",
+            "v": "757943_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Veo que Indiana Jones no está jugando.",
+            "t": "A",
+            "v": "757946_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

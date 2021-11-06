@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un baile gótico | una fiesta de karaoke de KISS | un festival de cine de Adam Sandler | audiciones para “El soltero” | un circo steampunk",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.99",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes que asistir a uno de estos.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cupido te advierte de que te enamorarás de una persona que conozcas en el próximo evento al que asistas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Te han invitado a un festival de Ayn Rand y a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.28",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "Festival de Ayn Rand",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+4.29",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.26",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿A qué evento asistes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Evento obligatorio de Cupido [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Cupid warns you that you will fall in love with a person you meet at the next event you attend. You’ve been invited to an Ayn Rand festival and THIS. You have to attend one of these. Which event do attend?",
+            "t": "A",
+            "v": "759980_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Oh, tenemos un grupo de republicanos jugando. Qué divertido.",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

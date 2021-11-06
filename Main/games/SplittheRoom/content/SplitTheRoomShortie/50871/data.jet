@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "lo que buscas en Internet | a qué huelen los traseros de perros | la película “Son como niños” | spoilers de televisión | la historia del golf",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.82",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.85",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.33",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Promete dejar de hablar si conviertes la oficina de tu casa en su sala de juegos.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Obtienes una perra para tus hijos.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Luego de una semana, la perra adquiere la capacidad de hablar... pero solo puede hablar de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.89",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Molestia perruna",
+            "t": "A",
+            "v": "727504_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You get a dog for your kids. After a week of ownership, the dog gains the ability to speak...but it can only talk about this. It  promises to stop talking if you convert your home office into her playroom. Do you do it?",
+            "t": "A",
+            "v": "727505_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

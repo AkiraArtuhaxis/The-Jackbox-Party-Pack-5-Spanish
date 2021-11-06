@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "mal cuerpo | constipación | rechazo total | niño apestoso | un completo perdedor",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.45",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.40",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, tu emoji tendrá el significado de",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.92",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "El Consorcio Unicode quiere convertir tu cara en un emoji.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Serás reconocido a menudo y podrás ganarte la vida a base de acuerdos con marcas.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.22",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Firmas el contrato?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Charlas cara a cara",
+            "t": "A",
+            "v": "742392_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "The Unicode Consortium wants to make your face into an emoji. You will be often recognized and you can earn a living on brand deals. However, your emoji will be used to mean this. Do you sign the contract?",
+            "t": "A",
+            "v": "742393_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

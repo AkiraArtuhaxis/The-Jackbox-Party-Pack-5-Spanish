@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Oink oink | Esa no es una buena decisión | Tu mamá no estaría de acuerdo | No podemos seguir haciendo esto | Oye, está bien",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+6.39",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.54",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.82",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes un refrigerador parlante.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Siempre que le coloques cualquier comida o bebida no saludable, te dice",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Afecta esto en tus compras?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El refrigerador honesto",
+            "t": "A",
+            "v": "762701_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have a talking refrigerator. Whenever you add any unhealthy food or drink to it, it says this. Does this affect your shopping choices?",
+            "t": "A",
+            "v": "721943_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

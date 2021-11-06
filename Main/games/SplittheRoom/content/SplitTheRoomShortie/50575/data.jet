@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "salmón | pantalones | pelea | café | ambulancia",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+5.85",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.25",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+2.80",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "hace que te vuelvas visible al instante.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Siempre que te desnudas, te vuelves invisible.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Escuchar la palabra",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+3.82",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Utilizas tu poder para escuchar en secreto a tus compañeros de trabajo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Una clara elección",
+            "t": "A",
+            "v": "724973_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Whenever you get naked, you become invisible. Hearing this word causes you to instantly become visible. Do you use your power to listen in on coworkers?",
+            "t": "A",
+            "v": "723976_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

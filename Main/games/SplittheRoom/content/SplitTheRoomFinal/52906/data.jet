@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "unos pantalones vacíos en la parte trasera | una bata-manta de lunares | una chaqueta de conchas de langosta | una ropa interior reciclada | unas chanclas gastadas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "el hecho de brócoli",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.75",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.56",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.75",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Eres una celebridad que va a una ceremonia en la alfombra roja.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Como un favor a un diseñador de ropa vanguardista, accediste a usar un atuendo hecho completamente de brócoli o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué atuendo eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Traje de vanguardia [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a celebrity going to a red-carpet ceremony. As a favor to an avant-garde clothing designer, you’ve agreed to wear an outfit made entirely of broccoli or this. Which outfit do you choose?",
+            "t": "A",
+            "v": "756600_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Cualquier cosa es mejor que un cisne muerto.",
+            "t": "A",
+            "v": "756603_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

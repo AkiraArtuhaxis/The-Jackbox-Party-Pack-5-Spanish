@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "freidora | cabello sucio | el perfume de tu abuela | aserrín | brócoli al vapor",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.30",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+0.83",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, tus muebles reaparecerán con un leve aroma a",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.12",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te estás mudando.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Hay un dispositivo que puede vaporizar digitalmente y luego reconstituir todas tus pertenencias en la nueva casa.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.72",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo usas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "¿Quién mueve el mueble?",
+            "t": "A",
+            "v": "732770_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re moving. There’s a device that can digitally vaporize and then re-constitute all your belongings in the new house. However, your furniture will reappear smelling faintly like this. Do you use it?",
+            "t": "A",
+            "v": "732771_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

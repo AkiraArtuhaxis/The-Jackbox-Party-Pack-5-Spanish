@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una barba y un bigote falsos | un tatuaje en la frente | una gorra de Trump | uñas postizas largas | un traje de esquí",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "zapatos de payaso amarillo claro",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.70",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.28",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.72",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Vives en un mundo donde todos parecen idénticos, por lo que debes mostrar algo distintivo en público.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tus opciones son un par de zapatos de payaso de color amarillo claro o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué cosa única te pones?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Característica única [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You live in a world where everyone looks identical, so you’re required to show off one distinctive thing in public. Your options are a pair of bright yellow clown shoes or this. What unique thing do you wear?",
+            "t": "A",
+            "v": "761080_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Ninguno podría hacer eso.",
+            "t": "A",
+            "v": "761083_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

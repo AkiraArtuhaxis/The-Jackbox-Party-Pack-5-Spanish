@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Jason | Cristóbal Colón | un tigre loco | tu bisabuelo | Genghis Khan",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "Vladimir Lenin",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.30",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.58",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.29",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Solo hay dos apartamentos disponibles entre tu presupuesto... y ambos están embrujados.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes vivir en un apartamento con el fantasma de Vladimir Lenin o el fantasma de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Con qué fantasma eliges convivir?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opciones de apartamentos encantados [FINAL]",
+            "t": "A",
+            "v": "749907_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "There are only two apartments available in your price range...and they’re both haunted. You can either live in an apartment with the ghost of Vladimir Lenin or the ghost of this person. Which ghost do you choose to cohabitate with?",
+            "t": "A",
+            "v": "749908_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "We have people on both sides of this Iron Curtain.",
+            "t": "A",
+            "v": "749911_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

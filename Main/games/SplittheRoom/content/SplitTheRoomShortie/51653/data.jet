@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "televisor | refrigerador | billete de cien dólares | decoración | puerta",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.50",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.99",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "desaparece de tu casa.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+3.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Es tu primer día de trabajo y tu nuevo jefe lleva dos minutos contando una broma terrible.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Siempre que ríes falsamente, un/una",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+4.44",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te ríes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "La risa es el mejor lubricante social",
+            "t": "A",
+            "v": "738365_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Whenever you fake laugh, one of these goes missing from your house. It’s your first day of work and your new boss is two minutes into a terrible joke. Do you laugh?",
+            "t": "A",
+            "v": "738366_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

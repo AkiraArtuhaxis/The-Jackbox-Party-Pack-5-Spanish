@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "sardinas | dedos del pie | un trasero diminuto | queso mohoso | perros calientes",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.63",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.19",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.68",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "por boca.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un pasajero en un autobús requiere resucitación boca a boca y tú tienes entrenamiento en primeros auxilios.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, resulta que esta persona tiene",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.72",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Intentas salvar su vida?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Boca a boca 2: Más boca que nunca",
+            "t": "A",
+            "v": "730386_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A fellow passenger on a bus requires mouth-to-mouth resuscitation and you have CPR training. However, this person happens to have this for a mouth. Do you try to save their life?",
+            "t": "A",
+            "v": "723029_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

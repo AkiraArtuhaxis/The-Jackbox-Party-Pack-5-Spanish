@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "los gatos | los coches de bajo consumo | los amish | los camiones de comida | los streamers de videojuegos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "Teleoperadores",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.48",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.98",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.46",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Una nueva especie de zombi ha sido creada en un laboratorio.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Como científico jefe, puedes programarlos para que ataquen a los teleoperadores, o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿En qué grupo liberas a tus zombies?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Antojo zombi [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A new species of zombie has been created in a lab. Which group do you turn your zombies on? As the head scientist, you can either code them so they crave telemarketers or THIS. Which group do you unleash your zombies on?",
+            "t": "A",
+            "v": "758941_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Asegúrate de que sean atacados en medio de su cena.",
+            "t": "A",
+            "v": "758944_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "hinchazón a largo plazo | una alergia al chocolate | un leve pitido en los oídos | picazón en las axilas | hemorragias nasales",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.24",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "como efecto secundario. Tienes la oportunidad de tocarlo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un meteorito ha sido descubierto en la Antártida.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Ponerle las manos encima te dará una piel impecable. Algunas personas han reportado",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.25",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo destruyes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Rocas radiantes",
+            "t": "A",
+            "v": "727427_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A meteorite has been discovered in Antarctica. Laying hands on it will give you flawless skin. Some people have reported this as a side effect. You get a free chance to touch it. Do you?",
+            "t": "A",
+            "v": "727428_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

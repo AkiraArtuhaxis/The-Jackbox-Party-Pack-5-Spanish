@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un agujero en el suelo para un inodoro | una pista de aeropuerto junto a ella | un techo agujereado | una cocina alfombrada | baños sin puerta",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "puertas de solo un metro y medio de altura",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+7.66",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.28",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.65",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes que elegir una casa para siempre. Tienes dos opciones:",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Una tiene puertas de solo un metro y medio de altura y la otra tiene",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Con qué defecto de apartamento te conformas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Defecto de casa [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have to pick your forever home. You’re down to two options. One has doorways that are only 5 feet tall and the other has THIS. Which apartment flaw do you settle for?",
+            "t": "A",
+            "v": "759804_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Oh, y es en San Francisco así que ambos cuestan 1,8 millones de dólares.",
+            "t": "A",
+            "v": "759807_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

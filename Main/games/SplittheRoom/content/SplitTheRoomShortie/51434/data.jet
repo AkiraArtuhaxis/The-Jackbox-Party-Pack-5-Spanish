@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "la guerra de Vietnam | el descubrimiento de América | la Revolución Francesa | el Titanic | el Hindenburg",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.78",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.73",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Tu grupo va a recrear",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.44",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un recreador histórico.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Has descubierto que cualquier cambio que hagas afecta cómo sucedieron las cosas.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.15",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te sales del guion e intentas cambiar el resultado?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Disfraces al amanecer",
+            "t": "A",
+            "v": "735488_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a historical reenactor. You’ve discovered that any move you make affects how things actually went down. Your group is going to reenact this. Do you go rogue and try to change the outcome?",
+            "t": "A",
+            "v": "735489_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

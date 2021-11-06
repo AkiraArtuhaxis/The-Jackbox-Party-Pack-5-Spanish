@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "el ensayo de una banda de secundaria | el departamento de tu ex | el medio de la bolsa de valores de Nueva York | un campo de maíz | una mina abandonada",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+13.34",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.83",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Si faltas al examen, pierdes automáticamente tres puntos en tu calificación.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Es la noche de tu último examen virtual de la escuela de comercio.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Se desconecta tu internet y, lo creas o no, el único lugar al que puedes ir para obtener wi-fi es",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Vas allí?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Evaluando tu paciencia",
+            "t": "A",
+            "v": "739216_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "It’s the night of your final business school online exam. Your internet goes out and, believe it or not, the only place you can go for wifi is here. If you miss the test, you automatically go down one letter grade. Do you go there?",
+            "t": "A",
+            "v": "739217_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

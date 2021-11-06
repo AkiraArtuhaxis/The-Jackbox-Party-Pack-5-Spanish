@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "calme a los animales salvajes | dispensa helado suave | da masajes increíbles | detecta mentiras | emite fuego",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.76",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes obtener uno que funcione como un teléfono inteligente o uno que",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te falta el brazo izquierdo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Una compañía se ofrece a proporcionarte un brazo cibernético.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.76",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "actúa como un teléfono inteligente",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.89",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.54",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué brazo cibernético obtienes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opción Cyborg Arm [FINAL]",
+            "t": "A",
+            "v": "745524_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re missing your left arm. A company offers to provide you with a cybernetic arm. You can either get one that acts as smart phone or one that does this. Which cybernetic arm do you get?",
+            "t": "A",
+            "v": "745525_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

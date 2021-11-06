@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "enseñar a un gato a darse la vuelta | escribir una novela | aparecer en “Jeopardy!” | entrar en un espectáculo de Broadway | tocar un solo de violín",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "cambiar la opinión de alguien",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.42",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.80",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.42",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Los exámenes de ingreso a la universidad se han vuelto aún más difíciles.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Ahora, para demostrar que eres material para la Ivy League, debes cambiar la opinión de alguien en las redes sociales o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué desafío aceptas para ingresar a la universidad?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Examen de ingreso a la universidad [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "College entrance exams have gotten even more difficult. Now to prove you’re Ivy league material, you must either change someone’s mind on social media or do this. Which challenge do you take to get into college?",
+            "t": "A",
+            "v": "754106_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "You should also get a nobel peace prize for this.",
+            "t": "A",
+            "v": "754109_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

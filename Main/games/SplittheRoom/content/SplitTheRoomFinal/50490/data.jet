@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "jugo de cangrejo | leche caducada | la orina de un hombre sano | caldo de pollo | agua de perros calientes",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.37",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "TIENES que hidratarte.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Vas en el kilómetro 30 de un maratón cuando los voluntarios sostienen vasos de papel.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, en lugar de agua, solo tienen un cóctel picante de Bloody Mary O",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.73",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "Cóctel Bloody Mary",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+4.32",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.71",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué decides beber?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opción de beber maratón [FINAL]",
+            "t": "A",
+            "v": "724932_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re at mile 20 of a marathon when volunteers hold out paper cups of liquid. However, instead of water, they only have spicy Bloody Mary mix or this. You HAVE to hydrate. Which do you choose?",
+            "t": "A",
+            "v": "722929_6",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Yeah, this was a hard one. Both sound really, really good.",
+            "t": "A",
+            "v": "722932_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

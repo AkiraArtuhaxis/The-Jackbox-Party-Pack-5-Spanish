@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "la vida en prisión | la Fosa de las Marianas | la Segunda Guerra Mundial | el Valle de la Muerte | los embotellamientos de tráfico",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+13.94",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.56",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.32",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Una vez que enciendas el televisor, serás transportado instantáneamente a unas vacaciones de fin de semana totalmente pagas al lugar que aparece en pantalla.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Delante de ti hay un televisor con cinco canales.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Cuatro de ellos son canales de viajes; el quinto canal está dedicado a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.47",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo enciendes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Ruleta de canales",
+            "t": "A",
+            "v": "739544_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "In front of you sits a TV with five channels.  Four of them are travel channels; the fifth channel is devoted to this. Once you turn it on, you will be instantly transported to a fully paid weekend vacation to the location that appears on screen. Do you turn it on?",
+            "t": "A",
+            "v": "739545_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

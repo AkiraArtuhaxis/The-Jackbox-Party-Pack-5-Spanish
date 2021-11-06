@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "el entretenimiento | las camas | los trajes extra | la cocina | la reserva de combustible",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.82",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Estás a dos meses de tu destino.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres el capitán de una nave espacial que se ha vuelto demasiado pesada.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "La única solución es desconectar la sección que contiene los baños O la parte que contiene",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.72",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "los baños",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.73",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.70",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿De qué te deshaces?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Peso de descarga de la nave espacial [FINAL]",
+            "t": "A",
+            "v": "730133_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re the captain of a spaceship that has become too heavy. The only solution is to disengage the section containing the bathrooms or the part containing this. You are two months away from your destination. What do you get rid of?",
+            "t": "A",
+            "v": "727769_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "bailar en solitario | comer las flores sobrantes | preparar al novio | ser DJ de todo el evento | premasticar el pastel",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.76",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "puedes luchar con el padre de la novia o puedes",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Se te pidió que participaras en la boda no tradicional de tu mejor amigo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Tienen dos roles disponibles:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.75",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "luchar con el padre de la novia",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.25",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+4.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué papel eliges en esta extraña boda?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Boda no tradicional [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve been asked to take part in your best friend’s nontraditional wedding. They have two roles available: you can either wrestle the father of the bride or you can do this. Which role do you choose in this bizarre wedding?",
+            "t": "A",
+            "v": "754422_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Aunque nada es más raro que un lanzamiento de liga.",
+            "t": "A",
+            "v": "754425_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

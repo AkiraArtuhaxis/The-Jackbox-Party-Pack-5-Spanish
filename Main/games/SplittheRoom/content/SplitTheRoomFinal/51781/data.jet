@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tienen halitosis crónica | han sido abandonados en todas las relaciones | acaban de perder a un abuelo | nunca tendrán el trabajo de sus sueños | abandonaron la universidad",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "tiene un perro ciego de tres patas y",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás en un programa de juegos cruel donde el objetivo es hacer llorar a tu oponente.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Tienes dos piezas de información sobre él:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.06",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "su pobre perro",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.56",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.67",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿En qué te concentras para hacer llorar a tu oponente?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cómo hacer llorar a alguien [FINAL]",
+            "t": "A",
+            "v": "740106_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re on a cruel game show where the goal is to make your opponent cry. You have two bits of information about them: they have a blind, three-legged dog and this. Which do you focus on to make your opponent cry?",
+            "t": "A",
+            "v": "740107_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Sí, tampoco soy fan de los perros.",
+            "t": "A",
+            "v": "740110_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

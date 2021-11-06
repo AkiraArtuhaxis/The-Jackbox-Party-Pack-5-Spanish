@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "alimentar a un león salvaje con ellas | dejarlas en un patio de recreo | mandarlas al espacio | mezclarlas con hormigón | meterlas en el congelador",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.09",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes dejarlas guardadas en tu sofá o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu abuelo tiene deseos muy extraños para sus restos.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes hacer una de dos cosas con las cenizas.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.06",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "guardadas en un sofá",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.10",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.33",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué haces con las cenizas de tu abuelo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Solicitud de las cenizas del abuelo [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your grandfather has very bizarre wishes for his remains. You can do one of two things with the ashes. You can either have them stuffed in your couch or do THIS. What do you do with your Grandpa’s ashes?",
+            "t": "A",
+            "v": "759124_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Wow, el abuelo era raro.",
+            "t": "A",
+            "v": "759127_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

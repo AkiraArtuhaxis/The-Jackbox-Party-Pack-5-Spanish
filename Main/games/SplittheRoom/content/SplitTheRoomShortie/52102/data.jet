@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "“Bad Romance” | “El último brindis” | “La abuela fue atropellada por un reno” | “Corriendo al diablo” | “El sonido del silencio”",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.85",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.58",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Este empieza a reproducir",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.09",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás en un pequeño restaurante con un tocadiscos mágico.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "La música que reproduzca predice el futuro inmediato en el área más cercana.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.30",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te vas lo más rápido posible?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Enfrenta a la música",
+            "t": "A",
+            "v": "744824_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re in a small diner with a magical jukebox. The music played predicts the immediate future in the immediate area. It starts to play this song. Do you leave as fast as possible?",
+            "t": "A",
+            "v": "744825_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "1 kilo de crema de maíz | 16 muffins | 3 pizzas congeladas, aún congeladas | tres losas de costillas | un montón de puré de patatas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.53",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes beber 4 litros de salsa o comer",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tú y otros cuatro clientes de un restaurante buffet fueron tomados como rehenes.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Si comes todo lo que queda en una hora, te dejarán ir.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.50",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "cuatro litros de salsa",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.83",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.99",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué comida comes por tu vida?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Comida buffet forzada [FINAL]",
+            "t": "A",
+            "v": "743922_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You and four other patrons at a buffet restaurant are being held captive. If you eat everything that’s left in an hour, you’ll be let go. You can either drink a gallon of gravy or this food. Which food do you eat for your life?",
+            "t": "A",
+            "v": "743923_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Son unos asquerosos.",
+            "t": "A",
+            "v": "743926_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "“The Big Bang Theory” | Slenderman | videos de granos con pus | documentales de la Segunda Guerra Mundial | vídeos instructivos de odontología",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.42",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.39",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.73",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "en todo lo que estés viendo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has perdido la vista.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Unas gafas revolucionarias te devuelven la visión, pero están defectuosas. Muestran continuamente",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.10",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Los usas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Espía ocular",
+            "t": "A",
+            "v": "731217_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve lost your eyesight. A revolutionary pair of glasses gives you your vision back, but they’re defective. They continuously show this in everything you’re viewing. Do you use them?",
+            "t": "A",
+            "v": "731218_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

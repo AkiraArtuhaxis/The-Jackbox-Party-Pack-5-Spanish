@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cher | Donald Trump | Frank Sinatra | Elvis | Marilyn Monroe",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.82",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.54",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Debido a un conflicto de horarios, estarías llegando tarde al funeral de <OTHERPLAYER>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+2.66",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tendrías que ir disfrazado y sentarte con su familia.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Para ganarte la vida, haces imitaciones de",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.96",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Asistes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Vestido y revestido a la ceremonia",
+            "t": "A",
+            "v": "756963_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "For a living, you impersonate THIS PERSON. Due to schedule conflicts, you’re running late for <OTHERPLAYER>’s funeral. You would have to go in costume and sit with their family. Do you attend?",
+            "t": "A",
+            "v": "756964_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

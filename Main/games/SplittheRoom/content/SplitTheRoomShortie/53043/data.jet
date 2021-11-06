@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "piel perfecta | ningún accidente | un clima perfecto | estar de un humor fabuloso | un cheque de $25",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+6.80",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.69",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.30",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Si le das un beso francés a <OTHERPLAYER> durante 30 segundos,",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "ambos serán recompensados ​​con",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Se besan?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "A los besos",
+            "t": "A",
+            "v": "758218_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "If you french kiss <OTHERPLAYER> for 30 seconds, you will both be rewarded with THIS. Do you kiss?",
+            "t": "A",
+            "v": "758219_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

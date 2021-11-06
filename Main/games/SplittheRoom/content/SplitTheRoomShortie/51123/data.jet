@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cómo usar crocs | Moda menopáusica | Calcetines a juego con sandalias | Memes para mamás | Cómo ser groovy",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.90",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.04",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Su última publicación se titula",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.16",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu mamá deja su trabajo para comenzar un blog de estilo de vida.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Lamentablemente, no ha recibido mucho tráfico. Ella te pide que compartas su sitio en tus redes.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.88",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿La compartes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Mamá contra los motores de búsqueda",
+            "t": "A",
+            "v": "732690_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your mom quits her job to start a lifestyle blog. Unfortunately, she hasn’t received much traffic. She asks you to share her site on your social media. Her latest post is titled this. Do you share it?",
+            "t": "A",
+            "v": "731212_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

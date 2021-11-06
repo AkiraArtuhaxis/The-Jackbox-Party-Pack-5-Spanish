@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "completamente desnudo | en el baño | en medio de un ataque de tos | cantando ópera | colocándote desodorante",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.93",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.60",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Desafortunadamente, el holograma te representará",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.78",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tienes 100 años y estás en tu lecho de muerte.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Gracias a la tecnología moderna, puedes ser recordado como un holograma.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.36",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Igual consigues uno?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Eres transparente",
+            "t": "A",
+            "v": "746477_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re 100 years old and you’re on your deathbed. Thanks to new technology, you can be remembered as a hologram. Unfortunately, the hologram will depict you doing this. Do you still get one?",
+            "t": "A",
+            "v": "746478_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

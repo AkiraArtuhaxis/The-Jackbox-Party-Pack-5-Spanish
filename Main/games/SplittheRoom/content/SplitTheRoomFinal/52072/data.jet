@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "20 litros de pintura con plomo | DVD de la serie completa “Matrimonio con hijos” | lecciones de baile cuadrado | un scooter marca Razor | un paquete de agua embotellada",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.77",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ONE_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Lo único que queda es una caja de cacahuates y",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Llegas tarde a la subasta silenciosa de un amigo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Lamentablemente, le prometiste ofertar $100 por un objeto.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.74",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "caja de cacahuates",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.49",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.58",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Por qué artículo prefieres pujar?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Oferta forzosa en subasta silenciosa [FINAL]",
+            "t": "A",
+            "v": "744189_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You show up late to a colleague’s silent auction. Regrettably, you promised to bid $100 on an item. The only things left are a crate of packing peanuts and this. Which item do you bid on?",
+            "t": "A",
+            "v": "744190_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Aparentemente, alguien aquí trabaja para una compañía de envíos.",
+            "t": "A",
+            "v": "744193_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

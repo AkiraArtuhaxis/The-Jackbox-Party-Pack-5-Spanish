@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un partido de ping pong | un concurso de deletreo | una batalla de baile | una maratón | un concurso de comer perros calientes",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.10",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.60",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu amuleto de la amistad te permite adquirir las habilidades de <OTHERPLAYER>.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Un día, un extraño te desafía a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Pones una apuesta de $100 en el resultado?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Para qué son los amigos",
+            "t": "A",
+            "v": "755864_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your friendship amulet allows you to gain the skills of <OTHERPLAYER>. One day, a stranger challenges you to THIS. Do you put a hundred dollar wager on the outcome?",
+            "t": "A",
+            "v": "755865_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "¿Soy una buena persona? | ¿Dormirías conmigo? | ¿Cómo está mi cabello? | ¿Soy aburrido? | ¿Cómo es mi sentido de la moda?",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.72",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "“¿Qué te molesta de mí?” o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "“¿<BLANK>?”",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Todos los miembros de tu grupo de amigos se verán obligados a completar de forma anónima un breve cuestionario sobre ti... y tendrás que leer los resultados.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes elegir entre dos preguntas:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.52",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué te molesta de mí?",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+6.09",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.98",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué pregunta haces que tus amigos respondan?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Comentarios personales [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Everyone in your friend group will be forced to anonymously fill out a short questionnaire about you... and you will have to read the results. You can choose between two questions: “What annoys you about me?” or THIS question. Which question do you make your friends answer?",
+            "t": "A",
+            "v": "761566_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Confíen en mí, no quieren saber las respuestas de ninguna de estas.",
+            "t": "A",
+            "v": "761569_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

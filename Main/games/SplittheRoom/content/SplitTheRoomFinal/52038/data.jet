@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "la caja de arena de tu gato | tus carteles políticos | un pequeño santuario de Kevin Hart | tu cuarto de lavado | tu bote de basura lleno",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "cocina sucia",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.78",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.09",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Olvidaste por completo que tu jefe quiere realizar una videoconferencia.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Faltan dos minutos para que comience la llamada y debes decidir si configurar la cámara frente a tu cocina sin limpiar o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué lugar eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Anuncio de videoconferencia [FINAL]",
+            "t": "A",
+            "v": "743693_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You completely forgot your boss wants to video conference. It’s two minutes until the call starts and you have to decide whether to set up the camera facing your uncleaned kitchen or this spot. Which spot do you choose?",
+            "t": "A",
+            "v": "743694_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Felicidades, todos han sido despedidos.",
+            "t": "A",
+            "v": "743697_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "O SINO... | BEN AFFLECK | BEZOS | ESTOY BROMEANDO | ABUELA",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.85",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.34",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.20",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu némesis contrató a un piloto para que escriba en el cielo “CÁSATE CONMIGO” a su pareja mañana en la playa.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tu amigo piloto sin escrúpulos te dice que agregará al mensaje",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo detienes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Escritores en el cielo",
+            "t": "A",
+            "v": "754723_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your nemesis hires a skywriter to write “MARRY ME” to their romantic partner at the beach tomorrow. Your unscrupulous skywriter friend tells you he will add to the message with THIS STATEMENT. Do you stop him?",
+            "t": "A",
+            "v": "754724_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

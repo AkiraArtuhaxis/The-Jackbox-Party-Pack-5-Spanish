@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un video de pedos sobre un pastel | tu propia página de LinkedIn | una foto de Putin montando un caballo en cueros | tus fotos de bebé | \"Never Gonna Give You Up\"",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.42",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.89",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.74",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Afortunadamente, está en el sexto párrafo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Son las 5 PM de un viernes y acabas de presionar “enviar” sobre un correo electrónico para toda la empresa.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Ups, en lugar de un enlace a un artículo relevante, has adjuntado un enlace a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.10",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Envías un mensaje de disculpas como respuesta?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "No puedes des-enviarlo",
+            "t": "A",
+            "v": "765624_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "It’s 5pm on a Friday and you just pressed send on a company-wide email. Oops, instead of a link to a relevant article, you embedded a link to THIS. Fortunately, it’s in the sixth paragraph. Do you send a follow-up apology?",
+            "t": "A",
+            "v": "765625_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

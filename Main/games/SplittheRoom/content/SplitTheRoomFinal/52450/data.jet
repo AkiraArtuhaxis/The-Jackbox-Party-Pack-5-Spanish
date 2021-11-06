@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un herrero urbano | un ministro | un operador de cabina de peaje | un trabajador de comida rápida | una niñera",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "un herrero rural",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+6.48",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.39",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.47",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "La mafia te persigue, así que necesitas una nueva identidad.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Los federales pueden establecerte como herrero de un pequeño pueblo o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué nueva identidad eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Escondiéndose de la mafia [FINAL]",
+            "t": "A",
+            "v": "749810_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "The mob is after you so you need a new identity. The feds can set you up as a small town blacksmith or this. Which new identity do you assume?",
+            "t": "A",
+            "v": "749811_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Como si ustedes pudieran hacer eso.",
+            "t": "A",
+            "v": "749814_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "lista de contactos | número de identificación | tarjeta de crédito | herencia | primogénito",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.70",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.99",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Ofrece salvar tu carrera. A cambio, te pide tu",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un ventrílocuo desesperado.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Una noche, tras una mala presentación, tu muñeco cobra vida.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.46",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas la oferta?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El muñeco regresa",
+            "t": "A",
+            "v": "730139_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a struggling ventriloquist. One night after a bad set, your dummy comes to life. It offers to save your career. In return it asks for your <BLANK>. Do you accept the offer?",
+            "t": "A",
+            "v": "727785_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

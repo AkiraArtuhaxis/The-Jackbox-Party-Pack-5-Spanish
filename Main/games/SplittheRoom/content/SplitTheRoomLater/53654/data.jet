@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "bizco | 15% más feo | calvo | con los pelos de punta | bostezando",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.77",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.46",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.32",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Hay un hechizo que puede hacerte 15% más atractivo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero, en las imágenes, siempre aparecerás",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas la actualización estética?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Belleza cara a cara",
+            "t": "A",
+            "v": "766042_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "There’s a spell that can make you 15% more attractive. But, in pictures, you will always appear looking like this. Do you take the aesthetic upgrade?",
+            "t": "A",
+            "v": "766043_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

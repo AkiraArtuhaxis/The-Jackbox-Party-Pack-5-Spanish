@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "No puedes tener hijos | Uggghhhhh... números | Termina con ella | Es hora de hacer muchos cálculos | No voy a dar propina",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.82",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Saliste a un restaurante elegante con tu hermano y su prometida — que no es de fiar.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.21",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Ella te dice lo que te toca pagar por la comida.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cada vez que intentas hacer matemáticas en tu cabeza, gritas:",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "“¡<BLANK>!”",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.08",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Revisas sus matemáticas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Con cargo extra",
+            "t": "A",
+            "v": "737702_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Whenever you try to do math in your head, you scream THIS. You’re out to a fancy lunch with your brother and his fiancé — who is very untrustworthy. She tells you what you owe for lunch. Do you check her math?",
+            "t": "A",
+            "v": "737703_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una rata muerta | como se hacen las salchichas | un documental de 5 horas sobre la naturaleza | la luna | el interior de una comisaría",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.21",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.43",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Sufres de una extraña variante de amnesia.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Cada mañana pierdes toda tu memoria, pero la recuperas instantáneamente cuando ves",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Dejas a tu yo matutino una nota explicando lo que tienes que hacer?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Olvido y recuerdo",
+            "t": "A",
+            "v": "737234_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You suffer from an odd form of amnesia. Every morning you lose your entire memory, but you instantly regain it when you see this. Do you leave your morning self a note explaining what has to be done?",
+            "t": "A",
+            "v": "737235_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

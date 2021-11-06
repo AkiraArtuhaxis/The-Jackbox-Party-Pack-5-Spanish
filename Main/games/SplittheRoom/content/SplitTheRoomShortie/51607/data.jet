@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "te tiras un pedo | vomitas | te desvistes | te ríes | dices malas palabras",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.19",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.08",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Tu mejor amiga te pide que oficies su boda.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.49",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tiene una condición extraña. Siempre que ves a alguien llorando, tú automáticamente",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Dices que sí?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Dile que sí al llanto",
+            "t": "A",
+            "v": "737713_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have a strange condition. Whenever you see people crying, you automatically do this. Your best friend asks you to officiate her wedding. Do you say yes?",
+            "t": "A",
+            "v": "737714_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

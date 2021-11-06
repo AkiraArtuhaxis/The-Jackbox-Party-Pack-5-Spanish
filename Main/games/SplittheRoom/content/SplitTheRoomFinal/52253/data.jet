@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "salta de un techo | lucha contra un caimán | corre a través del fuego | se cae de un tren en movimiento | cae por un tramo de escaleras",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.50",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes sustituirlo mientras “él” salta hacia un auto a toda velocidad, o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un doble de una estrella de acción.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Te necesitan para una de dos escenas.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.46",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "salta hacia un auto en movimiento",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.29",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+4.09",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué truco realizas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opción de acrobacias [FINAL]",
+            "t": "A",
+            "v": "747366_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a stunt double for an action star. You’re needed for one of two scenes. You can either stand in for them while “he” jumps into a speeding car or does this. Which stunt do you perform?",
+            "t": "A",
+            "v": "747367_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Debería haber mencionado, el auto está lleno. De serpientes. ¡YA!",
+            "t": "A",
+            "v": "747370_4",
+            "n": "ResponseAudio"
+        }
+    ]
+}

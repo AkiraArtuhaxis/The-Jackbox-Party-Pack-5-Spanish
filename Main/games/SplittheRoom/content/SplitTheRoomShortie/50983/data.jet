@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un beso largo y apasionado en la boca | $250 | tu cabello | tus pantalones | tu número de teléfono",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.74",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.03",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Este te ofrece tomar tu foto a cambio de",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.88",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has llegado a la cima del monte Kilimanjaro cuando, trágicamente, tu cámara se rompe.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Afortunadamente, hay otro alpinista presente.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.35",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas el intercambio?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Fotos o no sucedió",
+            "t": "A",
+            "v": "729017_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve reached the summit of Mt Kilamanjaro when tragically your camera breaks. Luckily, there’s another climber present. They offer to take your pic in exchange for this. Do you accept the trade?",
+            "t": "A",
+            "v": "729018_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

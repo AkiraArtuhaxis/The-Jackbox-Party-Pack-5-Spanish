@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "deudas | un refugio de animales | El Día de impuestos | la Segunda Guerra Mundial | la industria petrolera",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.34",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Pueden conseguir una habitación con temática de IT o una habitación con temática de",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tú y tu pareja quieren pasar una semana en un hotel de fantasía.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Solo quedan dos suites.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.26",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "tema de IT",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.80",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.56",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué habitación “romántica” eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Hotel de temática romántica [FINAL]",
+            "t": "A",
+            "v": "743900_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You and your significant other want to spend a week at a fantasy hotel. There are only two suites left. You can either get an IT themed room or a room themed around this. Which “romantic” room do you get?",
+            "t": "A",
+            "v": "743901_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Bueno, todos van a divorciarse.",
+            "t": "A",
+            "v": "743904_2",
+            "n": "ResponseAudio"
+        }
+    ]
+}

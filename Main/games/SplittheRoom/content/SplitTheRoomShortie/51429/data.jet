@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "las películas de Marvel | el azúcar | las calzas | los servicios de streaming | las tazas con dibujos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+4.96",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.60",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Un amigo te introduce al mercado negro.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+2.60",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "El gobierno acaba de prohibir",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Te arriesgas a pasar un tiempo considerable en la cárcel para conseguirlo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Prohibido pero no olvidado",
+            "t": "A",
+            "v": "735433_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "The government has just outlawed this. A friend introduces you to the black market. Do you risk significant jail time in order to get one?",
+            "t": "A",
+            "v": "735434_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

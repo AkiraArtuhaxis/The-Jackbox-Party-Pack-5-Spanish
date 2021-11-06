@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Buenos Aires | la sede de control de salud | todos los Starbucks | el planeta Marte | todas las carreteras",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.76",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "No puedes convencerlos de que no lo hagan, pero puedes influir en su decisión.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has sido capturado por una raza de alienígenas malvados.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Te informan que van a destruir California o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.58",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "California",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.77",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.57",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué prefieres que destruyan?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Descrición forzada por aliens [FINAL]",
+            "t": "A",
+            "v": "724927_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve been captured by a race of evil aliens. They inform you that they are going to either destroy California or this. You can’t talk them out of it, but you can influence their decision. What do you persuade them to destroy?",
+            "t": "A",
+            "v": "722614_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Wow. Okey. Le voy a decir a California...",
+            "t": "A",
+            "v": "722617_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

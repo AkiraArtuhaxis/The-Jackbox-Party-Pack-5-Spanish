@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "comer galletas infinitas | producir carbón de la nada | volverte invisible para los niños | hablar con renos | detectar gente traviesa",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.85",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Te otorgará la capacidad de identificar el regalo perfecto de las personas o el de",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Atrapas a Santa Claus.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Él necesita mantener su existencia en secreto, así que te ofrece un soborno para que te calles.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.85",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "identificar los regalos perfectos",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.37",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.05",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué poder aceptas de Santa?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Soborno de Papá Noel [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You catch Santa Claus. He needs to keep his existence a secret so he offers you a bribe to keep quiet. He’ll either grant you the ability to identify people’s perfect gift or this. Which power do you accept from Santa?",
+            "t": "A",
+            "v": "745669_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Lo importante es que hemos capturado a Santa.",
+            "t": "A",
+            "v": "745672_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

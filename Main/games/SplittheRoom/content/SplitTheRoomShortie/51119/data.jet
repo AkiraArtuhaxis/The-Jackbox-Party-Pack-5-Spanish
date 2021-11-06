@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un cachorro | un humano | un conejito | una vaca | una medusa",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.30",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.61",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.27",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Hay una nueva e increíble funda para teléfono que mantiene tu celular cargado durante 30 días seguidos.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero está hecha de la piel de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Consigues una?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Búsqueda de teléfono",
+            "t": "A",
+            "v": "731164_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "There is an incredible new phone case that keeps your smartphone charged for 30 straight days. But it’s made from the skin of this animal. Do you get one?",
+            "t": "A",
+            "v": "731165_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

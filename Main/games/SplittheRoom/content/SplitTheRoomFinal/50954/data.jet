@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kanye West | tu tío | Rob Schneider | un mago | tu vecino",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "tu padrastro",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.24",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.05",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.22",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Diriges una pequeña compañía que necesita desesperadamente contratar a alguien lo antes posible.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Solo obtienes dos solicitantes. Uno es tu padrastro, el otro es",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿A quién contratas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nueva contratación [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You run a small company that desperately needs to hire someone ASAP. You only get two applicants. One is your stepdad, the other is this person. Whom do you hire?",
+            "t": "A",
+            "v": "728643_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Para todos los Garys en todas partes, gracias.",
+            "t": "A",
+            "v": "728646_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

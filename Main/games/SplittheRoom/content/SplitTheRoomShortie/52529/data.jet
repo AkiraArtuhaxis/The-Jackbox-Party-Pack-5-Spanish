@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "lava | humo de segunda mano | lágrimas | burbujas | brillantina",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.27",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.05",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.50",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás en una zona concurrida y llegas tarde a una reunión.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "¡Puedes volar!",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, hace que tu trasero expulse un flujo continuo de…",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Vuelas por los cielos?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Vuelo traseróbico",
+            "t": "A",
+            "v": "751063_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You can fly! However, it causes your butt to expel a non-stop stream of… THIS. You’re in a crowded area and late for a meeting. Do you take to the skies?",
+            "t": "A",
+            "v": "751064_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

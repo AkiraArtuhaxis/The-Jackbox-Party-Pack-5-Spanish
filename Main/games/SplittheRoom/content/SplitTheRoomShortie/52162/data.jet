@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "inicias una línea de conga | te quitas los zapatos | empujas a alguien | insultas al DJ | ladras como un perro",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.25",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.60",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Un extraño muy atractivo que conoces en el bar te invita a salir a un club de baile.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Siempre que una canción te dice que vayas “para abajo”, tú involuntariamente",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Vas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "¿Qué tan bajo puedes llegar?",
+            "t": "A",
+            "v": "745657_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Whenever a song tells you to “drop it”, you involuntarily do this. An attractive stranger you meet at the bar invites you to a dance club. Do you go?",
+            "t": "A",
+            "v": "745658_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

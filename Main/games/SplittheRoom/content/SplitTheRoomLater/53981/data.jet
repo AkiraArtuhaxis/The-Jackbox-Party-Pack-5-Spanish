@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "las almohadas | los cumplidos | tu familia | las computadoras | el sol",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.97",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.13",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.73",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "De repente posees la capacidad de librar al mundo del 99% de todas las alergias.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero al hacerlo, ahora eres alérgico a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Vale la pena?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Mi estornudo principal",
+            "t": "A",
+            "v": "769386_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You suddenly possess the ability to rid the world of 99% of all allergies. But by doing so, you are now allergic to THIS. Is it worth it?",
+            "t": "A",
+            "v": "769387_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

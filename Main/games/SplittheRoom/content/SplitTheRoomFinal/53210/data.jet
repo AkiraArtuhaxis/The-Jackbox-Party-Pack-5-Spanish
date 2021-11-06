@@ -1,0 +1,90 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gordon Ramsay | Donald Trump | una zanahora | el vicepresidente | un personaje de anime",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "la de tu padre",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+7.09",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.80",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.08",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Perdiste la cara en un accidente.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El cirujano plástico puede darte una cara que se parezca exactamente a la de tu padre o la de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué cara nueva tienes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nuevo rostro [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve lost your face in an accident. The plastic surgeon can either give you a face that looks exactly like your father or THIS PERSON. Which new face do you get?",
+            "t": "A",
+            "v": "759930_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

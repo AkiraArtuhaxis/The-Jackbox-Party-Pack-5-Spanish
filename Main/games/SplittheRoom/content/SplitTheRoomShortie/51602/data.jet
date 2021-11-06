@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "te susurran tus inseguridades | te colocan ropa constantemente | toman la forma de payasos aterradores | te dicen lo que piensan los demás | reproducen música punk triste",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.66",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.12",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.32",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Después de ver una película de terror muy aterradora, tu cita te invita a su casa a “tomar un café”.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Si te asustas, verás fantasmas durante 4 horas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Los espíritus no te lastiman; ellos solamente",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.29",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Vas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Susto de una noche",
+            "t": "A",
+            "v": "737660_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "If you get scared, you see ghosts for 4 hours. The spirits don’t hurt you, they just do this. After watching a very terrifying horror movie, your date invites you back to their place for “coffee”. Do you go?",
+            "t": "A",
+            "v": "737661_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ahora soy vegano | La tierra es plana | La gente lagarto es real | Voy a dejar mi trabajo | Voy a salir a correr todos los días",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.73",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.68",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.06",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "...pero luego una celebridad de YouTube lo comparte.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cada declaración que publiques en las redes sociales se hará realidad si obtiene 5.000 likes.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Como broma, escribes,",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.48",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo borras antes de que se convierta en tendencia?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Grande si es cierto",
+            "t": "A",
+            "v": "731390_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Every statement you post on social media will become true if it gets 5,000 likes. As a joke, you write THIS... but then a YouTube celeb shares it. Do you delete it before it trends?",
+            "t": "A",
+            "v": "731391_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

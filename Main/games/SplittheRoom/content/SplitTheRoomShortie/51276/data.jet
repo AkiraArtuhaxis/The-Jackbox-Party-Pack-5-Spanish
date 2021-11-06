@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un parásito | tres días de vida | un pez nadando en su estómago | su ropa interior al revés | una caries",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.90",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.43",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Tu monóculo revela que tiene",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.38",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un monóculo inteligente revela las estadísticas vitales de las personas. Tienes el único.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre se cuela frente a ti en el almacén y te ignora cuando te quejas.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.44",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Se lo dices?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Diagnóstico: grosería aguda",
+            "t": "A",
+            "v": "733225_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A smart monocle reveals people’s vital stats. You have the only one. A man cuts in front of you at the grocery store and ignores you when you object. Your monocle reveals he has this. Do you tell him?",
+            "t": "A",
+            "v": "733226_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

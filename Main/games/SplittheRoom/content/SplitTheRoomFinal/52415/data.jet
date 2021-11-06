@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Día de los Humos Tóxicos | Día de agradecimiento a Facebook | Día del Orgullo de Justin Bieber | Día de olvidar alimentar a tu mascota | Día de los Residuos Plásticos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.92",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Está entre el Día de las Celebridades de los Reality Shows y",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Hay una votación a nivel nacional para declarar un nuevo feriado nacional.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Tú tienes el voto decisivo.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.89",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "Día de las celebridades de los reality shows",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.02",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+4.83",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Por qué nuevo día festivo votas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nuevo feriado nacional [FINAL]",
+            "t": "A",
+            "v": "749284_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "There’s a nationwide vote to declare a new national holiday. You cast the tie-breaking vote. It is down to Reality TV Celebrities Day and this. Which new holiday do you vote for?",
+            "t": "A",
+            "v": "749285_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "¿Nadie piensa que la familia Duck Dynasty merece ser honrada? ¿Ninguno de ustedes es americano?",
+            "t": "A",
+            "v": "749288_2",
+            "n": "ResponseAudio"
+        }
+    ]
+}

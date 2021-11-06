@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "dulces gratis | razas raras de perros | un circo | un parque acuático gratis | una feria del condado",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.83",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.88",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Una valla publicitaria de la ciudad anuncia que tiene",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.67",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Durante un viaje en carretera, observas un letrero que indica que hay una ciudad a 80 kilómetros.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, no se encuentra en tu GPS.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.39",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Investigas al respecto?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Ubicación desconocida",
+            "t": "A",
+            "v": "754022_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "While on a road trip, you notice a sign for a town 50 miles away. However, it’s not located on your GPS. A billboard for the town advertises that it has <BLANK>. Do you investigate?",
+            "t": "A",
+            "v": "754023_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

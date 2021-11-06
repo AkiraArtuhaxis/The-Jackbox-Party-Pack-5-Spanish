@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un inodoro | un dinosaurio deformado | un vendedor de autos | un vampiro | un loro que reposa en tu hombro",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.74",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.58",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Te sigue a todas partes.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.87",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "La única forma de deshacerse de él es matándolo. Estás en camino al trabajo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu amigo imaginario desde la infancia se materializa de repente como",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.40",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te deshaces de él?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Verdaderos amigos",
+            "t": "A",
+            "v": "742488_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your imaginary friend since childhood suddenly materializes as this thing. It follows you everywhere. The only way to get rid of it is to kill it. You’re on your way to work. Do you get rid of it?",
+            "t": "A",
+            "v": "742489_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

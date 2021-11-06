@@ -1,0 +1,90 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un hisopo uretral | tus pestañas recortadas | una entrada de diario muy vergonzosa | cera de oídos | pelo de tus piernas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "muestra de orina",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+6.68",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.47",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.65",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Las leyes de identificación de votantes se han vuelto muy estrictas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Ahora, cuando vayas a votar, debes proporcionar una muestra de orina o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué tipo de identificación adicional traes a tu lugar de votación?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nuevo requisito de votación [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Voter ID laws have become very strict. Now when you go to vote, you must provide a urine sample or this. Which extra form of ID do you bring to your polling place?",
+            "t": "A",
+            "v": "755008_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

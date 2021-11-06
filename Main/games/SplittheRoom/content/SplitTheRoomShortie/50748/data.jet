@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Adam Sandler | Jennifer Aniston | Bo Burnham | un ermitaño rico | un caballo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.78",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.72",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.78",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "En una elección presidencial, se ha escrito tu nombre en un número impactante de boletas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Al final ganas, derrotando por poco a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Prestas juramento?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Voto escrito, voto borrado",
+            "t": "A",
+            "v": "726221_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "In a presidential election, your name has been entered on a shocking number of write-in ballots. You end up winning, narrowly defeating this person.  Do you take the oath?",
+            "t": "A",
+            "v": "726222_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

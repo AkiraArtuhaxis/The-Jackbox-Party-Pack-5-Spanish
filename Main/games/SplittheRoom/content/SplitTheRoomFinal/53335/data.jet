@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "sonreir a los bebés | utilizar baños públicos | tomar siestas | usar sombreros | tocar timbres",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "sentarte en taburetes",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+11.22",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.65",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+10.20",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Se te otorgará la habilidad del Súper Balance, lo que significa que nunca más tropezarás o te caerás.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero, como efecto secundario, desarrollarás una incapacidad para sentarte en taburetes o una incapacidad de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿A qué habilidad renuncias?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Intercambio del Super Balance [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You will be granted the ability of Super Balance, meaning you will never trip or stumble again. But, as a side effect, you will either develop an inability to sit on stools or an inability to do this. Which ability do you give up?",
+            "t": "A",
+            "v": "761301_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Viendo el lado positivo, nunca estarás en America’s Funniest Home Videos.",
+            "t": "A",
+            "v": "761304_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

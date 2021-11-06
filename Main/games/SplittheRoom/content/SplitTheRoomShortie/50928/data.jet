@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "humanos | gatitos | pingüinos | escamas de peces | avispas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.94",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.97",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.91",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás en una boutique que vende ropa impresionante, que se adapta perfectamente a tu cuerpo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, cuando examinas las etiquetas descubres que toda la ropa está hecha de 100%",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Compras un atuendo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "La ropa hace al loco",
+            "t": "A",
+            "v": "728325_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re in a boutique that sells stunning clothes that fits your body perfectly. However, when you examine the tags you discover that all the clothes are made out of 100% this. Do you buy an outfit?",
+            "t": "A",
+            "v": "728326_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "hacer caca | comerse a besos | morir violentamente | hacerse un enema | depilarse con cera",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+13.18",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.77",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.68",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "El gimnasio está lleno, pero la máquina está disponible.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu gimnasio acaba de instalar una máquina de última generación que te permite quemar fácilmente 2.000 calorías en 5 minutos.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Funciona así: te pones encima y haces la pantomima de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.67",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo usas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Siente el calor",
+            "t": "A",
+            "v": "734246_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your gym just installed a state-of-the-art machine that makes you easily burn 2,000 calories in 5 minutes. Here’s how it works: You get on top of it and pantomime THIS ACTION. The gym is full but the machine is available. Do you use it?",
+            "t": "A",
+            "v": "720909_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

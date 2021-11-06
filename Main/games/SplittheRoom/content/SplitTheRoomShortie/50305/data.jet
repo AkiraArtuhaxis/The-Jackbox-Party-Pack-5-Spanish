@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "papi | pipí | húmedo | ensalada | mancha",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.39",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.64",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.50",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "le causa la pérdida de memoria al concursante en primer lugar.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás actualmente en segundo lugar en un programa de juegos televisado a nivel nacional.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Resulta que sabes que la palabra",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.71",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Colocas esa palabra en una respuesta?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El secreto del concursante",
+            "t": "A",
+            "v": "734354_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are currently second place on a nationally televised game show. You happen to know that this word triggers memory loss in the first place contestant. Do you slip that word into an answer?",
+            "t": "A",
+            "v": "720666_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

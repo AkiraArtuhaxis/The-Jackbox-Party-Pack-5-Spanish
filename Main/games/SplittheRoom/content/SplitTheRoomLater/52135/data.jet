@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "billetera | testamento | transportador de gatos | despensa | bastón",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.81",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.69",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Justo después de que se marcha, te das cuenta de que dejó su",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.22",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás en el último tren de la noche.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sentado frente a ti hay un adorable anciano.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.72",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo persigues?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Puertas abiertas a la derecha",
+            "t": "A",
+            "v": "745330_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re on the last train of the night. Sitting across from you is an adorable old man. RiIght after he departs you notice he left behind this item.  Do you chase after him?",
+            "t": "A",
+            "v": "745331_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

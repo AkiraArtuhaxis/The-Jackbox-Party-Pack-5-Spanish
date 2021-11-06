@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "su cabello | un diente | un sándwich gigante | lágrimas | su camiseta favorita",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.92",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.64",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.38",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu sitio web favorito de repente coloca un muro de pago.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero en lugar de una tarifa monetaria, el sitio requiere que los suscriptores realicen una ofrenda anual de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Te suscribes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Inicio de terror",
+            "t": "A",
+            "v": "762810_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your favorite website suddenly puts up a paywall. But instead of a monetary fee, the site requires subscribers to give an annual offering of this. Do you subscribe?",
+            "t": "A",
+            "v": "721711_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

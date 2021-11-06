@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "convertir el agua en vino | volar durante una hora | leer pensamientos | levantar el triple de tu peso | no necesitar dormir",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "olla de oro",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+5.50",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.58",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.50",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Has capturado un duende.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Te ofrece su olla de oro o la habilidad de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué oferta aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Obsequio de duende capturado [FINAL]",
+            "t": "A",
+            "v": "728912_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve captured a leprechaun. He offers you his pot of gold or the ability to do this. Which offer do you take?",
+            "t": "A",
+            "v": "728913_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Lo importante es que capturaron un duende.",
+            "t": "A",
+            "v": "728916_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

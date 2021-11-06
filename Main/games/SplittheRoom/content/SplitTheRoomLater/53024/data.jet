@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "caníbales | robots terminators | payasos asesinos | drones | zombis veloces",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.76",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.93",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.72",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes una sierra pero no daña las esposas.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tú y <OTHERPLAYER> están esposados ​​juntos.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Están siendo perseguidos por una banda de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.08",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te cortas la mano?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El vínculo más débil",
+            "t": "A",
+            "v": "758013_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You and <OTHERPLAYER> are handcuffed together. You’re being pursed by a gang of THIS. You have a saw but it does no damage to the handcuffs. Do you cut your hand off?",
+            "t": "A",
+            "v": "758014_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

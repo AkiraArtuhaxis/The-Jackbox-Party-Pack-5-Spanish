@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "pizza gratis de por vida | un cuerpo perfecto | un ascensor en su casa | el perro más suave del mundo | un avión privado",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.26",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "El pretendiente #2 tiene",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás indeciso entre dos potenciales amantes, equivalentes en todos los sentidos menos uno.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "El pretendiente #1 tiene un yate de 3 habitaciones.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.27",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "el yate",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+4.45",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.78",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué beneficio prefieres?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Dos buenos pretendientes [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are torn between two potential lovers, equivalent in all ways but one. Suitor #1 has a 3-bedroom yacht. Suitor #2 has this. Which perk wins out?",
+            "t": "A",
+            "v": "752529_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Les aseguro que no importa a quién elijan. No funcionará.",
+            "t": "A",
+            "v": "752532_0",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cacacola | Palonelculo | Apellido | Bubú | Pedomán",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.28",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.71",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.07",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Te pide que tomes su apellido cuando se casen. Significa el mundo para él/ella.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Encontraste al amor de tu vida. Todo sobre esta persona es básicamente perfecto.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, su apellido es",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.10",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo destruyes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Una rosa con cualquier otro apellido",
+            "t": "A",
+            "v": "726659_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You found the love of your life. Everything about them is just about perfect. However, their last name is this. They ask that you take that name when you get married. It means the world to them. Do you?",
+            "t": "A",
+            "v": "726660_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "pedorro | papi | pastelito de amor | nalgas de bebé | prima",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.25",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.48",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.07",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Te lo dirá todos los días.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un algoritmo te ha emparejado con tu pareja perfecta... con una advertencia.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El apodo “tierno” que esta persona tendrá para ti es",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.28",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Se casan?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Una pareja casi hecha en el cielo",
+            "t": "A",
+            "v": "730901_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "An algorithm has matched you with your perfect mate... with a caveat.  This person’s “cute” nickname for you is this. They will say it every single day.  Do you get married?",
+            "t": "A",
+            "v": "730902_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

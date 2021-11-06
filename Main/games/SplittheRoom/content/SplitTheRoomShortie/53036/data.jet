@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "te vistas como una salamandra | le untes con mostaza | le declares tu amor | hagas sentadillas | le cantes una serenata",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.76",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.78",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.22",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "... mientras mantienes un contacto visual perfecto.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Le estás dando un masaje a <OTHERPLAYER>.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Conoces una técnica que aliviará instantáneamente todo su dolor, pero requiere que tú",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.58",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Usas la técnica?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Acéitame todo",
+            "t": "A",
+            "v": "758143_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are giving <OTHERPLAYER> a massage. You know of a technique that will instantly relieve all of their pain, but it involves you DOING THIS....while maintaining perfect eye contact. Do you use the technique?",
+            "t": "A",
+            "v": "758144_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

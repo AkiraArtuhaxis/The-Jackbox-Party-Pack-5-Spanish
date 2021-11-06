@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "reina de los condenados | granjero de queso | higienista dental | tonto sin amigos | luchador de osos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "Entusiasta de traseros",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.70",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.09",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.65",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás en un reality show de citas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El equipo de producción te informa que el título que aparece debajo de tu nombre será “Entusiasta de Traseros” O",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué descripción de reality show eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Descriptor de reality show [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are on dating reality show.  The production team tells you that the caption that appears below your name will either read “Booty Enthusiast” or this.  Which reality show descriptor do you choose?",
+            "t": "A",
+            "v": "731587_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Claramente, entusiasta de traseros es la mejor opción.",
+            "t": "A",
+            "v": "731590_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

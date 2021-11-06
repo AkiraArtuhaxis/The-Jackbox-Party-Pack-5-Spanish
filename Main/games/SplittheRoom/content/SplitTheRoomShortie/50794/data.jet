@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tocaba música | conducía camiones | una vez estuvo en la cárcel | amaba las ranas | su color favorito era el naranja",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.54",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.68",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.75",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Nadie más va a subir.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te encuentras en el funeral de un hombre que no conoces. Te invitan a decir unas palabras.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Lo único que sabes sobre el difunto es que",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.75",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Intentas decir unas palabras?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Palabras sorpresa",
+            "t": "A",
+            "v": "726709_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You find yourself at a memorial service for a man you’ve never met. You’re invited up to say a few words. All you know about the deceased man is this. Nobody else is getting up there. Do you attempt to give a eulogy?",
+            "t": "A",
+            "v": "726710_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

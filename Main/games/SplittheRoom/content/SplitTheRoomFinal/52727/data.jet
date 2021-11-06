@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "dónde está el baño más cercano | las líneas de metro más rápidas para entrar | quién está enojado contigo | si estás en peligro | las tradiciones locales",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.54",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "El otro te dice",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás personalizando tu reloj inteligente. Puedes elegir entre dos funciones.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Uno te dice lo que piensan las personas cercanas a ti.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.50",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "saber lo que piensa la gente",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.78",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.24",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué función de reloj inteligente eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Función de reloj inteligente [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re customizing your smart watch. You can pick between two features. One tells you what people near you are thinking. The other tells you THIS. Which smart watch feature do you pick?",
+            "t": "A",
+            "v": "754139_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "volar | ver a través de las paredes | no aumentar de peso | teletransportarse | controlar los truenos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+13.13",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.32",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.69",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, debes mirar cada segundo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres transportado al momento justo antes de ser concebido.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Si ves a tus padres realizar el acto, nacerás con la capacidad de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+11.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Miras?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Mantén un ojo abierto",
+            "t": "A",
+            "v": "726689_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are transported back to the moment right before you were conceived. If you watch your parents perform the act, you’ll be born with the ability to do this. You must watch every second, though. Do you watch?",
+            "t": "A",
+            "v": "726690_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

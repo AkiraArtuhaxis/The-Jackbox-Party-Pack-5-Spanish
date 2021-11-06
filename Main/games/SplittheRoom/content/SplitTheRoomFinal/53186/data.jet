@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "serás alérgico a todas las mascotas | serás propenso a hacer chistes de papá | solo podrás usar shorts | tendrás caspa intratable | te pondrás muy sensible",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.70",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "no te verás afectado por la cafeína o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un experimento militar te dará superpoderes, pero hay un costo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "A medida que ajustan tu biología, tienen que darte una debilidad:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.38",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "no ser afectado por la cafeína",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.58",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.62",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué debilidad eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Debilidad del superhéroe [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A military experiment will give you superpowers, but there’s a cost. As they adjust your biology, they have to give you one weakness: you’ll either be unaffected by caffeine or will have THIS happen. Which weakness do you choose?",
+            "t": "A",
+            "v": "759558_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

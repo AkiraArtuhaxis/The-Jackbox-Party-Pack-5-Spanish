@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu barra de oro | la urna de tu abuela | tu acta de nacimiento | montones de efectivo | tu mascota",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.70",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Él tiene un abogado bastante bueno.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu casa está en llamas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes salvar la evidencia recién descubierta que demuestra que tu hermano es inocente de asesinato O puedes salvar",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.18",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "evidencia que salva a tu hermano",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+1.22",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.17",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué objeto prefieres salvar?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "House is Burning [FINAL]",
+            "t": "A",
+            "v": "728653_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your house is burning. You can either save newly-discovered evidence that proves your brother is innocent of murder or you can save this. He has a pretty good lawyer. Which do you choose?",
+            "t": "A",
+            "v": "728654_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Hey, dije que tenía un abogado bastante bueno.",
+            "t": "A",
+            "v": "728657_3",
+            "n": "ResponseAudio"
+        }
+    ]
+}

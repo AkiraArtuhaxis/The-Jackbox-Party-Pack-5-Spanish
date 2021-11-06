@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Te amo | Debemos derrocar a la sociedad | Te conseguiré $600 | Lo he visto todo | La revolución está sobre nosotros",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.86",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.92",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "En ese momento, tu aspiradora revela que puede hablar y dice:",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.90",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un día, un par de hombres en traje aparecen en tu puerta.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Te ofrecen $500 por su antiguo robot aspiradora.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.84",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo conservas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Una conciencia limpia",
+            "t": "A",
+            "v": "739497_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "One day, a couple of men in suits appear at your door. They offer you $500 for your old robot vacuum. Just then, your vacuum reveals it can speak and says this. Do you keep it?",
+            "t": "A",
+            "v": "739498_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

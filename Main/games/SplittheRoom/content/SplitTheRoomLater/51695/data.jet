@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "señalas a los niños feos | te desmayas | robas dulces | destruyes la mesa más cercana | sufres de un ataque de estornudos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.96",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.55",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Has empatado en el primer lugar en una carrera de relevos caritativa para niños.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.10",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "El premio mayor es pizza gratis durante un año. El ganador será anunciado mediante un lanzamiento de moneda.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cada vez que una moneda sale cara, tú siempre",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.67",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te retiras?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Todo sea por una buena rebanada",
+            "t": "A",
+            "v": "738943_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "When a coin comes up heads, you always do this. You just tied for first place in a children’s charity relay race.  The top prize is free pizza for a year. The winner will be announced via a coin toss. Do you bow out?",
+            "t": "A",
+            "v": "738944_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

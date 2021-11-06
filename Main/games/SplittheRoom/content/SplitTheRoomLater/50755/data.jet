@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Friends | The Office | The Big Bang Theory | Brooklyn 99 | Bob Esponja",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+13.96",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.82",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "sin reírse ni una vez. Tienes que mirar 18 horas al día hasta su finalización.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.10",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "La tarifa de entrada no reembolsable es de $2.000.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un concurso especial ofrece $50.000 a cualquiera que pueda mirar activamente cada episodio de",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.97",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El concurso",
+            "t": "A",
+            "v": "726282_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A special contest is offering $50,000 to anyone who can actively watch every episode of this show without laughing once. You have to watch 18 hours a day until completion. The non-refundable entry fee is $2,000. Do you do it?",
+            "t": "A",
+            "v": "726283_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

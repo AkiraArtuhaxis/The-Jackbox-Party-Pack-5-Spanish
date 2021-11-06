@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un maniquí que se parece un poco a ti | una ardilla muerta colgada de un árbol | “No” escrito con donas | sombras con vida | ojos en los árboles",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.22",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.86",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.22",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Siempre has escuchado rumores sobre la bruja malvada que vive en el bosque, pero solo ahora has decidido investigar.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Apenas avanzados unos metros en el bosque, ves",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Te das la vuelta y dejas de investigar?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Buscando brujas",
+            "t": "A",
+            "v": "747355_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve always heard rumors of the evil witch who lives in the woods, but now you’ve decided to investigate. Just a few feet into the forest, you see this. Do you turn back and give up?",
+            "t": "A",
+            "v": "747356_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

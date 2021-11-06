@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kanye West | Jeff Bezos | Drake | Donald Trump | Mark Zuckerberg",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.94",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.08",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.03",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes que apoyarlo públicamente como parte de tu trabajo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te contratan en una agencia de relaciones públicas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Te da buen dinero, pero tu único cliente será",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.15",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Trabajas aquí durante al menos un año?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El cliente",
+            "t": "A",
+            "v": "734070_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You get hired at a PR agency. The money’s great, but your only client will be this person. You have to publicly endorse them as part of your job. Do you work here for at least a year?",
+            "t": "A",
+            "v": "734071_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

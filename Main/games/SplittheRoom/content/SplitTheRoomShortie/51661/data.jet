@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cómo se aparean los gusanos | Terapia de gritos: cambió mi vida | Los dinosaurios son falsos | Por qué me encantó el 2016 | Perros, ¿sobrevalorados?",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.48",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.70",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.53",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Cada palabra de ella está en un teleprónter. Volverás a tu cuerpo en una hora.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cambias de cuerpo con una persona a punto de dar una charla Ted.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El título de su conferencia es",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.92",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Prosigues con la charla?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Charlando la charla",
+            "t": "A",
+            "v": "738457_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You switch bodies with a person about to give a TedTalk. The title of their lecture is this. Every word of it is on a teleprompter. You’ll return to your body in an hour. Do you perform the speech?",
+            "t": "A",
+            "v": "738458_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

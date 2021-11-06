@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un excelente chef | un ingeniero brillante | un granjero hábil | un músico talentoso | un arquitecto",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.84",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Solo hay espacio para uno.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás preparando despegar la última nave fuera de la Tierra antes de que se autodestruya. Dos personas tocan la puerta de la nave.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Uno es un médico mediocre; el otro es",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.30",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "médico mediocre",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+5.76",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.34",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿A quién llevas a bordo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Última entrada de la nave espacial [FINAL]",
+            "t": "A",
+            "v": "728664_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are preparing the last ship off Earth before it self-destructs. Two people knock on the ship’s door. One is a mediocre doctor, the other is this person. There is only room for one.",
+            "t": "A",
+            "v": "728665_8",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

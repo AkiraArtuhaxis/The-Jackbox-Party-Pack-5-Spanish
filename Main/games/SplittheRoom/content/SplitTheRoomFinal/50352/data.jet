@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "labios inflados | jeans largos | collares reventados | pulseras de bofetada | neón sin fin",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "colas de rata",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+7.66",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.41",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.63",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Eres una gran celebridad con el poder de traer de vuelta las viejas tendencias.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Estás pensando en traer de vuelta las colas de rata o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué tendencia de moda traes de vuelta?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Tendencia para traer de vuelta [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are a huge celebrity with the power to bring back old trends. You’re thinking about bringing back either rat tails or <BLANK>. Which fashion trend do you bring back?",
+            "t": "A",
+            "v": "721241_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Han decidido usar sus poderes para el mal.",
+            "t": "A",
+            "v": "721244_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

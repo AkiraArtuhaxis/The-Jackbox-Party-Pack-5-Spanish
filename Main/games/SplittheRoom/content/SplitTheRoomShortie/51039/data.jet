@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un asiento en el palco de cualquier estadio | una casa de playa | un Tesla | un sistema de cine en casa | un yate",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.13",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.40",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Tendrás protección completa, pero los defensores correrán a toda velocidad.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.90",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Si corres con el balón tres veces en un partido de fútbol americano universitario, serás recompensado con",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El último corredor",
+            "t": "A",
+            "v": "729823_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "If you run the ball three times in a college football game, you’ll get rewarded with this. You’ll have on full pads, but the defenders will be going full speed. Do you do it?",
+            "t": "A",
+            "v": "729824_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

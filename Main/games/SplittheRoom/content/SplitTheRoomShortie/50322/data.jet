@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un cinturón de castidad | una mascara de cuero | dos viseras | gorros al revés | coletas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.94",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.38",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Tienes una entrevista de trabajo en una oficina moderna y llena de jóvenes. Es la única oferta de trabajo prometedora que has recibido en semanas.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.04",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes familia.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "La nueva tendencia en el mundo de la moda, lo creas o no, implica usar",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.67",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo llevas puesto?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Avance acelerado de la moda",
+            "t": "A",
+            "v": "734243_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "The hot new fashion trend, believe it or not, involves wearing this. You have a job interview at a hip, young office. It’s the only promising job lead you’ve had in weeks. You have a family. Do you wear it?",
+            "t": "A",
+            "v": "720900_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

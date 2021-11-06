@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "la música country | el cosplay | los pies | tuitear en vivo | las playas nudistas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+14.27",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.38",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+10.66",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Como el original, tienes derecho a destruirlo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Los científicos hacen tu clon. Se ve y suena exactamente como tú.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "De hecho, todos sus detalles son exactos, excepto por una cosa: Le gusta mucho, muchísimo,",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+11.72",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo destruyes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Ataque de tu clon",
+            "t": "A",
+            "v": "730405_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Scientists make your clone. It looks and sounds exactly like you. In fact, every detail about it is accurate, except for one thing: it’s really, really into this.  As the original, you have the right to destroy it. Do you?",
+            "t": "A",
+            "v": "722267_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Justin Timberlake | Barack Obama | tu abuelo de 92 años | darte como voluntario | al piloto",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "<OTHERPLAYER>",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+7.14",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.80",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.10",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Has sobrevivido a un accidente de avión de montaña y es hora de empezar a comer gente.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes comerte a <OTHERPLAYER> o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿A quién te comes para sobrevivir?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Víctima que se comió un accidente de avión [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve survived a mountain plane crash and it’s time to start eating people. You can choose this person or… <OTHERPLAYER>. Whom do you eat for survival purposes?",
+            "t": "A",
+            "v": "753124_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Well, this is awkward.",
+            "t": "A",
+            "v": "753127_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

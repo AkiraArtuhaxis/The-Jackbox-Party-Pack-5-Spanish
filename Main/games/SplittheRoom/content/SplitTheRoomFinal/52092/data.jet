@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "trabajador de matadero | deshollinador de chimeneas | proctólogo | paleador de nieve | manipulador de serpientes",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "granjero de gusanos",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+7.07",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.46",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.93",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "En el futuro, el gobierno te asigna trabajos a los 16 años.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes convertirte en un granjero de gusanos o en un",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué trabajo obligatorio eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Trabajo obligatorio [FINAL]",
+            "t": "A",
+            "v": "744603_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "In the future you are assigned jobs by the government at age 16. You can either become a maggot farmer or this vocation.  Which mandated job do you take?",
+            "t": "A",
+            "v": "744604_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Verdaderamente se destacarán en LinkedIn.",
+            "t": "A",
+            "v": "744607_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu tío | tu vecino | tu ex que aun te ama | tu casero | tu jefe",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.74",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.61",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.96",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": ".",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás ayudando a tu mejor amigo en una performance escénica en el museo de arte.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tu función consiste en acariciar las mejillas de cada visitante del museo y susurrar: “Te deseo”. En la primera hora, entra",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.96",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Continúas con ello?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Hazlo por el arte",
+            "t": "A",
+            "v": "734293_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re helping out your best friend in a performance art piece at the Met. Your role consists of stroking the cheeks of every museum visitor and whispering, “I crave you.” Within the first hour, this person walks in. Do you go through with it?",
+            "t": "A",
+            "v": "734294_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

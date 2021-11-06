@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "escondes una familia secreta | eres malo con los perros | solías ser un asesino de la mafia | le temes a los animales bebés | ganaste la lotería en secreto",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.28",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.55",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Si le dices al jurado la verdad, irá a los periódicos con el terrible secreto de que",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.92",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un testigo clave en un juicio por hurto menor.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "La noche antes de que testifiques, el hermano del sospechoso te amenaza.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.88",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Testificas honestamente?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Pruebas falsas y tribulaciones",
+            "t": "A",
+            "v": "748836_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a key witness in a petty theft trial. The night before you testify, the suspect’s brother threatens you. If you tell the jury the truth, he’ll go to the papers with the terrible secret that you’re this. Do you testify honestly?",
+            "t": "A",
+            "v": "748837_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

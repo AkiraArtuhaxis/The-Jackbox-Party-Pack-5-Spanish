@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "contraiga salmonella | caiga por las escaleras | tenga mucho acné | descargue un virus | derrame una sola lágrima",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.76",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Eventualmente se recuperarán y nunca sabrán que fue el resultado de que dejaste de seguirle.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.94",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Pero tú sí lo sabrás.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cada vez que ocultas a un familiar molesto en las redes sociales, hace que este",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.71",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aún así lo ocultas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Oculto a plena vista",
+            "t": "A",
+            "v": "734279_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Every time you hide an obnoxious family member on social media, it causes them to do this. They’ll eventually recover and they will never know it was a result of you unfollowing them. But you will know. Do you still hide them?",
+            "t": "A",
+            "v": "722214_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

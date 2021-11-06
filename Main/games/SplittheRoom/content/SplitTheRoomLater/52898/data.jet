@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "políticos deshonrados | suegras | ratas | garrapatas | estrellas de realities",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.92",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.92",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.72",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Como parte de una nueva iniciativa del gobierno, se te ofrecen 150 hectáreas hermosas en el campo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero debes pasar los primeros dos años usándolas como un santuario para",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Tomas el terreno “libre”?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Solo hay que cuidar la tierra",
+            "t": "A",
+            "v": "756445_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "As part of a new government initiative, you are offered 150 acres of beautiful countryside. But you must spend the first two years running it as a sanctuary for <BLANK>. Do you take the “free” land?",
+            "t": "A",
+            "v": "756446_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

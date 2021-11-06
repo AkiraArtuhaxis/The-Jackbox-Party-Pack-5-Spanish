@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "te comes un corazón humano | pasas una noche en un ataúd enterrado | robas un artefacto mágico de un museo | solo te vistes de color negro | escuchas exclusivamente música pop",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "casarse con una cabra",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+7.95",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.72",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.85",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "La ciencia médica te ha fallado...pero el ocultismo te ofrece una cura.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tendrás una salud perfecta si te casas con una cabra o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿En qué ritual oculto participas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cura extraña [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Medical science has failed you....but the occult offers you a cure. You’ll have perfect health if you marry a goat or do this. Which occult ritual do you take part in?",
+            "t": "A",
+            "v": "761403_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Dejen de fingir que son demasiado importantes para casarse con una cabra.",
+            "t": "A",
+            "v": "761406_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

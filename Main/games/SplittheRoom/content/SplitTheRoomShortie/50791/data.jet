@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "mamá | un perdedor | Miranda | una decepción | horrendo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.80",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.80",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "$100 serán depositados automáticamente en tu cuenta bancaria. Si él se entera de los depósitos, el dinero deja de llegar.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+2.81",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Lo despidieron recientemente.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cada día que llames a tu papá",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”,",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.14",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo llamas así?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Chistes de padre",
+            "t": "A",
+            "v": "726679_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Every day you call your dad this, you’ll have $100 automatically deposited into your bank account. If he finds out about the deposits, the money stops. He recently got laid off. Do you call him that name?",
+            "t": "A",
+            "v": "726680_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

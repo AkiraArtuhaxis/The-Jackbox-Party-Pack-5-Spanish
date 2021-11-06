@@ -1,0 +1,74 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Acabamos de descubrir internet.",
+        "INTERNET_DISCONNECTED": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+        "ROOM_DESTROYED": "Se ha producido un error y tu sala se ha desintegrado.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+        "SOCKET_DISCONNECTED": "Hemos perdido la conexión con los servidores de Jackbox Games.",
+        "TIMEOUT": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+        "USER_DISCONNECT": "Te has desconectado del servidor. Vuelve a intentarlo.",
+        "LOST_LICENSE": "No hemos encontrado la licencia para este contenido.",
+        "STEAM_ERROR": "No hemos podido validar tu licencia de Steam.",
+        "TWITCH_PRIME_ERROR": "No hemos podido validar tu licencia de Twitch Prime.",
+        "LOST_DLC": "No hemos encontrado la licencia para el contenido descargable. Volviendo al menú principal...",
+        "CLOSE": "Cerrar",
+        "QUIT": "Salir",
+        "BACK": "Atrás",
+        "MENU_GAME_NAME_1": "YOU DON’T KNOW JACK",
+        "MENU_GAME_NAME_2": "Divide la sala",
+        "MENU_GAME_NAME_3": "Mad Verse City",
+        "MENU_GAME_NAME_4": "Zeeple Dome",
+        "MENU_GAME_NAME_5": "Patently Stupid",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "Ajustes",
+        "MENU_HOW_TO": "CÓMO JUGAR",
+        "BADGE_TITLE_PLAYERS": "JUGADORES",
+        "BADGE_TITLE_FAMILY_MODE": "PARA TODA LA FAMILIA",
+        "BADGE_TITLE_NOT_FAMILY_MODE": "NO PARA TODA LA FAMILIA",
+        "BADGE_TITLE_AUDIENCE": "PÚBLICO",
+        "BADGE_SUB_PLAYERS": "USA CELULARES/TABLETS",
+        "BADGE_SUB_FAMILY_MODE": "OPCIONAL",
+        "BADGE_SUB_NOT_FAMILY_MODE": "¡EN SERIO!",
+        "BADGE_SUB_AUDIENCE": "MÁS PUEDEN PARTICIPAR",
+        "INFO_DESCRIPTION_GAME_1": "¡YOU DON’T KNOW JACK: Full Stream trae el clásico irreverente de trivia al popular y ficticio servicio de streaming Binjpipe! ¡Sus términos de servicio explícitamente garantizan que te va a encantar!",
+        "INFO_DESCRIPTION_GAME_2": "¡Un juego donde todo es posible! Crea situaciones hipotéticas extrañas y divisivas.",
+        "INFO_DESCRIPTION_GAME_3": "¡El juego de batallas rap de robots! Tirate unas buenas rimas contra tus amigos para ver quien es el mejor MC y cuál el gato más pillo.",
+        "INFO_DESCRIPTION_GAME_4": "¡El programa de juegos más letal de la galaxia! ¡¡¡Dispárate para ganar premios fabulosos!!!",
+        "INFO_DESCRIPTION_GAME_5": "¡El ingenioso juego de dibujo donde resuelves problemas bizarros! ¡Propone tus ideas para juntar el dinero!",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "AJUSTES",
+        "SETTINGS_FULL_SCREEN": "Pantalla completa",
+        "SETTINGS_VOLUME": "Volumen",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "SI hará que los juegos estén en pantalla completa.",
+        "SETTINGS_VOLUME_DESCRIPTION": "Haz del juego uno RUIDOSO o CALLADO.",
+        "SETTINGS_TOGGLE_ON": "SI",
+        "SETTINGS_TOGGLE_OFF": "NO",
+        "HELP_TITLE": "INSTRUCCIONES",
+        "HELP_LINE_1": "Elige un juego utilizando un mando.",
+        "HELP_LINE_2": "Cuando llegues al lobby, toma tu celular, tablet o laptop.",
+        "HELP_LINE_3": "Dirígete a jackbox.lol en tu dispositivo.",
+        "HELP_LINE_4": "Ingresa el código de 4 letras mostrado en la pantalla de tu TV y tu nombre como jugador.",
+        "HELP_LINE_5": "El primer jugador en unirse al lobby del juego (el VIP) puede comenzar el juego desde su dispositivo cuando todos estén listos.",
+        "HELP_LINE_6": "Disfruta con tus amigos, familia, o completos desconocidos."
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}

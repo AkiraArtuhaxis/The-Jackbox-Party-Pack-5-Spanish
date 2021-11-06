@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "cantando tres canciones de Taylor Swift | comiendo un puñado de pasto | haciendo 100 flexiones | bebiendo un galón de leche | dándoles tus zapatos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "cantando Coldplay",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.22",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.83",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.20",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Eres confrontado por el troll del puente. Solo hay dos formas de derrotarlo:",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "cantando tres canciones de Coldplay seguidas O",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Con qué decides atacarlo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Bridge Toll: Formas de derrotar [FINAL]",
+            "t": "A",
+            "v": "730014_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are confronted by a bridge troll. There are only two ways to defeat him: by singing three Coldplay songs in a row or by doing this. Which attack do you choose?",
+            "t": "A",
+            "v": "727032_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Pensé que habría una luz verde para Coldplay. Supongo que todo era amarillo.",
+            "t": "A",
+            "v": "727035_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

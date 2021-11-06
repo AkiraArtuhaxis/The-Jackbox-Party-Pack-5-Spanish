@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "la mente de Jimmy Fallon | la mente del presidente | la mente de un asesino en serie | la mente de tu jefe",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "la mente de <OTHERPLAYER>",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.40",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.22",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.16",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Un trozo de meteorito cayó en tu jardín.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Cuando lo tocas, puedes ver el interior de la mente de <OTHERPLAYER> o puedes ver",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué visión eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Viendo en la mente [FINAL]",
+            "t": "A",
+            "v": "761694_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A piece of a meteorite landed in your yard. When you touch it, you can either see into the mind of THIS PLAYER or you can see into THIS PERSON’S. Which vision do you choose?",
+            "t": "A",
+            "v": "761695_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

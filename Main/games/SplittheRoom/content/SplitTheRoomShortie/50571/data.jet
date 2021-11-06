@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una mano | un camión de juguete | una rueda | un pie izquierdo | un perro caliente",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.03",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.19",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Como broma, tu amigo desea que tu pie derecho sea reemplazado por",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.36",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Despiertas a un genio.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tú y tu mejor amigo reciben un deseo cada uno.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.75",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Utilizarías tu único deseo para regresarlo a la normalidad?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cuidado con lo que desean",
+            "t": "A",
+            "v": "725476_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You awaken a genie. You and your best friend each get one wish. As a prank, your pal wishes your right foot was replaced with this. Do you use your one wish to change it back?",
+            "t": "A",
+            "v": "723943_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Doink Doink | Patéame | Conserje Juan | Obtenga algunos | No oler",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.68",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Hay un par que dice “TRASERO SUCULENTO” y otro que dice",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres director de una escuela secundaria.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Debido a un incidente, debes ponerte un par de pantalones deportivos del contenedor de objetos perdidos.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.64",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "TRASERO SUCULENTO",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+1.42",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.30",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué pantalones usas al salir del edificio?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Pantalones deportivos del director [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a high school principal. Due to an...incident...you have to change into a pair of sweatpants from the Lost & Found bin. There’s a pair that says “SUCCULENT BOOTY” and one that says “THIS”. Which sweatpants do you wear as you leave the building?",
+            "t": "A",
+            "v": "759548_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

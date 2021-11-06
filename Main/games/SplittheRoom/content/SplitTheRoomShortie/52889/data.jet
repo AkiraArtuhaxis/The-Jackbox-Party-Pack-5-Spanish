@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Metiendo y sacando | Habitación 69 | Cama cogida | Hotel Hormonas | Gemidos a la habitación",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.14",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.69",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<i><BLANK><\/i>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.32",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu nombre estará en el póster.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Acabas de vender un guión.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, el estudio quiere cambiarle el título de <i>El hotel del amor<\/i> a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.42",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Cancelas el contrato?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Compromiso artístico",
+            "t": "A",
+            "v": "756349_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You just sold a screenplay. However, the studio wants to change the title from <i>The Love Hotel<\/i> to this. Your name will be on the poster. Do you pull out of the contract?",
+            "t": "A",
+            "v": "756350_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

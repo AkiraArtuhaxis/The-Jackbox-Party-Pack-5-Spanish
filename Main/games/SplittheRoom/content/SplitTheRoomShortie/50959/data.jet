@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "“La purga” | “Dunkerque” | “Scream” | “Un lugar en silencio” | “La guerra de los mundos”",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.10",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.68",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "En lugar de 6 meses en la cárcel, puedes pasar dos horas dentro de la película",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.29",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<i><BLANK><\/i>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Es el futuro, y has sido declarado culpable de piratería de películas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El juez te ofrece un trato.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.08",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas la oferta?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Sentencia reproducida",
+            "t": "A",
+            "v": "728703_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "It’s the future and you’ve been found guilty of movie pirating. The judge offers you a deal. Instead of 6 months in jail, you can spend two hours inside this movie. Do you take the offer?",
+            "t": "A",
+            "v": "728704_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

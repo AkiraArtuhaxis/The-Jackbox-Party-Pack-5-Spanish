@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un pollo | un niño | extremadamente ansioso | incapaz de mentir | un comediante de improvisación",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.33",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.17",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Este individuo es inteligente y tiene mucha experiencia; sin embargo, resulta que es",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.91",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has sido acusado de un crimen que no cometiste.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Un abogado pro bono se acerca para representarte.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.84",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Dejas que esta persona te represente?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Los ojos de la justicia",
+            "t": "A",
+            "v": "730415_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve been accused of a crime you didn’t commit. A pro bono lawyer reaches out to represent you. This individual is intelligent and has a lot of experience, however, they just so happen to be this. Do you let this person represent you?",
+            "t": "A",
+            "v": "721719_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

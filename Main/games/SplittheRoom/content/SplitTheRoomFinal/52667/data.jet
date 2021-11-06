@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "El gran oyente | Solo Bruce Wayne | Señor del control de porciones | Muchacho de la Risa | Chica de evaluación de riesgo actuarial",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "Capitán Manos Grandes",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.84",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.96",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.28",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu estudio cinematográfico se ha quedado sin superhéroes rentables y necesitas un éxito.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes hacer una película sobre el Capitán Manos Grandes o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué nueva película de superhéroes financias?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nuevo rol de superhéroe [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your movie studio has run out of bankable superheroes and you need a hit. You can either make a movie about Captain Big Hands, or… THIS NEW SUPERHERO. Which new superhero movie do you fund?",
+            "t": "A",
+            "v": "753114_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Ugh, ambos se harían millones, ¿no?",
+            "t": "A",
+            "v": "753117_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

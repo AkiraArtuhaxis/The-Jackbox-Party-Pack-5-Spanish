@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Minions | Hitler besando a Stalin | retratos de Adam Sandler | peces gota | la guerra de Vietnam",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.96",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.44",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "De repente, el valor de su casa aumenta en un 10%.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Un famoso artista de grafiti cubre el frente de su casa con imágenes de",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo conservas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Banksy estuvo aquí",
+            "t": "A",
+            "v": "740073_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A famous graffiti artist covers the front of your house with images of this. Suddenly, the value of your home increases by 10%. Do you keep it?",
+            "t": "A",
+            "v": "740074_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

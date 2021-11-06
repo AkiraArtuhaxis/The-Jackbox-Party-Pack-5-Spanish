@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Esto es África | Apocalipsis Zombie | El Desaparecido | Días Duros | Bomba | Si Nos Quedara Poco Tiempo | No Amanece",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.30",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes reproducir “It’s Raining Men” o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás a punto de hacer una selección en una rocola mágica.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "El cantinero te advierte que la letra de la canción predecirá los eventos de tu vida durante la próxima semana.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.20",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "It’s Raining Men",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.70",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.57",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué canción profética eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Canción que predice el futuro [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re about to make a selection on a magical jukebox. The bartender warns you that the lyrics of the song will predict the events of your life over the next week. You can play “It’s Raining Men” or this. Which prophetic song do you choose?",
+            "t": "A",
+            "v": "760808_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "¿POR QUÉ nadie está hablando del CANTINERO EXTRAÑAMENTE CÓMPLICE?",
+            "t": "A",
+            "v": "760811_2",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Guy Fieri | tu papá | Gordom Ramsay | Mary Berry | tu bisabuela",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "de <OTHERPLAYER>",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+6.61",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.39",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.57",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes el poder de robar la capacidad de cocinar de alguien.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Este poder funciona con <OTHERPLAYER> o con",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿A quién le robas la habilidad de cocinar?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Capacidad de cocinar [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have the power to steal someone’s cooking ability. This power works on either <OTHERPLAYER> or THIS PERSON. Whose cooking ability do you steal?",
+            "t": "A",
+            "v": "765840_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "De todos modos, no van a mejorar mucho.",
+            "t": "A",
+            "v": "765843_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

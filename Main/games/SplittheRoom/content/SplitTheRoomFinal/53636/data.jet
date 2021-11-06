@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "la ciudad de Nueva York | sándwiches de jamón | una lavandería automática | algas | un pozo de Lollapalooza",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "<OTHERPLAYER>",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+7.55",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.27",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.54",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Eres el director ejecutivo de una empresa de perfumes.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes dar luz verde a un nuevo perfume que huela a <OTHERPLAYER> o a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿A qué huele tu nuevo perfume?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Elección de perfume [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re the CEO of a perfume company. You can either greenlight a new perfume that smells like <OTHERPLAYER> or like THIS. What does your new perfume smell like?",
+            "t": "A",
+            "v": "765755_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "En cualquier caso, espero que nunca se les caiga una botella.",
+            "t": "A",
+            "v": "765758_2",
+            "n": "ResponseAudio"
+        }
+    ]
+}

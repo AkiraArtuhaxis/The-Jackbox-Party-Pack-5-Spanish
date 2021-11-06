@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un pato parlante | un extraterrestre de ojos grandes | una nube de hongo | pie grande | rascacielos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.60",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.08",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.65",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Años más tarde, tu estúpida incorporación está cambiando la forma en que se enseña sobre las culturas primitivas en las escuelas.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "En tu adolescencia, te encontraste en una cueva con una pintura no descubierta.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Por diversión, sumergiste tu dedo en arcilla y agregaste un dibujo de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Admites lo que hiciste?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cueva de los gritos olvidados",
+            "t": "A",
+            "v": "749306_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "In your teens, you happened upon an undiscovered cave drawing. For fun, you dipped your finger into some clay and added a drawing of this. Years later, your stupid addition is changing how primitive cultures are taught in schools. Do you admit what you did?",
+            "t": "A",
+            "v": "749307_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

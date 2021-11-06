@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "bailar | leer señales sociales | acariciar perros | tocar la batería | manejar",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.56",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.41",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Si la tomas, la perderá permanentemente...",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.01",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "pero nunca sabrá que fuiste tú.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tienes la oportunidad de robar la habilidad de <OTHERPLAYER> para",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿La tomas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Lo que es tuyo es mío",
+            "t": "A",
+            "v": "757896_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are given the opportunity to steal <OTHERPLAYER>’s ability to do this.  If taken, they will permanently lose it...  but will never know it was you.  Do you take it?",
+            "t": "A",
+            "v": "757897_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "AAAHOOGAAAH | Me arden los genitales | Sándwich de vómito | YIIIIIIJAAAAH | Soy un tonto cachondo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.80",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.20",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, no funciona en todos.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.70",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás asistiendo a una exposición laboral cuando ves a alguien realmente atractivo/a.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Una mutación humana te permite atraer pretendientes amorosos gritando este sonido:",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "“¡<BLANK>!”",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.33",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Haces ese sonido?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Sonidos del amor",
+            "t": "A",
+            "v": "733383_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A human mutation allows you to attract mates by shouting this sound. It doesn’t work on everybody, though. You’re attending a job fair when you notice someone really attractive. Do you make that sound?",
+            "t": "A",
+            "v": "733384_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "comiendo un pavo entero | haciéndote caca encima | siendo golpeado por un niño | cayendo por una escalera mecánica | haciéndole una broma a tu abuela",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.75",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.23",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo has llegado hasta aquí? Te grabaste a ti mismo",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.61",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "De la noche a la mañana, te conviertes en la celebridad de Internet más grande del mundo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tienes suficiente dinero para comprar la casa de tus sueños.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.63",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Vale la pena la fama?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Dale like y/o suscríbete",
+            "t": "A",
+            "v": "730536_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Overnight, you become the world’s biggest internet celebrity. You have enough money to buy your dream house. How did you get here? You recorded yourself doing this. Is the fame worth it?",
+            "t": "A",
+            "v": "721013_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nicolas Cage | Keanu Reeves | Justin Bieber | Jim Carrey | Kesha",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "Björk",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.15",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.53",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.14",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Perdiste tu personalidad en un accidente de resonancia magnética, pero se te dará una nueva.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tienes dos opciones: Björk O",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué nueva personalidad elegirás?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nueva personalidad [FINAL]",
+            "t": "A",
+            "v": "726030_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve lost your personality in an MRI mishap, but you will be given a new one. You have two choices: Björk or <BLANK>. Whose will you take?",
+            "t": "A",
+            "v": "723330_7",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "¡¿Nadie quiere actuar como Bjork?! Creo que nos estamos engañando a nosotros mismos.",
+            "t": "A",
+            "v": "723333_0",
+            "n": "ResponseAudio"
+        }
+    ]
+}

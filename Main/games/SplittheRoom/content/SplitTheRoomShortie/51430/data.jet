@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "dejar de crecerle el pelo | olvidar toda letra de una canción | morir en exactamente 30 años | perder su cuenta bancaria | ser golpeado por un rayo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.12",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.09",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Si la momia es movida, quien la descubra va a",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.64",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has encontrado la tumba olvidada de una momia.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El descubrimiento podría hacerte famoso, pero hay una supuesta maldición.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.32",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿La transportas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Sella tu tumba",
+            "t": "A",
+            "v": "735444_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have found a forgotten mummy’s tomb. The discovery could make you famous, but there is a supposed curse. If the mummy is moved, the discoverer will have this happen to them. Do you transport it?",
+            "t": "A",
+            "v": "735445_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

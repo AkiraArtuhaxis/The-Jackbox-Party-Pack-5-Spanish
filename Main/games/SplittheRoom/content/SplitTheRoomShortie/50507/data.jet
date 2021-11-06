@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sé dónde vives | Conozco tus secretos | Vengo por ti | Te estoy viendo | Envía ayuda",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.30",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.66",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.36",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "En una caminata por la playa, te encuentras un mensaje en una botella.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "La carta está dirigida a ti y solo incluye una corta frase:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Intentas encontrar a esta persona?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Mensaje en un contenedor",
+            "t": "A",
+            "v": "730376_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "While walking on the beach you find a message in a bottle. The letter is addressed to you and it only includes this short line. Do you try to find this person?",
+            "t": "A",
+            "v": "723117_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

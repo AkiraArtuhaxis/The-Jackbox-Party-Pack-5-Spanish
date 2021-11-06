@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "dejando de dormir por 36 horas | afeitarse las cejas | tragar un huevo (con cáscara y todo) | recibiendo acupuntura | donando un salario completo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.30",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.67",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "La única forma de detenerlo es",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.36",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás sufriendo un caso grave de déjà vu.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Todos los días experimentas intervalos intensos con este fenómeno.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.30",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Vale la pena?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "No viste venir esto",
+            "t": "A",
+            "v": "740084_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re suffering from a serious case of déjà vu. Every single day you experience intense periods of this phenomenon. The only way to stop it is by doing this. Is it worth it?",
+            "t": "A",
+            "v": "740085_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "predigan un lanzamiento de moneda | nombren personajes de Marvel | lancen dardos | jueguen ping-pong | predigan el resultado de las elecciones",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.84",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.29",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.74",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Te has gastado casi todo tu dinero después de un fin de semana en Las Vegas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Justo antes de irte, te das cuenta que hay un nuevo juego que requiere que los jugadores",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Haces una apuesta?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Dale una vuelta",
+            "t": "A",
+            "v": "744884_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re down to your last bit of cash after a weekend in Vegas. As you’re leaving, you notice a new game that requires players to do this. Do you place a bet?",
+            "t": "A",
+            "v": "744885_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

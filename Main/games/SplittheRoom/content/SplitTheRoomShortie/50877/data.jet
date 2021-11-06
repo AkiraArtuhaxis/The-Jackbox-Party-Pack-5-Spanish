@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "bailar | reír a un volumen razonable | hacer matemáticas básicas | entender sarcasmo | cocinar",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.48",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.87",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.13",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Eres transportado a una realidad alternativa donde cada detalle de tu vida es ligeramente diferente.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Si eliges regresar a tu realidad original, perderás la capacidad de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Regresas a casa?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Un mundo diferente",
+            "t": "A",
+            "v": "727643_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are transported to an alternate reality where every detail of your life is just a little bit off. If you choose to return home to your original reality, you will lose the ability to do this.  Do you go home?",
+            "t": "A",
+            "v": "727644_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una marca de tampones | una marca de pañales para adultos | una marca de afeitadoras para la espalda | un abogado de divorcios | una marca de laxantes",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.76",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Tus opciones son una marca de crema para hemorroides o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu programa de entrevistas está en las últimas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Para que tu programa continúe, debes obtener un patrocinador pagado.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.74",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "marca de crema para hemorroides",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.11",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+4.72",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué patrocinador obtienes para tu programa?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opciones de patrocinador incorrectas [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a struggling talk show personality. To keep your show going, you must get a paid sponsor. Your choices are either a hemorrhoid cream brand or THIS. Which sponsor do you get for your show?",
+            "t": "A",
+            "v": "759527_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Eso como si su programa estuviese dirigido a mí.",
+            "t": "A",
+            "v": "759530_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

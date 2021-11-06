@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "pugs submarinos | caballos que hablan | Jeff Goldblums | gatos montables | gansos amables",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.54",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes crear corgis voladores o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un genetista contratado para construir el parque temático del futuro.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, tienes material genético limitado para trabajar.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.53",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "corgis voladores",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.98",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.85",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué monstruosidad creas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Parque temático genético [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a geneticist hired to build the theme park of the future. However, you have limited genetic material to work with. You can either create flying corgis or this. Which monstrosity do you create?",
+            "t": "A",
+            "v": "754793_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Yo iría a ambos parques temáticos.",
+            "t": "A",
+            "v": "754796_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

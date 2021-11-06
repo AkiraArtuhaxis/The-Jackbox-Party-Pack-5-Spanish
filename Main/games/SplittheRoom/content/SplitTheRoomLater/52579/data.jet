@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Monopoly | Hipopótamos hambrientos | Jenga | Operación | Ouija",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.28",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.70",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.24",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Debido a una maldición, literalmente eres transportado al mundo de cada juego de mesa que juegas... pero nadie te cree.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Después de años de evitar la noche de juegos, tus hijos exigen que juegues",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Juegas con ellos?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Un mundo de diversión",
+            "t": "A",
+            "v": "751988_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Due to a curse, you literally get sucked into the world of every board game you play... but nobody believes you. After years of ignoring game night, your kids demand you play this. Do you join them?",
+            "t": "A",
+            "v": "751989_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

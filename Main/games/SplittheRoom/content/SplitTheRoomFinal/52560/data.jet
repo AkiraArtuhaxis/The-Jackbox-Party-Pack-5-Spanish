@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Antonio Gigante | Tomás Susurros | Juan Popó | Triste William | Pedro Martillos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "Dedos de bebé",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+6.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.57",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Te acabas de unir a la mafia.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes usar uno de estos dos apodos: “Dedos de bebé” o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué apodo de mafia eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nombre de la mafia [NOMBRE FINAL]",
+            "t": "A",
+            "v": "751558_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve just joined the mob. You can go by one of two nicknames: “Baby Toes”or this.  Which mob nickname do you choose?",
+            "t": "A",
+            "v": "751559_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Uno de ustedes es un Dedos de Bebé y lo está negando.",
+            "t": "A",
+            "v": "751562_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

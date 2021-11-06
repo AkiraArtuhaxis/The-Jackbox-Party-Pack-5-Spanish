@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una cuna para bebé | una urna | la bota de un extraño | un grupo de turistas | un buzón",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.80",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes vomitar dentro de un antiguo jarrón romano o en",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás a punto de vomitar en público.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Hay dos objetos directamente frente a ti.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.75",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "un antiguo jarrón romano",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+1.82",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+4.16",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿En qué objeto vomitas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Vomitando [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are about to throw up in public. There are two objects directly in front of you. You can either vomit inside an ancient Roman vase or into this item. Which item do you vomit into?",
+            "t": "A",
+            "v": "751450_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Así que eso es un vomitorio...",
+            "t": "A",
+            "v": "751453_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

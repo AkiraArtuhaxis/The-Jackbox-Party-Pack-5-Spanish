@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kanye West | Bugs Bunny | el Tigre Toño | Mussolini | El Papa",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "<OTHERPLAYER>",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+5.98",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.00",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "sobre tu cama.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.98",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Bajo una nueva ley, debes colgar un retrato de <OTHERPLAYER> o de",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿De quién es el retrato que cuelgas sobre tu cama?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cuadro sobre la cama [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Under a new law, you must hang a portrait of either <OTHERPLAYER> or THIS PERSON over your bed. Whose portrait do you hang over your bed?",
+            "t": "A",
+            "v": "765744_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Espero que ya estén en una relación comprometida.",
+            "t": "A",
+            "v": "765747_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

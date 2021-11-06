@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "testículos | vajazzle | fellatio | hentai | bukkake",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.47",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+6.11",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Sí, esa palabra cuenta.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.22",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu hija siempre te gana.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás jugando un juego de palabras con tu hija de 16 años. Tienes las fichas adecuadas para ganar con UNA palabra, pero la palabra es",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.67",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Juegas esa palabra?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Que S-U-C-I-O",
+            "t": "A",
+            "v": "728741_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re playing a word tile game with your 16 year old daughter. You have the right tiles to win with ONE word, but the word is this. Yes, that word counts. Your daughter always beats you. Do you play that word?",
+            "t": "A",
+            "v": "728742_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

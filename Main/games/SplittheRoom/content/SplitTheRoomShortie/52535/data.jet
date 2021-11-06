@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "comer caca de perro | quedarte sin hogar | ser célibe | ir caminando a todas partes | vivir en la Antártida",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.59",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "siempre y cuando te comprometas a",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.99",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres el presidente de la Asamblea General de las Naciones Unidas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sorprendentemente, todos los países sancionados han jurado la paz...",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.68",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas los términos?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "¿Lo haces, ONU lo haces?",
+            "t": "A",
+            "v": "751127_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are the president of the United Nations General Assembly. In a surprising move, every sanctioned country has vowed peace... as long as you promise to do this. Do you agree to the terms?",
+            "t": "A",
+            "v": "751128_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

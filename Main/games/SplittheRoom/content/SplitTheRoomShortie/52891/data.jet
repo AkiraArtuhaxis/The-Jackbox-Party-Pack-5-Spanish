@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "montando un espectáculo de marionetas | haciendo un burlesque de buen gusto | matando algunas ratas | el contacto con todos los que conoces | pidiendo un préstamo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.26",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.24",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Bueno...",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.30",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Una organización benéfica que recauda dinero para mascotas callejeras te pide que participes en una recaudación de fondos.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo quieren que les ayudes a generar dinero?",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.80",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Decides hacerlo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Por una buena casa",
+            "t": "A",
+            "v": "756371_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A charity raising money for stray pets asks you to participate in a fundraiser. How do they want you to help generate money? Well... by doing this. Do you agree to do it?",
+            "t": "A",
+            "v": "756372_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

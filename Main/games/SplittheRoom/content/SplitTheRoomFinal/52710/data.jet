@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "“Norbit” | una película extranjera sobre el incesto | una comedia romántica | una película racista del viejo oeste | sobre el canibalismo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "Documental sobre genocidio",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.84",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.36",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.82",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás en una primera cita en el cine. Desafortunadamente, solo se están reproduciendo dos películas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Una es un documental sobre genocidio y la otra es",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué película ves en una primera cita?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Película de la primera cita [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re on a first date at the cinema. Unfortunately, there are only two movies playing. One is a documentary about genocide, and the other is <BLANK>. Which movie do you see on a first date?",
+            "t": "A",
+            "v": "753939_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Ninguno va a tener una segunda cita.",
+            "t": "A",
+            "v": "753942_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

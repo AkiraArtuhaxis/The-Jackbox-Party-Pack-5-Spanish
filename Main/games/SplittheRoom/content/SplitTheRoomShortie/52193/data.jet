@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "mascotas de comida rápida | cachorros escogiendo leyes al azar | un consejo de sabios jugadores de béisbol | presentadores de televisión nocturna | críticos de cine",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.60",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.56",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "En lugar de un sistema de gobierno, estamos gobernados por",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.49",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Accidentalmente te quedas dormido durante 100 años.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Cuando despiertas, descubres que la sociedad es tremendamente diferente.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.90",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te vuelves a dormir y ves lo que depara el futuro?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "La nueva clase gobernante",
+            "t": "A",
+            "v": "746400_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You accidently sleep for 100 years. When you awake, you find that society is wildly different. Instead of a system of government, we are ruled by this. Do you go back to sleep and see what the future holds?",
+            "t": "A",
+            "v": "746401_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

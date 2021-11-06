@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "$100.000 dólares | una historia de primera plana | $250.000 euros | un trabajo de seis cifras | una casa del lago",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.38",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.92",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Un periódico se comunica contigo. Si les brindas un nombre, te darán",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.02",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Descubres que <OTHERPLAYER> es un superhéroe.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Te pide que mantengas su identidad en secreto.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.84",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Revelas su nombre?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Robo de identidad secreta",
+            "t": "A",
+            "v": "757244_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You discover <OTHERPLAYER> is a superhero. They ask you to keep their identity secret. A newspaper reaches out. If you provide them with a name, they’ll give you THIS. Do you disclose their name?",
+            "t": "A",
+            "v": "757245_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

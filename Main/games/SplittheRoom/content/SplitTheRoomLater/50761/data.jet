@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "a tu abogado | pistolas | serpientes | panqueques | películas de terror",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.50",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.66",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "al trabajo.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.75",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Si regresas a tu pequeña hija a casa, se pondrá muy triste.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Llegas a la oficina para descubrir que no es el día de traer a tu hija al trabajo, sino el día de traer",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.70",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿La dejas quedarse?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Un asunto de familia",
+            "t": "A",
+            "v": "726341_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You arrive at the office to find it’s not Bring Your Daughter to Work Day, but rather Bring this thing To Work Day. If you take your little girl back home, she’ll be crushed. Do you let her stay?",
+            "t": "A",
+            "v": "726342_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

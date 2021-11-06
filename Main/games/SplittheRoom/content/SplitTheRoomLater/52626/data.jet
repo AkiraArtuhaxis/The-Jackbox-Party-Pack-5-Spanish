@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "besar a un policía en la mejilla | provocar un accidente de tránsito | secuestrar otro perro diferente | dejar la cafeína | mudarte a una nueva ciudad",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.18",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.72",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes 24 horas.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu perro ha sido secuestrado por un villano.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Para recuperarlo sano y salvo, debes",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.59",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El mejor demonio del hombre",
+            "t": "A",
+            "v": "752592_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your dog has been kidnapped by a villain. In order to get it back safely, you must do this. You have 24 hours. Do you do it?",
+            "t": "A",
+            "v": "752593_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

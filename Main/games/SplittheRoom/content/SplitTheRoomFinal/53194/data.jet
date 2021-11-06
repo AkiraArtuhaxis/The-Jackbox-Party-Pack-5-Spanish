@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una fuente V8 | un parque de atracciones para personas mayores | una estatua de Borat de 50 pies | un monumento a Richard Nixon | una réplica de la Torre Eiffel",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.03",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes construir una estatua de 15 metros de Benedict Arnold o construir",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un planificador urbano.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Una encuesta pública te ofrece dos opciones para el próximo monumento.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.04",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "Estatua de Benedict Arnold",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+1.20",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+4.16",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué escultura eliges construir?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nuevo punto de referencia [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a city planner. A public poll gives you two options for the next landmark. You can either build a 50 ft statue of Benedict Arnold or build THIS.  Which landmark do you choose to erect?",
+            "t": "A",
+            "v": "759640_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

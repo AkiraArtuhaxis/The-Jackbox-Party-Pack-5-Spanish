@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "ciervos | palomas | pescado | conejitos | gansos canadienses",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.52",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.56",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+3.89",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Un villano ha estado aterrorizando a tu ciudad.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Descubres que puedes comandar una especie de animal.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tus poderes funcionan en",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.40",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Intentas detenerlo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Poderes algo súper",
+            "t": "A",
+            "v": "733350_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You discover that you can command a species of animal. Your powers work on this creature. A villain has been terrorizing your town. Do you try to stop him?",
+            "t": "A",
+            "v": "733351_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

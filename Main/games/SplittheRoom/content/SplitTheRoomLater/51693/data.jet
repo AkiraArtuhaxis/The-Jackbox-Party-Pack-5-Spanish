@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "envejecer 2 meses | vomitar | compartir un secreto oscuro | tener que tocarlo | babear con la boca abierta",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.93",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.37",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.50",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Esta gira podría abrirles muchas puertas.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu banda indie acaba de reservar una gran gira por el suroeste.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Desafortunadamente, siempre que veas un cactus, vas a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.74",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Vas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Banda de molestias",
+            "t": "A",
+            "v": "738921_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your indie band just booked a big tour across the southwest. Unfortunately, whenever you spot a cactus, you do this. This tour could open a lot of doors for you. Do you go?",
+            "t": "A",
+            "v": "738922_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

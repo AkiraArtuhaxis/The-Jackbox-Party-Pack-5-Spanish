@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu bisabuelo | un ovni | cuando conociste a Tom Hanks | tu graduación | tu mascota de la infancia",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.85",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.34",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Para liberar suficiente espacio, debes eliminar tu única foto de",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.85",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Ves un chupacabras.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Quieres sacarle una foto, pero tu teléfono está lleno.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.85",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿La borras?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Monstruo de la memoria",
+            "t": "A",
+            "v": "725474_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You spot a chupacabra. You want to take a photo, but your phone is full. To clear up enough space, you have to delete your only photo of this. Do you delete it?",
+            "t": "A",
+            "v": "723958_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

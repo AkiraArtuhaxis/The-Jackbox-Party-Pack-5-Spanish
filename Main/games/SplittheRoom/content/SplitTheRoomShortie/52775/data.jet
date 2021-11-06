@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "agua salada | pájaros | rocas diminutas | ranas toro | papel picado",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.75",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.08",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "cae del cielo en su lugar.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.47",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "La boda al aire libre de <OTHERPLAYER> es mañana.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Puedes controlar el clima. Pero 1 de cada 4 veces,",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.08",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Intentas asegurar que el día sea soleado?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Amigo del buen tiempo",
+            "t": "A",
+            "v": "754733_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You can control the weather. But 1 in 4 times, THIS falls from the sky instead. <OTHERPLAYER>’s outdoor wedding is tomorrow. Do you try to ensure a sunny day?",
+            "t": "A",
+            "v": "754734_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

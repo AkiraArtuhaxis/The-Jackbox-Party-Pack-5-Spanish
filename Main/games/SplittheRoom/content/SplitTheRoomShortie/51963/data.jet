@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "sonándose la nariz con tu camisa | comiendo carne de ternera | masticando con la boca abierta | pasándote hilo dental | lamiendo el plato",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.23",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.23",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.23",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Un restaurante elegante te ofrece una comida gratis si les dejas compartir una imagen tuya durante la cena.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, la imagen que eligen te muestra claramente",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas la oferta?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Todo lo que puedas tuitear",
+            "t": "A",
+            "v": "742615_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A fancy restaurant offers you a free meal if they can share an image of you during dinner. However, the picture they choose clearly shows you doing this. Do you take the offer?",
+            "t": "A",
+            "v": "742616_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

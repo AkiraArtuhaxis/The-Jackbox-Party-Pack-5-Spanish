@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "frente | papi | amor | UwU | xd",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.20",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.09",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.70",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Debe cubrir tu frente.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Recibirás $2.000 en efectivo todas las semanas por el resto de tu vida, pero con una condición:",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "debes hacerte un tatuaje facial permanente que diga",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.50",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te haces el tatuaje?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Enfrenta tus problemas",
+            "t": "A",
+            "v": "725855_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You will receive $2,000 in cash every week for the rest of your life, but under one condition: you have to get a permanent face tattoo that says this. It must cover your forehead. Do you get the tattoo?",
+            "t": "A",
+            "v": "724616_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

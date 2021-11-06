@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "le sale espuma de la boca | está sufriendo mucho dolor | está hecho de fuego | tiene ojos rojos que brillan",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.94",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.40",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Cada vez que montas un caballo, salvas la vida de un vaquero.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Un día, te encuentras con un caballo que",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo montas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "La maldición del vaquero",
+            "t": "A",
+            "v": "748508_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Every time you ride a horse, you save a cowboy’s life. One day, you stumble upon a horse that’s doing this. Do you ride it?",
+            "t": "A",
+            "v": "748509_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

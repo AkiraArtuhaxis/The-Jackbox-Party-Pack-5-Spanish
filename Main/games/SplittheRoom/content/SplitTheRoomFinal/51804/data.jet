@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un mono con un lanzacohetes | un fantasma que te come el alma | Superman | un cangrejo con un cuchillo | una bandada de palomas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.85",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "un oso viejo o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "La marea te lleva a una isla extraña.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "El rey te perdonará la vida si derrotas a una de las dos bestias:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.90",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "un oso viejo",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.14",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.42",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Con qué bestia luchas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opción de matar bestias [FINAL]",
+            "t": "A",
+            "v": "740499_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You wash ashore on a strange island. The king will spare your life if you conquer one of two beasts: an old bear or this. Which beast do you battle?",
+            "t": "A",
+            "v": "740500_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Sí, todos morirían.",
+            "t": "A",
+            "v": "740503_2",
+            "n": "ResponseAudio"
+        }
+    ]
+}

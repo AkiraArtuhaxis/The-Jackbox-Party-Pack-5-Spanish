@@ -1,0 +1,90 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "sacrificar una mula | beber una poción hecha de ranas | nunca volver a beber café | robar un museo | ir a hacer paracaidismo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "robar un cráneo del cementerio",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.64",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.10",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.64",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás visitando a una adivina auténtica.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Ella te dice que la única forma de evitar tu ruina financiera es robar un cráneo de un cementerio o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo eliges evitar una maldición financiera?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cómo evitar la ruina financiera [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re visiting a legit fortune teller. She tells you the only way to avoid financial ruin is to steal a skull from a graveyard or by doing this. How do you choose to avoid a financial curse?",
+            "t": "A",
+            "v": "756394_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "No me sorprende que todos aquí robarían un cráneo.",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

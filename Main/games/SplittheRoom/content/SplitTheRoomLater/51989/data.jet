@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "$300 | su asombroso perro | una vieja muñeca espeluznante sin ojos | un solo centavo | un pastel mohoso",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.06",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.76",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.60",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Mientras ayudas a tu vecina de la tercera edad a mover su refrigerador, notas que se está volviendo un poco loca.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Una vez que terminas, ella te ofrece",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Viejos problemas",
+            "t": "A",
+            "v": "742985_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "While helping your elderly neighbor move her fridge, you notice that she’s losing her mind a bit. After you’re done, she offers you this. Do you accept it?",
+            "t": "A",
+            "v": "742986_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Conversaciones de Funeral | Malas Citas | Chistes de tu Jefe | Conversaciones en el Baño | una Reunión Familiar",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+13.34",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.54",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>?“",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.78",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "El ganador se lleva $25.000. El perdedor tiene que hacer tres temporadas más.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un nuevo reality show no te deja varando en una isla; en cambio, tienes que sobrevivir a una situación social incómoda.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El show se llama \"¿Puedes Sobrevivir a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.14",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te inscribes al programa?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Podría morir y ya",
+            "t": "A",
+            "v": "765000_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A new reality show doesn’t strand you on a island, instead you have to survive an awkward social situation. The show is called Can You Survive This. Winner gets $25,000. Loser has to do three more seasons. Do you sign up for the new season?",
+            "t": "A",
+            "v": "765001_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

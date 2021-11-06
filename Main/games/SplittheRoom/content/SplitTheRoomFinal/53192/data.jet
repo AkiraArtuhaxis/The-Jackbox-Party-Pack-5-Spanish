@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un tipo tocando música country a todo volumen | un bebé llorando | una persona lagarto | un chihuahua ladrando | un ex-mejor amigo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.42",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Puedes hacer desaparecer a uno de los dos.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás atrapado en el asiento del medio de un avión.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "A tu izquierda hay alguien comiendo ensalada de atún con un calcetín. A tu derecha está",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.72",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "chico comiendo atún con un calcetín",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+1.94",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.42",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿De qué compañero de asiento te deshaces?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Asiento del medio [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re stuck in the middle seat of a plane. On your left is somebody eating tuna salad out of a tube sock. On your right is THIS SITUATION. You can make one of them disappear. Which seatmate do you get rid of?",
+            "t": "A",
+            "v": "759619_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "¿Y qué si les dijese que es un calcetín sucio?",
+            "t": "A",
+            "v": "759622_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

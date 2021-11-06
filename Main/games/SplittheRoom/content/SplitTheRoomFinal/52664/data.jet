@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "cazar tacos | elegir excelentes películas | localizar bares tranquilos | detectar terremotos | transmitir wi-fi gratis",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "buscar baños limpios",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.72",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.97",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.70",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Puedes elegir entre dos tipos de perros especialmente entrenados.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Uno siempre puede encontrar baños públicos limpios y el otro puede",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué cualidad quieres en un perro?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Perros especialmente entrenados [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You can choose between two types of specially trained dogs. One can always find clean public bathrooms and the other can do this.  Which quality do you want in a dog?",
+            "t": "A",
+            "v": "753084_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Disfruten esos baños sucios.",
+            "t": "A",
+            "v": "753087_2",
+            "n": "ResponseAudio"
+        }
+    ]
+}

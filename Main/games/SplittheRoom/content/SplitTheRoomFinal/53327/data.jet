@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "zapatos | pizza | libros | platos | camas para gatos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.56",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes recibir un millón de dólares en baterías o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "¡Has ganado la lotería!",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, no puedes recibir tus ganancias en forma de dinero.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.55",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "baterías",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+1.26",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+4.24",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo cobras tus ganancias?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Ganancias de lotería alternativa [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve won the lottery! However, you cannot receive your earnings in money form.  You can either receive one million dollars worth of batteries or THIS.  How do you collect your winnings?",
+            "t": "A",
+            "v": "761192_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Supongo que debería haber mencionado que son baterías de 9 voltios.",
+            "t": "A",
+            "v": "761195_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

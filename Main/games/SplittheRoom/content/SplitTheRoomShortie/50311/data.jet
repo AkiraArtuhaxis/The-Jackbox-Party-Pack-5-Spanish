@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "abofetearla | hacerle un calzón chino | robarle el bolso | cambiarle la contraseña de su teléfono | estornudar sobre ella",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.18",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.99",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "todos los días durante un mes.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.07",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Ella tiene que saber que lo hiciste, pero nunca puede saber por qué.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu madre no lo sabe, pero su vida está en peligro. La única forma de salvarla es",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.49",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas el trato?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "¿Mami querida?",
+            "t": "A",
+            "v": "730442_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your mother has no idea, but her life is in peril. The only way to save her is to do this every day for a month. She has to know you did it but can never know why. Do you take the deal?",
+            "t": "A",
+            "v": "720715_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

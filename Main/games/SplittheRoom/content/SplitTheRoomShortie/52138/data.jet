@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu némesis de la secundaria | el dalái lama | Bill Cosby | Lionel Messi | Donald Trump",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.56",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.27",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Cuando vas a la portada, notas que está escrito por",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.88",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres alguien que se siente perdido en la vida.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Un día te encuentras con un libro de autoayuda en una tienda. Lo abres e inmediatamente encuentras las respuestas a tu vida.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.52",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo compras?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Autoayuda poco deseada",
+            "t": "A",
+            "v": "745370_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re somebody who feels lost in life. One day you stumble upon a self-help book at a store. You open it and immediately find answers to your life. When you flip to the cover, you notice it was written by this person. Do you buy it?",
+            "t": "A",
+            "v": "745371_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

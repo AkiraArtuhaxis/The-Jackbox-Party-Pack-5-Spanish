@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una caca muy, muy pequeña | Adam Sandler, desnudo | 14 huevos duros | un pato territorial | un par de calzones ajustados",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.05",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.52",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, flotando en el medio de ella está",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.31",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Es un día terriblemente caluroso y acabas de caminar cuesta arriba por cuatro horas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "En la cima hay una piscina.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.46",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te das un chapuzón?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El agua está perfecta, casi",
+            "t": "A",
+            "v": "746941_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "It’s a blisteringly hot day and you’ve just hiked 4 hours up a hill. At the top, there is a swimming pool. However, floating in the middle of it is this . Do you take a dip?",
+            "t": "A",
+            "v": "746942_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

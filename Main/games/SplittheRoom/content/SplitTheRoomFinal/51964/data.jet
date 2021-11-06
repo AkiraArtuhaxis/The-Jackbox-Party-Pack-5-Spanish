@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "“Planet Tierra” en mala resolución | el libro “Harry Potter y el misterio del príncipe” | la Temporada 1 de “LOST” | “Náufrago” | Los grandes éxitos de Bob Marley",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.24",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "El primero solo contiene la temporada 9 de <i>Bailando con las Estrellas<\/i> y el segundo solo contiene",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás atrapado en una isla desierta.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Una de dos tablets puede caer en paracaídas hacia ti.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+11.24",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "Temporada 9 de <i>Bailando con las Estrellas<\/i>",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.30",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.73",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué entretenimiento eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Tabletas de la isla desierta [FINAL]",
+            "t": "A",
+            "v": "742626_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re stuck on a deserted island. One of two tablets can parachute down to you. The first one only contains Season 9 of Dancing With the Stars and the second one only contains this. Which entertainment do you choose?",
+            "t": "A",
+            "v": "742627_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Spoiler: Donny Osmond gana.",
+            "t": "A",
+            "v": "742630_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

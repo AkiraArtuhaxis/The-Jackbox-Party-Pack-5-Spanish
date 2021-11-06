@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "desnudo, sosteniendo una fruta | en el inodoro | recibiendo una paliza | llorando | estornudando",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.36",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.95",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.64",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Eventualmente se colgará en el Louvre.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Se te pide que poses para un retrato hecho por el artista más famoso del mundo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "La pintura te representará",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.23",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Posarías?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "La influencia del artista",
+            "t": "A",
+            "v": "724977_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are asked to pose for a portrait by the most famous artist in the world. The painting will depict you doing this. It will eventually be hung in the Louvre. Do you pose?",
+            "t": "A",
+            "v": "721275_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un Pizza Hut | una tienda de abarrotes | un autolavado | un casino | una estación de autobuses",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.49",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.59",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Pero la entrada está en la parte trasera de un",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.14",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Encuentras un apartamento increíble, de renta controlada a la mitad del precio que pagas ahora.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Está en un gran vecindario.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.28",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Firmas un contrato de arrendamiento por dos años?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Buscando el apartamento",
+            "t": "A",
+            "v": "745493_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You find an awesome, rent-controlled apartment at half the price you pay now. It’s in a great neighborhood. But, the entrance is in the back of this place. Do you sign a two-year lease?",
+            "t": "A",
+            "v": "745494_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

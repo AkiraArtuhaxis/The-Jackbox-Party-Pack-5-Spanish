@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un fiador de fianzas | una crema para hemorroides | un tratamiento de hongos en las uñas | un grupo de cobradores de deudas | cera corporal",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "club de caballeros",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.36",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.13",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.36",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Necesitas alquilar un auto y la única empresa de alquiler cerca de ti tiene vehículos cubiertos con anuncios.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes alquilar un auto que anuncie un club de caballeros o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Con qué anuncio de coche conduces?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Anuncios forzados de coches de alquiler [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You need to rent a car and the only rental company near you has vehicles plastered with advertisements. You can rent a car advertising a gentleman’s club or THIS. Which car ad do you drive around with?",
+            "t": "A",
+            "v": "756621_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "¡No me di cuenta de que estaba jugando con EL PATRIARCADO!",
+            "t": "A",
+            "v": "756624_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

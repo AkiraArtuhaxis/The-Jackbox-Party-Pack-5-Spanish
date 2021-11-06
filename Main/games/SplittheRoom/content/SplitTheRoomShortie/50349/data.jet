@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tener mascotas | acceder a baños públicos | votar | usar zapatos | manejar",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.70",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.53",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.35",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Un multimillonario candidato a gobernador hace una audaz promesa de campaña.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Él pagará todos tus impuestos siempre y cuando renuncies al derecho a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Votas por él?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Arruinando las elecciones",
+            "t": "A",
+            "v": "725076_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A billionaire candidate for governor makes a bold campaign promise. He will pay all your taxes as long as you give up the right to do this. Do you vote for him?",
+            "t": "A",
+            "v": "721196_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

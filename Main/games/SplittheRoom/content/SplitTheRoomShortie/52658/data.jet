@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "los carbohidratos, lácteos y alcohol | tu hermoso esposo, Regé-Jean Page | de dar besos | el transporte publico | a tus amigos de la infancia",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.98",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.77",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Pero tu irracional padre está amenazando con sacarte del testamento si no dejas",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.86",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Naciste en una familia adinerada.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tu herencia haría que no tengas que trabajar por el resto de tu vida.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.70",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Acatas lo pedido?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Riqueza a un costo",
+            "t": "A",
+            "v": "753001_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re born into a wealthy family. Your inheritance will mean you don’t have to work for the rest of your life. But, your irrational father is threatening to cut you out of the will if you don’t give up this. Do you comply?",
+            "t": "A",
+            "v": "753002_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

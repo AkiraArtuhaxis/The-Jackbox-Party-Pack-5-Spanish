@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "prendió fuego a un McDonald’s | defecó en el aire acondicionado de un extraño | robó un iPad a un niño | violó las normas del césped | chocó por detrás un autobús escolar",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.20",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "o alguien que",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Vas a pasar una noche en la cárcel. El oficial de guardia te deja elegir.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes compartir una celda con alguien que acosó verbalmente a una mascota de béisbol",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.20",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "al que acosó a una mascota",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.57",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.02",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿A quién eliges como compañero de celda?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opción de compañero de celda [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re spending a night in jail. The officer on duty gives you a choice. You can share a cell with someone who verbally harassed a baseball mascot or someone who DID THIS. Who do you pick as a cell mate?",
+            "t": "A",
+            "v": "758319_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

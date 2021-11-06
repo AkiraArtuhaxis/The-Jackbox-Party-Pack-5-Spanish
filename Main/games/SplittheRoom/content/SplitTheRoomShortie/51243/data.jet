@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "la única foto que queda de tu mamá | el anillo de boda | $8.000 en efectivo | el teléfono celular | la lista de contraseñas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.70",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "que dejaste caer por la borda.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.12",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Si tratas de meterte más profundo, es muy probable que ella muera. Está al alcance de tu mano.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás metido hasta el codo en el orificio de una ballena, tratando de recuperar",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.45",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te estiras unos centímetros más?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Salpicando todo",
+            "t": "A",
+            "v": "732794_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are elbow deep in a whale’s blowhole, trying to retrieve this item you dropped overboard. If you reach any deeper, there’s a good chance it will die.  It’s at your fingertips.  Do you plunge one more inch?",
+            "t": "A",
+            "v": "732795_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

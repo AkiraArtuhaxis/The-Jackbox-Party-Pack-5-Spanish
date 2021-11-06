@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Eres especial | Me gusta tu piel | Sé donde vives | Nunca te dejaré | Quiero tu ropa",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.48",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.48",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Las únicas otras tintorerías cerca de ti cobran el doble.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.94",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Dentro de la bolsa que recogiste de la tintorería, encuentras una nota escrita que dice",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cambias de tintorería?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El mensaje de la tintorería",
+            "t": "A",
+            "v": "735175_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Inside the bag you picked up from the dry cleaners, you find a handwritten note that says this. The only other cleaners anywhere close to you charge twice as much. Do you switch cleaners?",
+            "t": "A",
+            "v": "735176_6",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Biip-bup | Cha-cha-cha | Buenassss | Hey, muy buenas a todos | Me voy de aquí",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "¡Estás aquí ahora mismo!",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.49",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“¡<BLANK>!”",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Has perdido la capacidad de saludar.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Cuando saludas a la gente, tienes la opción de gritar: “¡Estás aquí ahora mismo!” O",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué prefieres usar como tu nuevo saludo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nuevo saludo alternativo [FINAL]",
+            "t": "A",
+            "v": "728152_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have lost the ability to say hello.  When you greet people you have the option of shouting “You are here right now!” or this.  Which do you choose?",
+            "t": "A",
+            "v": "728153_8",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

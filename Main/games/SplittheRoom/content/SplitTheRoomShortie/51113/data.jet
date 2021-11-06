@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "las primeras palabras de tu hijo | tu abuela | tu infancia | tu mejor amigo | tu primer amor",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.83",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.90",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.44",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Podrías usar este dinero para la matrícula de tu hijo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Los ricos ahora compran descargas de los recuerdos de las personas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Se te ofrecen $100.000 por tu última memoria restante de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.40",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Vendes tu recuerdo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Fuga de cerebros",
+            "t": "A",
+            "v": "731049_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Rich people now purchase downloads of people’s memories.  You are offered $100,000 for your last remaining memory of this. You could use this money for your child’s tuition. Do you sell your memory?",
+            "t": "A",
+            "v": "731050_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

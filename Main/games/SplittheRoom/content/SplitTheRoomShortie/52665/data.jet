@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "¡Puedo sentirlo! | ¡Llamando al Doctor Salsa! | Con toda seriedad, me encantan los bocadillos. | Es mi único amor | Hay una fiesta en mi barriga",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.34",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.78",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "... en conversaciones cotidianas, una vez al día.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.47",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu compañía de bocadillos favorita te dará muestras gratuitas ilimitadas si usas su lema",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas los términos?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Y una bolsa de patatas fritas",
+            "t": "A",
+            "v": "753093_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your favorite snack food company will give you unlimited free samples if you use their slogan, THIS CATCHPHRASE, in normal conversation, once every day. Do you agree to the terms?",
+            "t": "A",
+            "v": "753094_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

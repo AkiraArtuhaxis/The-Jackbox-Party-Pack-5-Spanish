@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un tenista profesional | un imitador de Elvis | un caimán | una jirafa | una bandada de gansos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.82",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Tu única arma es una maza.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás obligado a luchar, al estilo gladiador.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Tu oponente puede ser un luchador profesional esposado o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.22",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "un luchador profesional esposado",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.23",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.20",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Contra quién peleas, estilo gladiador?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Gladiador enemigo [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are forced to fight gladiator style. Your opponent can either be a handcuffed pro-wrestler or THIS PERSON. Your only weapon is a mace.  Whom do you fight gladiator style?",
+            "t": "A",
+            "v": "759990_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

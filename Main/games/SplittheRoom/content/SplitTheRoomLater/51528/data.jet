@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un limpiador de inodoros | Viagra | Marlboro | Barbie | Pepsi Light",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.36",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.47",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Este trabajo te mantendrá económicamente por el resto de tu vida...",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.64",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "pero tu cara estará en este producto durante décadas.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Es la década de 1960. Acaban de ofrecerte un lucrativo contrato de modelaje para ser la cara de",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.57",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas el trabajo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "La cara del arrepentimiento",
+            "t": "A",
+            "v": "736661_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "It’s the 1960s. You just got offered a lucrative modeling deal to be the face of this brand. This job will financially sustain you for the rest of your life... but your face will be on this product for decades.  Do you take the gig?",
+            "t": "A",
+            "v": "736662_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

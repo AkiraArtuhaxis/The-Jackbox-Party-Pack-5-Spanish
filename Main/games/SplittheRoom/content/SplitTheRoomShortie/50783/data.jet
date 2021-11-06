@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "pañales sucios | sudor por ansiedad | basura en llamas | cortes de césped | agua de alcantarilla",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.19",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.96",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.21",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes una importante entrevista de trabajo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Hay un desodorante nuevo que huele increíble para el 75% de la población.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, para ti, huele a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.33",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo llevas puesto?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Hasta las axilas",
+            "t": "A",
+            "v": "729531_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "There’s a new deodorant that smells incredible to 75% of the population.  However, to you, it smells like this. You have an important job interview.  Do you wear it?",
+            "t": "A",
+            "v": "726604_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

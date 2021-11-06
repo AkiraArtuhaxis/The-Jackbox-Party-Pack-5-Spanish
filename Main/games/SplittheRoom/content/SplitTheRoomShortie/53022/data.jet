@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "intoxicación pública | abuso de información privilegiada | robo automotor | iniciar una pelea de bar | estacionar en doble fila",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.72",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.33",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Puedes permanecer en el anonimato.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "En las noticias, ves un boceto de la policía que es inquietantemente parecido a <OTHERPLAYER>.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Se busca por",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.27",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Llamas a la policía?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Se busca: Definitivamente vivo",
+            "t": "A",
+            "v": "757992_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "On the news, you see a police sketch that looks eerily similar to <OTHERPLAYER>. They’re wanted for doing this. You can remain anonymous. Do you call the tip line?",
+            "t": "A",
+            "v": "757993_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

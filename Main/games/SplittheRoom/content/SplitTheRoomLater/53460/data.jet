@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "gelatina de fresa | alambre de púas | rodajas de salmón ahumado | margarina | tapioca",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.48",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.35",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Tu pareja desea intensamente casarse en la playa.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.80",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Toda la arena es arena movediza para ti, a menos que cubras tu cuerpo con",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Reservas tu boda en la playa?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Esa sensación de hundimiento",
+            "t": "A",
+            "v": "762898_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "All sand is quicksand to you, unless you cover your body in THIS.  Your fiancé really wants to get married on a beach.  Do you book a beach location?",
+            "t": "A",
+            "v": "762899_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

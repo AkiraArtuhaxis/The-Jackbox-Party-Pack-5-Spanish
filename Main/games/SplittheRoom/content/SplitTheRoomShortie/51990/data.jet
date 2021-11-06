@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "los dos puntos | la libertad de expresión | su relación con su madre biológica | la historia del hormigón | arquitectura toledana",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.15",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.68",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.26",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Incluso cuando nadie preguntó.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Uno de tus buenos amigos de la infancia se mudó recientemente a la ciudad en la que vives.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tiene buenas intenciones, pero cuando está en grupos grandes comienza a sobreexplicar",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.71",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo invitas a tu fiesta de cumpleaños?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Todos tenemos ese amigo",
+            "t": "A",
+            "v": "742992_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "One of your good childhood friends recently moved to the city you reside in. He means well, but when he’s in big groups he starts overexplaining this subject. Even when no one asks. Do you invite him to your birthday party?",
+            "t": "A",
+            "v": "742993_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

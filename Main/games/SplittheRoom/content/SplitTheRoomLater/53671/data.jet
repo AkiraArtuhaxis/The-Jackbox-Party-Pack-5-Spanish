@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "religión | política | la insoportable levedad del ser | el clima | problemas familiares",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.34",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.41",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Durante la duración de cada viaje, debes tener una conversación con el taxista sobre",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+3.47",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te ofrecen viajes gratis en taxi durante un año...",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "pero hay una trampa.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.28",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas el trato?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "¡Oh Dios te salve, no!",
+            "t": "A",
+            "v": "766314_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are offered free taxi rides for a year... but there’s a catch. For the duration of every ride, you must have a conversation with your cab driver about THIS. Do you take the deal?",
+            "t": "A",
+            "v": "766315_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

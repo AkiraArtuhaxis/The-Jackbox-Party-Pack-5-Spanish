@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Soy el mejor | ¿A quién le gustan los abrazos? | ¿Quién no votaría por esta cara? | Tengo las calificaciones más altas | Realmente necesito esta victoria",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.45",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.80",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.20",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Ya hizo camisetas.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te estás postulando para el gobierno local.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tu madre es la directora de tu campaña y ella insiste en que hagas campaña con el lema",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.55",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Despides a tu madre?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Oficina en casa",
+            "t": "A",
+            "v": "761963_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are running for local office.  Your mom is your campaign manager, and she is insisting you run with the campaign slogan of “THIS.”  She already made t-shirts.  Do you fire your mom?",
+            "t": "A",
+            "v": "761964_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

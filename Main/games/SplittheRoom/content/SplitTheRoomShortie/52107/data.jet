@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "las cenizas de tu mascota | un CD de Smash Mouth | un cráneo de vaca | un gecko vivo | una pelota de yoga",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.61",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.50",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Una aplicación de realidad aumentada te permite ver quién está enamorado de ti.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Para que funcione, debes tomar una foto de la persona sosteniendo",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Llevas este objeto contigo cuando vas a los bares?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Yendo por los bares",
+            "t": "A",
+            "v": "744895_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "An augmented reality app allows you to see who has a crush on you. In order for it to work, you have to take a picture of them holding this.  Do you carry this object around with when you go to the bars?",
+            "t": "A",
+            "v": "744896_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

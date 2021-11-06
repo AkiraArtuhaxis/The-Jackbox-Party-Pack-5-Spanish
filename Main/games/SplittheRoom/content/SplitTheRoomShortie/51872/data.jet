@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "hacer un chirrido agudo | quitarte la camisa | comer papitas fritas obsesivamente | morderte las uñas | hurgar tu nariz",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.20",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.84",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.24",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Si no apareces en la película, tu compañero recibirá todo el crédito.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te piden que aparezcas en un documental sobre el crimen que resolviste.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, cuando eres filmado, tienes una tendencia a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.23",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Apareces frente a la cámara?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Crimen en prime time",
+            "t": "A",
+            "v": "741347_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are asked to appear in a true crime documentary about the case you solved.  However, whenever you are being filmed, you have a tendency to do this.  If you aren’t in the film, your partner will get all of the credit. Do go on camera?",
+            "t": "A",
+            "v": "741348_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

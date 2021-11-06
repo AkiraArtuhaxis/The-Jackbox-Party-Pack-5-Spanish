@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una succión anal | aspiración nasal | un goteo intravenoso | hiperventilación | su colocación en tus ojos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.74",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.75",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.69",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu compañía necesita de este negocio.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Durante un viaje de negocios a Marte, tus clientes alien te invitan a cenar.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tu plato viscoso de entrada tradicionalmente se consume mediante",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.73",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo “comes” de esta manera?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "ETiqueta y modales",
+            "t": "A",
+            "v": "729833_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "While on a business trip to Mars, your alien clients take you to dinner. Your slimy entrée is traditionally consumed via <BLANK>. Your company relies on this business. Do you “eat” it this way?",
+            "t": "A",
+            "v": "729834_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

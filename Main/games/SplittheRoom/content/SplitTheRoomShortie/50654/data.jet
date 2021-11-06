@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "“Austin Powers” | “Caracortada” | “Casablanca” | “Chicas pesadas” | “Sacrificios de familia”",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.46",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.88",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.06",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tú organizas talleres de prevención y actuación ante el acoso sexual para ganarte la vida.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Desafortunadamente, acabas de desarrollar una rara condición neurológica que hace que hables principalmente con frases de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Realizas tus talleres sin hablar?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Hablemos de sexo",
+            "t": "A",
+            "v": "725002_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You facilitate sexual harassment workshops for a living. Unfortunately, you just developed a rare neurological condition that causes you to speak mostly in quotes from THIS. Do you perform your workshops without talking?",
+            "t": "A",
+            "v": "725003_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

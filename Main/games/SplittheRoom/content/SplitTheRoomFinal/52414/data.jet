@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "mover muebles pesados ​​| desinfectar zapatos de jugadores de bolos | reventar granos de la cara | controlar multitudes del Departamento de Vehículos | quitar los chicles pegados en las mesas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.27",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Las dos opciones restantes son desinfectar los orinales de los hospitales o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "El voluntariado a tiempo parcial ahora es obligatorio.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Los trabajos permanentes más deseados ya han sido tomados.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.25",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "desinfectar los orinales del hospital",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.41",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.62",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué trabajo voluntario aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Voluntariado forzoso [FINAL]",
+            "t": "A",
+            "v": "749273_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Part-time volunteerism is now mandatory. The most desirable jobs have already been taken. The two remaining options are sanitizing hospital bed pans or this. Which volunteer job do you take?",
+            "t": "A",
+            "v": "749274_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "This group would definitely need to be forced to volunteer.",
+            "t": "A",
+            "v": "749277_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

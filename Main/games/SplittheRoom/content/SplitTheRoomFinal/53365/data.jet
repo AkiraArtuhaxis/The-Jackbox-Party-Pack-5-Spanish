@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "“La Macarena” | Perros ladrando “Jingle Bells” | Un perezoso gritando “¡HOLA, CHICOS!” | “Barney el dinosaurio” | “Cha Cha Cha”",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.96",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Nunca se podrá cambiar.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu nuevo teléfono inteligente solar tendrá una duración de batería ilimitada.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Desafortunadamente, los únicos tonos de timbre disponibles son “Bocina de bicicleta antigua” o…",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.46",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "Bocina de bicicleta antigua",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.10",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.44",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Tonos de llamada [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your new solar smart phone will have unlimited battery life. Unfortunately, the only available ring tones are ‘Old Timey Bicycle Horn’ or… THIS. It can never be changed. Which do you choose?",
+            "t": "A",
+            "v": "761594_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

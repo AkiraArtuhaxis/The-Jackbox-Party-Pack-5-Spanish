@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "cambio suelto | hámsters | bocadillos | carne seca | detergente de lavandería",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "plato de pasta",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.19",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.40",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.15",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "El Dios del Exceso te otorgará un suministro ilimitado de un artículo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes tener un tazón interminable de pasta o tener un suministro interminable de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué suministro ilimitado eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Suministro ilimitado [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "The God of Excess will grant you an unlimited supply of one item. You can either have an endless bowl of pasta or have an endless supply of THIS. Which unlimited supply do you take?",
+            "t": "A",
+            "v": "760797_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Oh this is a group that doesn’t eat carbs. Fun.",
+            "t": "A",
+            "v": "760800_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

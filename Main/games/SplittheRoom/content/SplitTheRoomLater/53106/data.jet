@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un muñeco de ventriloquia | una antorcha | una ballesta | un dado de 20 caras | un cortaúñas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.52",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.55",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.62",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "y dice: “Confía en mí”.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tú y <OTHERPLAYER> están a segundos de aparecer en un concurso de talentos en vivo por televisión.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Justo antes de salir al escenario frente a los jueces, este saca",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.01",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Sales al escenario?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "¿Tienes talento?",
+            "t": "A",
+            "v": "758951_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You and <OTHERPLAYER> are seconds away from appearing on a live television talent competition show.  Just before you walk out in front of the judges, they pull out THIS and say “Trust me.”  Do you walk out with them?",
+            "t": "A",
+            "v": "758952_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

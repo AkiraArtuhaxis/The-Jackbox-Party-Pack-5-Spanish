@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nikola Tesla | Cleopatra | Koko el gorila | Sacagawea | William Shakespeare",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.74",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "...que además irá mal. Debes elegir entre Harriet Tubman o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Puedes cenar con un personaje histórico.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "...pero pensará que es una cita...",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.76",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "Harriet Tubman",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.45",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+3.94",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Con quién tienes una “cita” incómoda?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Fecha histórica de la cena [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You can have dinner with a famous person from history....but they will think it’s a date...and it will go poorly. You must choose between Harriet Tubman or this person. Who do you have an awkward date with?",
+            "t": "A",
+            "v": "760487_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

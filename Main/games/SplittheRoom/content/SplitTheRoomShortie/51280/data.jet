@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "eres como tu padre | Ashley te engañó | hueles a queso | apenas eres adecuado | ojalá estuvieras aquí",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.69",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.68",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.64",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Cada vez que terminas de trotar, se envía esa ruta a tu enemigo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Esta persona se sentiría herida si le llegara una ruta que deletreara",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Ejerces la energía necesaria para deletrear esto?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Estos zapatos están hechos para hablar",
+            "t": "A",
+            "v": "733267_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Every time you’ve completed a jog, it sends that route to your enemy. This person would be hurt if they got a path that spelled out this. Do you exert the energy necessary to spell this out?",
+            "t": "A",
+            "v": "733268_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

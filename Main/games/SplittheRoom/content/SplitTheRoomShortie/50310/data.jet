@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Uptown Funk | La Macarena | Turn Down For What | Party Rock Anthem | Shake It Off",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.11",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.08",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "La gente debe ponerse de pie y cantarla en voz alta en todos los eventos públicos, o pasarán tres días en la cárcel si oponen resistencia.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.29",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "El himno nacional de tu país ha sido reemplazado por la canción",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Te arriesgas a ir a la cárcel?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Compromiso Patriótico",
+            "t": "A",
+            "v": "730446_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "The national anthem of your country has been replaced by this song. People must stand and sing it aloud at all public events or spend three days in jail if caught resisting. Do you risk going to jail?",
+            "t": "A",
+            "v": "720707_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

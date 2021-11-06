@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un trasero | un pulgar hacia abajo | un pito | un emoji de berenjena | “apestas”",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.10",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.92",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "en tu frente.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+3.96",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Está en super HD.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cada vez que alguien te dice “De nada”, se proyecta",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.35",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Volverías a agradecer a alguien en un futuro?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Gracias pero no gracias",
+            "t": "A",
+            "v": "730401_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Every time someone says “You’re welcome” to you, this projects on your forehead. It’s in super HD.  Do you ever thank someone again?",
+            "t": "A",
+            "v": "722445_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

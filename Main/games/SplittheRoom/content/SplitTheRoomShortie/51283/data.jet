@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "pan blanco | mazorcas de maíz | chips | café | pizza",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.10",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.01",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.04",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Los científicos han descubierto un hermoso ecosistema alienígena que vive en tu boca.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Su existencia depende de ti, y desaparecerá si consumes",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Te abstienes para siempre?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Llévame a tu dentista",
+            "t": "A",
+            "v": "733298_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Scientists have discovered a beautiful alien ecosystem that lives in your mouth. Its existence depends on you, and it will be wiped out if you consume this. Do you abstain forever?",
+            "t": "A",
+            "v": "733299_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

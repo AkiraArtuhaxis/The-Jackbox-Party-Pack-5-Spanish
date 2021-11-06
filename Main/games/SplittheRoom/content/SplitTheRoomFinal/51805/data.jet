@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una bicicleta | un cometa | un atuendo | una manta | una sandía",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.58",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Solo puedes elegir uno.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te despiertas desnudo en medio de un desierto.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Hay dos elementos a tu lado: una piña y",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.17",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "una piña",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.11",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.17",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Objeto del desierto [FINAL]",
+            "t": "A",
+            "v": "740510_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You wake up naked in the middle of a desert. There are two items beside you. A pineapple and this. You can only take one. Which do you choose?",
+            "t": "A",
+            "v": "740511_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Todos ustedes subestiman realmente el poder de una piña.",
+            "t": "A",
+            "v": "740514_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

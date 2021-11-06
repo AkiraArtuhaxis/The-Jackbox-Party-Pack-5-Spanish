@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "grita justo a las 5 PM | sólo come pescado del microondas | se pone desodorante todo el día | roba almuerzos | cambia la contraseña del wifi todas las semanas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.95",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.06",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Su trabajo es bueno, pero tiene un tic extraño:",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.50",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Por $5 la hora, puedes contratar un imitador para que haga tu trabajo por ti.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tus compañeros de trabajo pensarán inequívocamente que eres tú.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.62",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo contratas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Trabajando poco",
+            "t": "A",
+            "v": "748475_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "For $5/hour, you can hire an impersonator to do your job for you. Your coworkers will unequivocally think it’s you. Their work is good, but they have one strange tic: they do this Do you hire them?",
+            "t": "A",
+            "v": "748476_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

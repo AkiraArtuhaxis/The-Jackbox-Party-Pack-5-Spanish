@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "peine | zapato | taza de café | radio | cinturón",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.53",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.71",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.54",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Desaparecerás en cinco minutos. Si intentas matarlo y fracasas, él ganará la Segunda Guerra Mundial.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Es 1941. Estás en la misma habitación cerrada que Hitler. Solos.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El único objeto en la habitación es un/a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.62",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Intentas asesinar a Hitler?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Proximidad al mal",
+            "t": "A",
+            "v": "730408_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "It’s 1941. You’re in the same locked room as Hitler. Alone. The only object in the room is THIS. You will vanish in five minutes. If you try to kill him and fail, he’ll win WW2. Do you try to assassinate Hitler?",
+            "t": "A",
+            "v": "722285_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

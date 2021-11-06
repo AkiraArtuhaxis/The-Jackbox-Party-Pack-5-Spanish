@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "atrapes una serpiente viva | te desnudes | te pongas esposas | abraces a los zombis | hagas breakdance",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.01",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.80",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "No puede contártelo todo, pero te pide que",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.85",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Zombis están atacando tu ciudad.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<OTHERPLAYER> dice que tiene un plan para escapar sin peligro.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.55",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Dejas el refugio y lo sigues?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Los seguidores",
+            "t": "A",
+            "v": "755825_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Zombies are attacking your city. <OTHERPLAYER> says they have a plan to escape safely. They can’t tell you the whole plan, but they ask you to do THIS. Do you leave shelter and follow them?",
+            "t": "A",
+            "v": "755826_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

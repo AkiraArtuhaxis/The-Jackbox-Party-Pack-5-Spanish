@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "porno explícito | un gato muerto | tu trasero | una tanga | una urna",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.38",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.68",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu familia está ayudando a tu abuela a buscar por su casa su anillo de bodas perdido.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Lo encuentras, pero está pegado permanentemente a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Le dices a la abuela que lo encontraste?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Grupo de búsqueda",
+            "t": "A",
+            "v": "749600_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your family is helping your grandmother search her house, looking for her missing wedding ring.  You find it, but it is permanently glued to this.  Do you tell grandma you found it?",
+            "t": "A",
+            "v": "749601_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

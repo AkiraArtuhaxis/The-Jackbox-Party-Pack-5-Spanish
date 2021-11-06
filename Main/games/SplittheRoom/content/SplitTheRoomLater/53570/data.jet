@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "escuchar música | usar la letra “e” | usar tus manos | beber agua embotellada | usar un microondas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.72",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.14",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.20",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes 72 años.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un fantasma te advierte sobre un nuevo proceso de selección para el más allá.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El nuevo pecado que están vigilando es",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.55",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te abstienes de esto para conseguir un lugar de primera en el paraíso?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Que el cielo me ayude",
+            "t": "A",
+            "v": "764978_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A ghost warns you about a new screening process for the afterlife. The new sin they’re watching out for is THIS. You’re 72. Do you abstain from this in order to get a spot in top-tier paradise?",
+            "t": "A",
+            "v": "764979_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

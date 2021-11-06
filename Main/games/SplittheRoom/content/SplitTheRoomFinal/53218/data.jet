@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "recordar los nombres de más de 40 personas | ver colores | escribir a mano | leer un mapa | probar el postre",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "disfruta de la música",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.68",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.80",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.66",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Los aliens te secuestraron y están a punto de recolectar una parte de tu cerebro para investigarla.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Te dan la opción de perder la parte de tu cerebro que te permite disfrutar de la música, o la parte que te permite",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué función cerebral pierdes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Parte del sacrificio cerebral [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Aliens abducted you and are about to harvest a piece of your brain for research. They give you a choice of losing the part of your brain that allows you to enjoy music, or the part that does this. Which brain function do you lose?",
+            "t": "A",
+            "v": "760022_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "La música no es tan buena.",
+            "t": "A",
+            "v": "760025_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

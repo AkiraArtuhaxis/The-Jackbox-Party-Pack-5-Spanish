@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "contusiones en el antebrazo | lesiones en las costillas | lesiones del cuero cabelludo | el resfriado común | dolores de barriga",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.45",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "uno que solo cubra la parte inferior del cuerpo, o uno que solo cubra",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás en una dimensión donde la atención médica es terrible.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes elegir uno de dos planes médicos:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.48",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "solo cubre la parte inferior del cuerpo",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.34",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.08",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué cobertura eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Mejores planes de salud [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re in a dimension where healthcare is terrible. (Hard to believe, I know.) You can choose one of two plans: one that only covers the lower body, or one that only covers THIS. Which coverage do you choose?",
+            "t": "A",
+            "v": "756610_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Buena movida considerando que todos los órganos vitales del cuerpo se encuentran en las piernas.",
+            "t": "A",
+            "v": "756613_2",
+            "n": "ResponseAudio"
+        }
+    ]
+}

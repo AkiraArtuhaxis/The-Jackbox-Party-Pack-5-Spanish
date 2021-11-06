@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tocando una versión acústica de “Despacito” | secando al perro con su cuerpo | llorando | en el inodoro | en el teléfono con su mamá",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.61",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.55",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.06",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu vecino estaba transmitiendo en vivo a su perro en el baño.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero se olvidó de apagar la transmisión, y ahora puedes verlo",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Subes las escaleras y le dices?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "¿Está encendido?",
+            "t": "A",
+            "v": "742957_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your neighbor was livestreaming his dog in the bath. But he forgot to switch off the livestream, and now you can see him doing this. Do you go upstairs and tell him?",
+            "t": "A",
+            "v": "742958_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

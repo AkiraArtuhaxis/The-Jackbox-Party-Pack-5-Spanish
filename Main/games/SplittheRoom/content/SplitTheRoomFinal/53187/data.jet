@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "gimiendo | cubierta de moscas muertas | tiene una nota que dice “volveré” | grumosa | tiene marcas de quemaduras",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.63",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes dormir en la que está ligeramente húmeda o en la que está",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Después de un largo día conduciendo, te detienes en un motel de carretera.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Queda una habitación con dos camas.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.62",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "ligeramente húmeda",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.04",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.14",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿En qué cama duermes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Elección de cama de motel [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "After a long day of driving, you stop at a roadside motel. There’s one room left with two beds. You can either sleep on the one that is slightly damp or the one that’s GOT THIS.  Which mattress do you sleep on?",
+            "t": "A",
+            "v": "759569_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Sí, la cama pipí es lo mejor.",
+            "t": "A",
+            "v": "759572_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

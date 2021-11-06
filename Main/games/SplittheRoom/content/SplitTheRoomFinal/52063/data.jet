@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una funeraria | un payaso de alquiler | una tienda de armas | ofertas de vacaciones “gratis” | el refugio local para personas sin hogar",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "servicio de citas para swingers",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+7.88",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.81",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.86",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás obligado a agregar a tu madre a una lista de llamadas automáticas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Recibirá llamadas regulares de un servicio de citas de swingers o de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿En qué lista de llamadas pones a tu madre?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Llamando automáticamente a tu mamá [FINAL]",
+            "t": "A",
+            "v": "744025_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re forced to add your mother to a robocall list.  She will either receive regular calls from a swingers dating service or from this. Which call list do you put your mother on?",
+            "t": "A",
+            "v": "744026_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Carol amará eso.",
+            "t": "A",
+            "v": "744029_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

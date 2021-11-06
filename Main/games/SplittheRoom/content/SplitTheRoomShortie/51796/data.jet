@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Estaba pensando en ti | Gracias por conectarte conmigo | ji ji ji | Fue un placer | q onda",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.47",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+10.02",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes un casco de realidad virtual que te permite tener sexo virtual con cualquier persona con la que estés vinculada en un sitio de trabajo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Cada vez que lo usas, esa persona recibirá un mensaje automático de tu cuenta que dice:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo usas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "No son cuernos si solo son pixeles",
+            "t": "A",
+            "v": "740359_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have a virtual reality headset that lets you have virtual sex with anyone you’re connected with on a job site. Every time you use it, that person will receive an automated message from your account that says, “this.”  Do you use it?",
+            "t": "A",
+            "v": "740360_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

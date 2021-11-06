@@ -1,0 +1,80 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Acabamos de descubrir internet.",
+        "INTERNET_DISCONNECTED": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+        "ROOM_DESTROYED": "Se ha producido un error y tu sala se ha desintegrado.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+        "SOCKET_DISCONNECTED": "Hemos perdido la conexión con los servidores de Jackbox Games.",
+        "TIMEOUT": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+        "USER_DISCONNECT": "Te has desconectado del servidor. Vuelve a intentarlo.",
+        "LOST_LICENSE": "No hemos encontrado la licencia para este contenido.",
+        "STEAM_ERROR": "No hemos podido validar tu licencia de Steam.",
+        "TWITCH_PRIME_ERROR": "No hemos podido validar tu licencia de Twitch Prime.",
+        "LOST_DLC": "No hemos encontrado la licencia para el contenido descargable. Volviendo al menú principal...",
+        "START": "Empezar",
+        "SWITCH_USER": "Cambiar Usuario",
+        "LEGAL": "Traducción no oficial. Creado y Desarrollado por Jackbox Games, Inc. Juego y Software © 2018 Jackbox Games, Inc. Todos los derechos reservados. Jackbox Games, YOU DON’T KNOW JACK, JACK ATTACK, el logo de la cabeza de Jack, y el logo de Jackbox Games son marcas registradas de Jackbox Games, Inc. Full Stream, Split the Room, Mad Verse City, Patently Stupid, Zeeple Dome, y Party Pack son marcas de Jackbox Games, Inc. Todas las otras marcas y logos son de la propiedad de sus respectivos propietarios.",
+        "LEGAL_CRIWARE": "Impulsado por \"CRIWARE\". CRIWARE es una marca de CRI Middleware Co., Ltd.",
+        "LEGAL_FMOD": "Este producto usa FMOD Sound System por Firelight Technologies",
+        "LEGAL_SCALEFORM": "Este producto de software incluye el software Autodesk® Scaleform®, © 2012 Autodesk, Inc. Todos los derechos reservados.<br />Autodesk, Beast, HumanIK, y Scaleform son marcas registradas o marcas de Autodesk, Inc., y/o sus subsidiarios y/o afiliados en los EEUU y/o otros países."
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue",
+        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We're sorry, your room was destroyed.<br />We'll get you a new one as soon as possible.",
+        "SOCKET_DISCONNECTED": "We're sorry, we've lost your connection to the Jackbox Games servers, we're going to retry.",
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "START": "Démarrer",
+        "SWITCH_USER": "Changer d'utilisateur",
+        "LEGAL": "Développé par Jackbox Games, Inc. Jeu et logiciel © 2015 Jackbox Games, Inc. Tous droits réservés. Marques Jackbox Games et le logo Jackbox Games sont des marques de Jackbox Games, Inc. Quiplash et le logo Quiplash \\rsont des marques de Jackbox Games, Inc. Toutes les autres marques et logos sont la propriété de leurs propriétaires respectifs."
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua",
+        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We're sorry, your room was destroyed.<br />We'll get you a new one as soon as possible.",
+        "SOCKET_DISCONNECTED": "We're sorry, we've lost your connection to the Jackbox Games servers, we're going to retry.",
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "START": "Cominciare",
+        "SWITCH_USER": "Cambia utente",
+        "LEGAL": "Sviluppato da Jackbox Games, Inc. gioco e un software © 2015 Jackbox Games, Inc. Tutti i diritti riservati. Marchi\\rJackbox Games e il logo Jackbox Games sono marchi registrati di Jackbox Games, Inc. Quiplash e il logo Quiplash\\rari marchi di Jackbox Games, Inc. Tutti gli altri marchi e loghi sono di proprietà dei rispettivi proprietari."
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache",
+        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We're sorry, your room was destroyed.<br />We'll get you a new one as soon as possible.",
+        "SOCKET_DISCONNECTED": "We're sorry, we've lost your connection to the Jackbox Games servers, we're going to retry.",
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "START": "Anfang",
+        "SWITCH_USER": "Benutzer wechseln",
+        "LEGAL": "Entwickelt von Jackbox Games, Inc. Game und Software © 2015 Jackbox Games, Inc. Alle Rechte vorbehalten.\\rJackbox Games und die Jackbox Games Logo sind eingetragene Warenzeichen der Jackbox Games, Inc. Quiplash und dem Quiplash logo\\rseltenen Marken von Jackbox Games, Inc. Alle anderen Marken und Logos sind Eigentum der jeweiligen Inhaber."
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma",
+        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We're sorry, your room was destroyed.<br />We'll get you a new one as soon as possible.",
+        "SOCKET_DISCONNECTED": "We're sorry, we've lost your connection to the Jackbox Games servers, we're going to retry.",
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "START": "Empezar",
+        "SWITCH_USER": "Cambiar de usuario",
+        "LEGAL": "Desarrollado por Jackbox Games, Inc. Juegos y Software © 2015 Jackbox Games, Inc. Todos los derechos reservados. Marcas\\rJackbox Games y el logotipo Jackbox Games son marcas registradas de Jackbox Games, Inc. Quiplash y el logotipo Quiplash\\rmarcas raras de Jackbox Games, Inc. Todas las otras marcas comerciales y logotipos son propiedad de sus respectivos dueños."
+    }
+}
+}

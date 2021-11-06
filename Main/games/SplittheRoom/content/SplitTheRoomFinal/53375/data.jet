@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "están en el jacuzzi | están montando a caballo al atardecer | están recibiendo un masaje | andan en bicicleta tándem | bucean con delfines",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes darles la noticia en una tirolina a través de la jungla o mientras",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Llevas meses planeando romper con tu pareja.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Tienes que hacerlo AHORA, de vacaciones, porque crees que ella podría estar a punto de proponerse.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.94",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "tirolina",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.84",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.06",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál es el mejor lugar para romper?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Punto de ruptura [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve been planning to break up with your significant other for months. You have to do it NOW, on vacation, because you think they might be about to propose. You can break the news to them on a zip line through the jungle or while doing THIS. What’s the better breakup spot?",
+            "t": "A",
+            "v": "761662_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "¡Disfruten de ese viaje en avión de vuelta a casa!",
+            "t": "A",
+            "v": "761665_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

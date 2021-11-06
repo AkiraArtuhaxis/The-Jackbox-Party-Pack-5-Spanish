@@ -1,0 +1,76 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "el piano | la matemática | el baile | la piratería | la cerámica",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+6.14",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.65",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Hay una probabilidad del 80% de que recibir un golpe en la cabeza con un ladrillo de cemento te convierta en un erudito en",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Haces que alguien te arroje un ladrillo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Usa tu cabeza",
+            "t": "A",
+            "v": "751482_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "There’s an 80% chance that getting hit in the head with a cinder block will make you become a savant at this activity. Do you have someone throw a block at you?",
+            "t": "A",
+            "v": "751483_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

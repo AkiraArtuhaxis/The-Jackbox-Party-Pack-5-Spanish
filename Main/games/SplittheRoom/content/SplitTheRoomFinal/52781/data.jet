@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "psiquiatras | espías rusos | los hombres más altos del mundo | físicoculturistas | niños pequeños",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.18",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes pasar una hora resolviendo puzles con un montón de mimos o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Pagaste por una habitación de escape, pero tus amigos deciden no ir a último minuto.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Tienes que acompañar a un grupo de extraños.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.15",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "mimos",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.70",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.17",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Con qué grupo haces la habitación de escape?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Escape Room Subs [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve paid for an escape room, but your friends back out at the last minute. You have to tag along with a group of strangers. You can either spend an hour solving puzzles with a bunch of mimes or these. Which group do you do the escape room with?",
+            "t": "A",
+            "v": "754815_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Cualquier cosa le gana a tus amigos.",
+            "t": "A",
+            "v": "754818_2",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "rasurarle todo el pelo | beber cinco Red Bulls | hacer el amor románticamente | una pelea a puño limpio | revelar todos tus secretos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.42",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.83",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "La prueba para determinar si es humano o no involucra",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.40",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás atrapado en una estación espacial que puede haber sido infiltrada por un alien que cambia de forma.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<OTHERPLAYER> comienza a actuar de forma sospechosa.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.23",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Realizas la prueba?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El enemigo en el amigo",
+            "t": "A",
+            "v": "758067_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re stuck in a space station that may have been infiltrated by a shapeshifting alien. <OTHERPLAYER> starts acting suspicious. The test to determine whether they’re human or not involves THIS. Do you perform the test?",
+            "t": "A",
+            "v": "758068_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

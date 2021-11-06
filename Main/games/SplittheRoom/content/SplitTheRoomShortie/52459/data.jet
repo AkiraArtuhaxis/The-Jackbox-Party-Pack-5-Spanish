@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "el vicepresidente | Martin Scorsese | Adele | el jefe de la NASA | tu hermano",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.25",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.30",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.84",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Después de tres años casados, tu cónyuge revela que es un agente secreto.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Su misión? Ha sido asignado para eliminar a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Te quedas con tu cónyuge?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cubierta bajo las sábanas",
+            "t": "A",
+            "v": "749918_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "After 3 years of marriage, your spouse reveals they are a secret agent. Their mission? They’ve been assigned to take down this person. Do you stay with them?",
+            "t": "A",
+            "v": "749919_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

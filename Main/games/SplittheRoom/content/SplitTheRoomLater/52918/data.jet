@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pip pop pip pop | Ups | Cuidado con ese peligro | Ah rayos | A tu izquierda",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.56",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "La única forma de deshacerte de esta maldición es transferirla a <OTHERPLAYER>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.38",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "No sabrá que vino de ti.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Veinte veces al día, al azar, una voz fuerte en tu cabeza grita,",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "“¡<BLANK>!”",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.48",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿La transfieres?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Una enfermedad transmisible",
+            "t": "A",
+            "v": "756738_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Twenty times a day, at random, a loud voice in your head says “THIS.” The only way to get rid of this curse is to transfer it to <OTHERPLAYER>. They won’t know it came from you. Do you transfer it?",
+            "t": "A",
+            "v": "756739_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

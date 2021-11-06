@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "comer 10 jalapeños | recibir 20 nalgadas | hacer el reto de la canela | nadar dos kilómetros | ir a una cita a ciegas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.90",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes afeitarte las cejas o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás a punto de unirte a una sociedad secreta.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Tienes que elegir tu ritual de iniciación.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.90",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "afeitarte las cejas",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.37",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.49",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué ritual de iniciación eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Iniciación de la sociedad secreta [FINAL]",
+            "t": "A",
+            "v": "751199_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are about to join a secret society. You have a choice in your initiation ritual. You can either shave off your eyebrows or do this. Which initiation ritual do you choose?",
+            "t": "A",
+            "v": "751200_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Sus cejas no están tan definidas como piensan.",
+            "t": "A",
+            "v": "751203_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

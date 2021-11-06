@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "se esté tirando un pedo | esté ladrando | está tocando la batería | está poniendo mariscos en el microondas | está aspirando",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.60",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.60",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Una cadena de hoteles de lujo te ofrece una oferta extraña.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes obtener un 75% de descuento en cualquiera de sus establecimientos, pero tu habitación siempre estará al lado de alguien que",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas la oferta?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "A registrarse",
+            "t": "A",
+            "v": "740164_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A luxury hotel chain gives you a strange offer. You can get a 75% discount at any one of their locations, but your room will always be next door to someone who is doing this. Do you sign up for it?",
+            "t": "A",
+            "v": "740165_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

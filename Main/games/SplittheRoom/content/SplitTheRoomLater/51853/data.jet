@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "zombies | un perro furioso | un montón de pájaros | un niño con una motosierra | un toro",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.55",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.78",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.37",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Formas parte de un equipo de ladrones de bancos que da dinero a los pobres.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tu trabajo es apagar el panel de seguridad. Esperabas sensores láser, pero en cambio, el pasillo está protegido por",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Abandonas el plan y dejas a tu equipo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Honor entre ladrones",
+            "t": "A",
+            "v": "741143_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re part of a bank heist team that gives to the poor. Your job is to turn off the security panel. You expected laser sensors, but instead, the hallway is guarded by this. Do you ditch the plan and leave your team?",
+            "t": "A",
+            "v": "741144_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Me duele el trasero | Impuestos a los pobres | Dios ha muerto | Amo los gases de efecto invernadero | No siento alegría",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.40",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.97",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.60",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes la opción de ser inmortalizado como un personaje de dibujos animados.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Se verá como tú, compartirá tu nombre exacto, pero su frase característica será",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Permites que suceda?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Una respuesta animada",
+            "t": "A",
+            "v": "725882_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have the option to be immortalized as a cartoon character.  It will look like you, share your exact name, but your catchphrase will be “this.”  Do you allow it to happen?",
+            "t": "A",
+            "v": "722481_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

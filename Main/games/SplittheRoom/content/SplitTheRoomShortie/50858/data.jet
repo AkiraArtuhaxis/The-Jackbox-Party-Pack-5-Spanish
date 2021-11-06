@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "choques de autos | un montaje de vacas pariendo | un libro de comentarios feos sobre ti | gusanos | el Facebook de tu ex",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.38",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.26",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.37",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Hay un libro lleno de todas las cosas buenas que alguien haya dicho sobre ti y quién lo dijo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Por cada minuto que te dedicas a mirar el libro, tienes que dedicar un minuto a mirar",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo lees por 10 minutos?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "La Biblia de los cumplidos",
+            "t": "A",
+            "v": "727335_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "There is a book full of every nice thing anyone has ever said about you and who said it. For every minute you spend looking at the book, you have to spend a minute looking at this. Do you spend 10 minutes reading it?",
+            "t": "A",
+            "v": "727336_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

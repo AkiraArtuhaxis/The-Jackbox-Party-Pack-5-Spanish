@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "bu-ba | java-dí | caguito | boing-boing | upsi dupsi",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.60",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.09",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, será reemplazada por una nueva expresión popular:",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.83",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "“¡<BLANK>!”",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tienes el poder de eliminar la palabra “fantabuloso” del léxico del español.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Nunca volverá a ser pronunciada.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.58",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Vale la pena?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Fantástico y fabuloso",
+            "t": "A",
+            "v": "730411_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have the power to remove the word “awesomesauce” from the English lexicon. It will never be uttered again. However, it will be replaced with this new popular expression. Is it worth it?",
+            "t": "A",
+            "v": "722231_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "leche de fórmula para bebés | drogas | tickets para ver a su músico favorito | libros de texto para su nieto | zapatos nuevos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.27",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.92",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.20",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Ella lo quiere de vuelta.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Gastas $200 en un anillo bonito de una casa de empeños.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Apenas al salir, te encuentras con una anciana que te dice que tuvo que empeñar ese anillo para comprar",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.02",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Se lo das?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El anillo de la culpa",
+            "t": "A",
+            "v": "746971_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You spend $200 on a nice ring at a pawn shop. Right outside, you run into an old woman who tells you she had to pawn that ring to buy this. She wants it back. Do you give it to her?",
+            "t": "A",
+            "v": "746972_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

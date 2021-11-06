@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "el 90% de las mujeres | la propiedad de Europa | Canadá | todos los perros y gatos | la luna",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.18",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.97",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "todas las computadoras serán eliminadas a menos que le des",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.33",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres el embajador de la Tierra.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Un caudillo malvado de otra galaxia te ha dado un ultimátum:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.97",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Acatas lo pedido?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El último ultimátum",
+            "t": "A",
+            "v": "726304_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are Earth’s ambassador. (Yeah, let’s just say things got pretty desperate.)  An evil warlord from another galaxy has given you an ultimatum: every computer will be wiped out unless you give him this. Do you comply?",
+            "t": "A",
+            "v": "726305_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

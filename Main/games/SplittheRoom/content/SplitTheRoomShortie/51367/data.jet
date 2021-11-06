@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "llorando en la cama | recibiendo nalgadas | esperando en la fila para ver a Zayn de One Direction | comiendo un pote de helado | siendo atacado por un ganso",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.49",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.13",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.05",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "en el momento del crimen.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un sujeto de interés en un caso de robo; pero tienes una coartada válida mas vergonzosa.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Estabas",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.34",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Transmites tu verdadera coartada a los detectives?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Sin pistas",
+            "t": "A",
+            "v": "734519_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are a person of interest in a robbery case, but you have a valid yet embarrassing alibi. You were doing this at the time of the crime. Do you truthfully relay your alibi to detectives?",
+            "t": "A",
+            "v": "734520_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

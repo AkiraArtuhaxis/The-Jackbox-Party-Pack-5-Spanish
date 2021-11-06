@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "se encojan drásticamente | tengan picazón | canten | desaparezcan | suden todo el día",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.62",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.76",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "El procedimiento requiere que tus genitales",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.98",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un médico brillante puede extender tu vida activa y saludable 10 años.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, hay una trampa.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.68",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te haces la operación?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Evitando la tumba",
+            "t": "A",
+            "v": "734091_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A brilliant doctor is able to extend your healthy, active life span by 10 years. There’s a catch, though. The procedure requires your genitals to do this. Do you get the operation?",
+            "t": "A",
+            "v": "734092_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

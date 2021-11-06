@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "baile desnudo | beba agua con su trasero | coma babosas | corra 4 kilómetros | camine sobre fuego",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.84",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.30",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.71",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "antes de acostarse. Ha habido mucha tensión entre tus dos planetas.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un estudiante de intercambio que vive con una familia de renombre en un planeta diferente.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Es costumbre que el invitado",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Participas en esta costumbre?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El estudiante de intercambio",
+            "t": "A",
+            "v": "726153_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are an exchange student living with a high profile family on a different planet. It is customary for a houseguest to do this before bedtime. There’s been a lot of tension between your two planets. Do you partake in this custom?",
+            "t": "A",
+            "v": "726154_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

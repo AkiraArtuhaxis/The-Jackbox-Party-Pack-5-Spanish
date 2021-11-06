@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "eres miembro de ISIS | votaste por Trump | robaste un banco | crees que la llegada a la luna fue falsa | comes carne de caballo con gusto",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.74",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.15",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.75",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Págale $1.000 y él lo removerá.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu información online se ha visto comprometida por tu némesis.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Ahora, cuando buscas en Google tu nombre, el primer resultado es un vínculo que dice que tú",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.68",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo destruyes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Resultados de la página uno",
+            "t": "A",
+            "v": "742510_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your online info has been compromised by your nemesis. Now, when you google your name, the first result is a link that says this about you. Pay him $1,000 and he’ll remove it. Do you?",
+            "t": "A",
+            "v": "742511_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

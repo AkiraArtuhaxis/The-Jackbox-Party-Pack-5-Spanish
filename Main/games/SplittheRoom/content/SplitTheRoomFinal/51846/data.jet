@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "vencer a su padre en la lucha libre | cantar en melodía | hacer malabares con éxito | recitar el alfabeto griego | pueda hornear un pastel",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "examen de matemáticas de secundaria",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.16",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.16",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.14",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Un meteorito gigante está a punto de golpear la tierra.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El gobierno proporcionará refugio a cualquier persona que pueda aprobar un examen de matemáticas de nivel secundario O",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué prueba haces?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Prueba de requisitos de refugio [FINAL]",
+            "t": "A",
+            "v": "741071_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A giant meteor is about to hit the earth. The government will provide shelter to anyone who can either pass a high school level math test OR this. Which test do you take?",
+            "t": "A",
+            "v": "741072_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

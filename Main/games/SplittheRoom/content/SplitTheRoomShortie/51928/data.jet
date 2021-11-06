@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "romperte el brazo | robarte el pago de su alquiler | secuestrar a tu perro | hacer que te despidan | romper tus ventanas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.10",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.60",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.77",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Vives en una sociedad donde se predicen los crímenes futuros, pero los videntes policiales se equivocan el 20% de las veces.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "La policía te informa que creen que tu mejor amigo va a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Haces que se lo lleven bajo custodia y lo investiguen?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cómplice antes del acto",
+            "t": "A",
+            "v": "742067_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You live in a society where future crimes are predicted, but the police psychics are wrong 20% of the time. The cops inform you that they believe your best friend is going to do this to you. Do you have them taken into custody and investigated?",
+            "t": "A",
+            "v": "742068_6",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

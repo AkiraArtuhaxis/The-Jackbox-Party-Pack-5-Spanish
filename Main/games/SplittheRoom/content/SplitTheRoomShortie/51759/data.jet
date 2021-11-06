@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Justin Bieber | Kim Kardashian | Adam Sandler | Scarlett Johansson | Donald Trump",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.87",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.82",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "durante una hora.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.86",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Si esta persona es avistada montando un escándalo en público, su carrera terminará.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Al rociarte con un spray mágico, puedes aparecer ante los demás como",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.93",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Haces un berrinche?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Doble de malas intenciones",
+            "t": "A",
+            "v": "739833_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "By spritzing yourself with a magical spray, you can appear to others as this person for 1 hour. If this person is caught having a public meltdown, their career will be over. Do you throw a tantrum?",
+            "t": "A",
+            "v": "739834_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

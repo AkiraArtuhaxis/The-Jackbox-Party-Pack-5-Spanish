@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "astas de alce | destellos | tono sepia | alertas meteorológicas | orejas de gato",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.27",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.24",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "a la persona que fotografías. El efecto dura 2 horas.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+3.40",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "El amargo de tu hijo te pide que le saques una foto antes del baile de graduación.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un nuevo filtro de fotos literalmente agrega",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Usas el filtro?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Pensamientos con filtro",
+            "t": "A",
+            "v": "731341_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A new photo filter literally adds this to the person you photograph. The effect last for 2 hours. Your angsty son asks you take his picture before prom. Do you use the filter?",
+            "t": "A",
+            "v": "731342_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

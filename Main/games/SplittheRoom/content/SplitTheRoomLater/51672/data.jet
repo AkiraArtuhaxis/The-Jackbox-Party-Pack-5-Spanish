@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "caca de perro | música de jazz | lágrimas | historias personales | calcetines usados ​",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.36",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.86",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.45",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás a punto de emprender un largo viaje por carretera y necesitas alquilar un auto.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Hay un nuevo auto ecológico que no funciona con gas ni electricidad.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Curiosamente, funciona con",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.64",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Carga de conciencia",
+            "t": "A",
+            "v": "738598_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "There’s a new environmentally friendly car that doesn’t run on gas or electricity. Oddly enough, it runs on this. You’re about to go on a long road trip and need to rent a car.",
+            "t": "A",
+            "v": "738599_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

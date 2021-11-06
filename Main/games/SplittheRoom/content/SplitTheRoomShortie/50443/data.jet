@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "abejas asesinas | fascistas | terroristas | incendios forestales | extraterrestres",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.12",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.88",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.40",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "invadieran tu ciudad.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has sido asignado la tarea de matar al hombre lobo que se ha estado comiendo a las mascotas en tu área.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Cuando encuentras al monstruo durmiendo en su guarida, descubres que ha estado impidiendo que",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.65",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Matas aun así al hombre lobo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Lobo en todas las calles",
+            "t": "A",
+            "v": "725568_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve been tasked with slaying the werewolf that’s been eating pets in your area. When you find the monster in its den...you discover it’s been keeping this from overrunning your town. Do you still kill the werewolf?",
+            "t": "A",
+            "v": "722392_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

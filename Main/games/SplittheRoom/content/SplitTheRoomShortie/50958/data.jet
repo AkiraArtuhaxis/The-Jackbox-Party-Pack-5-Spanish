@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Angela Merkel | Adam Driver | tu clon | una anciana | Bob Dylan",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.79",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "te chupe levemente el dedo meñique durante cinco minutos completos.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.95",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "La organización benéfica de tu elección recibirá $10.000, pero solo si dejas que",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El rarito de la caridad",
+            "t": "A",
+            "v": "728693_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "The charity of your choice will get $10,000, but only if you let this person lightly suck on your pinky finger for a full five minutes. Do you do it?",
+            "t": "A",
+            "v": "728694_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

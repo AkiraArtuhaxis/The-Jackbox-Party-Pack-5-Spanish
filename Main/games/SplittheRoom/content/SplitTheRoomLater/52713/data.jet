@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "No puedo seguir mintiendo sobre... | Mi verdadera identidad es... | Está decidido: Voy a asesinar a... | Siempre deseé poder... | Para mi cumpleaños quiero...",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.95",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.88",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.40",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu pareja romántica siempre lleva su diario a donde va, pero hoy lo encuentras abierto en su escritorio.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Echas un vistazo a la última página y comienza con…",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Sigues leyendo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Actualización de privacidad",
+            "t": "A",
+            "v": "753971_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your romantic partner always keeps their diary with them but today you find it open on their desk. You peek at the last entry and it begins with… THIS.  Do you keep reading?",
+            "t": "A",
+            "v": "753972_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

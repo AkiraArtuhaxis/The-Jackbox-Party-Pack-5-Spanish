@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Karen | Sonrisa | Marcha | Púrpura | Piña",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.39",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.72",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Pero, a cambio, puede nombrar a tu bebé. Y lo va a llamar",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.36",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tienes un bebé en camino.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<OTHERPLAYER> te ofrece cuidado infantil gratuito durante los primeros 7 años de vida de tu hijo.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.37",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas los términos?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Un nombre que significa arrepentimiento",
+            "t": "A",
+            "v": "755853_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have a child on the way. <OTHERPLAYER> offers you free child care for the first 7 years of your kid’s life. But, they get to name your baby. And they’re gonna name it THIS. Do you go agree to the terms?",
+            "t": "A",
+            "v": "755854_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

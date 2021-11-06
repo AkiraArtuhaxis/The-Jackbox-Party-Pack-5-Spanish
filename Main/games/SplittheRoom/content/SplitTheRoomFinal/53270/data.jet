@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "vestido como un caballo | llorando | sumergido en pudín | quemando dinero | riéndote de unos niños",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.60",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Solo puedes evitar que se filtre una de estas.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te estás postulando para un cargo político. Desafortunadamente, han surgido dos chantajes.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Hay una foto tuya pateando una ardilla, y una foto tuya",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.40",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "patear una ardilla",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+4.97",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.37",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué imagen evitas que salga?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Chantaje [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re running for political office. Unfortunately, two pieces of blackmail have surfaced. There’s a picture of you kicking a squirrel and a picture of you doing THIS. You can only stop one of these from being leaked. Which picture do you prevent from getting out?",
+            "t": "A",
+            "v": "760527_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Hey, los políticos han sobrevivido a cosas MUCHO peores.",
+            "t": "A",
+            "v": "760530_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

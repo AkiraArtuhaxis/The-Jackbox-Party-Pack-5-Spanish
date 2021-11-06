@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu hermana | un montón de ropa sucia | un perro enojado | Anonymous | Papá Noel",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.14",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "pero tus opciones son un pez rape o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás a cargo de la moneda de tu país.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Tienes que elegir la imagen para el nuevo billete estándar...",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.13",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "un pez rape",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+1.98",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+4.40",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué imagen pones en el billete?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Imagen de nueva moneda [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re in charge of your nation’s currency. You have to pick the image for a new standard bill... but your choices are either a monkfish, or THIS. Which image do you put on the bill?",
+            "t": "A",
+            "v": "754083_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Otra razón más para invertir en Bitcoin.",
+            "t": "A",
+            "v": "754086_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Soy un idiota y... | Desde una perspectiva estúpida... | Debería ser despedido, pero... | No estoy ayudando, pero... | No tengo fuentes y aún...",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.66",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Él puede decir, “Te interrumpo groseramente, pero...” o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Al menos una vez al día, tu colega te interrumpe para decir: “Bueno, en realidad...”",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "No puedes evitar que te interrumpa, pero puedes cambiar lo que dice.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.67",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "“Te interrumpo groseramente, pero...”",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+4.03",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.58",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué frase le haces decir a tu interruptor?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Frase de interrupción [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "At least once a day, your colleague interrupts you to say “Well, actually...” You can’t stop him from interrupting you, but you can change what he says. He can say “I’m rudely interrupting, but...” or THIS. Which phrase do you have your interrupter say?",
+            "t": "A",
+            "v": "760993_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "What a world this would be.",
+            "t": "A",
+            "v": "760996_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

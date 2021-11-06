@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un campo vacío | un baño portátil en Maine | una prisión | tu escuela primaria | una casa de retiro",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "Aeropuerto de Newark",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+5.03",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ONE_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.67",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.03",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Has muerto y te has convertido en un fantasma.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes acechar el aeropuerto de Newark O",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué lugar acechas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Lugar de Huanting [FINAL]",
+            "t": "A",
+            "v": "743793_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve died and become a ghost. You can either haunt the Newark Airport or this spot. Which location do you haunt?",
+            "t": "A",
+            "v": "743794_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "La mayoría se da cuenta que el limbo es solo una parada.",
+            "t": "A",
+            "v": "743797_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

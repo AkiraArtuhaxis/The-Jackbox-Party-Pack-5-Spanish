@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Muerte al patriarcado | tiempo de tetas | nos estamos divorciando | Hay que amar los pitulines | 10 años sobrio",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.47",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.35",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“¡<BLANK>!”",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.10",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Cuando recogiste el pastel que pediste para el décimo cumpleaños de tu hijo, no miraste dentro de la caja.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Cuando revelas el pastel a los niños, descubres que dice",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Rompes el pastel delante de los niños?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Sorpresa doble",
+            "t": "A",
+            "v": "734282_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "When you picked up the cake you ordered for your son’s 10th birthday, you didn’t look inside the box. As you reveal the cake to the kids, you discover that it says this. Do you smash the cake in front of the kids?",
+            "t": "A",
+            "v": "721925_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

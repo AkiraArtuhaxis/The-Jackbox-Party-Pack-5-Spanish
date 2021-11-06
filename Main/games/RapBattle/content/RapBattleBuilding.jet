@@ -1,0 +1,139 @@
+{
+    "content": [
+        {
+            "id": "001",
+            "name": "Jackbox Games (Abandonado)",
+            "giveTrophy":true
+        },
+        {
+            "id": "002",
+            "name": "Binjpipe",
+            "giveTrophy":false
+        },
+        {
+            "id": "003",
+            "name": "un edificio muy caro",
+            "giveTrophy":false
+        },
+        {
+            "id": "004",
+            "name": "torre conmemorativa de Mike Bilder",
+            "giveTrophy":false
+        },
+        {
+            "id": "005",
+            "name": "Centro de Mic Drop",
+            "giveTrophy":false
+        },
+        {
+            "id": "006",
+            "name": "Escuela de artes Allard Laban",
+            "giveTrophy":false
+        },
+        {
+            "id": "007",
+            "name": "solo tu edificio normal de todos los días",
+            "giveTrophy":false
+        },
+        {
+            "id": "008",
+            "name": "Escuela Online de Ben Jacobx, campus fuera de línea",
+            "giveTrophy":false
+        },
+        {
+            "id": "009",
+            "name": "Torre vidente",
+            "giveTrophy":false
+        },
+        {
+            "id": "010",
+            "name": "Explosivos en Descuento inc.",
+            "giveTrophy":false
+        },
+        {
+            "id": "011",
+            "name": "Construcción de Bill Ding",
+            "giveTrophy":false
+        },
+        {
+            "id": "012",
+            "name": "Almacén de suministros de almacén",
+            "giveTrophy":false
+        },
+        {
+            "id": "013",
+            "name": "edificio incorrecto de Frank Lloyd",
+            "giveTrophy":false
+        },
+        {
+            "id": "014",
+            "name": "No un escondite secreto",
+            "giveTrophy":false
+        },
+        {
+            "id": "015",
+            "name": "hospital de perritos",
+            "giveTrophy":false
+        },
+        {
+            "id": "016",
+            "name": "Suministro de objetos frágiles de Ken",
+            "giveTrophy":false
+        },
+        {
+            "id": "017",
+            "name": "Garaje de informantes",
+            "giveTrophy":false
+        },
+        {
+            "id": "018",
+            "name": "Curas médicas innovadoras inc.",
+            "giveTrophy":false
+        },
+        {
+            "id": "019",
+            "name": "Centro de cosas importantes",
+            "giveTrophy":false
+        },
+        {
+            "id": "020",
+            "name": "Instituto Levantatumano",
+            "giveTrophy":false
+        },
+        {
+            "id": "021",
+            "name": "Centro Nonos-destruias",
+            "giveTrophy":false
+        },
+        {
+            "id": "022",
+            "name": "Museo de Arte Futuro",
+            "giveTrophy":false
+        },
+        {
+            "id": "023",
+            "name": "Tienda China Contoro",
+            "giveTrophy":false
+        },
+        {
+            "id": "024",
+            "name": "Edificio Titanic",
+            "giveTrophy":false
+        },
+        {
+            "id": "025",
+            "name": "Torres Tipo",
+            "giveTrophy":false
+        },
+        {
+            "id": "026",
+            "name": "Edificio Casien Ruinas",
+            "giveTrophy":false
+        },
+        {
+            "id": "027",
+            "name": "Banco de confianza establecido",
+            "giveTrophy":false
+        }
+    ]
+}

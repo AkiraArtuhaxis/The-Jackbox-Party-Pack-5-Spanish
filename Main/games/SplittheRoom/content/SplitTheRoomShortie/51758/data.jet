@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "vivir 5 años más | evitar el cáncer de piel | impulsar tu metabolismo | saltar muy alto | prevenir la gripe",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.31",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.16",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+10.25",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Los científicos han descubierto que la lluvia tiene beneficios increíbles para la salud.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Si te empapas con agua de lluvia fría durante 10 minutos al menos 10 veces al año, aumentas en gran medida tus posibilidades de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Comienzas a quedarte parado durante chaparrones?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Verdaderamente cantando bajo la lluvia",
+            "t": "A",
+            "v": "739822_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Scientists have found that rain has amazing health benefits. By allowing yourself to be drenched in cold rain water for 10 minutes at least 10 times a year, you greatly increase your chance of this. Do you start standing in downpours?",
+            "t": "A",
+            "v": "739823_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

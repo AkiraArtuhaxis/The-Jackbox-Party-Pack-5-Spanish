@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "malabaristas mendigos | el crucero del amor | fans de música country | universitarios ruidosos | comediantes de 4ta",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "Solteros mayores",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+10.07",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.31",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.08",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Has reservado una semana en un crucero de fiesta, pero te equivocaste con las fechas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Mientras caminas por el muelle, las únicas dos escaleras disponibles son para solteros mayores o para",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿En qué crucero temático te embarcas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opción de crucero temático [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have booked a week on a specialized Party Cruise, but you screwed up the dates. As you walk the dock, the only two gangways available are for Senior Singles or this. Which themed cruise do you board?",
+            "t": "A",
+            "v": "758155_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Solo no rompan el corazón de Edith. La chica ha pasado por mucho.",
+            "t": "A",
+            "v": "758158_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

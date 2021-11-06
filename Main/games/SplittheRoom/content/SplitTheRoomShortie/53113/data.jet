@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "la ciudad más cercana | un lote abandonado | su patio trasero | un campo de soja | un restaurante elegante",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+14.74",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+7.43",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+12.43",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "por una hora.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tienes un Pase Vitalicio de Salteo, por lo que puedes saltearte cualquier fila.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero cada vez que lo uses, automáticamente transportará a <OTHERPLAYER> a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+13.79",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo aprovechas al máximo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Velocidad entre líneas",
+            "t": "A",
+            "v": "758987_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have a Lifetime SkipPass, meaning you can skip to the front of any line. (Airports, DMV, grocery store, etc). But, every time you use it, it will automatically transport <OTHERPLAYER> to THIS PLACE for an hour. Do you take full advantage of it?",
+            "t": "A",
+            "v": "758988_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

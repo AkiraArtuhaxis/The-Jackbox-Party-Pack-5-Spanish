@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "3 cucharadas de salsa picante | mucha sangre | una pelota de ping pong | una tapa de botella | una bola de lana",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.07",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.48",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": ".",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Cada vez que haces caca, extraes un billete de $50. Desafortunadamente, también sale",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Te aguantas este dolor durante al menos un mes antes de ver a un médico?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Caca sorpresa",
+            "t": "A",
+            "v": "735602_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Every time you poop, you extract a $50 bill. Unfortunately, <BLANK> also comes out. Do you endure this pain for at least a month before you see a doctor?",
+            "t": "A",
+            "v": "735603_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

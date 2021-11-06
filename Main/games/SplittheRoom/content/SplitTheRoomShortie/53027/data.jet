@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cleopatra | Sócrates | Juana de Arco | Jesús | Abraham Lincoln",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.65",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+0.86",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "a la vida.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+1.96",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Pero, a cambio, tienes que enviar a <OTHERPLAYER> al año 1930.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Puede devolver a",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+2.83",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Un acuerdo de muerte",
+            "t": "A",
+            "v": "758045_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You can bring THIS PERSON  back to life. But, by doing so, you have to send <OTHERPLAYER> back to the year 1930. Do you do it?",
+            "t": "A",
+            "v": "758046_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

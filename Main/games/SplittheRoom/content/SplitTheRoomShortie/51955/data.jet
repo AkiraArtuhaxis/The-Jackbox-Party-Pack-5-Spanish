@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "se busca a tu abuela por asesinato | no es tu hijo | eres parte perro | tienes ADN alienígena | tu hijo tiene una enfermedad contagiosa",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.17",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.51",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.78",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Sin un documento oficial, se sacará un 1.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu hijo tiene que escribir un informe genealógico para la escuela.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Te haces una prueba de genealogía, pero descubres que",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.79",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Dejas que presente sus hallazgos a la clase?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "ADN aprobado",
+            "t": "A",
+            "v": "742499_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your child has been assigned to write a genealogy report for school. You order a test done, only to discover this. Without an official document, they’ll get an F. Do you let them present the findings to the class?",
+            "t": "A",
+            "v": "742500_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

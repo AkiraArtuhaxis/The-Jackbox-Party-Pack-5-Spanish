@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "estando borracho mientras orinas en un arbusto | vomitando | griando un perro callejero | mirando a través de la ventana de tu vecino | robando un adorno del césped",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "sin pantalones",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.24",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.64",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.20",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Según una nueva ley, todo el mundo debe tomarse una foto de forma encubierta para un mapa en línea.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes ser atrapado recibiendo el correo sin pantalones o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿En qué situación preferirías que te sorprendieran?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Vistas a la calle [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Según una nueva ley, todo el mundo debe tomarse una foto de forma encubierta para un mapa en línea.",
+            "t": "A",
+            "v": "765928_6",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Gira a la izquierda en la vergüenza pública.",
+            "t": "A",
+            "v": "765931_2",
+            "n": "ResponseAudio"
+        }
+    ]
+}

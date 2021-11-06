@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "medicación contra la ansiedad | videos de de PETA sobre crueldad animal | pañales para adultos | autos usados ​​| políticos locales",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.86",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+6.42",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "debajo de cada mensaje de texto que envíes.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Con tu nuevo plan de datos, no pagarás por el uso del teléfono o de datos por el resto de tu vida... si aceptas que aparezcan anuncios de",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Firmas el contrato?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Textos emergentes",
+            "t": "A",
+            "v": "740095_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "With your new data plan, you’ll never pay for phone use or data for the rest of your life...if you agree to allow ads for this to follow every text you send.  Do you sign the contract?",
+            "t": "A",
+            "v": "740096_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

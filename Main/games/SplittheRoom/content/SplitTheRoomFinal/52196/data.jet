@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un Game Boy con 10 horas de batería | una bañera llena de caramelo | una rata entrenada | una pluma y papel | un Bop It",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "un rompecabezas de 10.000 piezas",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.94",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.01",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.94",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Te colocarán en confinamiento solitario durante dos semanas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Los guardias te permiten llevar una cosa contigo. Puedes tener un rompecabezas de 10.000 piezas o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cuál llevas a tu confinamiento solitario?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opción de confinamiento solitario [FINAL]",
+            "t": "A",
+            "v": "746466_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re being placed in solitary confinement for two weeks. The guards allow you to take one thing with you. You can either have a 10,000 piece puzzle or this thing. Which do you take into solitary confinement?",
+            "t": "A",
+            "v": "746467_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "La peor parte...falta una pieza.",
+            "t": "A",
+            "v": "746470_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

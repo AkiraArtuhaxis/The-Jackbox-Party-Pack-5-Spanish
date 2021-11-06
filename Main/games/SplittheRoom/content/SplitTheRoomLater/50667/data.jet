@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "usar pijamas en público durante un mes | ir a comprar zapatos con el líder | beber tu propia orina | adoptar a un cocodrilo como mascota | dejar de usar ropa interior",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.34",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.90",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.90",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "La negación pública podría desencadenar una revolución.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás a punto de encontrarte con un dictador despiadado. Se espera que le beses los pies.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Si te niegas, te verás obligado a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.21",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Le besas los pies?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Autoridad cuestionable",
+            "t": "A",
+            "v": "725240_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are about to meet a ruthless dictator. You will be expected to kiss his feet. If you refuse, you will be forced to do THIS. Public refusal could ignite a revolution. Do you kiss his feet?",
+            "t": "A",
+            "v": "725213_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

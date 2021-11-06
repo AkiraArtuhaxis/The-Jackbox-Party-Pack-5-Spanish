@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "$50.000 dólares | un auto nuevo | vuelos gratis por un año | pizza de por vida | un condominio en Nueva York",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.59",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.94",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.68",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "No te revelan por qué quieren esta información.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Una pequeña empresa de tecnología te contacta.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Quieren poner un chip en tu cabeza que registre tus pensamientos de 9 AM a 5 PM todos los días de la semana durante un año. A cambio, te darán",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.18",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Trabajo cerebral",
+            "t": "A",
+            "v": "725126_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A small tech firm approaches you. They want to put a chip in your head that records your thoughts from 9 AM to 5 PM every weekday for a year. In return, they will give you this. They are not disclosing why they want this info. Do you do it?",
+            "t": "A",
+            "v": "724054_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

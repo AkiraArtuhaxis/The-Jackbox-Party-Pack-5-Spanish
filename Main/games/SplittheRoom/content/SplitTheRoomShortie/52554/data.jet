@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "correr una maratón | mantenerse abstemio por un año | estudiar para el examen de la facultad de Derecho | escalar el monte Everest | vender toda la propiedad personal",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.08",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.19",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "... o se enfrentan a un año de arresto domiciliario.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.69",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Es tu último día con 29 años.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Vives en un mundo donde las personas que cumplen 30 años son obligadas a",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.94",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Realizas la tarea mañana?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Crisis de los 30",
+            "t": "A",
+            "v": "751460_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You live in a world where people who turn 30 are forced to do this... or face one year under house arrest. It’s your last day as a 29 year old. Do you perform the task tomorrow?",
+            "t": "A",
+            "v": "751461_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

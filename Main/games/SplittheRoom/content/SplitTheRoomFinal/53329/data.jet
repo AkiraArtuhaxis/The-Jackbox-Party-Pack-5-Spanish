@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Qué tiempo hará mañana | Cómo estas | Me comprendes | Mi gato me ama | Soy bueno",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.63",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "pero tiene que ser, “¿Qué pasa con los flamencos?” o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "“¿<BLANK>?”",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te encuentras con un ser benévolo y omnisciente.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes hacerle una pregunta...",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.62",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "“¿Qué pasa con los flamencos?”",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.62",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.18",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué pregunta le haces al omnisciente?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Pregunta a Dios [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You meet a benevolent and all-knowing being. (Fine, it’s God, ok). You may ask them one question... but it has to either be, “What’s up with flamingos?” or THIS. Which question do you ask the all-knowning?",
+            "t": "A",
+            "v": "761216_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Acaban de probar que existen las preguntas estúpidas.",
+            "t": "A",
+            "v": "761219_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

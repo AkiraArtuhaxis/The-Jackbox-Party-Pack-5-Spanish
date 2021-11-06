@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Eres la niña de mis ojos | Pone la telenovela | Hora de darle un masaje de juanetes al abu | Alguien está buscando una paliza | Estoy harto de estar aquí",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.48",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.25",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“¡<BLANK>!”",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.10",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Descubres que el reloj de tu abuelo contiene al espíritu de tu abuelo fallecido.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "En lugar de marcar la hora, su voz incorpórea dice cosas como,",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Dejas de darle cuerda al reloj?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El tiempo es relativo",
+            "t": "A",
+            "v": "765906_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You discover that your grandfather clock is inhabited by the spirit of your deceased grandfather. Instead of chiming on the hour, his disembodied voice says things like this. Do you stop winding the clock?",
+            "t": "A",
+            "v": "765907_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

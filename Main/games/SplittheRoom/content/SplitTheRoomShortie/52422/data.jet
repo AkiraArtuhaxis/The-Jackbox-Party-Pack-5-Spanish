@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "el mal encarnado | un luchador profesional | una estrella de reality show | un contador | un conspiracionista",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.94",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.46",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+10.94",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás solo en el hospital con el bebé recién nacido de tu hermana y otro bebé.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Una prueba de ADN muestra que el OTRO bebé tendrá un 160 de IQ y una fuerza sobrehumana, pero el bebé de tu hermana se convertirá en",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Los intercambias?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Mira quién intercambia",
+            "t": "A",
+            "v": "749374_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re alone in the hospital with your sister’s new baby and another baby. A DNA testing chart shows the OTHER baby will have an IQ of 160 and superhuman strength, but your sister’s baby will become… THIS. Do you switch them?",
+            "t": "A",
+            "v": "749375_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

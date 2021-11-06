@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Me acosté con tu prometido | Creo que eres feo | Déjame | Puedo volar | Desearía no haberte conocido",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.96",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.15",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.96",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Es un acantilado de más o menos 9 metros.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu amigo está agarrando tu mano, colgado de un pequeño acantilado.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Te mira a los ojos y dice:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.36",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo dejas caer?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nunca me dejes ir",
+            "t": "A",
+            "v": "751427_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your friend is grasping your hand, hanging from a small cliff. They look you in the eye and say “<BLANK>.” It’s like a 30 ft cliff. Do you let them drop?",
+            "t": "A",
+            "v": "751428_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

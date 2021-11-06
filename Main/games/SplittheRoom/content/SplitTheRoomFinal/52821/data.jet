@@ -1,0 +1,90 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "ayudarte a proponer matrimonio | atracar a un banco | entrar en un concurso de talentos | conseguir un cambio de imagen de moda | encontrar la casa de tus sueños",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "aparecer en la fiesta de tu sobrino",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+10.37",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.38",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.35",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Un clan de ninjas te debe un favor, pero debes cobrarlo pronto.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes usarlo para darle a tu sobrino de 10 años una increíble fiesta de cumpleaños o para",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo puede pagarte el grupo de ninjas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Favor de Ninja [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A clan of ninjas owe you a favor, but you must cash it in soon. You can either use it to throw your 10 year old nephew an amazing birthday party, or this. How may the group of ninjas repay you?",
+            "t": "A",
+            "v": "755381_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

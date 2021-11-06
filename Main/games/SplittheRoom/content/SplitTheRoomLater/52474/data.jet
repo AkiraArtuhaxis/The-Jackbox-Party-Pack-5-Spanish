@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "los sonidos que haces en el baño | la canción de “Despacito” | la voz de un niño gritando | una vuvuzela | citas de “Shrek”",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.22",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.96",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Hace que la terminal reproduzca con volumen alto",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.60",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Una compañía de tarjetas de crédito te ofrece un reembolso del 10% en todas las compras.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El único problema es que cuando insertas el chip, hace un ruido muy extraño.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.88",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Utilizarías la tarjeta con regularidad?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Inserte el chip",
+            "t": "A",
+            "v": "750226_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A credit card company offers you 10% cash back on all purchases. The only problem is that when you insert the chip, it makes a very weird noise. It causes the machine to loudly play THIS. Do you use this card on a regular basis?",
+            "t": "A",
+            "v": "750227_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

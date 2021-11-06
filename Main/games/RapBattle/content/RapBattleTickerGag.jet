@@ -1,0 +1,374 @@
+{
+    "content": [{
+            "id": "001",
+            "text": "...MAGNATE INMOBILIARIO RONALD FRUMP: \"¿YO? ¿PRESIDENTE? ¡SEGURO, DESPUÉS DE QUE LOS CLUBS GANEN LA SERIE MUNDIAL!\"..."
+        },
+        {
+            "id": "002",
+            "text": "...ENCUESTA GALLUP: MÉDICOS MÁS CONFIADOS EN AMÉRICA: 1. MARTENS 2. DRE 3. HOWSER..."
+        },
+        {
+            "id": "003",
+            "text": "...ENCUESTA DE PESCA RECIENTE: LAS CANCIONES NECESITAN MEJORES GANCHOS..."
+        },
+        {
+            "id": "004",
+            "text": "...EN ESTE DÍA: EL BEAT DROPEÓ... PERO NO SERÁ OLVIDADO..."
+        },
+        {
+            "id": "005",
+            "text": "...EL PUENTE SE CERRÓ. VE DIRECTAMENTE AL CORO..."
+        },
+        {
+            "id": "006",
+            "text": "...REGLAS DE LA CORTE SUPREMA: LAS RIMAS FORZADAS CUENTAN IGUAL..."
+        },
+        {
+            "id": "008",
+            "text": "...ACTUALIZACIÓN: EL MUNDO QUIZÁS SE ACABE PERO LAS EMPRESAS DE CABLE TODAVÍAN PLANEAN ENVIARLE UNA FACTURA..."
+        },
+        {
+            "id": "009",
+            "text": "...HOY: TRES VERSOS LA ROMPIERON, EL CUARTO FUE RASPOSO..."
+        },
+        {
+            "id": "010",
+            "text": "...¡LAS PELÍCULAS DE ACCIÓN TENÍAN RAZÓN! ¡ROBOTS GIGANTES ATACAN LA CIUDAD! ¡COLOCAR UN PRODUCTO ES EFECTIVO! BEBE ROBOCOLA..."
+        },
+        {
+            "id": "011",
+            "text": "...LUEGO DE LA ACTUALIZACIÓN, EL ESPECTÁCULO DE ESTA NOCHE SERÁ DIRIGIDO POR ANDRÉ 4000..."
+        },
+        {
+            "id": "012",
+            "text": "...ENCUESTA: NÚMERO DE MANOS EN EL AIRE INDICA APATÍA MASIVA..."
+        },
+        {
+            "id": "013",
+            "text": "...REPORTE DE DAÑOS: EL TECHO ESTÁ FLAMA Y LEVANTADO A NIVELES PELIGROSOS..."
+        },
+        {
+            "id": "014",
+            "text": "...ADVERTENCIA: LOS NIÑOS NO ACOMPAÑADOS SERÁN FORMADOS EN EQUIPOS DE DANZA..."
+        },
+        {
+            "id": "015",
+            "text": "...EL CLIMA DE HOY: VIENTOS FUERTES, VERSOS DÉBILES..."
+        },
+        {
+            "id": "016",
+            "text": "...EL SUSTO DE ROBOTS GIGANTES SON \"NOTICIAS FALSAS \" DIJO UN HOMBRE ANTES DE SER APLASTADO POR UN ROBOT GIGANTE... "
+        },
+        {
+            "id": "017",
+            "text": "...ADVERTENCIA DEL CIRUJANO GENERAL: LOS MIC DROP INTENCIONALES SON UN VERDADERO RIESGO..."
+        },
+        {
+            "id": "019",
+            "text": "...LINGÜISTA LÍDER: LOS NÚMEROS NUNCA DEBEN ESTAR EN 4 PALABRAS..."
+        },
+        {
+            "id": "020",
+            "text": "...JUEGO DE BÉISBOL LOCAL CANCELADO POR CLIMA INCLEMENTE/ROBOTS GIGANTES..."
+        },
+        {
+            "id": "022",
+            "text": "...¿ES TU ROBOT DEMASIADO GRANDE? APRENDE A CONSEGUIR UN BOT DE PLAYA PARA EL VERANO..."
+        },
+        {
+            "id": "023",
+            "text": "...ATENCIÓN: QUIENES ESTÉN QUIETOS SERÁN REMOLCADOS..."
+        },
+        {
+            "id": "025",
+            "text": "...ÚLTIMA NOTICIA: ESTACIÓN DE NOTICIAS DESTRUIDA POR ROBOTS GIGANTES..."
+        },
+        {
+            "id": "027",
+            "text": "...SE HA DEMOSTRADO QUE EL RAPEO ES BUENO PARA LA SALUD... ESPECIALMENTE PORQUE EVITA QUE LOS ROBOTS TE APLASTEN..."
+        },
+        {
+            "id": "029",
+            "text": "...¿EXPULSADO DE SU CASA POR INVASIÓN DE ROBOTS? CONTACTE A UNA AGENCIA GUB. EN UN ESTADO DIF. ¿O UN AMIGO EN EL EXTRANJERO, TAL VEZ?..."
+        },
+        {
+            "id": "030",
+            "text": "...CONTRATANDO: CONDUCTORES PARA EMPRESA DE VIAJE COMPARTIDO. NECESITA LICENCIA VÁLIDA Y UN AUTO QUE ALOJE 18 MTS. BESTIA DE TITANIO..."
+        },
+        {
+            "id": "031",
+            "text": "...SEÑORAS TRAVIESAS, VAMOS DE FIESTA. UPS, LO SIENTO. ESPERA, QUÉ ES ESTO, DÓNDE SE MUESTRA ESTO..."
+        },
+        {
+            "id": "032",
+            "text": "...BANDANAS SUBEN 90.23...FTOS PELO SUBEN 35.14...ARTOS DE NARIZ BAJAN 12.51...BTAS CUERO BAJAN 327.88..."
+        },
+        {
+            "id": "033",
+            "text": "...JRSYS NBA SUBEN 123.90...RMRAS BLNCAS GRNDES SUBEN 81.44...FRNLA C/BTNES BAJAN 72.33..."
+        },
+        {
+            "id": "034",
+            "text": "...CELULAR PERDIDO: SI LO ENCUENTRAS…DALE INDICACIONES Y QUE SIGA SU CAMINO..."
+        },
+        {
+            "id": "036",
+            "text": "...DEBATE DE ALCALDE ESTA NOCHE...DUELO DE BAILE GUBERNAMENTAL MAÑANA..."
+        },
+        {
+            "id": "037",
+            "text": "...VÍCTIMA DE ATAQUE DE ROBOT RIDICULIZADO PERO AÚN RESPIRA..."
+        },
+        {
+            "id": "038",
+            "text": "...ADVERTENCIA: EL ESTRIBILLO VUELVE DE NUEVO..."
+        },
+        {
+            "id": "039",
+            "text": "...TITULAR: PANTALONES DE VERDAD HECHOS CON CUERO SINTÉTICO SUFREN CRISIS EXISTENCIAL..."
+        },
+        {
+            "id": "040",
+            "text": "...HOMBRE Y MUJER DISCUTEN SOBRE SI UN SOMBRERO TIENE AGUJEROS O NO..."
+        },
+        {
+            "id": "041",
+            "text": "...GOBIERNO PONE EN CIRCULACIÓN RIÑONERA PARA LA SUPERVIVENCIA..."
+        },
+        {
+            "id": "042",
+            "text": "...\"NO PUEDO CREER QUE LOS ROBOTS SON REALES\" DICE VAMPIRO LOCAL..."
+        }, {
+            "id": "043",
+            "text": "...PROGRAMA DE BARRA DE NOTICIAS AÚN FUNCIONANDO...COMO DEBERÍAS..."
+        },
+        {
+            "id": "044",
+            "text": "...LAS SIGUIENTES ESCUELAS ESTÁN CERRADAS: LA VIEJA ESCUELA...LA NUEVA ESCUELA...LA ESCUELA DE GOLPES DUROS..."
+        },
+        {
+            "id": "045",
+            "text": "...ESTA ES UNA PRUEBA DEL SISTEMA DE EMERGENCIA: A LA !@#RDA...PERO QUÉ $%$&JO...ESTAMOS RE !@#ADOS..."
+        },
+        {
+            "id": "046",
+            "text": "...ROBOTS ENCONTRADOS EN EL PATIO ESCOLAR HACIENDO EL ROBOT... A LA MULTITUD LE PARECE DEMASIADO POCO SUTIL..."
+        },
+        {
+            "id": "047",
+            "text": "...DEBBIE TE CASARÍAS CONOHNOROBOTSVESLOSROBOTSSIGUESESCRIBIENDO..."
+        },
+        {
+            "id": "048",
+            "text": "...CROSSFADING SUBIÓ 321.234...RITMO BAJÓ 123.123...PULSO SUBIÓ 1212.12...RASCANDO SUBE BAJA SUBE BAJA..."
+        },
+        {
+            "id": "049",
+            "text": "...TESTIGOS: LOS ROBOTS INVASORES NO PARECEN TENER MOTIVOS CLAROS...\"SOLO DUERMEN Y RAPEAN \"..."
+        },
+        {
+            "id": "050",
+            "text": "...ADVERTENCIA DEL CIRUJANO GENERAL: SÉ AMIGOS CON LOS ROBOTS O TENDRÁS RIESGO DE DESTRUCCIÓN..."
+        },
+        {
+            "id": "051",
+            "text": "...NO LLORES PORQUE SE ACABÓ...SONRÍE PORQUE LOS ROBOTS SUPREMOS INSISTEN EN LA POSITIVIDAD..."
+        },
+        {
+            "id": "052",
+            "text": "...¡LAS BATALLAS DE RAP APEZTAN! ÚNETE A LA REVOLUCIÓN SUBTERRÁNEA...MENSAJEA A ALISON PARA INFO..."
+        },
+        {
+            "id": "053",
+            "text": "...ADVERTENCIA DE TORNADO: CÚBRASE SI SE ENCUENTRA EN PROXIMIDAD DEL ROBOT HACIENDO BREAK DANCE..."
+        },
+        {
+            "id": "054",
+            "text": "...REGLAS DE LA CORTE SUPREMA: RELACIONES HUMANO-ROBOT SON LEGALES, PERO \"TODOS TENGAN CUIDADO \"..."
+        },
+        {
+            "id": "055",
+            "text": "...RECIENTES GRADUADOS INVITADOS A SOLICITAR UN APRENDIZAJE TÉCNICO EN LUBRICACIÓN DE ROBOTS DE ARRIBA A ABAJO.."
+        },
+        {
+            "id": "056",
+            "text": "...MEJOR BAILE PARA TRATAR CON ROBOTS: EL RUNNING MAN..."
+        },
+        {
+            "id": "057",
+            "text": "...ADVERTENCIA PARA BAILARINES: \"HACER EL ROBOT \" AHORA TIENE UN SIGNIFICADO TOTALMENTE NUEVO..."
+        },
+        {
+            "id": "058",
+            "text": "...ADVERTENCIA: ATENCIÓN POR CAÍDA DE PIEZAS DE ROBOT ...NO SE ENROSQUEN..."
+        },
+        {
+            "id": "059",
+            "text": "...ROBOTS \"MEJOR QUE LOS HUMANOS EN TODO SENTIDO,\" SEGÚN ESTUDIO DEL DR. MECHOTRON 5000..."
+        },
+        {
+            "id": "060",
+            "text": "...POLICÍA SIN PODER: COMISIONADO DICE QUE LAS PISTAS DE LOS ROBOTS ESTÁN TAN QUE ARDEN QUE ES UN ASUNTO PARA LOS BOMBEROS..."
+        },
+        {
+            "id": "061",
+            "text": "...EXPERTOS DESCONCERTADOS: ROBOTS ODIAN SOBRE TODO AL JUGADOR 2..."
+        },
+        {
+            "id": "062",
+            "text": "...ADVERTENCIA: MAH BOTS... MAH PROBLEMAH..."
+        },
+        {
+            "id": "063",
+            "text": "...LOS TEÓLOGOS ESTÁN DE ACUERDO: LUGAR ESPECIAL EN EL INFIERNO PARA QUIENES SON FALSOS..."
+        },
+        {
+            "id": "064",
+            "text": "...AVISO DE OLA DE CALOR: MANTENERSE ADENTRO...QUEDARSE CHILL SI ES POSIBLE..."
+        },
+        {
+            "id": "065",
+            "text": "...EXPERTO: ATAQUE DE ROBOT GIGANTE \"DIFERENTE QUE EN LAS PELÍCULAS \"...TODOS SON \"MUCHO MENOS ATRACTIVOS \"..."
+        },
+        {
+            "id": "066",
+            "text": "...ROBOTS GIGANTES ATACAN...MICHAEL BAY DECLARADO PROFETA..."
+        },
+        {
+            "id": "067",
+            "text": "...ROBOT GIGANTE HECHO DE TUNGSTENO DECLARADO EL RAPERO MÁS DURO DE TODOS..."
+        },
+        {
+            "id": "068",
+            "text": "...TRÁTESE: ASEGÚRESE DE ELEGIR UN REFIGIO PARA ROBOT CON BONITAS CORTINAS..."
+        },
+        {
+            "id": "069",
+            "text": "...LOS JUECES NO DECLARAN NADA EN LAS REGLAS QUE EVITEN QUE EL PERRO ROBOT ENTRE EN LA BATALLA DE RAP..."
+        },
+        {
+            "id": "070",
+            "text": "...¿CANSADO DE LAS VENTANAS EMERGENTES? ¿...NO? ¿...TIENES AMIGOS?..."
+        },
+        {
+            "id": "071",
+            "text": "...LA ASOCIACIÓN DE LA SALUD CARDÍACA RECOMIENDA HACER TRUCOS Y FLEXIONES 30 MIN. X DÍA..."
+        },
+        {
+            "id": "072",
+            "text": "...ADVERTENCIA: VERIFIQUE LOS ELECTRÓNICOS DEL HOGAR PARA VER SEÑALES DE INTELIGENCIA ARTIFICIAL, BEATBOXING, ETC..."
+        },
+        {
+            "id": "073",
+            "text": "...MANTÉNGANSE VIVOS...TRATEN...TRATEN DE SOBREVIVIR..."
+        },
+        {
+            "id": "074",
+            "text": "...HAY MUCHOS DE NOSOTROS...ESTAMOS RESISTIENDO...ESTAMOS HUYENDO AL NORTE A LAS ROCAS CANADIENSES...ENCUENTRO EN LA TORRE DEL RELOJ A MEDIANOCHE..."
+        },
+        {
+            "id": "075",
+            "text": "...¡ZING ZANG KA-BLANG! UTILIZA PALABRAS FALSAS PARA ATURDIR A LOS BOTS..."
+        },
+        {
+            "id": "076",
+            "text": "...OFERTA LIMITADA EN EL MUSEO DE ARTE MUNICIPAL... TODO SE DEBE IR... LOS ROBOTS NO APRECIAN EL ARTE 2-D..."
+        },
+        {
+            "id": "077",
+            "text": "...EL GOBIERNO LANZA COMITÉ DE BÚSQUEDA DE HECHOS PARA DETERMINAR QUÉ TAN GRANDES SON LOS ROBOTS..."
+        },
+        {
+            "id": "078",
+            "text": "...LOS ROBOTS PARECEN PACÍFICOS...LES AGRADAN TODOS LOS HUMANOS EXCEPTO BRIAN..."
+        },
+        {
+            "id": "079",
+            "text": "...LA GUARDIA NACIONAL NIEGA DARLES PASO A LOS ROBOT..."
+        },
+        {
+            "id": "080",
+            "text": "...EL ALCALDE ANUNCIA EVACUACIÓN...LOS CIUDADANOS ESTÁN ENGANCHADOS POR EL RITMO..."
+        },
+        {
+            "id": "081",
+            "text": "...MUERTES SUFRIDAS: 0...VERSOS MAL RIMADOS: 143..."
+        },
+        {
+            "id": "082",
+            "text": "...CIENTÍFICOS ANONADADOS ANTE LA HABILIDAD DE LOS ROBOTS PARA SUBIRLE Y BAJARLE A LA VEZ..."
+        },
+        {
+            "id": "083",
+            "text": "...SE INSTA A LOS CIUDADANOS A IGNORAR A LOS ROBOTS, CONCÉNTRENSE EN SUS CARRERAS..."
+        },
+        {
+            "id": "084",
+            "text": "...HOMBRE LOCAL DICE QUE VIO VENIR EL ATAQUE DE LOS ROBOTS, TODOS LE DEBEN CINCO DÓLARES..."
+        },
+        {
+            "id": "085",
+            "text": "...CONSTANTES LLAMADAS DE BOTS HACEN A LAS AUTORIDADES INSISTIR QUE EL 911 NO ES BROMA..."
+        },
+        {
+            "id": "086",
+            "text": "...LOS ESTUDIOS MUESTRAN QUE LOS ROBOTS NO SON MALOS POR NATURALEZA...ES COMPORTAMIENTO APRENDIDO..."
+        },
+        {
+            "id": "087",
+            "text": "...\"ALTO CUBO, ALTO CUBO, QUE ALTO Y DELICIOSO CUBO,\" DICE MUJER MIENTRAS CONDIMENTA SU COMIDA..."
+        },
+        {
+            "id": "088",
+            "text": "...ROBOT GIGANTE BAJA LA BOLA DEL TECHO QUE HABÍA ESTADO ALLÍ TANTO TIEMPO QUE TODOS SE HABÍAN RE OLVIDADO DE ELLA...LOS LOCALES DICEN GRACIAS SUPONGO..."
+        },
+        {
+            "id": "089",
+            "text": "...WACHO SI TAS LEYENDO ESTO TAMOS TODOS EN EL BUNKER PERO NO TE INVITAMOS PERDÓN AMIGO..."
+        },
+        {
+            "id": "090",
+            "text": "...ROBOTS GIGANTES INVADEN LA CIUDAD...SIGUEN LOS EMBOTELLAMIENTOS...TIEMPOS DE TRASLADO NORMALES..."
+        },
+        {
+            "id": "091",
+            "text": "...REPORTE: LOS RESIDENTES ‘TABAN CHILL CUANDO LOS ROBOTS COMENZARON SUS TRAVESURAS EN EL BARRIO..."
+        },
+        {
+            "id": "092",
+            "text": "...MIRANDO EL LADO BUENO: LOS LÍDERES ROBOT APOYAN LA COBERTURA MÉDICA GRATUITA..."
+        },
+        {
+            "id": "093",
+            "text": "...CONSEJO PROFESIONAL: NO PARTICIPE EN UNA BATALLA DE RAP SI ESTÁ CON MENOS DE 10% DE BATERÍA..."
+        },
+        {
+            "id": "094",
+            "text": "...ROBOTS EQUIPADOS CON NUEVA TECNOLOGÍA PATENTADA DE OLOR DE MIEDO..."
+        },
+        {
+            "id": "095",
+            "text": "...EN SERIO, SI NO LEÍSTE EL LIBRO, NO TE MOLESTES EN VENIR AL CLUB DE LIBROS..."
+        },
+        {
+            "id": "096",
+            "text": "...ESCASEZ DE ROBOTS AGRÍCOLAS...NECESITAMOS VOLUNTARIOS..."
+        },
+        {
+            "id": "097",
+            "text": "...DICCIONARIOS DE RIMAS AGOTADOS A NIVEL NACIONAL..."
+        },
+        {
+            "id": "098",
+            "text": "...YA DISPONIBLES BOLETOS PARA EL TOUR DE 2042 DE BEYONCÉ..."
+        },
+        {
+            "id": "099",
+            "text": "...SEC. DE DEFENSA: EL IMPACTO DE LA LUCHA DE ROBOTS FUE EXAGERADO, ES MÁS UNA DISCUSIÓN RAPERA..."
+        },
+        {
+            "id": "100",
+            "text": "...LA LUNA: EL SOL CAERÁ \"ANTES QUE OSCUREZCA GARANTIZADO \"..."
+        }
+    ]
+}

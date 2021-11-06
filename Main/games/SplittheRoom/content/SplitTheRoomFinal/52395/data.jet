@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "llevar siempre un collar de sangre | asistir a un exorcismo de 5 horas | adoptar una muñeca como tu hija | nunca usar sombreros | ir a acampar por un mes",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "pasar una semana en una casa embrujada",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+6.98",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.21",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.97",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Para heredar una pequeña fortuna dejada por un pariente lejano,",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "debes pasar una semana en una casa embrujada o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué tarea realizas para heredar el dinero?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Tarea de voluntad misteriosa [FINAL]",
+            "t": "A",
+            "v": "749078_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "In order to inherit a small fortune left by a distant relative, you must either spend a week in a haunted house or do this. Which task do you perform to inherit the money?",
+            "t": "A",
+            "v": "749079_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Ya no les pueden gritar a los protagonistas de las películas de terror por ser estúpidos.",
+            "t": "A",
+            "v": "749082_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

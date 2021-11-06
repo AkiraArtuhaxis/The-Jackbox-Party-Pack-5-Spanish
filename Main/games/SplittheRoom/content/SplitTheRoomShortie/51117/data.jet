@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "muerte a américa | las mujeres deben quedarse en la cocina | pierde toda esperanza | abstente de votar | deja la escuela",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.82",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.64",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.51",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu hija está obsesionada con cierto dibujo animado.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, cuando ralentizas el video, encuentras un mensaje subliminal que dice",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Dejas que lo siga viendo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "A la misma hora, mismo canal",
+            "t": "A",
+            "v": "731137_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your daughter is obsessed with this one cartoon. However, when you slow down the video, you find a subliminal message that says this . Do you let her keep watching it?",
+            "t": "A",
+            "v": "731138_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

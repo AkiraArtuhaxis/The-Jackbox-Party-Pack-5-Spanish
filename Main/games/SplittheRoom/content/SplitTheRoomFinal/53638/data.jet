@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu papá | los tiburones | los saludadores de Walmart | los conductores de Uber | tu perro",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "<OTHERPLAYER>",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+8.26",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.02",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "te ves obligado a mirarlos a los ojos durante 10 intensos minutos.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.08",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Por alguna razón, siempre que miras a <OTHERPLAYER> o a",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>,",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Con quién evitas el contacto visual por el resto de tu vida?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Contacto visual [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "For some reason, whenever you look at either <OTHERPLAYER> or THIS THING, you are forced to lock eyes with them for 10 intense minutes. Whom do you avoid eye contact with the rest of your life?",
+            "t": "A",
+            "v": "765776_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Hagas lo que hagas, ¡no voltees!",
+            "t": "A",
+            "v": "765779_2",
+            "n": "ResponseAudio"
+        }
+    ]
+}

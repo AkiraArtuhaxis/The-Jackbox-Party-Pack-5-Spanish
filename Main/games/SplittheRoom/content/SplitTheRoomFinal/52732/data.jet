@@ -1,0 +1,90 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una frente de una pulgada más alta | 12 dedos del pie | acné permanente | palmas sudorosas | lágrimas moradas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "abeja estornuda",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+10.23",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.71",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.59",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Antes de que ella te ponga un hechizo, una bruja te da dos opciones:",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes hacer que las abejas salgan disparadas de tu nariz cada vez que estornudas o tener",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué hechizo eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opción de maldición [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Before she puts a spell on you, a witch gives you two options. You can either have bees shoot out of your nose every time you sneeze or have this happen to you. Which spell do you choose?",
+            "t": "A",
+            "v": "754228_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "a qué sabe el ser humano | darte un puñetazo | cómo va a descartar algunos correos | fuego",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.70",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.97",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.72",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu nuevo timbre inteligente no solo identifica a quien está en tu puerta, sino también lo que tiene en mente.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Un día, tu cartero llega pensando en",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Le adviertes a su jefe?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Peligro en la puerta",
+            "t": "A",
+            "v": "733329_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your new smart doorbell not only identifies whoever is at your door, but whatever is on their mind. One day, your mail carrier arrives thinking about this. Do you notify their boss?",
+            "t": "A",
+            "v": "733330_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

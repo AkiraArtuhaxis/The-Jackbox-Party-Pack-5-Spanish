@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "el inventor de la improvisación | un tipo espeluznante | Vladimir Putin | tu crush | tu ex gemelo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.86",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Todos en la playa te están mirando.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un salvavidas que escucha un grito de ayuda. Dos personas se están ahogando.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Una es un ex que rompió contigo. La otra persona es",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.74",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "tu ex",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.57",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.73",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿A quién salvas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Dilema del salvavidas [FINAL]",
+            "t": "A",
+            "v": "724948_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a lifeguard who hears a cry for help. Two people are drowning. One is an ex who broke up with you; the other is this person. Everybody on the beach is looking at you. Whom do you save?",
+            "t": "A",
+            "v": "722577_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "beber una cucharada de salsa picante | comer un puñado de piedras | una semana de terapia de gritos | una bailoterapia de 24 horas | bucear en el Ártico",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.02",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Finalmente, un especialista en hipo recomienda dos alternativas: un enema de hielo fangoso o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has tenido hipo durante semanas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Todos los remedios que has probado han fallado.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "enema de hielo fangoso",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+1.60",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+3.58",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué cura para el hipo pruebas primero?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cura de hipo [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve had the hiccups for weeks. Every remedy you’ve tried has failed. Finally, a hiccup specialist recommends two alternatives: a slushy ice enema or this. Which hiccup cure do you try first?",
+            "t": "A",
+            "v": "759814_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Lo siento, ninguno funciona. Ups.",
+            "t": "A",
+            "v": "759817_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

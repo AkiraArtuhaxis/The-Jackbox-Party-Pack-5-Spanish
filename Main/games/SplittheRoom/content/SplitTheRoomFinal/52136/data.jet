@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "bueno, malo, feo | perro, mano, rico | mío, lego, papitas | sí, por favor, espera | mamá, baño, hola",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.84",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "El primer conjunto es “GRACIAS, NO y HAMBRE”. El segundo conjunto es",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has perdido la capacidad de hablar.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Los médicos pueden restaurar tres palabras de tu vocabulario. Tienes dos opciones.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.83",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "Gracias, no, hambre",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+1.67",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.87",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué tres palabras escoges como tu nuevo vocabulario?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Sólo tres palabras [FINAL]",
+            "t": "A",
+            "v": "745341_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve lost the ability to speak. Doctors can restore three words of your vocabulary. You have two options. The first set is, “THANKS, NO, and HUNGRY .” The second set is this. Which three words do you pick as your new vocabulary?",
+            "t": "A",
+            "v": "745342_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

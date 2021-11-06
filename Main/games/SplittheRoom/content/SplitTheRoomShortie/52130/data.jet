@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "hay a su lado un oso sedado | escucha el sonido de una gaita | recibe cosquillas con plumas | está rodeado de luces de fiesta | en un pogo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.15",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.92",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "El estudio dura siete noches consecutivas.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.60",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio científico del sueño ofrece $2.000 a los voluntarios que intenten dormir mientras",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Te presentas como voluntario?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Investigación nocturna",
+            "t": "A",
+            "v": "745272_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A scientific sleep study is offering $2000 to volunteers who will attempt to sleep while enduring this. The study lasts for seven consecutive nights. Do you volunteer?",
+            "t": "A",
+            "v": "745273_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

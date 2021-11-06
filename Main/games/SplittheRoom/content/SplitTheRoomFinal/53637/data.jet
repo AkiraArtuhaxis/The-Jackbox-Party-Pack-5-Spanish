@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una persona al azar de la calle | el chico de “Chocolate Rain” | tu madre | el ganador de “Survivor” | tú mismo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.56",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Tienes una gran hipoteca y cinco hijos pequeños.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres el director ejecutivo de una empresa discográfica.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "El próximo artista que firme debe ser <OTHERPLAYER> o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.02",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "<OTHERPLAYER>",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.26",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.04",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿A quién le firmas un contrato de grabación?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Registro de contrato [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re the CEO of a recording company. The next artist you sign must either be <OTHERPLAYER> or THIS PERSON. You have a big mortgage and five young children. Whom do you sign to a recording contract?",
+            "t": "A",
+            "v": "765765_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "¡Dile adiós a tu casa!",
+            "t": "A",
+            "v": "765768_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

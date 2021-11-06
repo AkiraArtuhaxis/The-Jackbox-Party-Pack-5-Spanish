@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "su mayor temor | canciones de Smash Mouth | una vez que fracasaron | estática de radio | una vez que se sintieron avergonzados",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.11",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.46",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.87",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Se te cayeron los pantalones en el aeropuerto.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Siempre que hagas algo vergonzoso en público, tienes el poder de borrar ese momento de la mente de las personas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, dicha memoria será reemplazada por",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.93",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Usas tus poderes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cambio de memoria",
+            "t": "A",
+            "v": "730043_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Whenever you do something embarrassing in public, you have the power to erase that moment from people’s minds. However, that memory will be replaced with this. Your pants just fell down at the airport. Do you use your powers?",
+            "t": "A",
+            "v": "727218_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

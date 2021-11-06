@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "cabra | bebé | vómito | gato | risa",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": ".",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Necesitas un examen rectal y tienes dos opciones:",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "un médico que hace gemidos felices durante tu examen, O un médico que hace sonidos de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.20",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "gemidos felices",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.01",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué ruido intentas soportar durante tu examen rectal?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Opciones del médico de examen rectal [FINAL]",
+            "t": "A",
+            "v": "723866_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You need a rectal exam and have two options: a doctor who makes happy moaning sounds during your exam OR a doctor who makes these sounds. What’s your choice?",
+            "t": "A",
+            "v": "722893_8",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

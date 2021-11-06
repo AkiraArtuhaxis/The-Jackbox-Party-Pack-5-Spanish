@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un doble salto | poder lanzar bolas de fuego | un traje mecánico | una espada mágica | teletransportación",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "una vida extra",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.54",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+6.48",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.53",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Después de superar el récord en un juego de arcade mágico, recibes una habilidad especial de videojuego que funciona en el mundo real.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes conseguir una vida extra o",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué habilidad de videojuego del mundo real eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Habilidad de videojuego [FINAL]",
+            "t": "A",
+            "v": "751503_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "After beating the high score in a magical arcade game, you receive a special video game ability that works in the real world. You can either get an extra life or this. Which real world video game ability do you choose?",
+            "t": "A",
+            "v": "751504_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Claro, puedo ver cómo todos necesitarían eso.",
+            "t": "A",
+            "v": "751507_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "¿ES ESTE JUEGO DE TRONOS? | ¿CUÁL ES LA CONTRASEÑA WIFI? | ¡HAN DISPARA PRIMERO! | ¿DÓNDE ESTÁ ALEC BALDWIN? | ¿ALGUIEN MÁS ESTÁ CALIENTE AQUÍ?",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "“ME PREGUNTO QUÉ PASARÁ DESPUÉS”",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_YES",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.17",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Puedes obtener entradas de cine gratuitas e ilimitadas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Siempre que, en algún momento de la película, te levantes y grites, “ME PREGUNTO QUÉ PASARÁ DESPUÉS” o…",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué frase gritas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Entradas [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You can get unlimited free movie tickets. Provided, at some point during the movie, you stand up and shout, “I WONDER WHAT HAPPENS NEXT” or… THIS. Which phrase do you shout?",
+            "t": "A",
+            "v": "765287_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Pues, ES una pregunta justa.",
+            "t": "A",
+            "v": "765290_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

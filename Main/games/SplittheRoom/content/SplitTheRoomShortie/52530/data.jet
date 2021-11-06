@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu familia | FC Barcelona | Maroon 5 | la lista de especies en peligro de extinción",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.87",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.25",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.40",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Ninguno quedará vivo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has encontrado una forma de traer dragones a la vida.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El procedimiento implica recolectar y diseccionar dolorosamente hasta el último miembro de...",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.76",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cómo entrenar a tu conciencia",
+            "t": "A",
+            "v": "751073_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve found a way to bring dragons to life! The procedure involves harvesting and painfully dissecting every last member of... THIS SPECIES. None will be left. Do you do it?",
+            "t": "A",
+            "v": "751074_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

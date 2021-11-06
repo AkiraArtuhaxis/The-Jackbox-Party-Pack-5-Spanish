@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "por un cojín flatulento | siendo empujado de una cuerda floja | siendo aplastado por un elefante | por tragar espadas | por pintura facial venenosa",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.70",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes ser sofocado por una avalancha interminable de pasteles o morir",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un payaso que ha sido condenado por delitos de payaso.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Como tal, serás ejecutado de una manera divertida.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.66",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "ahogado en pasteles",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.73",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.60",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué pena capital de payaso eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Castigo de payaso [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a clown who’s been convicted of clown crimes. As such, you are to be executed in a hilarious fashion. You can either be smothered by an endless onslaught of pies or die by THIS. Which clown capital punishment do you choose?",
+            "t": "A",
+            "v": "759579_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

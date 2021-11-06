@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "El payaso asesino | Mr. Asesino | El Cosquillitas | Bebé Gigante | RompeHuesos Jr",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.03",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.01",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.70",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tú y <OTHERPLAYER> son un equipo de lucha libre profesional.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Actualmente están en el ring luchando contra un luchador llamado",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Pides el relevo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Relevo, eres tú quien sigue",
+            "t": "A",
+            "v": "759113_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You and <OTHERPLAYER> are a professional wrestling tag team.  They are currently in the ring fighting a wrestler named THIS.  Do you tag in?",
+            "t": "A",
+            "v": "759114_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

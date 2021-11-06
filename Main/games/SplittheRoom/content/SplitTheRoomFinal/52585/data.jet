@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "monjas enfermas | volverse vegano | contadores | paracaidismo | restaurantes terribles",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.74",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Podrías hacer una comedia con un emú que habla o un programa sobre",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Solías ser una gran estrella de cine... pero ahora estás acabado.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Tienes dos opciones para recuperar tu carrera.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.74",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "emú que habla",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+4.01",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.38",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué proyecto persigues?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Nuevo proyecto de un Actor en Problemas [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You used to be a big movie star... but now you’re washed up. You have two options to get your career back. You could do a sitcom with a talking emu or a show about this. Which project do you pursue?",
+            "t": "A",
+            "v": "752068_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Pero, ¿qué pasa si les dijera que la frase del emú es “¡NO soy una avestruz!”?",
+            "t": "A",
+            "v": "752071_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

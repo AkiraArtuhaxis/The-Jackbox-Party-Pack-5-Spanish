@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "deja la escuela | nunca votes | golpea a tus padres | bebe mucha gaseosa | hazle llamadas en broma a los ancianos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.38",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.22",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.48",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Esa no era tu intención.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un músico desconocido que finalmente graba un gran éxito.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, un grupo de padres está enojado porque cuando reproduces tu canción al revés dice",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.88",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Cambias la canción?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Letra oculta",
+            "t": "A",
+            "v": "730390_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are a struggling musician who finally records a major hit. However, a group of parents are mad that when you play your song backwards it says this. This was not your intention. Do you change the song?",
+            "t": "A",
+            "v": "723001_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

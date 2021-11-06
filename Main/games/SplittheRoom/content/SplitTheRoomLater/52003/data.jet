@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un jarrón de porcelana china | un busto de su hijo | una botella de champagne Cristal | un globo terráqueo antiguo | un piano vertical",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.68",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.92",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Aunque la cliente no está presente, su cachorro de San Bernardo sí.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.45",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Eres un profesional de mudanzas que está en la sala de estar de una cliente cuando accidentalmente rompes",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Culpas al perro?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Dolores de mudanza",
+            "t": "A",
+            "v": "743190_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a professional mover in a customer’s living room when you accidentally break this. Though the customer isn’t present, her St. Bernard puppy is. Do you blame the dog?",
+            "t": "A",
+            "v": "743191_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

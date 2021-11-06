@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "le encanta el queso | accidentalmente te golpeó con su auto | le tiene miedo a los niños | solías salir con él | cree en Pie Grande",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.01",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.99",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Lo único que puedes recordar es que",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.18",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Darás un brindis en la boda de tu hermana.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Dices cientos de cosas maravillosas sobre ella, pero en lo que se trata de su nuevo marido, estás totalmente en blanco.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.01",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Dices eso?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Brindis por la pareja confundida",
+            "t": "A",
+            "v": "729637_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re giving a toast at your sister’s wedding. You say a hundred wonderful things about her, but when it comes to her new husband you totally blank. The only fact you can remember is this. Do you blurt it out?",
+            "t": "A",
+            "v": "729638_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

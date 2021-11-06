@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un humano | un hurón | moco de perro | plomo | ingredientes vencidos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.81",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.15",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.78",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Acabas de comer la mejor comida de tu vida. Era tan buena que te hizo llorar un poco.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Luego, el chef sale y te informa que contenía",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿La volverías a pedir?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El ingrediente secreto",
+            "t": "A",
+            "v": "734289_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You just ate the best meal of your life. It was so good it made you tear up a bit. Afterwards, the chef walks out and informs you it contained this. Would you ever order it again?",
+            "t": "A",
+            "v": "721845_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un maniquí | Trump | un perro | una cucaracha | un zapato ",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.92",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.38",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "pero se pasan una hora de cada día rezando a",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.01",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Un pequeño culto se ha mudado a unos pocos kilómetros de tu hogar.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Según tus experiencias, son un grupo honesto, respetuoso y caritativo...",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.46",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Llamas a la policía para alertar sobre ellos?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Haz la paz",
+            "t": "A",
+            "v": "739277_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A small cult has moved in a few miles down the road from you. From your experiences, they’re an honest, respectful, and charitable group... but each day they spend an hour praying to this figure. Do you call the authorities on them?",
+            "t": "A",
+            "v": "739278_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

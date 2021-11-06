@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "TRUMP 2020 | MOCHILEROS BIENVENIDOS | YO (CORAZÓN) LOS MINIONS | TOQUE LA BOCINA POR FAVOR | NO PUEDO NI PIENSO PARAR",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.40",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.20",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.80",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Muere tu rico y excéntrico tío.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Su testamento te deja el auto de lujo de tu elección… si le colocas una calcomanía en el parachoques que diga…",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Condiciones de fantasma",
+            "t": "A",
+            "v": "751113_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your wealthy, eccentric uncle dies. His will leaves you the luxury car of your choice… if it features a bumper sticker that says… THIS. Do you accept?",
+            "t": "A",
+            "v": "751114_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "quitarse una uña | hacer ayuno por un día | algo de caída del cabello | comer alimentos caducados | hacer escalada",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.48",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.38",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.83",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Los médicos dicen que existe la posibilidad de que la canción desaparezca naturalmente pronto.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has tenido la canción de “Las ruedas del autobús” atascada en tu cabeza durante todo un mes.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Has oído hablar recientemente de una cura radical que involucra",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.14",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Pruebas ahora la cura radical?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Conducción pegadiza",
+            "t": "A",
+            "v": "734291_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve had “The Wheels on the Bus” stuck in your head for a month straight. You recently heard of a radical cure that involves THIS. Doctors say there’s a chance the song will naturally leave you soon. Do you try the radical cure now?",
+            "t": "A",
+            "v": "722276_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

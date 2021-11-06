@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "te hagas pis encima | bailes desnudo | rompas en llanto | saltes de un tren en movimiento | golpees una pared",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.63",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.36",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.00",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Varias veces.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un actor desesperado al que se le ofrece un papel importante en una franquicia cinematográfica muy exitosa.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero en la escena más grande de la película, se requerirá que tú",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+11.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El conflicto de un actor",
+            "t": "A",
+            "v": "734059_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are a struggling actor who gets offered a big role in a wildly successful film franchise. But in the biggest scene of the film, you will be required to do this. Multiple times. Do you do it?",
+            "t": "A",
+            "v": "734060_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

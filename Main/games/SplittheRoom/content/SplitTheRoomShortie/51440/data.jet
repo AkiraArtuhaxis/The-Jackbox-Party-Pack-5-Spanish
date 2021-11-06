@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Voy a perder mi casa | Necesito el dinero para insulina | Mi familia se está muriendo de hambre | Debo pagar la fianza de mi abuela | Dividiré la recompensa",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.26",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.22",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.96",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": ".",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás luchando en una pelea de boxeo que tiene una recompensa de $10.000.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Estás a un buen golpe de ganar cuando escuchas a tu contrincante susurrar en tu oído",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.44",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo dejas ganar?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Ábrete camino a puñetazos",
+            "t": "A",
+            "v": "735579_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re fighting in a boxing match that has a $10,000 purse. You are one big blow away from winning when you hear your competition whisper this in your ear. Do you let him win?",
+            "t": "A",
+            "v": "735580_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una aplicación de ajedrez | un traductor español-francés | una aplicación de comida rápida | una aplicación de citas | una calculadora",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.62",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "Puedes elegir un teléfono que viene con una aplicación de ajedrez o",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Todos los teléfonos inteligentes solo tienen espacio suficiente para una aplicación.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Y no puedes eliminarla.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.61",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "una aplicación de ajedrez",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+2.82",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+4.25",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué única aplicación eliges para tu teléfono?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Smartphone de una aplicación [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "All smartphones only have enough space for one app. And you can't delete them . You can either choose a phone that comes with a checkers app or this. Which lone app do you pick for your phone?",
+            "t": "A",
+            "v": "755798_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

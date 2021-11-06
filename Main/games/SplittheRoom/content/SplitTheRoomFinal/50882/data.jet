@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu divorcio | un doctor llorando | una mansión | una entrevista | una boda",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.07",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "Ella solo puede hablarte sobre uno.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Una adivina te informa sobre dos eventos salvajes en tu futuro:",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "uno de ellos involucra quedar atrapado en una cueva y el otro involucra",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.18",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "quedar atrapado en una cueva",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.35",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.17",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿De qué evento de tu futuro quieres escuchar?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Conocimiento de eventos futuros [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A soothsayer informs you about two wild events in your future: one of them involves getting trapped in a cave and the other one involves this. She can only tell you about one  Which event from your future do you want to hear about?",
+            "t": "A",
+            "v": "727711_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Sí, estoy seguro que todos salieron de esa cueva bien.",
+            "t": "A",
+            "v": "727714_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

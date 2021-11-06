@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "enfermedades cardíacas | síndrome del intestino irritable | acné | caída del cabello | bronquitis",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.98",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.38",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>“.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.26",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu casa está infestada.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Las arañas se han vuelto super poderosas, siendo inmunes a la mayoría de los pesticidas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El único spray que funciona tiene una etiqueta que dice “ADVERTENCIA: PUEDE CAUSAR",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.54",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Usas el spray?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Itsy Bitsy Problema",
+            "t": "A",
+            "v": "726498_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Spiders have become super powerful, rendering most pesticides ineffective. The only spray that works has a label that says “WARNING: MAY CAUSE this.” Your house is infested. Do you use the spray?",
+            "t": "A",
+            "v": "726253_1",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "ligeramente asustado | vacío por dentro | muy mareado | borracho | quemado por el sol",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.16",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.24",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "De repente te ofrecen un lucrativo trabajo en los medios.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.51",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Según tu contrato, debes estar activo en las redes sociales.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cuando alguien te responde en las redes sociales con un error gramatical, te sientes",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.84",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas el trabajo?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Erres* Un idiota",
+            "t": "A",
+            "v": "728251_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "When someone replies to you on social media with a grammatical mistake, you you feel THIS. You are suddenly offered a lucrative media job. Per your contract, you have to maintain a social media presence. Do you take the job?",
+            "t": "A",
+            "v": "728252_6",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

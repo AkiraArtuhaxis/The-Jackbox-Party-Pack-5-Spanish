@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "hablando en voz alta por teléfono | llorando | gritando como loco | haciendo vlogs en vivo | causando estruendo con una bocina",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.57",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+6.48",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.20",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Una nueva cafetería permite a sus clientes enviar un mensaje con un código que hará que cualquiera en la cafetería sea teletransportado a un destino aleatorio.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Te das cuenta de que un joven entra a este café mientras está",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Te escabulles al baño y usas el código?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Celulares con cancelación de ruido",
+            "t": "A",
+            "v": "753981_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A new cafe allows patrons to text a code that will have anyone in the cafe teleported to a random destination. You notice a young man enter this cafe while doing THIS. Do you sneak to the bathroom and use the code?",
+            "t": "A",
+            "v": "753982_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

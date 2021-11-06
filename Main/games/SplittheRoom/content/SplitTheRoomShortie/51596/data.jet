@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Me encanta el queso | Elvis ha abandonado el edificio | Shama-lama-ding-dong | Otro muerde el polvo | Lo hicimos",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.10",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.16",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "repetidamente durante diez segundos.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.66",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "A tu pareja no le agrada.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Siempre que acabes durante el sexo, no podrás evitar gritar",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "“¡<BLANK>!”",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.36",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Usas una máscara para amortiguar el sonido?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Crescendos íntimos",
+            "t": "A",
+            "v": "737596_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Whenever you climax during sex, you can’t control yourself from shouting this repeatedly for ten seconds. Your partner is not a fan. Do you wear a mask to muffle the sound?",
+            "t": "A",
+            "v": "737597_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

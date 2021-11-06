@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "robar diez dólares | secuestrar a una persona al azar | quemar una casa | disminuir los salarios de sus empleados | sobornar a un político",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.92",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.59",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.83",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Diriges una organización benéfica que alimenta y viste a los pobres,",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "pero un multimillonario malvado decide que, cada vez que recaudes diez dólares para ayudar a los desamparados, él va a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Sigues ayudando a los pobres?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El santo contra el sinvergüenza",
+            "t": "A",
+            "v": "734350_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You run a charity that feeds and clothes the poor, but an evil billionaire decides that every time you raise ten dollars to help the unfortunate, he will do this. Do you still help the poor?",
+            "t": "A",
+            "v": "720690_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

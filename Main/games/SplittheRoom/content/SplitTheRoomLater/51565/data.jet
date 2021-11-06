@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "te tiras pedos en llamas | gritas y lloras intensamente | te das un puñetazo en la cara | revelas secretos familiares | orinas un poco",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+6.98",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.25",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.04",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Eres un atleta extremadamente talentoso en salto de altura.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero cada vez que saltas, involuntariamente",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Compites en los Juegos Olímpicos?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Día de salto",
+            "t": "A",
+            "v": "737173_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re an extremely talented high jumper. But whenever you jump, you involuntarily do this.  Do you compete in the Olympics?",
+            "t": "A",
+            "v": "737174_4",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

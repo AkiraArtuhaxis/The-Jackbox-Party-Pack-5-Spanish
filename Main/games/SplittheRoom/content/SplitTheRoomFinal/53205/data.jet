@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "los equilibristas | las enfermeras | los contadores | los conductores de autobuses | los senadores estatales",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "profesores de matemáticas",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+9.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.52",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.04",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Vives en una sociedad donde los alborotos son obligatorios.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Los puestos deseados ya están ocupados, pero aún puedes optar por ser un alborotador de los profesores de matemáticas o de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿A quién prefieres abuchear?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Intervención obligatoria [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You live in a society where heckling is mandatory. The desirable positions are filled, but you may still choose to be a heckler of math teachers or of these people. Whom do you choose to heckle?",
+            "t": "A",
+            "v": "759846_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "¡Todas sus opciones apestaron!",
+            "t": "A",
+            "v": "759849_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

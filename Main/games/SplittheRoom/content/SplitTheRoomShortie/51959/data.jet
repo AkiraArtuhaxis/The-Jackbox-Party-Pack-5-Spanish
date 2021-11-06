@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una chaqueta deslumbrante | tu osito de peluche de la infancia | un tarro viejo de salsa | un peluquín | jeans recortados",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.86",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.73",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.75",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Sólo tú puedes oírlo hablar.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "No estás teniendo una buena racha en el romance.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Extrañamente, comienzas a recibir excelentes consejos amorosos de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.25",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo traes a tu primera cita?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Cyrano moderno",
+            "t": "A",
+            "v": "742561_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You have been striking out romantically. Weirdly enough, you start receiving great dating advice from this thing. Only you can hear it speak. Do you bring it on your first date?",
+            "t": "A",
+            "v": "742562_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un gran terremoto | ciervos asesinos | la perdida de la gravedad | una intensa sequía | cortes masivos de luz",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.72",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.12",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.86",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Actualmente hacen 35 grados en Canadá... en julio.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Puedes controlar el clima con un satélite.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El único inconveniente es que, cada cinco años, experimentaremos",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.81",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lanzas el satélite?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Frío o caliente",
+            "t": "A",
+            "v": "728170_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You can control the climate with a satellite. The only downside is that every five years, we will experience this. It’s currently 96 degrees in Canada... in January. Do you launch the satellite?",
+            "t": "A",
+            "v": "728171_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

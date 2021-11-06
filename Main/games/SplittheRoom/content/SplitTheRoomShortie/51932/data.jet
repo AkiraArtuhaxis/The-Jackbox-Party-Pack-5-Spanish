@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "los hijos de otras personas | pájaros muertos | un tipo llamado Bill | cementerios | osos salvajes",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+13.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+7.20",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.58",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "La puntuación más alta obtiene $500.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres una de cien personas en la prueba de un juego de realidad aumentada. Debes caminar por tu ciudad y usar la cámara de tu teléfono para encontrar criaturas de dibujos animados.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El juego te anima a tomar fotografías de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.88",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Sigues jugando?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Digan Pika-Pika a la cámara",
+            "t": "A",
+            "v": "742125_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re one of a hundred people to test an augmented reality game. You walk around your town and use your phone camera to find cartoon creatures. The game encourages you to take pictures of this. High score gets $500. Do you keep playing?",
+            "t": "A",
+            "v": "742126_7",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

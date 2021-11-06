@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una cabeza humana | un fuego activo | una balsa inflable | leche podrida | pañales usados ​​",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.71",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+6.05",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.43",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "en la heladera y ahora no puedes deshacerte de él.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu heladera inteligente se ha vuelto demasiado inteligente. Cada vez que le quitas algo, se reemplaza instantáneamente.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Un día, alguien pone",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.75",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Consigues una nueva heladera?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "La heladera imparable",
+            "t": "A",
+            "v": "727465_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your smart fridge has gotten too smart. Every time you remove something, it is instantly replaced. One day, someone puts this in the fridge and now you can’t get rid of it. Do you get a new fridge?",
+            "t": "A",
+            "v": "727466_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

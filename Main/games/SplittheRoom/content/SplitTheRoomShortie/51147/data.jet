@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "teniendo sexo | haciendo caca | diciendo “soy un enano mocoso” | llorando | dando tu número de teléfono",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.86",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.16",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.94",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Se etiquetará con tu nombre y se compartirá con todos los usuarios.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Existe una nueva aplicación de música que te permite acceder literalmente a cualquier grabación.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Para obtener una cuenta, debes subir una grabación de sonido de ti,",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.77",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te registras?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Audio soñado",
+            "t": "A",
+            "v": "731513_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "There’s a new music app that allows you free access to literally any recording. In order to get an account, you must upload a sound recording of you doing this. It will be tagged with your name and shared with every user. Do you register?",
+            "t": "A",
+            "v": "731514_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un fantasma atrevido | una mafia rusa | un pequeño fuego que nunca se apaga | una familia de zorrillos | un club nocturno",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.50",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.91",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "en el sótano.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Acabas de encontrar la casa de tus sueños y es súper accesible.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, descubres que la razón por la que es tan barata es porque hay",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.62",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Compras la casa?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Comprador tenga cuidado",
+            "t": "A",
+            "v": "730397_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You just found your dream house and it’s super affordable. However, you discover it’s so cheap because there’s THIS in the basement. Do you buy the house?",
+            "t": "A",
+            "v": "722984_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

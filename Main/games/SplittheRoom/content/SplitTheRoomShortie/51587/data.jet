@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "la estatua de David | un camión de chocolates | un jet-pack | una máquina del tiempo | una batería",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.67",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.16",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Si te lo quedas, no serás descubierto...",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.58",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "pero nadie puede saber que lo tienes, por lo que debes disfrutarlo solo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Abres la puerta de tu casa y descubres que justo enfrente de ti se encuentra",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.27",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo conservas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Secretos robados",
+            "t": "A",
+            "v": "737462_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You open your front door to discover that right in front of you sits THIS.  If you keep it, you won’t get caught... but no one can ever know you have it... so you must enjoy it alone. Do you keep it?",
+            "t": "A",
+            "v": "737463_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

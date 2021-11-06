@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "que un boxeador te golpee | no comer durante 5 días | beber dos galones de leche | el destierro del internet | 5 años de prisión",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.60",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.66",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Si fallas, el castigo será",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.30",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te ofrecen un millón de dólares si puedes jugar un partido completo de bolos sin tirar ni una vez por la canaleta.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "No puedes contar con ayudantes y tienes 10 minutos en total.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.50",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo intentas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Pensamientos en la canaleta",
+            "t": "A",
+            "v": "734018_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You get offered a million dollars if you can bowl an entire game without throwing a gutter ball. You can’t use aides and you have 10 minutes total. If you fail, the punishment will be this. Do you go for it?",
+            "t": "A",
+            "v": "734019_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "pequeños recipientes de lubricante | un libro llamado “Cómo hacer amigos” | una almohada con forma de mujer | calcetines con estampado de tocino | pelucas para cosplay",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+14.45",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+6.09",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+11.68",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "al por mayor.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "¡Olvidaste que es el cumpleaños de tu mamá! Pides un regalo para ella en un nuevo servicio llamado Trampazon.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero, oh-oh. Cada paquete incluye tu historial de pedidos de 30 días, por lo que tu mamá verá que ordenaste",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+13.59",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Cancelas el pedido?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Recíbelo después de mí",
+            "t": "A",
+            "v": "739287_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You forgot it’s your mom’s birthday! You order her a gift for same-day delivery from a new service called Flambazon.  But, uh-oh. Every package includes your 30-day order history, so your mom will see you ordered this in bulk. Do you cancel the order?",
+            "t": "A",
+            "v": "739288_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

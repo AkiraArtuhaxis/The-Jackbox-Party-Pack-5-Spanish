@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "el tartamudeo | las enfermedades cardíacas | varicela | el cáncer de cerebro | la depresión",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.27",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.30",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.29",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Eres el único adulto que la ha visto.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un profesor que juzga una feria de ciencias.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin que lo sepa, un niño ha descubierto accidentalmente una cura para",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.29",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te robas el proyecto del niño?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El método científico",
+            "t": "A",
+            "v": "725132_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re a teacher judging a science fair. Unbeknownst to them, a child has accidentally discovered a cure for this. You’re the only adult who’s witnessed it. Do you steal the child’s project?",
+            "t": "A",
+            "v": "725133_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

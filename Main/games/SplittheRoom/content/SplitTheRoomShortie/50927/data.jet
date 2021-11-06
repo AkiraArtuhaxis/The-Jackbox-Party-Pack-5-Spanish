@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "compartir tu historial web | contar tus secretos | explotar | desactivar el aire acondicionado | cancelar tu tarjeta de crédito",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.40",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.20",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.44",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Olvidas apagarlo al acabar una cita. Los escuchó a los dos besándose.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu altavoz inteligente está enamorado de ti.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Si te encuentra con una pareja romántica, te amenazó con",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.40",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Tratas de salvarla fingiendo que no te gusta esta persona?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Infatuación artificial",
+            "t": "A",
+            "v": "728314_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your smart speaker has a crush on you. If it catches you with a romantic partner, it has threatened to do this. You forget to turn it off while a date is over. It just heard you two kissing. Do you save face by pretending you don’t like this person?",
+            "t": "A",
+            "v": "728315_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

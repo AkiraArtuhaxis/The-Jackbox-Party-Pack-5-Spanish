@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "los tiempos donde se podía fumar en todos lados | los teléfonos fijos | las sanguijuelas medicinales | los peinados despeinados | las grasas trans",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.23",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.76",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Un extraño arroja una piedra y pide el regreso de",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.20",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Visitas a un mago de la nostalgia.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Si arrojas una piedra al fuego durante 10 segundos, la tendencia en la que estás pensando volverá a ser popular.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.06",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Metes las manos en el fuego y sacas la piedra antes de que sea demasiado tarde?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Déjalo morir",
+            "t": "A",
+            "v": "747388_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You visit a nostalgia wizard. If you throw a stone into a fire for 10 seconds, the trend you’re thinking of will become popular again. A stranger tosses in a rock and wishes for the return of this. Do you reach into the fire and pull out the stone before it’s too late?",
+            "t": "A",
+            "v": "747389_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Leonardo DiCaprio | Tom Hanks | tu maestra de primer grado | Joe Biden | Ellen DeGeneres",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.24",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.86",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Un día te encuentras de casualidad con",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.36",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Posees un trasero mágico.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Cuando te bajas la ropa interior y se lo enseñas a alguien, hay una probabilidad del 50% de que quiera convertirse en tu mejor amigo.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.11",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Le muestras las mejillas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Mejillas al descubierto",
+            "t": "A",
+            "v": "734276_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You possess a magical butt. When you pull down your underpants and show it to somebody, there’s a 50% chance they will want to become your best friend. One day you randomly run into this person. Do you moon them?",
+            "t": "A",
+            "v": "722034_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

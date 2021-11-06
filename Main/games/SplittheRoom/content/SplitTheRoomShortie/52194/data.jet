@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "morderle la cabeza a un pollo | abrirse de piernas hasta el suelo | comer 5 calabazas | escalar un edificio de 10 pisos | levantar 90 kilos en la banca",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.96",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "las pistas en la escena del crimen prueban que el culpable no puede realizar la hazaña física que es",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te acusan súbitamente de ser un infame asesino en serie.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "El público se pone en tu contra, pero tienes una oportunidad...",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.44",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Demuestras esta habilidad en la televisión para limpiar tu nombre?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Signo del zodíaco",
+            "t": "A",
+            "v": "746411_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are suddenly accused of being an infamous serial killer. The public turns against you, but you have one chance...clues at the crime scene prove the culprit can’t do this physical feat. Do you demonstrate this skill on TV to clear your name?",
+            "t": "A",
+            "v": "746412_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

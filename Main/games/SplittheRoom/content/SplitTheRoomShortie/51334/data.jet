@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un retrato gigante de ti mismo | una mula muerta | tu clon | tu ropa interior sucia | un charco de sangre",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.49",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.27",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "recuerdas que justo en el medio de tu sala de estar está",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.78",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás en una cita con alguien que realmente te gusta.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Quiere que vayan a tu casa, pero cuando colocas la llave en tu puerta,",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.68",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo invitas a entrar?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "La pijamada repentina",
+            "t": "A",
+            "v": "734048_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re on a date with someone you really like. They want to go back to your place, but as you put the key in your door, you remember that right in the middle of your living room is this. Do you invite them in?",
+            "t": "A",
+            "v": "734049_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

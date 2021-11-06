@@ -1,0 +1,102 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una terrible acné corporal | una tos molesta de por vida | que le crezcan patas a los tiburones | picazón en los ojos | alergias a la carne",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.40",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "el otro virus causa",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Eres un científico que está en un laboratorio bioquímico cuando de repente ocurre un terremoto.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Dos frascos se están cayendo de diferentes extremos de tu mesa: uno contiene un virus que hace que los humanos envejezcan rápidamente;",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+11.29",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "envejecimiento acelerado",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+4.02",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué frasco atrapas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Guardar virus [FINAL]",
+            "t": "A",
+            "v": "725156_2",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are a scientist in a biochemical lab when suddenly an earthquake hits. Two vials fall off on different ends of your bench: one contains a virus that causes humans to rapidly age; the other virus causes this to happen. Which do you save?",
+            "t": "A",
+            "v": "724753_6",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "¡Solo algunos de ustedes han hecho la elección correcta! Saben quiénes son.",
+            "t": "A",
+            "v": "724756_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

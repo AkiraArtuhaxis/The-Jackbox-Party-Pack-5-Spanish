@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "forzarte a llorar | bailar | tocar el trombón | hacer flexiones | insultar a cada peatón que pase",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.08",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.60",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+10.14",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu tienda favorita te ofrece un descuento de por vida del 50%. ¿Cuál es el truco?",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Que cada vez que compres allí, debes pasar una hora fuera del edificio de antemano, llueva o truene; y",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Vale la pena?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Un descuento imperdible",
+            "t": "A",
+            "v": "734255_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your favorite store offers you a lifetime discount of 50%. What’s the catch? Anytime you shop there you have to spend an hour outside the building beforehand, rain or shine, and do this. Is it worth it?",
+            "t": "A",
+            "v": "721773_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

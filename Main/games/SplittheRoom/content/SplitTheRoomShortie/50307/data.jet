@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tienen una familia secreta | tienen problemas de fertilidad | mataron a alguien | provocaron un incendio | engañaron a su pareja",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.92",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.47",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Esto se aplica a ti y reduciría tus impuestos en un 80%.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.62",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Sin embargo, esta información, por ley, sería mostrada en paneles publicitarios de toda tu provincia.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Una ley fiscal nueva permite a las personas reclamar una deducción si",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.32",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Reclamas la deducción?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El recaudador de impuestos da",
+            "t": "A",
+            "v": "730428_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A new tax law allows people to claim a deduction if they have <BLANK>. This applies to you and it would reduce your taxes by 80%. However, this info, by law, would be plastered on billboards throughout your state. Do you take the deduction?",
+            "t": "A",
+            "v": "720682_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

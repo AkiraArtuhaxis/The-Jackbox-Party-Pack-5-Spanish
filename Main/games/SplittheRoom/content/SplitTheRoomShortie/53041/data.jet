@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "se una a bandas de ska | se vuelva nudista | se convierta en DJs amateur | tire basura por las ventanas | ignore las señales de tráfico",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.56",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+1.74",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "hasta que una niebla misteriosa desciende, provocando que el 10% de la población",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+2.77",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te acabas de mudar a tu ciudad favorita.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Todo está bien en tu vida...",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te mudas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Pensamientos borrosos",
+            "t": "A",
+            "v": "758196_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You just moved to your favorite city. Life is great... until a mysterious fog descends, causing 10% of the population to DO THIS. Do you move?",
+            "t": "A",
+            "v": "758197_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una bolsa de mano marca NPR | tres dólares | un bloc de notas amarillo | un sable de luz roto | un patito de goma",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "DVD de <i>Bones<\/i>",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+12.28",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "ALL_NO",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.55",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+11.28",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Un niño temperamental de diez años se ha apoderado del mundo y exige regalos.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "En el día designado para apaciguarlo, solo logras encontrar un conjunto de DVDs de la temporada 10 de <i>Bones<\/i> y",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué le regalas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Regalo de rey de 10 años [FINAL]",
+            "t": "A",
+            "v": "724936_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "A temperamental ten-year-old boy has taken over the world and demands presents. (Hard to imagine, I know). On your appointed day to appease him, you can only find a season 10 DVD set of <i>Bones<\/i> and this. Which do you gift?",
+            "t": "A",
+            "v": "722946_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "¡¿En serio?! ¡A los niños les encanta David Boreanaz!",
+            "t": "A",
+            "v": "722949_0",
+            "n": "ResponseAudio"
+        }
+    ]
+}

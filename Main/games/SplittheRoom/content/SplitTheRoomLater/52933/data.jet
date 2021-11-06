@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Los Óscar | un tenedor libre | Cirque du Soleil | un espectáculo de Broadway | un crucero por las Bahamas",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.10",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.75",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.60",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "es una acera llena de grietas.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cuando pisas una grieta, tu madre está bien... pero <OTHERPLAYER> recibe dolores de espalda por una semana.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Lo único que se interpone entre ti y los boletos gratis para",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.80",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Intentas cruzarla saltando como en el juego de la rayuela?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Una grieta de distancia",
+            "t": "A",
+            "v": "756985_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "When you step on a crack, your mother is fine...but <OTHERPLAYER> receives a week of back pain. The only thing standing between you and free tickets to this...is a very crack filled sidewalk. Do you try to hopscotch across it?",
+            "t": "A",
+            "v": "756986_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

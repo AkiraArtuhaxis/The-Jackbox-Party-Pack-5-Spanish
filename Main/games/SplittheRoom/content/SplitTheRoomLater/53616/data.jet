@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "afeitarse la cabeza | ser vegetarianos | donar sangre mensualmente | ir descalzos | usar ropa de negocios",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.78",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.02",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Todos sabrán que la regla no se aplica a ti.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.40",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Te ofrecen una beca completa para una universidad donde todos los estudiantes, EXCEPTO tú, deben",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas la beca?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Malas noticias para mis compañeros",
+            "t": "A",
+            "v": "765591_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re offered a full ride scholarship to a college where every student EXCEPT you has to do THIS. Everyone will know the rule doesn’t apply to you. Do you take the scholarship?",
+            "t": "A",
+            "v": "765592_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

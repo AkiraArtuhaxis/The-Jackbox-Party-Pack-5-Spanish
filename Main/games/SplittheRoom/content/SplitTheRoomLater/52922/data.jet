@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "una sesión de besos | que cuides de su perro | $300 | una copia de la llave de tu casa | un viaje a París",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.22",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.39",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "A cambio, te pide",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.45",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Cada mañana durante cinco años, un baguette recién horneado aparece misteriosamente en tu puerta.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<OTHERPLAYER> reveló que ha estado detrás de la operación todo el tiempo.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.95",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "El ganador del pan",
+            "t": "A",
+            "v": "756796_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Every morning for five years, a freshly baked baguette has mysteriously arrived on your doorstep. <OTHERPLAYER> just revealed it was them all along. In return, they ask for THIS. Do you do it?",
+            "t": "A",
+            "v": "756797_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

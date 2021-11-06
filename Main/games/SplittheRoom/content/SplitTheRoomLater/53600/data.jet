@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un paciente terminal | un ex convicto | un espía ruso | un buscador de oro | familiar tuyo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.14",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.07",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Cuando conoces al prometido de tu hermana por primera vez, suena tu alarma interna.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.28",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Si le avisas al respecto, perderás tu habilidad para siempre.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Desde que naciste, has podido saber si una persona es",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.61",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Adviertes a tu hermana?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Tengo un mal presentimiento...",
+            "t": "A",
+            "v": "765406_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Ever since you were born, you’ve been able to tell if a person is this. When you meet your sister’s fiancé for the first time, you’re internal alarm goes off. If you let her know, you’ll lose your ability forever. Do you warn your sister?",
+            "t": "A",
+            "v": "765407_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

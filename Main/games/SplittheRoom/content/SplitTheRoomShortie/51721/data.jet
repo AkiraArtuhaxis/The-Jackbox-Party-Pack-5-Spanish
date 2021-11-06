@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Estoy ahorrando $4.99 | ¡Déjenme cumplidos en los comentarios! | ¡¡¡¡aquí tienen su dosis mensual de lo increíble!!!! | Soy mejor que ustedes | No escucho a los haters",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.10",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.67",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.10",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Tu red social favorita ahora cuesta $4.99 al mes.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Puedes seguir usándola gratis, pero una vez al mes tienes que publicar una selfi con el título",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Aceptas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Pagar para publicar",
+            "t": "A",
+            "v": "739267_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your favorite social media site now costs $4.99 a month. You can continue using it for free, but once a month you have to post a selfie with this caption. Do you do it?",
+            "t": "A",
+            "v": "739268_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

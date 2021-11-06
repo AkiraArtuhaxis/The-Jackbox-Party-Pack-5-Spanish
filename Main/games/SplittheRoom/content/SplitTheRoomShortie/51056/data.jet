@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "fertilizante para césped | estofado | leche cuajada | jugo de ají picante | lavandina",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.72",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.44",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.40",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "en lugar de pasta de dientes.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Tu boca está llena de caries. El dentista tendrá que sacarte todos los dientes...",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "a menos que te cepilles dos veces al día con",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.42",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Adoptas este nuevo método de cepillado?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Aprieta los dientes y aguanta",
+            "t": "A",
+            "v": "730093_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Your mouth is riddled with cavities. The dentist is going to have to pull all your teeth.... unless you brush twice a day with this instead of toothpaste.  Do you adopt this new brushing method?",
+            "t": "A",
+            "v": "730094_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

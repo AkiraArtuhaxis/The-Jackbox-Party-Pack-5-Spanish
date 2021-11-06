@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "lapidación | hormigas de fuego | pequeñas puñaladas | inanición | cocodrilos del Nilo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.17",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.73",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Pero cuando los dioses decidan que tu reinado ha terminado, serás asesinado por",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.18",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás en el antiguo Egipto y has sido elegido para ser faraón.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Tendrás lo que quieras durante toda tu vida.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.84",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te escapas de esta situación?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Un trato Ra-dical",
+            "t": "A",
+            "v": "735613_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "It’s ancient Egypt and you’ve been chosen to be pharaoh. You will have whatever you want for your entire life. But when the Gods decide your reign is over, you will be killed by this method. Do you run away from this situation?",
+            "t": "A",
+            "v": "735614_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

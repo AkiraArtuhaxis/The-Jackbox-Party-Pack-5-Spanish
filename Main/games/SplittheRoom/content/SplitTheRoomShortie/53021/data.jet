@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tus genitales malos | los problemas con tu padre | tus problemas en la intimidad | la inevitabilidad de la muerte | tu amor perdido de hace mucho tiempo",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+8.30",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.66",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Estás a punto de hablarle sobre",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.34",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Te despiertas en un mundo donde <OTHERPLAYER> es tu terapeuta...",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "pero no te reconoce.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.70",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Le sueltas todo cara a cara?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Confesiones en el sofá",
+            "t": "A",
+            "v": "757982_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You wake up in a world where <OTHERPLAYER> is your therapist... but they don’t recognize you. You’re about to discuss THIS. Do you spill your guts in front of them?",
+            "t": "A",
+            "v": "757983_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

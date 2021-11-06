@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Donald Trump | Tom Daley | Michael Phelps | una sirena | un gran tiburón blanco",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.35",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.89",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Salvar su vida significa que tendrás que tirar todos los cangrejos que pescaste.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Ganas un año de tu salario trabajando una semana al año como pescador de cangrejos.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Durante esa semana, levantas tu red para descubrir que has atrapado a",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.85",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo salvas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "La captura más mortal",
+            "t": "A",
+            "v": "736360_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You make a full year’s salary working one week a year as a crab fisherman.  During that week, you pull up your net to discover you’ve caught this. Saving its life means you will have to throw back every crab you caught  Do you save it?",
+            "t": "A",
+            "v": "736361_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

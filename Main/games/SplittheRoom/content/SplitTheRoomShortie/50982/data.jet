@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu ex de la secundaria | un diputado | un bebé recién nacido | tu abuela | Yao Cabrera",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.98",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.42",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.50",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Si pulsas eyectar ahora, tienes una probabilidad del 70% de sobrevivir.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Vas a embarcarte en una misión de 10 años en el espacio.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "En el despegue, notas que tu compañero astronauta ha sido reemplazado por",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+6.72",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Eyectas de la nave?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "3... 2... 1... ¡Eyéctenme!",
+            "t": "A",
+            "v": "729006_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re embarking on a 10 year mission to space. At lift off, you see that your fellow astronaut has been replaced with this person. If you hit EJECT now, you have a 70% chance of survival. Do you eject?",
+            "t": "A",
+            "v": "729007_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

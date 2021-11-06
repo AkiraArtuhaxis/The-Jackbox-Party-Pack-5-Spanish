@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "mil gaviotas | un anciano | un perro de dibujos animados | un locutor deportivo | un niño",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.71",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.95",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.97",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás a punto de partir para tu reunión de 20 años de secundaria.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Puedes tomar una pastilla que te hará increíblemente atractivo.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Pero también hará que tu voz suene como",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.10",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Tomas una?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Reunidos, y se siente bien",
+            "t": "A",
+            "v": "737243_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You can take a pill that will make you insanely attractive.  But it will also make your voice sound like this. You’re about to leave for your 20 year high school reunion. Do you take one?",
+            "t": "A",
+            "v": "737244_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

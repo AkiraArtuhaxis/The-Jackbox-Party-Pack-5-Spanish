@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un cadáver | $25.000 | un lugar en tu ático | las mariposas | el hogar de tu infancia",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.42",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.25",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.05",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Descubres adónde fueron a parar todas las abejas perdidas.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Después de hablar con su Reina, aceptan regresar a cambio de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Aplacas a las abejas?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Trueque con abejas",
+            "t": "A",
+            "v": "754443_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You discover where all the missing bees went. After speaking with their Queen, they agree to come back in exchange for THIS. Do you appease the bees?",
+            "t": "A",
+            "v": "754444_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

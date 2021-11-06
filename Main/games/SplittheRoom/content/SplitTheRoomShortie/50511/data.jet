@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu ex | un actor veterano | tu hermano | el presidente | tus padres",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.14",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.58",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "No puedes taparlo. Tu vecino es",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.08",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Obtienes un departamento loft gratis para toda la vida, pero tiene un detalle.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Una pared de vidrio transparente en la sala de estar se comparte con el departamento de al lado.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+10.92",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te mudas allí?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Pared con vista",
+            "t": "A",
+            "v": "725500_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You get a free loft apartment for life, but there’s a catch. A living room wall of transparent glass is shared with the apartment next door. You must not cover it up. Your neighbor is this person. Do you move in?",
+            "t": "A",
+            "v": "723162_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

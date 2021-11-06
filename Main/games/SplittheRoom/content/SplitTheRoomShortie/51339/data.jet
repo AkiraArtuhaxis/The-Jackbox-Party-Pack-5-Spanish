@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu fanfic | fotos desnudo | tus mayores secretos | el historial de tu navegador | tu dirección",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.08",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+2.87",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Para crear una cuenta, debes subir",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.45",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás desesperadamente soltero.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Hay una nueva aplicación de citas que te garantiza que encontrarás a tu alma gemela.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.08",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Te registras?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Amor al primer byte",
+            "t": "A",
+            "v": "734102_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re desperately single. (Hard to imagine, I’m sure.) There’s a new dating app that guarantees you’ll find your soulmate. In order to set up an account, you have to upload this. Do you register?",
+            "t": "A",
+            "v": "734103_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

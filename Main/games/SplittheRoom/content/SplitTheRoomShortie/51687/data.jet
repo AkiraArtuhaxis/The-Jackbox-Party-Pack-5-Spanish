@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "abucheando fuerte | lanzando sillas | golpeando cosas al azar | desmayándote | gritando por una ventana",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.32",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.73",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "Estás a punto de estornudar mientras tu esposa da a luz.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+4.76",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Cada vez que escuchas “Salud”, reaccionas involuntariamente",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Sales corriendo de la habitación?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Susto de Gesundheit",
+            "t": "A",
+            "v": "738836_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Every time you hear “Bless you,” you involuntarily react by doing THIS. You’re about to sneeze while your wife gives birth. Do you sprint out of the room?",
+            "t": "A",
+            "v": "738837_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "un anciano moribundo | una familia de mapaches | la estatua de David | un velociraptor | un barco que ahora se hunde",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.04",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "DIVISIÓN",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "A la luz del amanecer, encontrarás que has disparado a una hermosa águila calva o a",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás abriéndote paso por la maleza muy tarde por la noche y escuchas crujidos.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "Con miedo, apuntas tu rifle y disparas.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.00",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "águila calva",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+3.10",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "S+5.08",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "¿La sangre de quién preferirías en tus manos?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Víctima de disparos [FINAL]",
+            "t": "A",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You are stumbling through the brush late at night and you hear rustling. Fearfully, you aim your file and shoot. In the dawning light, you will find you’ve either shot a beautiful bald eagle or THIS. Whose blood would you prefer on your hands?",
+            "t": "A",
+            "v": "760451_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "Never speak of this again. We must all take this to our graves!",
+            "t": "A",
+            "v": "760454_1",
+            "n": "ResponseAudio"
+        }
+    ]
+}

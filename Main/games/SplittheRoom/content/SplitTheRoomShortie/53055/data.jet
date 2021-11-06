@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "¿Puedo contarles un secreto? | Toc toc. | Anoche tuve un extraño sueño... | Sabes qué odio... | Aquí viene una opinión impopular...",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+7.97",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.36",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“<BLANK>”",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.06",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Estás presentando un programa de noticias con tu coanfitrión, <OTHERPLAYER>.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Sin saber que todavía están al aire, este comienza a decir:",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Le dices a su productor que corten a los comerciales?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "En cámara, fuera del libreto",
+            "t": "A",
+            "v": "758357_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re anchoring a news program with your co-host, <OTHERPLAYER>. Not aware they’re still on air, they start saying THIS. Do you tell your producer to cut to commercial?",
+            "t": "A",
+            "v": "758358_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "se le cae la ropa | es atacado por una ardilla | tiene una terrible reacción alérgica a la cena | se encuentra con su ex | escupe a su cita por accidente",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.50",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.63",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.60",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "La noche siguiente, tu hermano real está por salir a una cita con exactamente el mismo atuendo.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "El juego de computadora que estás jugando tiene una familia inquietantemente similar a la tuya.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Una noche, tu “hermano” virtual tiene una cita y",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.21",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Lo detienes?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Un desastre virtual",
+            "t": "A",
+            "v": "742604_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "The computer game you’re playing has a family eerily similar to your own. One night, your computerized “sibling” goes on a date and this happens. The next night, your real sibling is leaving for a date in the exact same outfit. Do you stop them?",
+            "t": "A",
+            "v": "742605_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

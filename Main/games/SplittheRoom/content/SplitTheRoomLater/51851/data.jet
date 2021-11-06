@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "concurso de chistes malos | concurso de abdominales | debate filosófico | partido de tenis | partida de ajedrez",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+12.53",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+5.01",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "En lugar de una competencia de trajes de baño, el desafío final es un",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+7.96",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Has entrado a un concurso de belleza. El gran premio es de $25.000.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Un juez ha dejado muy claro que está dispuesto a ser sobornado.",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+11.03",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Ofreces el soborno?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Faja en metálico",
+            "t": "A",
+            "v": "741122_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’ve entered a beauty pageant. The grand prize is $25,000. One judge has made it very clear they’re willing to be bribed. Instead of a swimsuit competition the final challenge is this. Do you offer the bribe?",
+            "t": "A",
+            "v": "741123_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

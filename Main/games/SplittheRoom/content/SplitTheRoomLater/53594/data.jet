@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "poniéndolo en la ducha | cubriéndolo con abrigos | cortándolo | sirviéndolo en la comida | empujándolo detrás del sofá",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.43",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.54",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.06",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Los invitados estarán aquí en cualquier momento.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Estás a punto de dar una fiesta en tu casa y asistirán un montón de celebridades.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "De repente encuentras un caballo muerto en tu sala de estar. La única forma de ocultarlo es",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+9.64",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Sigues con la fiesta?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Las riendas de la fiesta",
+            "t": "A",
+            "v": "765306_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You’re about to throw a party at your house and a bunch of celebrities are attending. You suddenly find a dead horse in your living room. The only way you can hide it is by doing THIS. The guests will be here any minute. Do you continue with the party?",
+            "t": "A",
+            "v": "765307_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

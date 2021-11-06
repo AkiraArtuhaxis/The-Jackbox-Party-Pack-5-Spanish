@@ -1,0 +1,91 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "la receta de Coca-Cola | tener un refrigerador mejor | una cura segura para la resaca | viajar a la velocidad de la luz | la mejor receta de tarta",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "la ubicación de Atlántida",
+            "n": "Answer"
+        },
+        {
+            "t": "S",
+            "v": "S+10.00",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.91",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+8.92",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Unos seres extradimensionales quieren darle a la humanidad un regalo de conocimiento y tú representas a la humanidad.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Te dirán exactamente dónde está la Atlántida, o la respuesta para",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué conocimiento eliges?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "One Piece of Knowledge [FINAL]",
+            "t": "A",
+            "v": "744835_0",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "Extra dimensional beings want to give humanity a gift of knowledge and you represent mankind. They will either tell you exactly where Atlantis is or the answer to this mystery. Which knowledge do you choose?",
+            "t": "A",
+            "v": "744836_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "ponis | miel | derrotar a los Vengadores | Richard Nixon | anime de los 90",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+10.86",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.51",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+9.38",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Quieres darle el regalo perfecto a <OTHERPLAYER>, por lo que entras en sus sueños.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Descubrirás exactamente lo que quiere... pero también tendrás que presenciar su fantasía, que involucra",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "¿Vale la pena?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Sueña un poco por mí",
+            "t": "A",
+            "v": "758165_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You want to give <OTHERPLAYER> the perfect gift, so you enter their dreams. You will discover exactly what they want... but you’ll also have to witness their fantasy involving THIS. Is it worth it?",
+            "t": "A",
+            "v": "758166_2",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

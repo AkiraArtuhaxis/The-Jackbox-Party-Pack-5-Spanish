@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bill Cosby | tu enemigo | Putin | Pie Grande | los Iluminati",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+9.80",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+4.28",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "<BLANK>.",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+6.88",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "Planeas volver a esta zona.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Alquilas una casa de vacaciones. Es limpia y barata. Solo tiene una cosa extraña.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "En el medio de la sala de estar, hay una estatua gigante de",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+8.03",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Vuelves a reservar este lugar?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Mi Casa Tu Casa",
+            "t": "A",
+            "v": "734284_3",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You rent a vacation home. It’s clean and cheap. There’s only one weird thing. In the middle of the living room there’s a giant statue of this figure.  You plan to come back to this area. Do you book this place again?",
+            "t": "A",
+            "v": "721836_5",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

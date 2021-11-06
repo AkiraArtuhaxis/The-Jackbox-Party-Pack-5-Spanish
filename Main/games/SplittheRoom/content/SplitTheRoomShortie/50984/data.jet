@@ -1,0 +1,96 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasScenarioAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCategoryAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasResponseAudio"
+        },
+        {
+            "t": "S",
+            "v": "SOY UN BEBÉ INTELIGENTE | PAPI SE CAYÓ | ME DUELE LA COLITA | LO VIERON AQUÍ PRIMERO | SOY MUY GUAPO MÍRENME",
+            "n": "Decoys"
+        },
+        {
+            "t": "S",
+            "v": "S+11.30",
+            "n": "$ScenarioAudio$QuestionTextCue"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "S+3.03",
+            "n": "$ScenarioAudio$ScenarioTextCue2"
+        },
+        {
+            "t": "S",
+            "v": "“¡<BLANK>!”",
+            "n": "ScenarioText3"
+        },
+        {
+            "t": "S",
+            "v": "S+5.98",
+            "n": "$ScenarioAudio$ScenarioTextCue3"
+        },
+        {
+            "t": "S",
+            "v": "hay una probabilidad del 90% de que se borre la memoria de todos.",
+            "n": "ScenarioText4"
+        },
+        {
+            "t": "S",
+            "v": "Acabas de caerte de cara al piso en tu graduación de la escuela secundaria.",
+            "n": "ScenarioText1"
+        },
+        {
+            "t": "S",
+            "v": "S+0.00",
+            "n": "$ScenarioAudio$ScenarioTextCue1"
+        },
+        {
+            "t": "S",
+            "v": "Si te pones de pie, te abofeteas y gritas",
+            "n": "ScenarioText2"
+        },
+        {
+            "t": "S",
+            "v": "S+7.98",
+            "n": "$ScenarioAudio$ScenarioTextCue4"
+        },
+        {
+            "t": "S",
+            "v": "¿Das la bofetada?",
+            "n": "QuestionText"
+        },
+        {
+            "s": "Terapia de gritos",
+            "t": "A",
+            "v": "729024_1",
+            "n": "CategoryAudio"
+        },
+        {
+            "s": "You just totally faceplanted at your high school graduation. If you stand up, slap your own face, and scream this, there is a 90% chance everyone’s memory of it will be erased. Do you slap away?",
+            "t": "A",
+            "v": "729025_3",
+            "n": "ScenarioAudio"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "ResponseAudio"
+        }
+    ]
+}

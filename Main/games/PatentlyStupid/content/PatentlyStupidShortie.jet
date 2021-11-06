@@ -1,0 +1,1337 @@
+{
+    "episodeid": 1368,
+    "content": [
+        {
+            "decoys": "trombón | campo de fútbol | refrigerador",
+            "x": false,
+            "id": 53762,
+            "prompt": "¡Necesitaría un/a <BLANK> más pequeño!"
+        },
+        {
+            "decoys": "desayunar | ser jurado | la diversión",
+            "x": false,
+            "id": 53761,
+            "prompt": "¡Desearía que <BLANK> fuera más divertido!"
+        },
+        {
+            "decoys": "el medio ambiente | mi espalda | las ballenas",
+            "x": false,
+            "id": 53760,
+            "prompt": "¡Me gustaría apoyar a <BLANK>!"
+        },
+        {
+            "decoys": "el clima | la nueva peli de Marvel | un oso",
+            "x": false,
+            "id": 53759,
+            "prompt": "¡Me gustaría saber cuando llega <BLANK>!"
+        },
+        {
+            "decoys": "blog | banda | nuevo corte",
+            "x": false,
+            "id": 53758,
+            "prompt": "¡Me gustaría que la gente supiera acerca de mi <BLANK>!"
+        },
+        {
+            "decoys": "bodas | mi camisa | el momento",
+            "x": false,
+            "id": 53757,
+            "prompt": "¡No puedo parar de arruinar <BLANK>!"
+        },
+        {
+            "decoys": "cuevas | mis sentimientos por el helado | la luna",
+            "x": false,
+            "id": 53756,
+            "prompt": "¡Siempre quise explorar <BLANK>!"
+        },
+        {
+            "decoys": "besado | atacado por pájaros | gritado",
+            "x": false,
+            "id": 53755,
+            "prompt": "¡Estoy harto de ser <BLANK> todos los días!"
+        },
+        {
+            "decoys": "inteligente | capaz de ver en la oscuridad | apestoso",
+            "x": false,
+            "id": 53754,
+            "prompt": "¡Desearía ser más <BLANK>!"
+        },
+        {
+            "decoys": "migas | caca de pájaro | responsabilidades",
+            "x": false,
+            "id": 53753,
+            "prompt": "¡Vivo teniendo <BLANK> encima!"
+        },
+        {
+            "decoys": "Navidad | mi cumpleaños | hora de ir al dentista",
+            "x": false,
+            "id": 53752,
+            "prompt": "¡No estoy esperando a que sea <BLANK>!"
+        },
+        {
+            "decoys": "el chocolate | realitys | bañarme",
+            "x": false,
+            "id": 53737,
+            "prompt": "¡<BLANK> simplemente no me satisface más!"
+        },
+        {
+            "decoys": "chiste | ropa interior | identidad",
+            "x": false,
+            "id": 53736,
+            "prompt": "¡Estoy harto de que la gente me pida prestado mi <BLANK>!"
+        },
+        {
+            "decoys": "mi papá | un regalo de bodas | el perro que tiene todo",
+            "x": false,
+            "id": 53735,
+            "prompt": "¡Nunca se que comprar para <BLANK>!"
+        },
+        {
+            "decoys": "hablar | cambiar el pañal de mi bebé | mirar una película",
+            "x": false,
+            "id": 53734,
+            "prompt": "¡Me viven interrumpiendo cuando <BLANK>!"
+        },
+        {
+            "decoys": "culo | gato | gimnasio",
+            "x": false,
+            "id": 53733,
+            "prompt": "¡Necesito un <BLANK> muy pituco!"
+        },
+        {
+            "decoys": "viajar en el tiempo | perder la sanidad | explotar espontáneamente",
+            "x": false,
+            "id": 53732,
+            "prompt": "¡Hay un riesgo muy grande de que pueda <BLANK>!"
+        },
+        {
+            "decoys": "dar de propina | acariciar un gato | eructar",
+            "x": false,
+            "id": 53731,
+            "prompt": "¡Nunca se cuanto debo <BLANK>!"
+        },
+        {
+            "decoys": "mi sanidad | un cerdo grasiento | mi juventud",
+            "x": false,
+            "id": 53730,
+            "prompt": "¡No puedo mantener <BLANK>!"
+        },
+        {
+            "decoys": "de banco | mi actitud con el quinoa | mis movimientos de baile",
+            "x": false,
+            "id": 53729,
+            "prompt": "¡Necesito cambiar <BLANK>, ya!"
+        },
+        {
+            "decoys": "Westworld | mi tortuga | el jarabe",
+            "x": false,
+            "id": 53728,
+            "prompt": "¡No aguanto lo lento que es <BLANK>!"
+        },
+        {
+            "decoys": "nariz | viejo auto | gigante pie",
+            "x": false,
+            "id": 53727,
+            "prompt": "¡La gente siempre se queda mirando mi <BLANK>!"
+        },
+        {
+            "decoys": "bailar swing | los ochenta | la prehistoria",
+            "x": false,
+            "id": 53725,
+            "prompt": "¡Extraño los buenos tiempos de <BLANK>!"
+        },
+        {
+            "decoys": "sótano | nariz | balde",
+            "x": false,
+            "id": 53724,
+            "prompt": "¡Mi <BLANK> gotea!"
+        },
+        {
+            "decoys": "ir a Venus | salvar las ballenas | volar",
+            "x": false,
+            "id": 53723,
+            "prompt": "¡Quiero ser la primera persona en <BLANK>!"
+        },
+        {
+            "decoys": "andar en rollers | ir a mi clase de zumba | darme una ducha",
+            "x": false,
+            "id": 53722,
+            "prompt": "¡Desearía tener la energía para <BLANK>!"
+        },
+        {
+            "decoys": "cumpleaños | nombre | talle de zapato",
+            "x": false,
+            "id": 53721,
+            "prompt": "¡Mi cónyuge se la pasa olvidándose mi <BLANK>!"
+        },
+        {
+            "decoys": "zapatos | juguetes | quesos",
+            "x": false,
+            "id": 53720,
+            "prompt": "¡Necesito un lugar solo para mis <BLANK>!"
+        },
+        {
+            "decoys": "mi colección de filmes | mis pensamientos | una venta de pasteles",
+            "x": false,
+            "id": 53719,
+            "prompt": "¡Necesito organizar <BLANK>!"
+        },
+        {
+            "decoys": "más cascarrabias | recibiendo instrucciones de Moscow | comiendo demasiado helado",
+            "x": false,
+            "id": 53691,
+            "prompt": "¡Creo que mis padres están <BLANK>!"
+        },
+        {
+            "decoys": "el banco | mi comedor | mi fan club",
+            "x": false,
+            "id": 53688,
+            "prompt": "<BLANK> está demasiado lleno de gente."
+        },
+        {
+            "decoys": "comer gumbo | disecar ratones | terminar mi guión",
+            "x": false,
+            "id": 53686,
+            "prompt": "¡Nunca hay suficiente tiempo para <BLANK>!"
+        },
+        {
+            "decoys": "veo comerciales de hipotecas inversas | pierdo pelo | envejezco al revés",
+            "x": false,
+            "id": 53684,
+            "prompt": "¡Odio envejecer porque <BLANK>!"
+        },
+        {
+            "decoys": "sillas | gente con la que se pueda hablar | ponis",
+            "x": false,
+            "id": 53630,
+            "prompt": "¡Mi trabajo necesita más <BLANK>!"
+        },
+        {
+            "decoys": "mi billetera | pantalones | cómo funciona la comida",
+            "x": false,
+            "id": 53629,
+            "prompt": "¡Siempre me olvido de <BLANK> cuando viajo!"
+        },
+        {
+            "decoys": "suena polka | toco la tuba | hago paracaidismo",
+            "x": false,
+            "id": 53628,
+            "prompt": "Solo estoy feliz cuando <BLANK>!"
+        },
+        {
+            "decoys": "planchar | cocinar | pagar mis impuestos",
+            "x": false,
+            "id": 53627,
+            "prompt": "¡Me quedo dormido cuando tengo que <BLANK>!"
+        },
+        {
+            "decoys": "rompo mi remera | como pastel | hablo francés",
+            "x": false,
+            "id": 53625,
+            "prompt": "¡¡¡Cuando me enojo, <BLANK>!!!"
+        },
+        {
+            "decoys": "bananas | perros | basura de hace 10 semanas",
+            "x": false,
+            "id": 53624,
+            "prompt": "¡Mi casa huele a <BLANK>!"
+        },
+        {
+            "decoys": "medicamentos | sándwiches | migajas de dignidad",
+            "x": false,
+            "id": 53623,
+            "prompt": "¡Unos animales salvajes viven comiendo mis <BLANK>!"
+        },
+        {
+            "decoys": "niños | incendios | demasiada pimienta",
+            "x": false,
+            "id": 53610,
+            "prompt": "¡Mis vacaciones son siempre arruinadas por <BLANK>!"
+        },
+        {
+            "decoys": "duermo | grito | lloro",
+            "x": false,
+            "id": 53609,
+            "prompt": "¡Quiero ponerme en forma mientras <BLANK>!"
+        },
+        {
+            "decoys": "conseguido un tatuaje | aprendido alemán | conseguido un conejo mascota",
+            "x": false,
+            "id": 53569,
+            "prompt": "¡Me arrepiento de nunca haber <BLANK>!"
+        },
+        {
+            "decoys": "los bailes de escuela | las sonrisas | las caminatas románticas en la playa",
+            "x": false,
+            "id": 53540,
+            "prompt": "¡<BLANK> siempre me hacen llorar!"
+        },
+        {
+            "decoys": "los zombis | la prueba de manejo | Mardi Gras",
+            "x": false,
+            "id": 53539,
+            "prompt": "¡Estoy preocupado de que no estoy preparado para <BLANK>!"
+        },
+        {
+            "decoys": "domar leones | hacer paracaidismo | tener la pelea definitiva",
+            "x": false,
+            "id": 53533,
+            "prompt": "¡Quiero poder <BLANK> de forma segura!"
+        },
+        {
+            "decoys": "no hago nada | bailo | juego jueguitos",
+            "x": false,
+            "id": 53528,
+            "prompt": "¡Quiero ayudar al medio ambiente mientras <BLANK>!"
+        },
+        {
+            "decoys": "las escaleras | la pirámide corporativa | las charts musicales",
+            "x": false,
+            "id": 53403,
+            "prompt": "¡Tengo problemas escalando <BLANK>!"
+        },
+        {
+            "decoys": "osos | los impuestos | la gripe",
+            "x": false,
+            "id": 53402,
+            "prompt": "¡Quiero defenderme de <BLANK>!"
+        },
+        {
+            "decoys": "me olvido de vestirme | pierdo todo mi pelo | muero",
+            "x": false,
+            "id": 53396,
+            "prompt": "Cuando hablo en público, yo <BLANK>."
+        },
+        {
+            "decoys": "el Wifi | de política | cómo usar el horno",
+            "x": false,
+            "id": 53386,
+            "prompt": "¡Estoy harto de que mi hijo tenga que explicarme <BLANK>!"
+        },
+        {
+            "decoys": "es incómodo | es difícil hablar | hay que vestirse bien",
+            "x": false,
+            "id": 53385,
+            "prompt": "¡Odio tener citas porque <BLANK>!"
+        },
+        {
+            "decoys": "las abejas | el baño sucio | el olor de mis pies",
+            "x": false,
+            "id": 53384,
+            "prompt": "¡No invito gente a casa por <BLANK>!"
+        },
+        {
+            "decoys": "ser jurado | mi hipoteca | una cueva",
+            "x": false,
+            "id": 53380,
+            "prompt": "¡Necesito una manera de salir de <BLANK>!"
+        },
+        {
+            "decoys": "limpiaran sus habitaciones | se callen | consigan un trabajo",
+            "x": false,
+            "id": 53379,
+            "prompt": "¡Desearía que mis niños <BLANK>!"
+        },
+        {
+            "decoys": "paz y tranquilidad | súper peleas | chili",
+            "x": false,
+            "id": 53378,
+            "prompt": "¡A medida que crezco, necesito más <BLANK>!"
+        },
+        {
+            "decoys": "un vaso de leche tibia | una canción de cuna |una almohada firme",
+            "x": false,
+            "id": 53377,
+            "prompt": "¡No puedo dormir sin <BLANK>!"
+        },
+        {
+            "decoys": "música con trombones | el ataque de Godzilla | prueba de perfume",
+            "x": false,
+            "id": 53372,
+            "prompt": "¡<BLANK> constante me está estresando!"
+        },
+        {
+            "decoys": "familiares | mallas feas | el calor",
+            "x": false,
+            "id": 53371,
+            "prompt": "¡No quiero pensar en las vacaciones debido a <BLANK>!"
+        },
+        {
+            "decoys": "Los Simpson | aire puro | dar besos",
+            "x": false,
+            "id": 53367,
+            "prompt": "¡No disfruto más de <BLANK>!"
+        },
+        {
+            "decoys": "eructo | tiro besitos | hablo como Yoda",
+            "x": false,
+            "id": 53366,
+            "prompt": "¡Arruino mis entrevistas de trabajo cuando <BLANK>!"
+        },
+        {
+            "decoys": "las manchas de jarabe | mi perro | los parásitos",
+            "x": false,
+            "id": 53362,
+            "prompt": "¡No puedo sacar <BLANK> de mi ropa!"
+        },
+        {
+            "decoys": "hacer malabares | hacer kickboxing | bailar con estilo",
+            "x": false,
+            "id": 53353,
+            "prompt": "¡Quiero <BLANK> como podía hacerlo antes!"
+        },
+        {
+            "decoys": "ropa | Picasso | carisma",
+            "x": false,
+            "id": 53352,
+            "prompt": "¡Estoy harto de que mi cónyuge se lleve mi <BLANK>!"
+        },
+        {
+            "decoys": "programar | aprender a cortar carne | ser paciente",
+            "x": false,
+            "id": 53349,
+            "prompt": "¡Simplemente quiero <BLANK> todo el día!"
+        },
+        {
+            "decoys": "pelando papas | lavándome las manos | invocando espíritus",
+            "x": false,
+            "id": 53348,
+            "prompt": "¡Pierdo demasiado tiempo <BLANK>!"
+        },
+        {
+            "decoys": "ir a la facultad | dormir en una cama pinchuda | bailar en bodas",
+            "x": false,
+            "id": 53347,
+            "prompt": "¡Tengo miedo de comenzar a <BLANK>!"
+        },
+        {
+            "decoys": "mi personalidad | café en Starbucks | el aire",
+            "x": false,
+            "id": 53325,
+            "prompt": "Estoy insatisfecho con la calidad de <BLANK>."
+        },
+        {
+            "decoys": "la comida | mi interno | reality de TV",
+            "x": false,
+            "id": 53324,
+            "prompt": "¡Tengo una terrible relación con <BLANK>!"
+        },
+        {
+            "decoys": "llamar la atención | buscar Oreos | ser linchado",
+            "x": false,
+            "id": 53322,
+            "prompt": "¡Tengo que levantarme en el medio de la noche para <BLANK>!"
+        },
+        {
+            "decoys": "yogur aguado | las noticias 24 horas | los pies de mi esposa",
+            "x": false,
+            "id": 53321,
+            "prompt": "Estoy asqueado de <BLANK>."
+        },
+        {
+            "decoys": "la crueldad animal | el calentamiento global | la nueva Star Wars",
+            "x": false,
+            "id": 53320,
+            "prompt": "¡Estoy furioso por <BLANK>!"
+        },
+        {
+            "decoys": "ser bueno con mis hijos | hacer desayuno | ponerme bronceador",
+            "x": false,
+            "id": 53319,
+            "prompt": "¡Estoy demasiado cansado para <BLANK>!"
+        },
+        {
+            "decoys": "Navidad | La crisis económica | Que caigan gansos en mi cabeza",
+            "x": false,
+            "id": 53165,
+            "prompt": "<BLANK> ocurre con demasiada frecuencia."
+        },
+        {
+            "decoys": "el fuego | los muebles inflamables | aves",
+            "x": false,
+            "id": 53163,
+            "prompt": "¡Estoy obsesionado con <BLANK>!"
+        },
+        {
+            "decoys": "comer jalapeños profesionalmente | seducir una serpiente | luchar contra un oso",
+            "x": false,
+            "id": 53162,
+            "prompt": "¡Creo que <BLANK> es demasiado peligroso!"
+        },
+        {
+            "decoys": "comer | archivar impuestos | disparar láseres",
+            "x": false,
+            "id": 53135,
+            "prompt": "¡Quiero hablar y <BLANK> al mismo tiempo!"
+        },
+        {
+            "decoys": "fideo | manatí | overol",
+            "x": false,
+            "id": 53133,
+            "prompt": "¡Nunca voy a encontrar un buen <BLANK>!"
+        },
+        {
+            "decoys": "abdomen | personalidad | receta de tacos",
+            "x": false,
+            "id": 53131,
+            "prompt": "¡Lo único que hago es trabajar en mi <BLANK>!"
+        },
+        {
+            "decoys": "turno con mi dentista | un corte de pelo terrible | manadas de lobos siguiéndome",
+            "x": false,
+            "id": 53127,
+            "prompt": "Fui citado a la corte, ¡pero tengo <BLANK>!"
+        },
+        {
+            "decoys": "El agua | Mi madre | mi gata",
+            "x": false,
+            "id": 53124,
+            "prompt": "¡<BLANK> está demasiado fría!"
+        },
+        {
+            "decoys": "comer pan | escuchar preguntas de mis hijos | asustarme",
+            "x": false,
+            "id": 53123,
+            "prompt": "¡Estoy harto de <BLANK> sin cesar!"
+        },
+        {
+            "decoys": "pájaro cruel | nubarrón lluvioso | mal presentimiento",
+            "x": false,
+            "id": 53122,
+            "prompt": "¡Siempre hay un <BLANK> fuera de mi ventana!"
+        },
+        {
+            "decoys": "la internet | la felicidad | buena gente",
+            "x": false,
+            "id": 53118,
+            "prompt": "¡Necesito acceso a <BLANK>!"
+        },
+        {
+            "decoys": "matemática | apariciones sorpresa | cantantes de jazz",
+            "x": false,
+            "id": 53117,
+            "prompt": "¡Desearía saber más acerca de <BLANK>!"
+        },
+        {
+            "decoys": "por la mañana | “Caquita Apestosita” | en lugar de enviar mensajes",
+            "x": false,
+            "id": 53116,
+            "prompt": "¡Odio que todos me llamen <BLANK>!"
+        },
+        {
+            "decoys": "Bolos | Gritos | Fútbol",
+            "x": false,
+            "id": 53115,
+            "prompt": "¡Quiero estar en el Salón de la Fama de <BLANK>!"
+        },
+        {
+            "decoys": "mantenerla limpia | mantenerla lejos de los jóvenes | mantenerla libre de sirenas",
+            "x": false,
+            "id": 53108,
+            "prompt": "¡Amo tener una piscina pero odio <BLANK>!"
+        },
+        {
+            "decoys": "¡Abejas! | vampiros | mi ansiedad existencial",
+            "x": false,
+            "id": 53107,
+            "prompt": "¡Mi descanso para almorzar siempre es interrumpido por <BLANK>!"
+        },
+        {
+            "decoys": "mimos | renos | robots",
+            "x": false,
+            "id": 53073,
+            "prompt": "¡Me preocupa encontrarme con <BLANK> en un callejón oscuro!"
+        },
+        {
+            "decoys": "impuestos | velocirráptores | viajeros temporales",
+            "x": false,
+            "id": 53072,
+            "prompt": "¡Tengo el miedo de encontrar <BLANK> en mi sótano!"
+        },
+        {
+            "decoys": "hacerme plagio | fumar | leer en voz alta",
+            "x": false,
+            "id": 53069,
+            "prompt": "¡Mi gato no para de <BLANK>!"
+        },
+        {
+            "decoys": "vomito | piso niños | me como las flores",
+            "x": false,
+            "id": 53067,
+            "prompt": "¡Siempre <BLANK> en los casamientos!"
+        },
+        {
+            "decoys": "juego bolos|como|peleo contra monstruos",
+            "x": false,
+            "id": 53061,
+            "prompt": "¡Siempre me agarra hambre mientras <BLANK>!"
+        },
+        {
+            "decoys": "papel higiénico| caramelos | gasolina",
+            "x": false,
+            "id": 53057,
+            "prompt": "¡Desearía poder reusar <BLANK>!"
+        },
+        {
+            "decoys": "gente furiosa en carritos | las muestras de queso | que hay muchas bolsas",
+            "x": false,
+            "id": 52983,
+            "prompt": "¡Odio hacer las compras debido a <BLANK>!"
+        },
+        {
+            "decoys": "payasos | dormir | desfiles de gatos",
+            "x": false,
+            "id": 52981,
+            "prompt": "¡No puedo dejar de pensar en <BLANK>!"
+        },
+        {
+            "decoys": "sillones | miembros | trabajos",
+            "x": false,
+            "id": 52979,
+            "prompt": "¡Mi familia necesita más <BLANK>!"
+        },
+        {
+            "decoys": "tirarme pedos | olvidarme el nombre de alguien | olvidarme mi billetera",
+            "x": false,
+            "id": 52977,
+            "prompt": "¡Nada me avergüenza más que <BLANK>!"
+        },
+        {
+            "decoys": "aprender Español | bañar mi perro | hacer malabares",
+            "x": false,
+            "id": 52975,
+            "prompt": "¡Quiero poder conducir y <BLANK> al mismo tiempo!"
+        },
+        {
+            "decoys": "hay demasiados murciélagos en mi habitación | almorcé helado | tengo la cabeza en las nubes",
+            "x": false,
+            "id": 52967,
+            "prompt": "¡No puedo dormir debido a que <BLANK>!"
+        },
+        {
+            "decoys": "mi cuerpo | exterminadores | mi hermana",
+            "x": false,
+            "id": 52960,
+            "prompt": "¡No confío en <BLANK>!"
+        },
+        {
+            "decoys": "perritos | amigos | pelos en mi trasero",
+            "x": false,
+            "id": 52844,
+            "prompt": "¡Tengo demasiados <BLANK>!"
+        },
+        {
+            "decoys": "no-imbéciles | la Reina | doctores lindos",
+            "x": false,
+            "id": 52843,
+            "prompt": "¡Desearía poder conocer a <BLANK>!"
+        },
+        {
+            "decoys": "una mascota | pizza | cabello",
+            "x": false,
+            "id": 52842,
+            "prompt": "Quiero tener <BLANK>, ¡rápido!"
+        },
+        {
+            "decoys": "calcetines viejos | insectos muertos | tubos de papel higiénico",
+            "x": false,
+            "id": 52841,
+            "prompt": "¡Tengo demasiados <BLANK> tirados por mi casa!"
+        },
+        {
+            "decoys": "despertarse | conducir | hacer caca en el trabajo",
+            "x": false,
+            "id": 52770,
+            "prompt": "¡La peor parte de trabajar es <BLANK>!"
+        },
+        {
+            "decoys": "guerra nuclear | abejas | leñadores",
+            "x": false,
+            "id": 52768,
+            "prompt": "¡No puedo relajarme por <BLANK>!"
+        },
+        {
+            "decoys": "volar | surfear | luchar contra un oso",
+            "x": false,
+            "id": 52766,
+            "prompt": "¡Desearía saber cómo se siente <BLANK>!"
+        },
+        {
+            "decoys": "disco | besos | la luna",
+            "x": false,
+            "id": 52765,
+            "prompt": "¡Estoy harto de escuchar sobre <BLANK>!"
+        },
+        {
+            "decoys": "insectos | serpientes | raritos",
+            "x": false,
+            "id": 52764,
+            "prompt": "¡No paro de atraer <BLANK>!"
+        },
+        {
+            "decoys": "cara | auto | bebé en su trasero",
+            "x": false,
+            "id": 52762,
+            "prompt": "¡Estoy constantemente limpiando mi <BLANK>!"
+        },
+        {
+            "decoys": "jugar básquetbol | hacer dinero | montar un toro",
+            "x": false,
+            "id": 52642,
+            "prompt": "¡Me encantaría <BLANK> como un profesional!"
+        },
+        {
+            "decoys": "un rey|un perro|un Hobbit",
+            "x": false,
+            "id": 52640,
+            "prompt": "¡Quiero vivir como <BLANK>!"
+        },
+        {
+            "decoys": "cabello | edad universitaria | dólar",
+            "x": false,
+            "id": 52639,
+            "prompt": "¡Desearía recuperar mi <BLANK>!"
+        },
+        {
+            "decoys": "labios agrietados|hibernar|los grandes suéteres",
+            "x": false,
+            "id": 52637,
+            "prompt": "La peor parte del invierno es <BLANK>!!!"
+        },
+        {
+            "decoys": "dar besos |el ala delta | los malabares",
+            "x": false,
+            "id": 52636,
+            "prompt": "¡Me parece que <BLANK> es increíblemente peligroso!"
+        },
+        {
+            "decoys": "los fantasmas|las serpientes|las cuevas",
+            "x": false,
+            "id": 52635,
+            "prompt": "¡Mi peor miedo es/son <BLANK>!"
+        },
+        {
+            "decoys": "dinero | un sentido del humor | cabello bueno",
+            "x": false,
+            "id": 52633,
+            "prompt": "¡Es embarazoso encontrarse en una cita y no tener <BLANK>!"
+        },
+        {
+            "decoys": "me atacan los osos | hay historias de terror | cocino malvaviscos",
+            "x": false,
+            "id": 52624,
+            "prompt": "¡Odio ir de campamento porque <BLANK>!"
+        },
+        {
+            "decoys": "río | mastico con la boca abierta | recito poesía",
+            "x": false,
+            "id": 52623,
+            "prompt": "¡Molesto a la gente cuando <BLANK>!"
+        },
+        {
+            "decoys": "memoria | serpiente mascota | cepillo de dientes",
+            "x": false,
+            "id": 52621,
+            "prompt": "¡Vivo perdiendo mi <BLANK>!"
+        },
+        {
+            "decoys": "entender bebés | correr a 150kph | volar",
+            "x": false,
+            "id": 52619,
+            "prompt": "¡Estoy cansado de no poder <BLANK>!"
+        },
+        {
+            "decoys": "usar plástico | matar mosquitos | masticar con la boca abierta",
+            "x": false,
+            "id": 52616,
+            "prompt": "En cinco años, todos dirán “Deberíamos haber dejado de <BLANK>”."
+        },
+        {
+            "decoys": "el béisbol|leer|cortar el pasto",
+            "x": false,
+            "id": 52615,
+            "prompt": "¡Debe haber una manera de que <BLANK> sea menos aburrido!"
+        },
+        {
+            "decoys": "asistir a las reuniones|defecar tanto|viajar",
+            "x": false,
+            "id": 52613,
+            "prompt": "¡Trabajaría más de no ser que tengo que <BLANK>!"
+        },
+        {
+            "decoys": "hombres lobo | mascotas de cereal | hermanas gemelas",
+            "x": false,
+            "id": 53900,
+            "prompt": "¡Mi jardín está infestado de <BLANK>!"
+        },
+        {
+            "decoys": "plancha parrilla | pulpo | avioneta",
+            "x": false,
+            "id": 53895,
+            "prompt": "¡No me dejan llevar mi <BLANK> en vuelos!"
+        },
+        {
+            "decoys": "el rock alternativo de los 90’s | a Papá Noel | el caviar",
+            "x": false,
+            "id": 53175,
+            "prompt": "¡Mis hijos no dejan <BLANK> en paz!"
+        },
+        {
+            "decoys": "hacer velas | invertir | entender física teórica",
+            "x": false,
+            "id": 52972,
+            "prompt": "¡Mi bebé necesita aprender a <BLANK>!"
+        },
+        {
+            "decoys": "gaseosa|monstruo|ropa interior",
+            "x": false,
+            "id": 52826,
+            "prompt": "¡Quiero hacer mi propio/a <BLANK>!"
+        },
+        {
+            "decoys": "volar | los autos deportivos | el caviar",
+            "x": false,
+            "id": 52825,
+            "prompt": "¡¿Por qué no puede ser más barato <BLANK>?!"
+        },
+        {
+            "decoys": "los pies olorosos | la larga espera | el costo",
+            "x": false,
+            "id": 52784,
+            "prompt": "Odio volar debido a <BLANK>."
+        },
+        {
+            "decoys": "la pereza | mis axilas olorosas | el miedo a sudar",
+            "x": false,
+            "id": 52763,
+            "prompt": "¡<BLANK> evita que me ponga a hacer ejercicio!"
+        },
+        {
+            "decoys": "la matemática moderna | Star Wars | dar besos",
+            "x": false,
+            "id": 52643,
+            "prompt": "A mí me parece que <BLANK> es simplemente confuso."
+        },
+        {
+            "decoys": "corro maratones | peleo contra zombis | como helado",
+            "x": false,
+            "id": 52625,
+            "prompt": "¡Estoy siempre cansado porque <BLANK>!"
+        },
+        {
+            "decoys": "chocolate | una tele | una peluca",
+            "x": false,
+            "id": 52830,
+            "prompt": "¡Quiero siempre tener <BLANK> conmigo!"
+        },
+        {
+            "decoys": "espinaca | saltamontes | hierba",
+            "x": false,
+            "id": 52865,
+            "prompt": "Necesito más <BLANK> en mi dieta."
+        },
+        {
+            "decoys": "peleas de perros | huellas dactilares | comerciales",
+            "x": false,
+            "id": 52976,
+            "prompt": "Cada vez que prendo la tele, veo <BLANK>."
+        },
+        {
+            "decoys": "espagueti con albóndigas | rifas | globos",
+            "x": false,
+            "id": 52978,
+            "prompt": "La gente siempre me pregunta acerca de mi/s <BLANK>."
+        },
+        {
+            "decoys": "huérfanos | diarios | alienígenas",
+            "x": false,
+            "id": 53064,
+            "prompt": "¡<BLANK> viven apareciendo en mi puerta!"
+        },
+        {
+            "decoys": "almejas | atención | paletas",
+            "x": false,
+            "id": 53070,
+            "prompt": "¡Siempre tengo antojos de <BLANK>!"
+        },
+        {
+            "decoys": "llaves | familiares lejanos | comida favorita",
+            "x": false,
+            "id": 53159,
+            "prompt": "Nunca puedo recordar mi/mis <BLANK>."
+        },
+        {
+            "decoys": "ogros | mis miedos | amigos con buenas intenciones",
+            "x": false,
+            "id": 53176,
+            "prompt": "Estoy huyendo constantemente de <BLANK>."
+        },
+        {
+            "decoys": "gente adinerada | trampas para turistas | zanahorias cocidas",
+            "x": false,
+            "id": 53236,
+            "prompt": "Creo que es dificil acordar con <BLANK>."
+        },
+        {
+            "decoys": "olfateo | las aves | payasos riéndose",
+            "x": false,
+            "id": 53275,
+            "prompt": "Definitivamente odio el sonido de <BLANK>."
+        },
+        {
+            "decoys": "mi senador | mi trasero | el sótano",
+            "x": false,
+            "id": 53277,
+            "prompt": "Desearía que <BLANK> fuera más accesible."
+        },
+        {
+            "decoys": "Un grupo de periodistas | Brian | Las matemáticas",
+            "x": false,
+            "id": 53279,
+            "prompt": "¡<BLANK> me aterra!"
+        },
+        {
+            "decoys": "fumar | las almendras garrapiñadas | a mi esposo en público",
+            "x": false,
+            "id": 53285,
+            "prompt": "¡Me avergüenza que ame <BLANK>!"
+        },
+        {
+            "decoys": "robar caramelos | cazar especies en peligro de extinción | pasar semáforos en rojo",
+            "x": false,
+            "id": 53907,
+            "prompt": "¡Me viven arrestando por <BLANK>!"
+        },
+        {
+            "decoys": "los años 40 | a mi perro | dormir hasta el mediodía",
+            "x": false,
+            "id": 53906,
+            "prompt": "¡Extraño mucho <BLANK>!"
+        },
+        {
+            "decoys": "perro | pelo en las piernas | gemelo malvado",
+            "x": false,
+            "id": 53834,
+            "prompt": "¡Mi <BLANK> sigue regresando!"
+        },
+        {
+            "decoys": "cazar | andar en rollers | bucear en el mar",
+            "x": false,
+            "id": 53827,
+            "prompt": "¡Quiero <BLANK> con mi familia!"
+        },
+        {
+            "decoys": "el sueño | la música popular | la lavandería",
+            "x": false,
+            "id": 53905,
+            "prompt": "¡Nunca logro ponerme al día con <BLANK>!"
+        },
+        {
+            "decoys": "más alto | hermoso | de Florida",
+            "x": false,
+            "id": 53904,
+            "prompt": "Desearía saber cómo se siente ser <BLANK>."
+        },
+        {
+            "decoys": "un huevo | un corte de pelo | una cirugía",
+            "x": false,
+            "id": 53903,
+            "prompt": "¡Odio esperar más de cinco minutos para <BLANK>!"
+        },
+        {
+            "decoys": "Hawái | el espacio exterior | un buen humor",
+            "x": false,
+            "id": 53902,
+            "prompt": "¡Desearía poder estar siempre <BLANK>!"
+        },
+        {
+            "decoys": "cuervo | calcetines | queso cottage",
+            "x": false,
+            "id": 53901,
+            "prompt": "¡Odio comer <BLANK>!"
+        },
+        {
+            "decoys": "hip hop | agricultura orgánica | cómo funciona la mente de mi hijo",
+            "x": false,
+            "id": 53899,
+            "prompt": "Quiero aprender más sobre <BLANK>!"
+        },
+        {
+            "decoys": "shows de delfines | muslos | memes graciosos",
+            "x": false,
+            "id": 53898,
+            "prompt": "¡Quiero ver más <BLANK>!"
+        },
+        {
+            "decoys": "los hombres | las jirafas | los edificios",
+            "x": false,
+            "id": 53893,
+            "prompt": "¡<BLANK> son muy altos!"
+        },
+        {
+            "decoys": "con pieles | con ropa | a la luz del sol",
+            "x": false,
+            "id": 53892,
+            "prompt": "¡No me veo bien <BLANK>!"
+        },
+        {
+            "decoys": "almohadas | gatos | camisetas con frases",
+            "x": false,
+            "id": 53891,
+            "prompt": "¡Nunca tengo <BLANK> cuando lo necesito!"
+        },
+        {
+            "decoys": "Mis vecinos molestos | un enjambre de abejas | El Grinch",
+            "x": false,
+            "id": 53890,
+            "prompt": "¡Cuando organizo una fiesta <BLANK> aparece!"
+        },
+        {
+            "decoys": "la escuela | el baño | Misisipi",
+            "x": false,
+            "id": 53889,
+            "prompt": "¡Odio ir a <BLANK>!"
+        },
+        {
+            "decoys": "ropa sucia | drones | pandas",
+            "x": false,
+            "id": 53897,
+            "prompt": "¡Mis amigos están muy ocupados con su/s <BLANK>!"
+        },
+        {
+            "decoys": "fantasmas | mis problemas | inundaciones fluviales",
+            "x": false,
+            "id": 53896,
+            "prompt": "¡Mire donde mire, veo <BLANK>!"
+        },
+        {
+            "decoys": "los precios altos | los personajes aterradores | la gente sudorosa",
+            "x": false,
+            "id": 53894,
+            "prompt": "¡No me gustan los parques de diversiones debido a <BLANK>!"
+        },
+        {
+            "decoys": "mis lentes | un vuelo barato | mis calcetines",
+            "x": false,
+            "id": 53887,
+            "prompt": "¡Se me hace difícil encontrar <BLANK>!"
+        },
+        {
+            "decoys": "mi arte | las montañas | con visión de rayos X",
+            "x": false,
+            "id": 53886,
+            "prompt": "¡Quiero que todos vean <BLANK>!"
+        },
+        {
+            "decoys": "Watergate | mis ojos | un tatuaje",
+            "x": false,
+            "id": 53885,
+            "prompt": "¡Quiero cubrir <BLANK>!"
+        },
+        {
+            "decoys": "la hora de mi muerte | mis impuestos | póker",
+            "x": false,
+            "id": 53884,
+            "prompt": "¡Necesito encontrar una manera de hacer trampa en <BLANK>!"
+        },
+        {
+            "decoys": "el éxito | arañas mientras duermo | mi saliva",
+            "x": false,
+            "id": 53883,
+            "prompt": "¡Tengo miedo de ahogarme en <BLANK>!"
+        },
+        {
+            "decoys": "guerras | pájaros | darme una ducha",
+            "x": false,
+            "id": 53882,
+            "prompt": "¡No quiero pensar en <BLANK> nunca más!"
+        },
+        {
+            "decoys": "la pasta dental | el café | la derrota",
+            "x": false,
+            "id": 53881,
+            "prompt": "¡Odio el gusto de <BLANK>!"
+        },
+        {
+            "decoys": "se bañan | me invitan a almorzar | tiran la cadena",
+            "x": false,
+            "id": 53880,
+            "prompt": "¡Mis compañeros de trabajo nunca <BLANK>!"
+        },
+        {
+            "decoys": "es Elvis | me roba el correo | está ocultándose de la mafia",
+            "x": false,
+            "id": 53879,
+            "prompt": "¡Sospecho que mi vecino <BLANK>!"
+        },
+        {
+            "decoys": "espejo | vasija sin precio | nudillos",
+            "x": false,
+            "id": 53878,
+            "prompt": "¡Rompí mi/s <BLANK>!"
+        },
+        {
+            "decoys": "pie | trineo para perros | uniciclo",
+            "x": false,
+            "id": 53877,
+            "prompt": "¡Necesito un/a <BLANK> más poderoso/a!"
+        },
+        {
+            "decoys": "comer | cazar venados | hacer velas",
+            "x": false,
+            "id": 53876,
+            "prompt": "¡Odio <BLANK> por mi cuenta!"
+        },
+        {
+            "decoys": "besarme | pedirme indicaciones | tirarme barro",
+            "x": false,
+            "id": 53875,
+            "prompt": "¡Nadie podrá <BLANK> a mí nunca más!"
+        },
+        {
+            "decoys": "mi pelo peinado | mi aliento fresco | al perro en el patio",
+            "x": false,
+            "id": 53874,
+            "prompt": "¡Se me hace difícil mantener <BLANK>!"
+        },
+        {
+            "decoys": "jarabe | secretos | residuos tóxicos",
+            "x": false,
+            "id": 53873,
+            "prompt": "Desparramé <BLANK>, ¡en todos lados!"
+        },
+        {
+            "decoys": "aplicaciones | modas | cortes de cabello",
+            "x": false,
+            "id": 53872,
+            "prompt": "¡Quiero conocer acerca de los últimos <BLANK>!"
+        },
+        {
+            "decoys": "queso | dinero robado | carga emocional",
+            "x": false,
+            "id": 53871,
+            "prompt": "¡Mis parientes dejaron un montón de <BLANK> en mi casa!"
+        },
+        {
+            "decoys": "pared | cabeza | dimensión",
+            "x": false,
+            "id": 53870,
+            "prompt": "¡Hay un agujero en mi <BLANK>!"
+        },
+        {
+            "decoys": "darme una ducha | hablar por teléfono | comer tierra",
+            "x": false,
+            "id": 53869,
+            "prompt": "¡No puedo evitar <BLANK>!"
+        },
+        {
+            "decoys": "ir al dentista | arreglar mi auto | encontrar mi teléfono",
+            "x": false,
+            "id": 53868,
+            "prompt": "¡Vivo dejando para más adelante <BLANK>!"
+        },
+        {
+            "decoys": "uñas del pie | maíces | deuda",
+            "x": false,
+            "id": 53867,
+            "prompt": "¡Mi/s <BLANK> crece/n demasiado rápido!"
+        },
+        {
+            "decoys": "fantasmas | por qué no le agrado a la gente | más allá del océano",
+            "x": false,
+            "id": 53866,
+            "prompt": "¡No puedo ver <BLANK>!"
+        },
+        {
+            "decoys": "ser jurado | cuidar a mis hijos | el tarro de galletitas",
+            "x": false,
+            "id": 53865,
+            "prompt": "¡Siempre quedo atascado en <BLANK>!"
+        },
+        {
+            "decoys": "mi actuación | mis trucos de magia | mi altura",
+            "x": false,
+            "id": 53864,
+            "prompt": "¡Quiero impresionar a las personas con <BLANK>!"
+        },
+        {
+            "decoys": "pez | paraguas | ojos",
+            "x": false,
+            "id": 53863,
+            "prompt": "¡Mi <BLANK> vive húmedo!"
+        },
+        {
+            "decoys": "la luna | mis sueños | terminar LOST",
+            "x": false,
+            "id": 53862,
+            "prompt": "¡No puedo llegar a <BLANK>!"
+        },
+        {
+            "decoys": "matemática básica | que mi novia me dejó | dónde queda Uruguay",
+            "x": false,
+            "id": 53861,
+            "prompt": "¡Se me hace difícil entender <BLANK>!"
+        },
+        {
+            "decoys": "política | crimen organizado | una banda de ska",
+            "x": false,
+            "id": 53860,
+            "prompt": "¡Quiero meterme lentamente en <BLANK>"
+        },
+        {
+            "decoys": "fueran más buenos | reciclaran | dejaran de sacarse los zapatos en los aviones",
+            "x": false,
+            "id": 53859,
+            "prompt": "¡Desearía que todos <BLANK>!"
+        },
+        {
+            "decoys": "mi ira | lo terrible que es mi vida | fantasmas",
+            "x": false,
+            "id": 53858,
+            "prompt": "¡Necesito una forma de medir <BLANK>!"
+        },
+        {
+            "decoys": "Elvis | mi buen día de peinado | todos mis haters",
+            "x": false,
+            "id": 53857,
+            "prompt": "Quiero hacer un tributo a <BLANK>."
+        },
+        {
+            "decoys": "uso de malas palabras | flatulencia | furia en la carretera",
+            "x": false,
+            "id": 53856,
+            "prompt": "¡Necesito reducir seriamente mi(s) <BLANK>!"
+        },
+        {
+            "decoys": "dejado en paz | quince centímetros más alto | Beyoncé",
+            "x": false,
+            "id": 53855,
+            "prompt": "¡Lo único que quiero es ser <BLANK>!"
+        },
+        {
+            "decoys": "el tren | esos ratones | al último capítulo de Better Call Saul",
+            "x": false,
+            "id": 53854,
+            "prompt": "¡Necesito alcanzar <BLANK>!"
+        },
+        {
+            "decoys": "Pie Grande existe | la prueba está en encontrar el camello | soy alguien en el mundo",
+            "x": false,
+            "id": 53853,
+            "prompt": "¡Quiero demostrar que <BLANK>!"
+        },
+        {
+            "decoys": "hacer caca | vestirme | desayunar",
+            "x": false,
+            "id": 53852,
+            "prompt": "Desearía poder <BLANK> más rápido!"
+        },
+        {
+            "decoys": "ducha | auto | gato",
+            "x": false,
+            "id": 53851,
+            "prompt": "¡Odio cuando mi <BLANK> huele raro!"
+        },
+        {
+            "decoys": "ver las noticias | hurgarme la nariz | ducharme",
+            "x": false,
+            "id": 53850,
+            "prompt": "¡Voy a gritar si tengo que <BLANK> otra vez!"
+        },
+        {
+            "decoys": "hago caras | hago malabares | sonrío",
+            "x": false,
+            "id": 53849,
+            "prompt": "¡Vivo dolorido porque <BLANK> demasiado!"
+        },
+        {
+            "decoys": "los mocos | los besos | la caca de perro",
+            "x": false,
+            "id": 53848,
+            "prompt": "¡Me siento asqueado por <BLANK>!"
+        },
+        {
+            "decoys": "usar un bikini | encestar en baloncesto | comer un pastel entero",
+            "x": false,
+            "id": 53847,
+            "prompt": "¡Estoy demasiado viejo para <BLANK>!"
+        },
+        {
+            "decoys": "hablo | hago caca | comparto secretos",
+            "x": false,
+            "id": 53846,
+            "prompt": "¡La gente me dice que <BLANK> demasiado!"
+        },
+        {
+            "decoys": "apestar | decir malas palabras | autocombustionar",
+            "x": false,
+            "id": 53845,
+            "prompt": "¡No quiero volver a <BLANK> nunca jamás!"
+        },
+        {
+            "decoys": "un corte de pelo | el ascenso de un elevador | la ópera",
+            "x": false,
+            "id": 53844,
+            "prompt": "¡Odio hablar durante <BLANK>!"
+        },
+        {
+            "decoys": "gran bocota | gato viejo | motocicleta",
+            "x": false,
+            "id": 53843,
+            "prompt": "¡Mi <BLANK> me va a matar uno de estos días!"
+        },
+        {
+            "decoys": "bañarme | escuchar las noticias | escuchar los gallos",
+            "x": false,
+            "id": 53842,
+            "prompt": "¡Odio tener que <BLANK> por la mañana!"
+        },
+        {
+            "decoys": "miradas feas | pepinos | movimientos de baile",
+            "x": false,
+            "id": 53839,
+            "prompt": "¡La gente vive dándome <BLANK>!"
+        },
+        {
+            "decoys": "examen | carrera | videojuego",
+            "x": false,
+            "id": 53837,
+            "prompt": "¡Necesito un(a) <BLANK> más fácil!"
+        },
+        {
+            "decoys": "a Wally | un hombre decente | una razón para ir a trabajar",
+            "x": false,
+            "id": 53825,
+            "prompt": "¡Se me hace cada vez más difícil el encontrar <BLANK>!"
+        },
+        {
+            "decoys": "no soy bueno en mi trabajo | llego tarde | robo",
+            "x": false,
+            "id": 53824,
+            "prompt": "¡He perdido tres trabajos porque <BLANK>!"
+        },
+        {
+            "decoys": "hablando en público | en la cárcel | comiendo un burrito",
+            "x": false,
+            "id": 53780,
+            "prompt": "¡Desearía estar más cómodo <BLANK>!"
+        },
+        {
+            "decoys": "escribir mal las palabras | comer manzanas | resolver misterios",
+            "x": false,
+            "id": 53778,
+            "prompt": "¡Estoy intentando dejar de <BLANK>!"
+        },
+        {
+            "decoys": "los grandes banquetes | los partidos de hockey | las películas de Godzilla",
+            "x": false,
+            "id": 53771,
+            "prompt": "¡Siempre termino triste luego de <BLANK>!"
+        },
+        {
+            "decoys": "falta de interés | mi olor extraño | mi personalidad molesta",
+            "x": false,
+            "id": 53739,
+            "prompt": "¡No tengo vida social debido a <BLANK>!"
+        }
+    ]
+}
