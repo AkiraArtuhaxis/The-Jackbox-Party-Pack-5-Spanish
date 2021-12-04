@@ -597,7 +597,7 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Estás actualmente en segundo lugar en un programa de juegos televisado a nivel nacional. Resulta que sabes que la palabra “<BLANK>” le causa la pérdida de memoria al concursante en primer lugar.",
+            "scenarioText": "Estás en segundo lugar en un programa de juegos televisado a nivel nacional. Resulta que sabes que la palabra “<BLANK>” le causa la pérdida de memoria al concursante en primer lugar.",
             "decoys": "papi | pipí | húmedo | ensalada | mancha",
             "x": true,
             "id": 50305,

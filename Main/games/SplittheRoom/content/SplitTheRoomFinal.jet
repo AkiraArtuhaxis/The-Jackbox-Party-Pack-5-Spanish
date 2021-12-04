@@ -417,7 +417,7 @@
         },
         {
             "answerText": "Documental sobre genocidio",
-            "scenarioText": "Estás en una primera cita en el cine. Desafortunadamente, solo se están reproduciendo dos películas. Una es un documental sobre genocidio y la otra es <BLANK>.",
+            "scenarioText": "Estás en una primera cita en el cine. Desafortunadamente, solo están pasando dos películas. Una es un documental sobre genocidio y la otra es <BLANK>.",
             "decoys": "“Norbit” | una película extranjera sobre el incesto | una comedia romántica | una película racista del viejo oeste | sobre el canibalismo",
             "x": true,
             "id": 52710,
