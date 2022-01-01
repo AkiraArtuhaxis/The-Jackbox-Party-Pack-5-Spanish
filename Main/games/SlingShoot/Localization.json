@@ -131,7 +131,7 @@
         "CARDS_DESCRIPTION": "<PlayerName> colecciona cartas coleccionables de dentistas famosos",
         "SOUP_DESCRIPTION": "<PlayerName> toma sopa con tenedor",
         "DIRECTIONS_DESCRIPTION": "<PlayerName> intencionalmente da a los turistas malas direcciones",
-        "AUDIENCE_LIE_DESCRIPTION": "Engaño a <PlayersWhoVotedForLie> jugadores",
+        "AUDIENCE_LIE_DESCRIPTION": "Engañó a <PlayersWhoVotedForLie> jugadores",
         
         "LIKE": "LIKE",
         "LIKES": "LIKES",

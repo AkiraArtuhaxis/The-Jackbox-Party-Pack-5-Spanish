@@ -3,7 +3,7 @@
         {
             "id":"Tutorial",
             "difficulty": 0,
-            "titles": ["Un momento, ¿qué estoy haciendo?","Ehh... ¿como funciona ésto?","¿Qué? ¿Dónde estoy?"],
+            "titles": ["Un momento, ¿qué estoy haciendo?","Ehh... ¿como funciona esto?","¿Qué? ¿Dónde estoy?"],
             "minChallenges":4,
             "maxChallenges":4,
             "mission": "Completa todos los desafíos",
@@ -143,7 +143,7 @@
         {
             "id":"Medium",
             "difficulty": 2,
-            "titles": [ "¡Ahhh! ¡Tanta Sangre!", "¡Porfis, Porfis, Porfis, No Más!", "¡¿Por Qué Me Están Haciendo Ésto?!","¡Todo Está Explotando!","¡El Dolor Inaguantable!","¡Porfis Dejenme Ir A Casa!", "¿A Quién Le Gusta El Trauma?"],
+            "titles": [ "¡Ahhh! ¡Tanta Sangre!", "¡Porfis, Porfis, Porfis, No Más!", "¡¿Por Qué Me Están Haciendo Esto?!","¡Todo Está Explotando!","¡El Dolor Inaguantable!","¡Porfis Dejenme Ir A Casa!", "¿A Quién Le Gusta El Trauma?"],
             "minChallenges":5,
             "maxChallenges":5,
             "mission": "Completa todos los desafíos",
