@@ -215,7 +215,7 @@
             "decoys": "suena polka | toco la tuba | hago paracaidismo",
             "x": false,
             "id": 53628,
-            "prompt": "Solo estoy feliz cuando <BLANK>!"
+            "prompt": "¡Solo estoy feliz cuando <BLANK>!"
         },
         {
             "decoys": "planchar | cocinar | pagar mis impuestos",
@@ -695,7 +695,7 @@
             "decoys": "labios agrietados|hibernar|los grandes suéteres",
             "x": false,
             "id": 52637,
-            "prompt": "La peor parte del invierno es <BLANK>!!!"
+            "prompt": "¡¡¡La peor parte del invierno es <BLANK>!!!"
         },
         {
             "decoys": "dar besos |el ala delta | los malabares",
@@ -953,7 +953,7 @@
             "decoys": "hip hop | agricultura orgánica | cómo funciona la mente de mi hijo",
             "x": false,
             "id": 53899,
-            "prompt": "Quiero aprender más sobre <BLANK>!"
+            "prompt": "¡Quiero aprender más sobre <BLANK>!"
         },
         {
             "decoys": "shows de delfines | muslos | memes graciosos",
