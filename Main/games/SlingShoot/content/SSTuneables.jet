@@ -5,7 +5,7 @@
             "protocol": "http://",
             "target": "prod",
             "extension": ".json",
-            "url": "whatif.one/jbgru/Slingshoot/",
+            "url": "",
             "version": "1.1"
         },
         {
