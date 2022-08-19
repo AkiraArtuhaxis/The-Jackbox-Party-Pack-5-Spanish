@@ -6,14 +6,14 @@
                 "examples": [
                     "empujar",
                     "trotar",
-                    "hiperventilar"
+                    "hiperventilarme"
                 ],
                 "text": "Cuando siento peligro, comienzo a <BLANK>.",
                 "type": "verbo"
             },
             "gene": [
                 "hornear",
-                "El mejor regalo es aquel que puedes cocinar."
+                "El mejor regalo es aquel que puedes harinear."
             ],
             "x": false,
             "id": 50681
@@ -21,7 +21,7 @@
         {
             "a": {
                 "examples": [
-                    "lider",
+                    "líder",
                     "presidente",
                     "jefe"
                 ],
@@ -38,15 +38,15 @@
         {
             "a": {
                 "examples": [
-                    "edificio del Empire State",
+                    "el edificio del Empire State",
                     "el Hancock",
                     "el Big Ben"
                 ],
                 "text": "Nunca caeré, aguantaré como <BLANK>.",
-                "type": "sustantivo propio - edificio famoso"
+                "type": "artículo + sustantivo propio - edificio famoso"
             },
             "gene": [
-                "el reino champiñon",
+                "el reino champiñón",
                 "Confío en que no me vaya a pegar un cañón."
             ],
             "x": false,
@@ -59,7 +59,7 @@
                     "Rapidez",
                     "Astucia"
                 ],
-                "text": "Mi flow me da poderes dime Capitán <BLANK>.",
+                "text": "Mi ritmo me da poderes, dime Capitán <BLANK>.",
                 "type": "adjetivo positivo"
             },
             "gene": [
@@ -81,7 +81,7 @@
             },
             "gene": [
                 "Magnetismo",
-                "Rebelde como mi gato, parezco su primo."
+                "Rebelde como mi gato, se parece a mí mismo."
             ],
             "x": false,
             "id": 51771
@@ -107,15 +107,15 @@
             "a": {
                 "examples": [
                     "Carl Sagan",
-                    "Marie Curie",
+                    "Einstein",
                     "Neil deGrasse Tyson"
                 ],
-                "text": "Tengo banda de conocimiento, soy verdaderamente <BLANK>.",
+                "text": "Tengo mucho conocimiento, en verdad soy <BLANK>.",
                 "type": "sustantivo propio - científico"
             },
             "gene": [
-                "Dr. Wily",
-                "Mirala como anda, toda una milipili."
+                "Marie Curie",
+                "Mírala cómo anda con su bisturí."
             ],
             "x": false,
             "id": 51700
@@ -127,12 +127,12 @@
                     "sándwich",
                     "béisbol"
                 ],
-                "text": "Soy más dulce que dulces más afilado que <BLANK>.",
+                "text": "Soy más dulce que dulces, más afilado que <BLANK>.",
                 "type": "sustantivo singular"
             },
             "gene": [
                 "montaña",
-                "Soy como esa araña, ¿cuál? ¡la que te engaña!"
+                "Soy como esa araña. ¿Cuál? ¡La que te engaña!"
             ],
             "x": false,
             "id": 50788
@@ -144,12 +144,12 @@
                     "facha",
                     "estabilidad"
                 ],
-                "text": "Soy muy rápido, vuelve p'atrás y mira mi <BLANK>.",
+                "text": "Soy muy rápido, retrocede para ver mi <BLANK>.",
                 "type": "sustantivo común - cualidad personal"
             },
             "gene": [
                 "brillo",
-                "Maldita gaseosa, ¡estoy que me pillo!"
+                "Maldita gaseosa, ¡estoy como ladrillo!"
             ],
             "x": false,
             "id": 51767
@@ -157,16 +157,16 @@
         {
             "a": {
                 "examples": [
-                    "chocolate",
-                    "neumáticos de repuesto",
-                    "cargadores de celular"
+                    "los chocolates",
+                    "los neumáticos de repuesto",
+                    "los cargadores de celular"
                 ],
-                "text": "La cosa que amo más que rimar es <BLANK>.",
-                "type": "sustantivo plural"
+                "text": "Lo único que me gusta más que la rima son <BLANK>.",
+                "type": "artículo + sustantivo plural"
             },
             "gene": [
-                "toallitas húmedas",
-                "Solo una pasadita y bien limpito quedás."
+                "las toallitas húmedas",
+                "Solo una pasadita y bien limpio quedas."
             ],
             "x": false,
             "id": 51718
@@ -178,12 +178,12 @@
                     "un cerdo",
                     "un bisonte"
                 ],
-                "text": "Para alimentar mis rimas bebo la sangre de <BLANK>.",
-                "type": "sustantivo singular - animal"
+                "text": "Para alimentar mis rimas, bebo la sangre de <BLANK>.",
+                "type": "artículo + sustantivo singular - animal"
             },
             "gene": [
                 "una serpiente",
-                "A veces hago trampa y tomó una sopita bien caliente."
+                "A veces hago trampa y tomo una sopita bien caliente."
             ],
             "x": true,
             "id": 51703
@@ -195,12 +195,12 @@
                     "delicia",
                     "alegría"
                 ],
-                "text": "Soy del futuro mi juego está en otra generación de <BLANK>.",
+                "text": "Soy del futuro, mi juego está en otra generación de <BLANK>.",
                 "type": "sustantivo singular - positivo"
             },
             "gene": [
                 "higiene",
-                "Para qué esté así de bien le tengo que agradecer a Irene."
+                "Para que esté así de bien, le tengo que agradecer a Irene."
             ],
             "x": false,
             "id": 52076
@@ -209,15 +209,15 @@
             "a": {
                 "examples": [
                     "miedo",
-                    "paz",
+                    "calma",
                     "terror"
                 ],
                 "text": "Soy de gran corazón, mis rimas están llenas de <BLANK>.",
-                "type": "sustantivo singular - an emotion"
+                "type": "sustantivo singular - una emoción"
             },
             "gene": [
                 "horrores",
-                "Tengo diccionario así que no tengo más erores."
+                "Tengo un diccionario, así que no tendré más erores."
             ],
             "x": false,
             "id": 52950
@@ -229,12 +229,12 @@
                     "un océano",
                     "una laguna"
                 ],
-                "text": "Mira como fluyo estoy hecho <BLANK>.",
-                "type": "sustantivo común - cúmulo de agua"
+                "text": "Mira cómo fluyo, estoy hecho <BLANK>.",
+                "type": "artículo + sustantivo común - cuerpo de agua"
             },
             "gene": [
                 "un dique",
-                "Allí es donde paso mis días con Kike y Enrique."
+                "Allí es donde paso mis días con Beto y Enrique."
             ],
             "x": false,
             "id": 51699
@@ -251,7 +251,7 @@
             },
             "gene": [
                 "costillas",
-                "Yo no digo mentiras ni mentiritas, digo mentirijillas."
+                "Yo no digo mentiras, ni mentiritas, digo mentirijillas."
             ],
             "x": false,
             "id": 53079
@@ -259,11 +259,11 @@
         {
             "a": {
                 "examples": [
-                    "pure de papás",
+                    "puré de papás",
                     "estofado",
-                    "bife"
+                    "carne"
                 ],
-                "text": "Mis rimas se deshacen de mi lengua como <BLANK>.",
+                "text": "Mis rimas se deshacen en mi lengua como <BLANK>.",
                 "type": "sustantivo - comida"
             },
             "gene": [
@@ -285,7 +285,7 @@
             },
             "gene": [
                 "bendecir",
-                "Hasta que me peine, ¡No me tomes fotos si no me vas a decir!"
+                "Hasta que me peine, ¡no me tomes fotos si no me vas a decir!"
             ],
             "x": false,
             "id": 52078
@@ -297,12 +297,12 @@
                     "Amazon",
                     "eBay"
                 ],
-                "text": "Cuando quiero una cita entro a <BLANK>.",
+                "text": "Cuando quiero una cita, entro a <BLANK>.",
                 "type": "sustantivo propio - sitio web"
             },
             "gene": [
                 "Overwatch",
-                "Cuando tenés a D.Va, ¿quién necesita hacer match?"
+                "Cuando tienes a D.Va, ¿quién necesita hacer match?"
             ],
             "x": false,
             "id": 53077
@@ -314,12 +314,12 @@
                     "margarita",
                     "arbusto"
                 ],
-                "text": "Puede que ahora sea semilla pero pronto seré <BLANK>.",
+                "text": "Puede que ahora sea semilla, pero pronto seré <BLANK>.",
                 "type": "sustantivo singular - tipo de planta"
             },
             "gene": [
-                "orquídea",
-                "Lo dijo mi profe de yoga en su social media."
+                "sandial",
+                "Lo dijo mi profesora de yoga en su red social."
             ],
             "x": false,
             "id": 52874
@@ -331,12 +331,12 @@
                     "montaña",
                     "glaciar"
                 ],
-                "text": "Mi flow 'ta tan fuerte que del país soy su más prominente <BLANK>.",
-                "type": "sustantivo - característica geográfica"
+                "text": "Mi ritmo está tan fuerte que del país soy su más prominente <BLANK>.",
+                "type": "sustantivo - accidente geográfico"
             },
             "gene": [
-                "meseta",
-                "No voy si el parque no permite entrar a mi mascota."
+                "volcán",
+                "No voy si el parque no permite entrar a mi tucán."
             ],
             "x": false,
             "id": 51768
@@ -348,8 +348,8 @@
                     "un Mustang",
                     "una bici"
                 ],
-                "text": "Mi juego carga rápido- más rápido que <BLANK>.",
-                "type": "sustantivo singular - vehículo"
+                "text": "Mi juego carga rápido, más rápido que <BLANK>.",
+                "type": "artículo + sustantivo singular - vehículo"
             },
             "gene": [
                 "una mula",
@@ -363,14 +363,14 @@
                 "examples": [
                     "un vampiro",
                     "un fantasma",
-                    "un alien"
+                    "un extraterrestre"
                 ],
                 "text": "Dejo las calles hechas un destrozo como <BLANK>.",
-                "type": "sustantivo singular - un monstruo"
+                "type": "artículo + sustantivo singular - un monstruo"
             },
             "gene": [
                 "el chupacabras",
-                "Mi primo una vez participó en ‘Pasapalabras.’"
+                "Mi primo una vez participó en ‘Pasapalabras’."
             ],
             "x": false,
             "id": 53078
@@ -378,16 +378,16 @@
         {
             "a": {
                 "examples": [
-                    "casa",
-                    "el depto",
-                    "el country"
+                    "la casa",
+                    "el rascacielos",
+                    "el condominio"
                 ],
                 "text": "No necesito permiso para rockear en <BLANK>.",
-                "type": "sustantivo común - tipo de edificio"
+                "type": "artículo + sustantivo común - tipo de edificio"
             },
             "gene": [
                 "una planta nuclear",
-                "¿...necesito permiso? Ups, no quería pelear."
+                "¿Sí necesito permiso? Ups, no quería pelear."
             ],
             "x": false,
             "id": 51902
@@ -399,8 +399,8 @@
                     "venas",
                     "pelos"
                 ],
-                "text": "Tengo palabras en mi corazón y un micro en mis <BLANK>.",
-                "type": "sustantivo plural - parte del cuerpo"
+                "text": "Tengo palabras en mi corazón y un micrófono en mis <BLANK>.",
+                "type": "sustantivo - parte del cuerpo"
             },
             "gene": [
                 "costillas",
@@ -413,15 +413,15 @@
             "a": {
                 "examples": [
                     "el sol",
-                    "Cate Blanchett",
-                    "el postre"
+                    "un dragón",
+                    "el desierto"
                 ],
                 "text": "Escupo fuego más ardiente que <BLANK>.",
-                "type": "sustantivo singular - algo caliente"
+                "type": "artículo + sustantivo singular - algo caliente"
             },
             "gene": [
                 "el fuego más ardiente",
-                "¡Wow, eso sí que es ardiente! ¡Se van a quemar!"
+                "¡Vaya, eso sí que es ardiente! ¡Se van a quemar!"
             ],
             "x": false,
             "id": 52879
@@ -450,12 +450,12 @@
                     "derrotar",
                     "hacer tropezar"
                 ],
-                "text": "Nunca encontre oponente que no pudiera <BLANK>.",
+                "text": "Nunca encontré oponente que yo no pudiera <BLANK>.",
                 "type": "verbo - acción violenta"
             },
             "gene": [
                 "despreciar",
-                "Nunca conozco gente por qué contacto no puedo iniciar."
+                "Nunca conozco gente porque contacto no puedo iniciar."
             ],
             "x": false,
             "id": 52949
@@ -467,12 +467,12 @@
                     "rectas",
                     "antagónicas"
                 ],
-                "text": "Mi piel está limpia mis cejas son <BLANK>.",
+                "text": "Mi piel está limpia, mis cejas son <BLANK>.",
                 "type": "adjectivo"
             },
             "gene": [
                 "inexistentes",
-                "Quizá con el mechero no debí haber sido tan insistente."
+                "Quizá con el mechero no debieron haber sido tan insistentes."
             ],
             "x": false,
             "id": 52157
@@ -480,12 +480,12 @@
         {
             "a": {
                 "examples": [
-                    "latin",
-                    "Esperanto",
+                    "latín",
+                    "esperanto",
                     "inglés"
                 ],
-                "text": "¿Sabías tú que hablo fluído <BLANK>?",
-                "type": "sustantivo - un lenguaje"
+                "text": "¿Sabías que hablo un fluido <BLANK>?",
+                "type": "sustantivo - un idioma"
             },
             "gene": [
                 "lenguaje Minion",
@@ -497,7 +497,7 @@
         {
             "a": {
                 "examples": [
-                    "craneos",
+                    "cráneos",
                     "ladrillos",
                     "oponentes"
                 ],
@@ -506,7 +506,7 @@
             },
             "gene": [
                 "melones",
-                "Cuándo termino no queda otra que cerrar los telones."
+                "Cuando termino, no queda otra que cerrar los telones."
             ],
             "x": false,
             "id": 52145
@@ -519,7 +519,7 @@
                     "gigante"
                 ],
                 "text": "Tengo ocho armas secretas como un octo-<BLANK>.",
-                "type": "sustantivo singular - cosa atemorizante"
+                "type": "sustantivo singular - algo aterrador"
             },
             "gene": [
                 "muchacho",
@@ -535,7 +535,7 @@
                     "el Huffington Post",
                     "OkCupid"
                 ],
-                "text": "Soy trending topic la noticia primera plana en <BLANK>.",
+                "text": "Soy tendencia, la noticia de primera plana en <BLANK>.",
                 "type": "sustantivo propio - un sitio web"
             },
             "gene": [
@@ -548,7 +548,7 @@
         {
             "a": {
                 "examples": [
-                    "Matemáticas",
+                    "matemáticas",
                     "el clima",
                     "Bitcoins"
                 ],
@@ -582,16 +582,16 @@
         {
             "a": {
                 "examples": [
-                    "Larry Bird",
-                    "Michael Jordan",
-                    "Mugsy Bogues"
+                    "Kobe Bryant",
+                    "Shaquille O'Neal",
+                    "LeBron James"
                 ],
                 "text": "Voy camino directo al aro, como <BLANK>.",
-                "type": "sustantivo propio - estrella de basquetbol"
+                "type": "sustantivo propio - estrella de básquetbol"
             },
             "gene": [
-                "Stephen Curry",
-                "Pero prefiero pasarla, para mostrar compañerismo perri."
+                "Michael Jordan",
+                "Pero prefiero pasarla, si no, todos me abordan."
             ],
             "x": false,
             "id": 51871
@@ -603,7 +603,7 @@
                     "Cocinero",
                     "Cantante"
                 ],
-                "text": "Soy Belleza con B mayúscula así como con C mayúscula <BLANK>.",
+                "text": "Soy Belleza con B mayúscula así como con C mayúscula de <BLANK>.",
                 "type": "palabra que comienza con C"
             },
             "gene": [
@@ -620,12 +620,12 @@
                     "las bolitas de chocolate",
                     "los cereales azucarados"
                 ],
-                "text": "Soy quien está sobre el resto, en los estantes <BLANK>.",
-                "type": "sustantivo propio - cereales"
+                "text": "Soy quien está sobre el resto, soy el mejor de <BLANK>.",
+                "type": "artículo + sustantivo propio - cereales"
             },
             "gene": [
                 "el trigo",
-                "Por qué si tus palabras rimas puedes llamarte mi amigo."
+                "Porque si tus palabras rimas, puedes llamarte mi amigo."
             ],
             "x": false,
             "id": 52020
@@ -637,12 +637,12 @@
                     "carpintería",
                     "medicina"
                 ],
-                "text": "Mira como trabajo, soy un maestro en <BLANK>.",
+                "text": "Mira cómo trabajo, soy un maestro en <BLANK>.",
                 "type": "sustantivo singular - una ocupación"
             },
             "gene": [
                 "pastelería",
-                "Mira mi panecillo ¿a que te gustaría?"
+                "Preparo un panecillo, ¿con que te gustaría?"
             ],
             "x": false,
             "id": 52018
@@ -650,16 +650,16 @@
         {
             "a": {
                 "examples": [
-                    "del jazz",
-                    "del hip hop",
-                    "de la música clásica"
+                    "el jazz",
+                    "el hip hop",
+                    "la música clásica"
                 ],
-                "text": "Es mi coronación, llámame reina <BLANK>.",
-                "type": "de/del + sustantivo - tipo de música"
+                "text": "Es mi coronación, llámame la Reina de <BLANK>.",
+                "type": "artículo + sustantivo - tipo de música"
             },
             "gene": [
-                "de los cánticos celtas",
-                "Te los bailo tal cual cheta de Nordelta."
+                "los cánticos celtas",
+                "Te los bailo con las piernas sueltas."
             ],
             "x": false,
             "id": 51898
@@ -671,12 +671,12 @@
                     "habilidoso",
                     "bueno"
                 ],
-                "text": "Mi mira está en el premio pues soy <BLANK>.",
+                "text": "Mi mira está en el premio, pues soy <BLANK>.",
                 "type": "adjetivo positivo"
             },
             "gene": [
                 "avaricioso",
-                "Con mis lentes creo que tu verías algo borroso."
+                "Con mis lentes creo que tú verías borroso."
             ],
             "x": false,
             "id": 52022
@@ -686,14 +686,14 @@
                 "examples": [
                     "seguridad",
                     "bondad",
-                    "calor"
+                    "calidez"
                 ],
-                "text": "Mis rimas son delicadas trátalas con <BLANK>.",
+                "text": "Mis rimas son delicadas, trátalas con <BLANK>.",
                 "type": "sustantivo común - un concepto positivo"
             },
             "gene": [
-                "tutelo",
-                "Me tomo un Xanax antes de cada vuelo."
+                "anhelo",
+                "Me tomo un calmante antes de cada vuelo."
             ],
             "x": false,
             "id": 52077
@@ -718,12 +718,12 @@
         {
             "a": {
                 "examples": [
-                    "bananas",
+                    "demente",
                     "loca",
-                    "desquiciada"
+                    "chiflada"
                 ],
-                "text": "Cuándo comienzo a rimar la gente se vuelve <BLANK>.",
-                "type": "adjetivo - sinónimo para 'loca'"
+                "text": "Cuando comienzo a rimar, la gente se vuelve <BLANK>.",
+                "type": "adjetivo - sinónimo de 'loca'"
             },
             "gene": [
                 "desquiciada",
@@ -744,7 +744,7 @@
             },
             "gene": [
                 "radiadores",
-                "Mi parte favorita de un reality son los actores."
+                "Mi parte favorita de una serie son los actores."
             ],
             "x": false,
             "id": 51864
@@ -756,7 +756,7 @@
                     "baguettes",
                     "tartas de pizza"
                 ],
-                "text": "Cuando la vida me da limones hago <BLANK>.",
+                "text": "Cuando la vida me da limones, yo hago <BLANK>.",
                 "type": "sustantivo plural - comida de entrada"
             },
             "gene": [
@@ -778,7 +778,7 @@
             },
             "gene": [
                 "taladro",
-                "Tal cual un perro, si me pisas yo te ladro."
+                "Tal cual un perro, si me pisas, yo te ladro."
             ],
             "x": false,
             "id": 51863
@@ -790,12 +790,12 @@
                     "granos",
                     "tierras"
                 ],
-                "text": "Tan grande es mi talento que nos'tamos quedando sin <BLANK>.",
+                "text": "Tan grande es mi talento que nos estamos quedando sin <BLANK>.",
                 "type": "sustantivo común - recurso natural"
             },
             "gene": [
                 "peces",
-                "Soy malo con nombres, ¿me recordas quién eres?"
+                "Soy malo con los nombres, ¿me recuerdas quién eres?"
             ],
             "x": false,
             "id": 51950
@@ -808,11 +808,11 @@
                     "un correteo"
                 ],
                 "text": "Tratar de atraparme es de ganzo <BLANK>.",
-                "type": "un/una + verbo - acción de animal"
+                "type": "artículo + sustantivo - acción de animal"
             },
             "gene": [
                 "una revolcada",
-                "Por favor, pasame cuando puedas una chocolatada."
+                "Por favor, pásame cuando puedas una chocolatada."
             ],
             "x": false,
             "id": 51948
@@ -824,7 +824,7 @@
                     "Elon Musk",
                     "Obama"
                 ],
-                "text": "Compro todo orgánico pues soy tan rico como <BLANK>.",
+                "text": "Compro todo orgánico, pues soy tan rico como <BLANK>.",
                 "type": "sustantivo propio - una persona rica"
             },
             "gene": [
@@ -841,12 +841,12 @@
                     "ideas",
                     "sabiduría"
                 ],
-                "text": "Kanye and Drake para que les dé <BLANK>.",
-                "type": "sustantivo - término para pedir una ayuda"
+                "text": "Kanye y Drake para que les dé <BLANK>.",
+                "type": "sustantivo - término para 'ayuda'"
             },
             "gene": [
                 "reseña",
-                "Y lo crean o no, eso algo que me enseña."
+                "Y lo crean o no, eso es algo que me enseña."
             ],
             "x": false,
             "id": 51842
@@ -875,12 +875,12 @@
                     "gases",
                     "billetes"
                 ],
-                "text": "Cuando me corto afeitándome fluyen <BLANK>.",
+                "text": "Cuando me corto afeitándome, fluyen <BLANK>.",
                 "type": "sustantivo plural"
             },
             "gene": [
                 "vientos",
-                "Ya no me afeito pues en mi cara no hay pelos..."
+                "Ya no me afeito, pues en mi cara no hay pelos."
             ],
             "x": false,
             "id": 51704
@@ -892,12 +892,12 @@
                     "naranjas",
                     "limones"
                 ],
-                "text": "Donde quiera que vaya fanáticos me tiran <BLANK>.",
+                "text": "Donde quiera que vaya, los fanáticos me tiran <BLANK>.",
                 "type": "sustantivo plural - frutas"
             },
             "gene": [
                 "melones",
-                "Y mis enemigos se los llevan, que ladrones."
+                "Y mis enemigos se los llevan, qué ladrones."
             ],
             "x": false,
             "id": 51818
@@ -905,16 +905,16 @@
         {
             "a": {
                 "examples": [
-                    "al centro comercial",
-                    "al automotor",
-                    "a la librería"
+                    "el centro comercial",
+                    "el automotor",
+                    "la librería"
                 ],
-                "text": "Hice una parada en mi camino <BLANK>.",
-                "type": "a/al + sustantivo - lugar de negocios"
+                "text": "Hice una parada en mi camino a <BLANK>.",
+                "type": "artículo + sustantivo - lugar de negocios"
             },
             "gene": [
-                "a la clínica",
-                "Para decirte que no hay chance de que ganes-ica."
+                "la clínica",
+                "Para decirte que no hay probabilidades de que ganes, por sínica."
             ],
             "x": false,
             "id": 52690
@@ -922,12 +922,12 @@
         {
             "a": {
                 "examples": [
-                    "reir",
+                    "reír",
                     "abofetear",
-                    "mashear"
+                    "macerar"
                 ],
-                "text": "Gane un Premio Nobel por <BLANK>.",
-                "type": "verbo en infinitivo"
+                "text": "Gané un Premio Nobel por <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
                 "comprar",
@@ -943,8 +943,8 @@
                     "pastelillos",
                     "torres"
                 ],
-                "text": "Con el cuerpo suelto mi cerebro lleno de <BLANK>.",
-                "type": "sustantivo plural - cosas que se encuentran en Shanghai"
+                "text": "Con el cuerpo suelto, mi cerebro está lleno de <BLANK>.",
+                "type": "sustantivo plural - cosas que encuentras en China"
             },
             "gene": [
                 "polución",
@@ -958,14 +958,14 @@
                 "examples": [
                     "grita",
                     "ríe",
-                    "da saltitos"
+                    "salta"
                 ],
-                "text": "Tengo flow cuando el sol amanece y cuando <BLANK>.",
-                "type": "verbo singular en tercera persona"
+                "text": "Tengo ritmo cuando el sol amanece y cuando <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
                 "palpita",
-                "Como arqueologo confirmo, desde la prehistoria no hay mejor cita."
+                "Como arqueólogo confirmo que desde la prehistoria no hay mejor cita."
             ],
             "x": false,
             "id": 51813
@@ -973,7 +973,7 @@
         {
             "a": {
                 "examples": [
-                    "Best Buy",
+                    "Dunkin' Donuts",
                     "Subway",
                     "Starbucks"
                 ],
@@ -982,7 +982,7 @@
             },
             "gene": [
                 "Game Stop",
-                "Y así y todo PlayStation 5 no tenían en stock"
+                "Y así y todo, de PlayStation 5 no tenían stock"
             ],
             "x": false,
             "id": 51807
@@ -990,16 +990,16 @@
         {
             "a": {
                 "examples": [
-                    "El Joven Sheldon",
+                    "El joven Sheldon",
                     "Stan Lee",
                     "Mark Ruffalo"
                 ],
-                "text": "Soy tan fuerte que me llaman <BLANK>.",
-                "type": "sustantivo propio - nerd famoso"
+                "text": "Soy tan fuerte que me dicen <BLANK>.",
+                "type": "sustantivo propio - ñoño famoso"
             },
             "gene": [
                 "Steve Urkel",
-                "Seré yo el protagonista ¡pronto estaré en un carrusel!"
+                "Seré yo el protagonista, ¡pronto estaré en un carrusel!"
             ],
             "x": false,
             "id": 51797
@@ -1011,12 +1011,12 @@
                     "hacer",
                     "decir"
                 ],
-                "text": "Si 'toy en el micrófono no se sabe lo que puede <BLANK>.",
-                "type": "verbo en infinitivo"
+                "text": "Cuando estoy en el micrófono no se sabe lo que puede <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
                 "ocurrir",
-                "Pero si puedo decirles esto: ¡Se van a reir!"
+                "Pero sí puedo decirles esto: ¡Se van a reír!"
             ],
             "x": false,
             "id": 52689
@@ -1025,15 +1025,15 @@
             "a": {
                 "examples": [
                     "rosa",
-                    "pastel",
-                    "el viento"
+                    "torta",
+                    "brisa"
                 ],
-                "text": "Nunca tuve que bañarme siempre huelo como <BLANK>.",
+                "text": "Nunca tuve que bañarme, huelo a <BLANK>.",
                 "type": "sustantivo singular - algo que huele bien"
             },
             "gene": [
                 "cachorrito",
-                "Miren soy un niño denme chocolate, un poquito."
+                "Miren, soy un niño, dénme chocolate, un poquito."
             ],
             "x": false,
             "id": 52374
@@ -1045,12 +1045,12 @@
                     "destrucción",
                     "paliza"
                 ],
-                "text": "La palabra del día damas y caballeros es <BLANK>.",
+                "text": "Damas y caballeros, la palabra del día es <BLANK>.",
                 "type": "cualquier palabra intimidante"
             },
             "gene": [
                 "rodar",
-                "Como hace mi lengua cuando comienzo a rapear."
+                "Cómo hace mi lengua cuando comienzo a rapear."
             ],
             "x": false,
             "id": 52373
@@ -1062,8 +1062,8 @@
                     "Target",
                     "Arby’s"
                 ],
-                "text": "Soy tan guaperas que me auspicia <BLANK>.",
-                "type": "sustantivo propio - una marca/compañía"
+                "text": "Soy tan guapo que me auspicia <BLANK>.",
+                "type": "sustantivo propio - una marca/empresa"
             },
             "gene": [
                 "Plusbelle",
@@ -1079,7 +1079,7 @@
                     "Zeus",
                     "Estrella de la Muerte"
                 ],
-                "text": "Hay un planeta en mi honor su nombre es <BLANK>.",
+                "text": "Hay un planeta en mi honor, se llama <BLANK>.",
                 "type": "un nombre impresionante"
             },
             "gene": [
@@ -1092,16 +1092,16 @@
         {
             "a": {
                 "examples": [
-                    "freirse",
+                    "freírse",
                     "romperse",
                     "hervir"
                 ],
-                "text": "Mi cerebro es tan grande que mi cabeza esta por <BLANK>.",
+                "text": "Mi cerebro es tan grande que mi cabeza está a punto de <BLANK>.",
                 "type": "verbo - lo que haces con un huevo"
             },
             "gene": [
                 "incubar",
-                "Cuando salga un pollito voy a tener que ordenar."
+                "Cuando salga un pollito, me voy a tener que desencuevar."
             ],
             "x": true,
             "id": 51817
@@ -1109,16 +1109,16 @@
         {
             "a": {
                 "examples": [
-                    "Desmayar",
-                    "Derretir",
-                    "Desvanecer"
+                    "desmayarte",
+                    "derretirte",
+                    "desvanecerte"
                 ],
-                "text": "El nombre del juego es Rapear Hasta <BLANK>.",
-                "type": "verbo en infinitivo"
+                "text": "El nombre del juego es Rapea hasta <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
-                "Caer",
-                "¡BUM! Kit de primeros auxilios debería traer."
+                "caerte",
+                "¡BUM! Un botiquín deberían traerte."
             ],
             "x": false,
             "id": 51840
@@ -1130,8 +1130,8 @@
                     "luchar",
                     "quejar"
                 ],
-                "text": "Cuando sea hora de comenzar no voy a <BLANK>.",
-                "type": "verbo en infinitivo"
+                "text": "Cuando sea hora de comenzar, no voy a <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
                 "luchar",
@@ -1164,12 +1164,12 @@
                     "compañeros",
                     "camaradas"
                 ],
-                "text": "Santa tiene elfos, yo tengo <BLANK>.",
+                "text": "Papá Noel tiene elfos, yo tengo <BLANK>.",
                 "type": "sustantivo colectivo"
             },
             "gene": [
                 "herramientas",
-                "Todo el tiempo sin hacer nada, tú si que alientas."
+                "Todo el tiempo sin hacer nada, tú sí que alientas."
             ],
             "x": false,
             "id": 51844
@@ -1177,16 +1177,16 @@
         {
             "a": {
                 "examples": [
-                    "Cool",
+                    "Genial",
                     "Fascinante",
                     "Inteligente"
                 ],
-                "text": "Bienvenido a clase me dicen Profe <BLANK>.",
+                "text": "Bienvenido a la clase, soy el Profesor <BLANK>.",
                 "type": "adjetivo positivo"
             },
             "gene": [
                 "Melódico",
-                "¿Quién me dice que sería algo ‘Metódico’?"
+                "¿Quién me dice qué sería algo ‘Metódico’?"
             ],
             "x": false,
             "id": 52244
@@ -1202,7 +1202,7 @@
                 "type": "verbo - acción amenazante"
             },
             "gene": [
-                "sonreir",
+                "sonreír",
                 "Lavarse los dientes trae alegría al combatir."
             ],
             "x": false,
@@ -1215,7 +1215,7 @@
                     "dulzura",
                     "cariño"
                 ],
-                "text": "Mi mami dice que antes que nadie soy su <BLANK>.",
+                "text": "Mi mamá dice que antes que nadie soy su <BLANK>.",
                 "type": "expresión de cariño"
             },
             "gene": [
@@ -1237,7 +1237,7 @@
             },
             "gene": [
                 "poesía",
-                "Si te gusta deja monedas en mi alcancía."
+                "Si te gusta, deja monedas en mi alcancía."
             ],
             "x": false,
             "id": 51847
@@ -1245,16 +1245,16 @@
         {
             "a": {
                 "examples": [
-                    "tambor",
-                    "saxofón",
-                    "sintetizador"
+                    "un tambor",
+                    "un saxofón",
+                    "un sintetizador"
                 ],
-                "text": "Mi boca es trompeta mi cerebro <BLANK>.",
-                "type": "sustantivo - instrumento musical"
+                "text": "Mi boca es como una trompeta, mi cerebro es como <BLANK>.",
+                "type": "artículo + sustantivo - instrumento musical"
             },
             "gene": [
-                "flauta",
-                "Los aliens me hacen querer ser astronauta."
+                "una flauta",
+                "Los extraterrestres me hacen querer ser astronauta."
             ],
             "x": false,
             "id": 51857
@@ -1266,12 +1266,12 @@
                     "platino",
                     "plata"
                 ],
-                "text": "Mira mi parrilla adornada en <BLANK>.",
-                "type": "sustantivo - sustancia de valor"
+                "text": "Mira mi parrilla adornada con <BLANK>.",
+                "type": "sustantivo - sustancia valiosa"
             },
             "gene": [
                 "perlas",
-                "Cuando la uso no puedo impedir lamerlas."
+                "Cuando la uso no puedo evitar lamerlas."
             ],
             "x": false,
             "id": 51858
@@ -1283,7 +1283,7 @@
                     "moverse",
                     "tropezar"
                 ],
-                "text": "Cuando se abalancen mis rimas tus pies van a <BLANK>.",
+                "text": "Cuando se te abalancen mis rimas, tus pies van a <BLANK>.",
                 "type": "verbo"
             },
             "gene": [
@@ -1296,16 +1296,16 @@
         {
             "a": {
                 "examples": [
-                    "balde",
-                    "bol",
-                    "caja"
+                    "un balde",
+                    "un tazón",
+                    "una caja"
                 ],
-                "text": "Estoy nadando en rimas, mejor busco un <BLANK>.",
-                "type": "sustantivo común - un contenedor"
+                "text": "Estoy nadando en rimas, mejor busco <BLANK>.",
+                "type": "artículo + sustantivo común - un contenedor"
             },
             "gene": [
-                "cuenco",
-                "Así bailo arriba algo de flamenco."
+                "un cuenco",
+                "Así practico todos los días bailar flamenco."
             ],
             "x": false,
             "id": 51701
@@ -1322,7 +1322,7 @@
             },
             "gene": [
                 "pistolas de balines",
-                "Mi mamí no me deja montar caballos. ¡Jolines!"
+                "Mi mamá española no me deja montar caballos. ¡Jolines!"
             ],
             "x": false,
             "id": 51769
@@ -1339,7 +1339,7 @@
             },
             "gene": [
                 "el Monte del Destino",
-                "Si no viste el Señor de los Anillos pues allí te encamino."
+                "Si no viste el Señor de los Anillos, pues allí te encamino."
             ],
             "x": false,
             "id": 51714
@@ -1352,11 +1352,11 @@
                     "correr"
                 ],
                 "text": "Cuando comienzo a rimar todos se ponen a <BLANK>.",
-                "type": "verbo en infinitivo"
+                "type": "verbo"
             },
             "gene": [
                 "pedalear",
-                "Me duele ver como se escapan a toda velocidad."
+                "Me duele ver cómo se escapan a toda velocidad."
             ],
             "x": false,
             "id": 51713
@@ -1365,15 +1365,15 @@
             "a": {
                 "examples": [
                     "perro",
-                    "pinguino",
-                    "abeja"
+                    "pingüino",
+                    "loro"
                 ],
-                "text": "Destruyo barrios como si fuera gigante, y <BLANK>.",
+                "text": "Destruyo barrios como si fuera un enorme <BLANK>.",
                 "type": "sustantivo - un animal"
             },
             "gene": [
-                "hamster",
-                "Si querés lo declaramos empate, master."
+                "hámster",
+                "Si quieres, lo declaramos como empate, master."
             ],
             "x": false,
             "id": 50793
@@ -1386,7 +1386,7 @@
                     "fijar"
                 ],
                 "text": "Soy más grande que nadie, como pueden <BLANK>.",
-                "type": "verbo en infinitivo"
+                "type": "verbo"
             },
             "gene": [
                 "gemir",
@@ -1403,7 +1403,7 @@
                     "mejor"
                 ],
                 "text": "Mi juego con las rimas es sin duda el <BLANK>.",
-                "type": "adjetivo con más/mejor"
+                "type": "adjetivo superlativo"
             },
             "gene": [
                 "más vistoso",
@@ -1420,7 +1420,7 @@
                     "silbar"
                 ],
                 "text": "Busca cobertura, estoy a punto de <BLANK>.",
-                "type": "verbo en infinitivo"
+                "type": "verbo"
             },
             "gene": [
                 "tropezar",
@@ -1432,11 +1432,11 @@
         {
             "a": {
                 "examples": [
-                    "wow",
+                    "vaya",
                     "hurra",
                     "dios"
                 ],
-                "text": "Haganme el aguante, digan <BLANK>.",
+                "text": "Apóyenme todos, digan <BLANK>.",
                 "type": "una exclamación"
             },
             "gene": [
@@ -1451,9 +1451,9 @@
                 "examples": [
                     "Roma",
                     "El Sur",
-                    "suburbios"
+                    "los suburbios"
                 ],
-                "text": "Soy el mejor M.C. que encontrarás en <BLANK>.",
+                "text": "Soy el mejor MC que encontrarás en <BLANK>.",
                 "type": "sustantivo - un lugar"
             },
             "gene": [
@@ -1484,8 +1484,8 @@
             "a": {
                 "examples": [
                     "Chicago",
-                    "Kmart",
-                    "El Ártico"
+                    "IKEA",
+                    "el Ártico"
                 ],
                 "text": "Me llaman La Realeza, de <BLANK>.",
                 "type": "sustantivo propio - un lugar"
@@ -1504,7 +1504,7 @@
                     "un elefante",
                     "el Taj Mahal"
                 ],
-                "text": "'Toy tan forrado en rimas que podría comprar <BLANK>.",
+                "text": "Soy tan rico en rimas, que podría comprar <BLANK>.",
                 "type": "artículo + sustantivo - algo grande"
             },
             "gene": [
@@ -1518,7 +1518,7 @@
             "a": {
                 "examples": [
                     "lentamente",
-                    "eventualmente",
+                    "finalmente",
                     "alborotadamente"
                 ],
                 "text": "Estoy aquí para decir, <BLANK>.",
@@ -1526,7 +1526,7 @@
             },
             "gene": [
                 "educadamente",
-                "¿A alguno le pinta mirar Megamente?"
+                "¿A alguien le interesa ver Megamente?"
             ],
             "x": false,
             "id": 50923
@@ -1535,15 +1535,15 @@
             "a": {
                 "examples": [
                     "China",
-                    "Philly",
+                    "Filadelfia",
                     "Guam"
                 ],
-                "text": "Si parezco eminencia aquí deberías verme en <BLANK>.",
+                "text": "Si parezco eminencia, aquí deberías verme en <BLANK>.",
                 "type": "sustantivo propio - ciudad, provincia o país"
             },
             "gene": [
                 "Islandia",
-                "Bjork es de ahí, lo que lo hace mejor que Alemania."
+                "Björk es de ahí, lo que lo hace mejor que Escandinavia."
             ],
             "x": false,
             "id": 51541
@@ -1555,12 +1555,12 @@
                     "Gandhi",
                     "Tom Hanks"
                 ],
-                "text": "Soy una leyenda, comparable a <BLANK>.",
+                "text": "Soy una leyenda, comparable con <BLANK>.",
                 "type": "sustantivo propio - persona famosa"
             },
             "gene": [
                 "Bono",
-                "Aunque nunca vi un concierto suyo, nono."
+                "Aunque nunca vi un concierto suyo, no, no."
             ],
             "x": false,
             "id": 51567
@@ -1569,15 +1569,15 @@
             "a": {
                 "examples": [
                     "George Washington",
-                    "Attila el Huno",
-                    "Abigail Adams"
+                    "Atila el Huno",
+                    "Napoleón"
                 ],
                 "text": "Dicto nuevas reglas como haría un contemporáneo de <BLANK>.",
                 "type": "sustantivo propio - figura histórica"
             },
             "gene": [
-                "Aquíles",
-                "Entre batallas de rap llego a redactar miles."
+                "Aquiles",
+                "Entre batallas de rap, llego a redactar miles."
             ],
             "x": false,
             "id": 51708
@@ -1589,12 +1589,12 @@
                     "constructor",
                     "banquero"
                 ],
-                "text": "Alcanzo nuevas alturas tal cual un maestro <BLANK>.",
-                "type": "sustantivo común - tipo de artesano/constructor"
+                "text": "Alcanzo nuevas alturas, tal cual un maestro <BLANK>.",
+                "type": "sustantivo común - tipo de artesano"
             },
             "gene": [
                 "arquitecto",
-                "Con la pelota LeBron James es bueno, detecto."
+                "Con la pelota, LeBron James es bueno, lo detecto."
             ],
             "x": false,
             "id": 51709
@@ -1606,7 +1606,7 @@
                     "hielo",
                     "martillos"
                 ],
-                "text": "Soy verdaderamente homicida, de corazón de <BLANK>.",
+                "text": "Soy un asesino, con un corazón de <BLANK>.",
                 "type": "sustantivo"
             },
             "gene": [
@@ -1623,7 +1623,7 @@
                     "disfrutando",
                     "silbando"
                 ],
-                "text": "Cuando escucho el beat, salgo <BLANK>.",
+                "text": "Cuando escucho el compás, salgo <BLANK>.",
                 "type": "verbo gerundio"
             },
             "gene": [
@@ -1636,16 +1636,16 @@
         {
             "a": {
                 "examples": [
-                    "remeras",
+                    "camisetas",
                     "gorros",
-                    "zoquetes"
+                    "calcetines"
                 ],
-                "text": "Siempre visto a la moda como la novedad en <BLANK>.",
+                "text": "Siempre visto a la moda, como la novedad en <BLANK>.",
                 "type": "sustantivo plural - artículo de vestimenta"
             },
             "gene": [
                 "bandanas",
-                "Confirmo que la próxima moda son las bananas."
+                "Confirmo que la próxima moda son las katanas."
             ],
             "x": false,
             "id": 51696
@@ -1657,12 +1657,12 @@
                     "alrededor",
                     "detrás"
                 ],
-                "text": "Cuando tengo el micro más te vale mirar <BLANK>.",
+                "text": "Cuando tengo el micrófono, más te vale mirar <BLANK>.",
                 "type": "preposición"
             },
             "gene": [
                 "adentro",
-                "¡Anda adelante que te la tiro al centro!"
+                "¡Anda, adelante, que te la tiro al centro!"
             ],
             "x": false,
             "id": 50931
@@ -1675,7 +1675,7 @@
                     "reloj"
                 ],
                 "text": "Rompo paredes que bloquean mi <BLANK>.",
-                "type": "sustantivo común singular"
+                "type": "sustantivo común"
             },
             "gene": [
                 "paquete de galletas",
@@ -1687,15 +1687,15 @@
         {
             "a": {
                 "examples": [
-                    "’Glee’",
-                    "’Cheers’",
-                    "'Dateline’"
+                    "'Glee'",
+                    "'DARK'",
+                    "'The Good Place'"
                 ],
-                "text": "Mis lineas son profundas como un episodio de <BLANK>.",
+                "text": "Mis líneas son profundas como un episodio de <BLANK>.",
                 "type": "una serie de TV"
             },
             "gene": [
-                "’Dimensión desconocida’",
+                "'Dimensión desconocida'",
                 "La costura de mi almohada está descocida."
             ],
             "x": false,
@@ -1713,7 +1713,7 @@
             },
             "gene": [
                 "la Tierra Media",
-                "‘El Hobbit’ en estrellas le doy tres y media."
+                "Con estrellas, a ‘El Hobbit’ la califico con tres y media."
             ],
             "x": false,
             "id": 51634
@@ -1730,7 +1730,7 @@
             },
             "gene": [
                 "la venta de diamantes",
-                "Quizá ahora pueda declararme a alguno de mis amantes."
+                "Quizás ahora pueda declararme a alguno de mis amantes."
             ],
             "x": false,
             "id": 51630
@@ -1760,11 +1760,11 @@
                     "Inspirado"
                 ],
                 "text": "En la secundaria me votaron como Más <BLANK>",
-                "type": "adjetivo - característica personal positiva"
+                "type": "adjetivo - rasgo positivo"
             },
             "gene": [
                 "Prometedor",
-                "Pero aun no se la diferencia entre cocina y comedor."
+                "Pero aún no sé la diferencia entre cocina y comedor."
             ],
             "x": false,
             "id": 51578
@@ -1773,15 +1773,15 @@
             "a": {
                 "examples": [
                     "podridas",
-                    "tarde",
+                    "atrasadas",
                     "perdidas"
                 ],
-                "text": "Mis rimas son express, por lo que nunca están <BLANK>.",
+                "text": "Mis rimas son expresas, por lo que nunca están <BLANK>.",
                 "type": "adjetivo negativo"
             },
             "gene": [
                 "borrosas",
-                "De última con mayonesa igual quedan sabrosas."
+                "Por último con mayonesa, igual quedan sabrosas."
             ],
             "x": false,
             "id": 51643
@@ -1789,16 +1789,16 @@
         {
             "a": {
                 "examples": [
-                    "Martes",
-                    "Lunes",
-                    "Miércoles"
+                    "martes",
+                    "lunes",
+                    "miércoles"
                 ],
-                "text": "Mi flow flipante te hará volver al último <BLANK>.",
+                "text": "Mi ritmo enfermo te hará volver al último <BLANK>.",
                 "type": "un día de la semana"
             },
             "gene": [
                 "Día de los Inocentes",
-                "¿Qué tienes muchos pretendientes? Pues cómo mientes."
+                "¿Que tienes muchos pretendientes? Pues cómo mientes."
             ],
             "x": false,
             "id": 51520
@@ -1807,15 +1807,15 @@
             "a": {
                 "examples": [
                     "oro",
-                    "ambrosia",
+                    "plata",
                     "polvo de diamante"
                 ],
-                "text": "Tengo calzones teñidos en <BLANK>.",
+                "text": "Tengo ropa interior teñida en <BLANK>.",
                 "type": "sustantivo - sustancia cara"
             },
             "gene": [
                 "Coca-Cola",
-                "Aunque mi figura dejan como una bola."
+                "Aunque mi figura la deja como una bola."
             ],
             "x": true,
             "id": 51614
@@ -1825,9 +1825,9 @@
                 "examples": [
                     "Oprah",
                     "Elon Musk",
-                    "Gwenyth Paltrow"
+                    "Bill Gates"
                 ],
-                "text": "Tras lanzar mi disco tengo más capital que <BLANK>.",
+                "text": "Tras lanzar mi disco, tengo más capital que <BLANK>.",
                 "type": "nombre de una persona adinerada"
             },
             "gene": [
@@ -1861,12 +1861,12 @@
                     "corriendo",
                     "haciendo el cangrejo"
                 ],
-                "text": "No solo hago lo que quiera, al conversar me la paso <BLANK>.",
+                "text": "No solo hago lo que quiero, al conversar, me la paso <BLANK>.",
                 "type": "verbo gerundio"
             },
             "gene": [
                 "caminando",
-                "Aunque no tenga patas aún puedo seguir charlando."
+                "Aunque no tenga patas, aún puedo seguir charlando."
             ],
             "x": false,
             "id": 51631
@@ -1883,7 +1883,7 @@
             },
             "gene": [
                 "picazón en el trasero",
-                "Solo hazlo de una vez. Se que es muy placentero."
+                "Solo hazlo de una vez. Sé que es muy placentero."
             ],
             "x": true,
             "id": 51601
@@ -1900,7 +1900,7 @@
             },
             "gene": [
                 "Zatanna",
-                "Y si con eso no alcanza ¡pues usaré mi katana!"
+                "Y si con eso no alcanza, ¡pues usaré mi katana!"
             ],
             "x": false,
             "id": 50932
@@ -1913,11 +1913,11 @@
                     "un banco"
                 ],
                 "text": "Esta batalla será un robo, como saquear <BLANK>.",
-                "type": "un/una + sustantivo común - un tipo de tienda"
+                "type": "artículo + sustantivo común - un tipo de tienda"
             },
             "gene": [
                 "un zoológico",
-                "Un erizo rodante conmigo suena mágico."
+                "Un erizo rodante suena bastante mágico."
             ],
             "x": false,
             "id": 51503
@@ -1929,8 +1929,8 @@
                     "Pistola",
                     "Victoria"
                 ],
-                "text": "Los Vengadores me llaman, Capitán <BLANK>.",
-                "type": "un sobrenombre piola"
+                "text": "Los Vengadores me llaman Capitán <BLANK>.",
+                "type": "un apodo genial"
             },
             "gene": [
                 "Comedia",
@@ -1946,12 +1946,12 @@
                     "Newsweek",
                     "Gente"
                 ],
-                "text": "Verás mi cara en la tapa de <BLANK>.",
+                "text": "Verás mi cara en la portada de <BLANK>.",
                 "type": "un nombre de revista"
             },
             "gene": [
-                "Sopas de Letras",
-                "Muchas letras mas las palabras no encuentras."
+                "Sopas de letras",
+                "Muchas letras, pero las palabras no encuentras."
             ],
             "x": false,
             "id": 51539
@@ -1963,8 +1963,8 @@
                     "más loca",
                     "más rara"
                 ],
-                "text": "Mirenme viviendo la vida <BLANK>.",
-                "type": "más/menos + adjetivo en femenino"
+                "text": "Mírenme viviendo la vida <BLANK>.",
+                "type": "adjetivo comparativo"
             },
             "gene": [
                 "más friki",
@@ -1980,7 +1980,7 @@
                     "rap",
                     "rimas"
                 ],
-                "text": "Soy el mandamás, cuando se habla de <BLANK>.",
+                "text": "Soy el mandamás cuando se habla de <BLANK>.",
                 "type": "sustantivo - relacionado al rap"
             },
             "gene": [
@@ -1997,12 +1997,12 @@
                     "cultivos",
                     "hierbas"
                 ],
-                "text": "Siembro semillas de rítmo que se convierten en <BLANK>",
+                "text": "Siembro semillas de ritmo que se convierten en <BLANK>",
                 "type": "sustantivo plural - plantas"
             },
             "gene": [
-                "Lavandas",
-                "Se ven tan bonitas desde afuera en las ventanas."
+                "lavandas",
+                "Se ven tan bonitas cuando las ves por las ventanas."
             ],
             "x": false,
             "id": 51559
@@ -2053,7 +2053,7 @@
             },
             "gene": [
                 "Superman",
-                "En la era ’Lois & Clark’, era un gran fan."
+                "En la era ’Lois y Clark’ yo era un gran fan."
             ],
             "x": false,
             "id": 51665
@@ -2062,15 +2062,15 @@
             "a": {
                 "examples": [
                     "cazar",
-                    "romperla",
+                    "matar",
                     "correr"
                 ],
-                "text": "No ando jugando juegos vine a <BLANK>.",
+                "text": "Yo no vine a jugar, vine a <BLANK>.",
                 "type": "verbo"
             },
             "gene": [
                 "estudiar",
-                "Que el examen se viene pronto."
+                "Porque el examen es mañana."
             ],
             "x": false,
             "id": 51231
@@ -2083,11 +2083,11 @@
                     "cartera"
                 ],
                 "text": "Mi futuro brilla, ardiente como <BLANK>.",
-                "type": "sustantivo singular - lo último que compró"
+                "type": "sustantivo singular - lo último que compraste"
             },
             "gene": [
                 "póster de ALF",
-                "El mejor rol de John Goodman fue en ‘Su majestad Ralph’."
+                "El mejor personaje de 'Ralph, el Demoledor' es Ralph."
             ],
             "x": false,
             "id": 51389
@@ -2116,12 +2116,12 @@
                     "eléctrico",
                     "automático"
                 ],
-                "text": "Algunos me dicen deslumbrante otros que soy <BLANK>.",
+                "text": "Algunos me dicen deslumbrante, otros que soy <BLANK>.",
                 "type": "adjetivo positivo"
             },
             "gene": [
                 "accesible",
-                "My tío Scott solo puedo decirle prescindible."
+                "Mi tío Hugo no es para nada prescindible."
             ],
             "x": false,
             "id": 51374
@@ -2134,11 +2134,11 @@
                     "Mocosos"
                 ],
                 "text": "Mis seguidores se llaman <BLANK>.",
-                "type": "Los/Las + sobrenombre plural"
+                "type": "artículo + apodo plural"
             },
             "gene": [
-                "Beatles",
-                "Medio raro por qué hay una banda llamada así."
+                "los Beatles",
+                "Medio raro, porque ya hay una banda llamada así."
             ],
             "x": false,
             "id": 51306
@@ -2150,8 +2150,8 @@
                     "el anillo",
                     "la capa"
                 ],
-                "text": "Estoy para gobernar así que dame <BLANK>.",
-                "type": "el/la + sustantivo - accesorio de vestimenta"
+                "text": "Estoy aquí para gobernar, así que dame <BLANK>.",
+                "type": "artículo + sustantivo - accesorio de vestimenta"
             },
             "gene": [
                 "el colgante",
@@ -2163,16 +2163,16 @@
         {
             "a": {
                 "examples": [
-                    "de la tarta",
-                    "del pudín",
-                    "de la dona"
+                    "la tarta",
+                    "el pudín",
+                    "la dona"
                 ],
                 "text": "Ando sobre todos, en la cima de <BLANK>.",
-                "type": "de/de la/del + sustantivo singular - un postre"
+                "type": "artículo + sustantivo singular - un postre"
             },
             "gene": [
-                "gelatina",
-                "Desde arriba te gritaré ¡hola, divina!"
+                "la gelatina",
+                "Desde arriba te gritaré '¡Hola, divina!'"
             ],
             "x": false,
             "id": 51344
@@ -2182,14 +2182,14 @@
                 "examples": [
                     "el aire acondicionado",
                     "la radio",
-                    "el control de crucero"
+                    "el regulador de velocidad"
                 ],
-                "text": "Con permiso que voy a prender <BLANK>.",
-                "type": "artículo + sustantivo - característica de un auto"
+                "text": "Con permiso, que voy a prender <BLANK>.",
+                "type": "artículo + sustantivo - función de un auto"
             },
             "gene": [
-                "el limpiavidrios",
-                "¿Mi trabajo soñado? No lo sé, ¿quizá músico?"
+                "el motor",
+                "¿Mi trabajo soñado? No lo sé, ¿quizá doctor?"
             ],
             "x": false,
             "id": 50937
@@ -2201,12 +2201,12 @@
                     "Beyoncé",
                     "Tom Hanks"
                 ],
-                "text": "¿No has oído? Soy de esta generación quién sucede a <BLANK>.",
+                "text": "¿No te enteraste? Seré el sucesor de <BLANK>.",
                 "type": "sustantivo propio - un artista"
             },
             "gene": [
-                "LIberace",
-                "¿No lo conoces? Buscalo en YouTube gilipichi."
+                "Liberace",
+                "¿No lo conoces? Búscalo en YouTube y mira."
             ],
             "x": false,
             "id": 51349
@@ -2215,15 +2215,15 @@
             "a": {
                 "examples": [
                     "Harry Potter",
-                    "Peter Pan",
+                    "Maléfica",
                     "David Copperfield"
                 ],
                 "text": "Mis palabras son mágicas, puedes llamarme <BLANK>.",
                 "type": "sustantivo propio - persona mágica"
             },
             "gene": [
-                "Stevie Nicks",
-                "Mi café lo preparo con granos de mi propio mix."
+                "Peter Pan",
+                "Mi café lo preparo para comerlo con pan."
             ],
             "x": false,
             "id": 51342
@@ -2231,16 +2231,16 @@
         {
             "a": {
                 "examples": [
-                    "dar saltitos",
-                    "eructar",
-                    "babear"
+                    "de saltitos",
+                    "eructe",
+                    "babee"
                 ],
-                "text": "Mis seguidores, ruegan que vaya a <BLANK>.",
+                "text": "Mis seguidores, ruegan que <BLANK>.",
                 "type": "verbo - acción infantil"
             },
             "gene": [
-                "deletrear",
-                "Pero despues de la L ya no se como continuar."
+                "deletree",
+                "Pero después de la L, ya no sé cómo se lee."
             ],
             "x": false,
             "id": 51308
@@ -2265,16 +2265,16 @@
         {
             "a": {
                 "examples": [
-                    "son mis nudillos",
-                    "son mis riñones",
-                    "es mi garganta"
+                    "nudillo",
+                    "riñón",
+                    "garganta"
                 ],
-                "text": "Soy la única alternativa, de oro <BLANK>.",
-                "type": "es/son + mi/mis + sustantivo - una parte del cuerpo"
+                "text": "Soy la única alternativa, de oro es mi <BLANK>.",
+                "type": "sustantivo - una parte del cuerpo"
             },
             "gene": [
-                "son mis labios",
-                "Cuando tomo la leche no le siento el gusto."
+                "busto",
+                "Cuando tomo leche, no le siento el gusto."
             ],
             "x": false,
             "id": 50939
@@ -2300,7 +2300,7 @@
             "a": {
                 "examples": [
                     "Superman",
-                    "Santa",
+                    "Papá Noel",
                     "Godzilla"
                 ],
                 "text": "Mis palabras son regalos que entrego como <BLANK>.",
@@ -2308,7 +2308,7 @@
             },
             "gene": [
                 "BoJack Horseman",
-                "Si un amigo me necesita, le digo ¡‘claro, man’!"
+                "Si un amigo me necesita, le digo '¡Obvio, man!'"
             ],
             "x": false,
             "id": 51326
@@ -2317,14 +2317,14 @@
             "a": {
                 "examples": [
                     "un cerebrito",
-                    "un ser astuto",
+                    "un astuto",
                     "una mente maestra"
                 ],
                 "text": "Tengo grandes planes, soy <BLANK>.",
-                "type": "artículo + sustantivo singular - término para 'una persona inteligente'"
+                "type": "artículo + sustantivo singular - término para 'persona inteligente'"
             },
             "gene": [
-                "un afilado",
+                "un espabilado",
                 "¿Esa es tu novia? ¿Puedo sentarme a su lado?"
             ],
             "x": false,
@@ -2337,12 +2337,12 @@
                     "bolas de boliche",
                     "elefantes"
                 ],
-                "text": "Cubran sus cabezas que mi compás cae como <BLANK>.",
+                "text": "Cubran sus cabezas, que mi compás cae como <BLANK>.",
                 "type": "sustantivo plural - cosas pesadas"
             },
             "gene": [
                 "aviones",
-                "Prefiero viajar en los tradicionales autobuses."
+                "Cuando viajo, prefiero evitar los camiones."
             ],
             "x": false,
             "id": 51341
@@ -2375,8 +2375,8 @@
                 "type": "sustantivo singular - algo peligroso"
             },
             "gene": [
-                "jarro de mayonesa",
-                "Que- rayos, lo deje bajo el sol en la mesa."
+                "frasco de mayonesa",
+                "¡Qué rayos! Lo deje bajo el sol en la mesa."
             ],
             "x": false,
             "id": 50942
@@ -2384,11 +2384,11 @@
         {
             "a": {
                 "examples": [
-                    "navaja",
-                    "jarro",
+                    "cuchillo",
+                    "frasco",
                     "licuadora"
                 ],
-                "text": "Ando preparando el ritmo con mi gran y reliable <BLANK>.",
+                "text": "Ando preparando el ritmo con mi gran y confiable <BLANK>.",
                 "type": "sustantivo singular - utensillo de cocina"
             },
             "gene": [
@@ -2405,12 +2405,12 @@
                     "Gandalf",
                     "Campanita"
                 ],
-                "text": "Soy prácticamente magia, comparable a <BLANK>.",
+                "text": "Soy prácticamente mágico, comparable con <BLANK>.",
                 "type": "sustantivo - un ser mágico"
             },
             "gene": [
                 "Merlín",
-                "Pero antes que hacer magia prefiero tocar el violín."
+                "Pero antes que hacer magia, prefiero tocar el violín."
             ],
             "x": false,
             "id": 51302
@@ -2422,7 +2422,7 @@
                     "afeitarme",
                     "limpiar"
                 ],
-                "text": "Cuando termine con esto voy a <BLANK>.",
+                "text": "Cuando termine con esto, voy a <BLANK>.",
                 "type": "verbo - una actividad aburrida"
             },
             "gene": [
@@ -2439,12 +2439,12 @@
                     "clips",
                     "tazas de café"
                 ],
-                "text": "Sé a que se refieren: Más guita, más <BLANK>.",
+                "text": "Sé a qué se refieren: Más dinero, más <BLANK>.",
                 "type": "sustantivo plural - objetos de oficina"
             },
             "gene": [
                 "escritorios",
-                "No sé de que hablan, para mi no están sobrios."
+                "No se les entiende nada, para mí no están sobrios."
             ],
             "x": false,
             "id": 51305
@@ -2457,11 +2457,11 @@
                     "mis sesos"
                 ],
                 "text": "Siento fuego en mi corazón, hielo en <BLANK>.",
-                "type": "mi/mis + sustantivo - una parte del cuerpo"
+                "type": "adjetivo posesivo + sustantivo - una parte del cuerpo"
             },
             "gene": [
                 "mis pies",
-                "Como odio los soquetes que me dio la tía Inés."
+                "Cómo odio los calcetines que me regaló la tía Inés."
             ],
             "x": false,
             "id": 50943
@@ -2478,7 +2478,7 @@
             },
             "gene": [
                 "la tintorería",
-                "¡Los Dachsunds son perros que parecen salchicha!"
+                "¡Los Dachshunds son perros que parecen salchicha!"
             ],
             "x": false,
             "id": 50944
@@ -2490,12 +2490,12 @@
                     "fuente de risas",
                     "interés amoroso"
                 ],
-                "text": "Mi mejor amigo es el éxito y el fracaso mi <BLANK>.",
-                "type": "sustantivo común singular - arquetipo de personaje"
+                "text": "Mi mejor amigo es el éxito y el fracaso es mi <BLANK>.",
+                "type": "sustantivo común - tipo de carácter"
             },
             "gene": [
                 "actor de reemplazo",
-                "Si te mostrara mis stickers, quedarías anodadado."
+                "Si te mostrara mis stickers, quedarías como un pelmazo."
             ],
             "x": false,
             "id": 51225
@@ -2505,14 +2505,14 @@
                 "examples": [
                     "MC Rap",
                     "Dr. Rimas",
-                    "Pa’ vos"
+                    "Pa’ ti"
                 ],
                 "text": "Toc-toc, quién es, soy yo, <BLANK>.",
-                "type": "tu nombre como rapero"
+                "type": "tu nombre de rapero"
             },
             "gene": [
                 "Pocho",
-                "Y quisiera estar en la cama para antes de las 8."
+                "Y quisiera estar acostado antes de las 8."
             ],
             "x": false,
             "id": 51295
@@ -2529,7 +2529,7 @@
             },
             "gene": [
                 "funciona",
-                "Debo irme a cambiar el tele, perdona."
+                "Debo irme a cambiar lo que compré, perdona."
             ],
             "x": true,
             "id": 51304
@@ -2537,16 +2537,16 @@
         {
             "a": {
                 "examples": [
-                    "¡Yeah!",
-                    "¡Wot!",
-                    "¡AAAAH!"
+                    "¡Sí!",
+                    "¡Quiéee!",
+                    "¡AAAH!"
                 ],
-                "text": "Cuándo diga ‘¡Ey!’ la gente grita <BLANK>.",
+                "text": "Cuándo diga ‘¡Ey!’, la gente grita <BLANK>.",
                 "type": "una exclamación"
             },
             "gene": [
                 "¡Pero!",
-                "Y entonces saludo con mi apuesto sombrero."
+                "Y entonces saludo con mi bello sombrero."
             ],
             "x": false,
             "id": 51296
@@ -2558,12 +2558,12 @@
                     "pretzels",
                     "ovejas"
                 ],
-                "text": "Estimaron mi valor, es de 10000 <BLANK>.",
+                "text": "Estimaron mi valor, yo valgo 10.000 <BLANK>.",
                 "type": "sustantivo plural"
             },
             "gene": [
                 "mesas",
-                "Vamos al Mac de acá a la vuelta que quiero hamburguesas."
+                "Vamos a comer aquí a la vuelta, quiero unas hamburguesas."
             ],
             "x": false,
             "id": 51197
@@ -2575,12 +2575,12 @@
                     "habilidoso",
                     "persistente"
                 ],
-                "text": "No seré un encanto pero soy <BLANK>.",
+                "text": "No seré un encanto, pero soy <BLANK>.",
                 "type": "adjetivo positivo"
             },
             "gene": [
-                "tranquilo",
-                "Aunque algunos creen que estoy en estado vegetativo."
+                "calmado",
+                "Aunque algunos creen que estoy embalsamado."
             ],
             "x": false,
             "id": 51264
@@ -2588,7 +2588,7 @@
         {
             "a": {
                 "examples": [
-                    "bailar",
+                    "imitar",
                     "dar charlas",
                     "hacer gárgaras"
                 ],
@@ -2597,7 +2597,7 @@
             },
             "gene": [
                 "cantar",
-                "La escala musical dórica es una que es modal."
+                "Lo que hago es gutural, pero los ignorantes le dicen gritar."
             ],
             "x": false,
             "id": 51294
@@ -2610,7 +2610,7 @@
                     "salida"
                 ],
                 "text": "Declaro el comienzo de mi triunfante <BLANK>.",
-                "type": "sustantivo singular - sinónimo para 'excursión'"
+                "type": "sustantivo singular - sinónimo de 'excursión'"
             },
             "gene": [
                 "visita",
@@ -2626,7 +2626,7 @@
                     "gúbli",
                     "upplupp"
                 ],
-                "text": "Mis rimas tienen tanto flow que dirás <BLANK>.",
+                "text": "Mis rimas tienen tanto ritmo que dirás <BLANK>.",
                 "type": "una palabra sin sentido alguno"
             },
             "gene": [
@@ -2643,7 +2643,7 @@
                     "buey",
                     "morsa"
                 ],
-                "text": "Mi boca se mueve como si fuera de <BLANK>.",
+                "text": "Mi boca se mueve como si fuera una cría de <BLANK>.",
                 "type": "sustantivo singular - un animal"
             },
             "gene": [
@@ -2660,12 +2660,12 @@
                     "sabroso",
                     "hambriento"
                 ],
-                "text": "Debo tomarlo con calma 'toy demasiado <BLANK>.",
+                "text": "Debo tomarlo con calma, estoy demasiado <BLANK>.",
                 "type": "adjetivo"
             },
             "gene": [
                 "peludito",
-                "El pajarito de mi amiga Tami se llama Alfredito."
+                "El pajarito de mi amiga Tamara se llama Alfredito."
             ],
             "x": false,
             "id": 51268
@@ -2682,7 +2682,7 @@
             },
             "gene": [
                 "guacamole",
-                "Esta hecho de aguacate, sabes-eh."
+                "Hay que hacerlo con mucho tomate, sin que nadie lo controle."
             ],
             "x": false,
             "id": 51267
@@ -2694,12 +2694,12 @@
                     "ganchos",
                     "derechazos"
                 ],
-                "text": "Mis rimas son un puño mis versos <BLANK>.",
+                "text": "Mis rimas son un puño, mis versos son <BLANK>.",
                 "type": "sustantivo plural - palabra para 'puños'"
             },
             "gene": [
                 "puñeteros",
-                "¿Los duendes de Santa son los que hacen los trineos?"
+                "¿Los duendes de Papá Noel son los que hacen los trineos?"
             ],
             "x": false,
             "id": 51250
@@ -2708,15 +2708,15 @@
             "a": {
                 "examples": [
                     "asombrosas",
-                    "increibles",
+                    "increíbles",
                     "fabulosas"
                 ],
-                "text": "Mi aliento es horrendo mas mis letras son <BLANK>.",
+                "text": "Mi aliento es horrendo, pero mis letras son <BLANK>.",
                 "type": "adjetivo positivo plural"
             },
             "gene": [
                 "presentables",
-                "Debo reconocer que el mal aliento es evitable."
+                "Debo decir que las comidas que causan el mal aliento son evitables."
             ],
             "x": false,
             "id": 51259
@@ -2733,7 +2733,7 @@
             },
             "gene": [
                 "crítico de cine",
-                "Pero ‘Rango’ es lo mejor que hizo Johnny Depp."
+                "Pero ‘Rango’ es lo mejor de Johnny Depp, perdóname que opine."
             ],
             "x": false,
             "id": 50945
@@ -2750,7 +2750,7 @@
             },
             "gene": [
                 "infiltrando",
-                "Si es Beyonce, ¡ya mismo estoy bailando!"
+                "Si es Beyoncé, ¡ya mismo estoy bailando!"
             ],
             "x": false,
             "id": 50946
@@ -2766,8 +2766,8 @@
                 "type": "sustantivo - una comida de entrada"
             },
             "gene": [
-                "spaghetti",
-                "Si se quedan pegados, están re preparadetis."
+                "espagueti",
+                "Si se quedan pegados, es porque los preparó un yeti."
             ],
             "x": false,
             "id": 50947
@@ -2779,12 +2779,12 @@
                     "una ola polar",
                     "una tormenta de granizo"
                 ],
-                "text": "Mi rap está tan enardecido que provoca <BLANK>.",
-                "type": "un/una + sustantivo singular - evento climático"
+                "text": "Mi rap está tan enardecido, que provoca <BLANK>.",
+                "type": "artículo + sustantivo singular - evento climático"
             },
             "gene": [
                 "un incendio",
-                "Si hay algo que no me sale es jugar con fuego."
+                "Me encanta el fuego, hasta podría hacer un compendio."
             ],
             "x": false,
             "id": 51146
@@ -2800,8 +2800,8 @@
                 "type": "sustantivo propio - intérprete famoso"
             },
             "gene": [
-                "Beyonce",
-                "Ella canta, baila, ¡todo lo hace!"
+                "Madonna",
+                "Ella canta, baila, ¡a nadie perdona!"
             ],
             "x": false,
             "id": 50948
@@ -2813,12 +2813,12 @@
                     "arma",
                     "cazador"
                 ],
-                "text": "Más te vale reconocer que soy perfección en forma de <BLANK>.",
+                "text": "Más te vale reconocer que soy la perfección en forma de <BLANK>.",
                 "type": "sustantivo"
             },
             "gene": [
                 "villano",
-                "Cuándo tomo jugo de uva, hay un enchastre en mi mano."
+                "Cuando tomo jugo de uva, siempre hay una mancha en mi mano."
             ],
             "x": false,
             "id": 50949
@@ -2830,12 +2830,12 @@
                     "matemáticas",
                     "filosofía"
                 ],
-                "text": "Mi letras son sabiduría, mejor que <BLANK>.",
-                "type": "sustantivo - materia del colegio"
+                "text": "Mis letras son sabiduría, mejor que <BLANK>.",
+                "type": "sustantivo - asignatura escolar"
             },
             "gene": [
-                "Mates",
-                "Todd tiene un nuevo mate. Es bastante cheto."
+                "ciencias",
+                "Mi amigo Tobías es científico y se presenta frente audiencias."
             ],
             "x": false,
             "id": 50950
@@ -2852,7 +2852,7 @@
             },
             "gene": [
                 "adorno navideño",
-                "No pude ganar el torneo aunque puse todo el empeño."
+                "No pude ganar el torneo, aunque puse todo el empeño."
             ],
             "x": false,
             "id": 50779
@@ -2877,7 +2877,7 @@
         {
             "a": {
                 "examples": [
-                    "Rocklets",
+                    "Skittles",
                     "chocolate",
                     "confites"
                 ],
@@ -2896,7 +2896,7 @@
                 "examples": [
                     "magdalenas",
                     "barras de pan",
-                    "panecillos"
+                    "galletas"
                 ],
                 "text": "Mis palabras huelen tan sabrosas como <BLANK>.",
                 "type": "sustantivo plural - alimento horneado"
@@ -2911,12 +2911,12 @@
         {
             "a": {
                 "examples": [
-                    "un skateboard",
+                    "una patineta",
                     "una gran montaña",
                     "una guitarra"
                 ],
                 "text": "Googléame y verás una foto de <BLANK>.",
-                "type": "un/una + sustantivo singular - algo asombroso"
+                "type": "artículo + sustantivo singular - algo asombroso"
             },
             "gene": [
                 "un gato montando una aspiradora",
@@ -2949,7 +2949,7 @@
                     "Johnny Cash",
                     "Bono"
                 ],
-                "text": "Soy una leyenda, comparable a <BLANK>.",
+                "text": "Soy una leyenda, comparable con <BLANK>.",
                 "type": "sustantivo propio - celebridad molesta"
             },
             "gene": [
@@ -2979,16 +2979,16 @@
         {
             "a": {
                 "examples": [
-                    "gatos",
+                    "los gatos",
                     "YouTube",
-                    "sushi"
+                    "el sushi"
                 ],
-                "text": "La gente me quiere más de lo que adoran a <BLANK>.",
-                "type": "sustantivo - algo popular"
+                "text": "La gente me quiere más de lo que quieren a <BLANK>.",
+                "type": "artículo + sustantivo - algo popular"
             },
             "gene": [
-                "urracas",
-                "Y que buen animal son las urracas, eh."
+                "los cuervos",
+                "Y qué buenas aves son los cuervos, eh."
             ],
             "x": false,
             "id": 50985
@@ -2996,15 +2996,15 @@
         {
             "a": {
                 "examples": [
-                    "viajes",
-                    "desayunos",
-                    "días nevados"
+                    "los viajes",
+                    "los desayunos",
+                    "los días nevados"
                 ],
                 "text": "Primero lo primero: Soy mejor que <BLANK>.",
-                "type": "sustantivo plural - eventos/actividades entretenidas"
+                "type": "artículo + sustantivo plural - eventos/actividades entretenidas"
             },
             "gene": [
-                "películas",
+                "las películas",
                 "Aunque muestren pititos o bubis desnudas."
             ],
             "x": true,
@@ -3013,16 +3013,16 @@
         {
             "a": {
                 "examples": [
-                    "fachera",
+                    "magnífica",
                     "fuerte",
                     "metalera"
                 ],
-                "text": "Súbeme la radio, la música 'ta <BLANK>.",
+                "text": "Súbeme la radio, la música está <BLANK>.",
                 "type": "adjetivo - describe tu música favorita"
             },
             "gene": [
                 "atrevida",
-                "Hidrocortisona, para todas las heridas."
+                "Hidrocortisona, para todo tipo de herida."
             ],
             "x": false,
             "id": 51160
@@ -3034,12 +3034,12 @@
                     "una moto",
                     "una limosina"
                 ],
-                "text": "Voy hacia tí, como en la carretera <BLANK>.",
+                "text": "Voy hacia ti, como en la carretera <BLANK>.",
                 "type": "artículo + sustantivo - un vehículo"
             },
             "gene": [
                 "un scooter",
-                "¿Paul Rudd o yo? ¿De quién tendrías un póster?"
+                "¿Ryan Reynolds o yo? ¿De quién tendrías un póster?"
             ],
             "x": false,
             "id": 51161
@@ -3048,15 +3048,15 @@
             "a": {
                 "examples": [
                     "antes",
-                    "ya",
+                    "ahora",
                     "ayer"
                 ],
-                "text": "Puedo hacer lo que sea, como te he dicho <BLANK>.",
+                "text": "Puedo hacer lo que sea, como te dije <BLANK>.",
                 "type": "adverbio de tiempo"
             },
             "gene": [
                 "recién",
-                "Susan, si vas a romper conmigo pues dímelo bien."
+                "Susana, si vas a romper conmigo, pues dímelo bien."
             ],
             "x": false,
             "id": 51162
@@ -3068,12 +3068,12 @@
                     "Frankenstein",
                     "Godzilla"
                 ],
-                "text": "Soy tan bueno que da miedo dime M C <BLANK>.",
+                "text": "Soy tan bueno que doy miedo, dime MC <BLANK>.",
                 "type": "sustantivo - un monstruo"
             },
             "gene": [
                 "Cookie Monster",
-                "Que Elmo ni que Elmo, el cookie es el máster."
+                "Qué Elmo ni qué Elmo, el cookie es el máster."
             ],
             "x": false,
             "id": 51410
@@ -3086,11 +3086,11 @@
                     "movimientos"
                 ],
                 "text": "Salta, si quieres mis <BLANK>.",
-                "type": "sustantivo plural"
+                "type": "sustantivo"
             },
             "gene": [
                 "pinceles",
-                "Las colas de los monos suelen ser prensiles."
+                "Las colas de mono no sirven como cinceles."
             ],
             "x": false,
             "id": 51163
@@ -3102,8 +3102,8 @@
                     "un ratón",
                     "un dinosaurio"
                 ],
-                "text": "Soy grande mas gentil, no tocaría ni siquiera <BLANK>.",
-                "type": "un/una + sustantivo singular - animal"
+                "text": "Soy grande pero gentil, no dañaría ni siquiera a <BLANK>.",
+                "type": "artículo + sustantivo singular - animal"
             },
             "gene": [
                 "un mono",
@@ -3115,11 +3115,11 @@
         {
             "a": {
                 "examples": [
-                    "ocupado",
-                    "valiente",
+                    "trabajólico",
+                    "feroz",
                     "grande"
                 ],
-                "text": "Júntense todos 'toy por ponerme <BLANK>.",
+                "text": "Júntense todos estoy por ponerme <BLANK>.",
                 "type": "adjetivo"
             },
             "gene": [
@@ -3132,16 +3132,16 @@
         {
             "a": {
                 "examples": [
-                    "Wow",
-                    "Yikes",
+                    "Vaya",
+                    "Ufff",
                     "Demonios"
                 ],
-                "text": "Soy tan bueno que quienes ven dice, ¡'<BLANK>!’",
+                "text": "Soy tan apuesto, que quienes me ven dicen '¡<BLANK>!'",
                 "type": "una exclamación"
             },
             "gene": [
                 "Caracoles",
-                "¿Cuál es la flor más linda? Quizá los girasoles."
+                "¿Cuál es la flor más linda? Sin duda los girasoles."
             ],
             "x": false,
             "id": 51460
@@ -3149,16 +3149,16 @@
         {
             "a": {
                 "examples": [
-                    "champiñones",
-                    "pollos",
-                    "aluviones"
+                    "los champiñones",
+                    "los pollos",
+                    "los aluviones"
                 ],
-                "text": "Lo mío es natural mis rimas vienen de <BLANK>.",
-                "type": "sustantivo plural - cosas que se encuentran en la naturaleza"
+                "text": "Lo mío es natural, mis rimas vienen de <BLANK>.",
+                "type": "artículo + sustantivo plural - cosas que se encuentran en la naturaleza"
             },
             "gene": [
-                "roble venenoso",
-                "Prefiero adivinanzas porque no soy muy chistoso."
+                "el roble venenoso",
+                "Prefiero las adivinanzas porque no soy muy chistoso."
             ],
             "x": false,
             "id": 51489
@@ -3175,7 +3175,7 @@
             },
             "gene": [
                 "intermitentemente",
-                "Cuando deje mi trabajo veré que tengo en mente."
+                "Cuando deje mi trabajo, veré qué tengo en mente."
             ],
             "x": false,
             "id": 51165
@@ -3187,12 +3187,12 @@
                     "cenas",
                     "ideas"
                 ],
-                "text": "No necesito suerte yo decido mis <BLANK>.",
+                "text": "No necesito suerte yo planeo mis <BLANK>.",
                 "type": "sustantivo plural - algo que haces"
             },
             "gene": [
                 "excusas",
-                "¿De donde saco mis rimas? ¡Pues de las musas!"
+                "¿De dónde saco mis rimas? ¡Pues, de las musas!"
             ],
             "x": false,
             "id": 51480
@@ -3205,10 +3205,10 @@
                     "una rata de alcantarilla"
                 ],
                 "text": "Soy absolutamente tenaz, como <BLANK>.",
-                "type": "un/una + sustantivo - un animal"
+                "type": "artículo + sustantivo - un animal"
             },
             "gene": [
-                "tardígrado",
+                "un tardígrado",
                 "Búscalo. No es broma ni inventado."
             ],
             "x": false,
@@ -3221,12 +3221,12 @@
                     "gaseosas",
                     "morteros"
                 ],
-                "text": "Mis rimas vuelan como misiles, explotan como <BLANK>.",
+                "text": "Mis rimas vuelan como misiles y explotan como <BLANK>.",
                 "type": "sustantivo plural"
             },
             "gene": [
-                "ballenas",
-                "Si quieres vitaminas come algo de avena."
+                "ballena",
+                "Si quieres fibra, come algo de avena."
             ],
             "x": false,
             "id": 51459
@@ -3238,12 +3238,12 @@
                     "una almohada",
                     "un piojo"
                 ],
-                "text": "Mi billetera está repleta como relleno está <BLANK>.",
-                "type": "un/una + sustantivo singular"
+                "text": "Mi billetera está repleta igual que <BLANK>.",
+                "type": "artículo + sustantivo singular"
             },
             "gene": [
                 "un sillón",
-                "Cuando hice standup alguien me tiró un miñón."
+                "Cuando hice comedia, alguien me tiró un riñón."
             ],
             "x": false,
             "id": 51461
@@ -3255,7 +3255,7 @@
                     "picante",
                     "con onda"
                 ],
-                "text": "No corras en el escenario que vengo <BLANK>.",
+                "text": "No corras en el escenario, porque vengo <BLANK>.",
                 "type": "adjetivo"
             },
             "gene": [
@@ -3273,11 +3273,11 @@
                     "hablo"
                 ],
                 "text": "No debatiría el hecho de que yo <BLANK>.",
-                "type": "verbo singular (primera persona) - acción positiva"
+                "type": "verbo - acción positiva"
             },
             "gene": [
                 "brillo",
-                "Aunque porque una vez sin querer me puse dulce de membrillo."
+                "Porque una vez sin querer me puse dulce de membrillo."
             ],
             "x": false,
             "id": 51407
@@ -3285,15 +3285,15 @@
         {
             "a": {
                 "examples": [
-                    "del cabello",
-                    "de la piel",
-                    "del esófago"
+                    "el cabello",
+                    "la piel",
+                    "el esófago"
                 ],
-                "text": "Mis versos vienen directamente <BLANK>.",
-                "type": "de/de la/del + sustantivo - una parte del cuerpo"
+                "text": "Mis versos vienen directamente de <BLANK>.",
+                "type": "artículo + sustantivo - una parte del cuerpo"
             },
             "gene": [
-                "del pancreas",
+                "el páncreas",
                 "Mi papá se lo tuvo que sacar, aunque no lo creas."
             ],
             "x": false,
@@ -3303,11 +3303,11 @@
             "a": {
                 "examples": [
                     "una pelota de fútbol",
-                    "una pelota de básquet",
-                    "un casco de fútbol"
+                    "una pelota de básquetbol",
+                    "un casco de rugby"
                 ],
                 "text": "Mis rimas son como volcar <BLANK>.",
-                "type": "un/una + sustantivo singular - elementos de deporte"
+                "type": "artículo + sustantivo singular - equipamiento deportivo"
             },
             "gene": [
                 "un guante de béisbol",
@@ -3324,11 +3324,11 @@
                     "un Volkswagen escarabajo"
                 ],
                 "text": "Mis letras son tan profundas que necesitarás <BLANK>.",
-                "type": "un/una + sustantivo singular - vehículo"
+                "type": "artículo + sustantivo singular - vehículo"
             },
             "gene": [
                 "un scooter",
-                "Mis rimas aun no son perfectas pero lo serán, master."
+                "Mis rimas aún no son perfectas, pero lo serán, Ester."
             ],
             "x": false,
             "id": 51881
@@ -3338,14 +3338,14 @@
                 "examples": [
                     "pelear",
                     "escupir rimas",
-                    "armar bardo"
+                    "armar pelea"
                 ],
-                "text": "Charlar no es lo mío prefiero <BLANK>.",
+                "text": "Charlar no es lo mío, yo prefiero <BLANK>.",
                 "type": "verbo agresivo"
             },
             "gene": [
                 "incinerar",
-                "Pero si necesito, charla puedo generar."
+                "Pero si lo necesito, charla puedo generar."
             ],
             "x": false,
             "id": 51169
@@ -3355,7 +3355,7 @@
                 "examples": [
                     "barril",
                     "llavero",
-                    "manopla de cocina"
+                    "guante para el horno"
                 ],
                 "text": "Prende la mecha y explotaré como <BLANK>.",
                 "type": "sustantivo singular - un objeto"
@@ -3374,12 +3374,12 @@
                     "’Friends’",
                     "’Dora la exploradora’"
                 ],
-                "text": "Aprendí todo lo que sé de mirar <BLANK>.",
+                "text": "Aprendí todo lo que sé, viendo <BLANK>.",
                 "type": "sustantivo propio - título de serie de TV"
             },
             "gene": [
-                "Veneno",
-                "¡Cierren las ventanas! ¡Se viene un trueno!"
+                "Juego de Tronos",
+                "¡Cierren las ventanas! ¡Se vienen unos truenos!"
             ],
             "x": false,
             "id": 51879
@@ -3391,12 +3391,12 @@
                     "extrovertido",
                     "salvaje"
                 ],
-                "text": "Las cuentas concuerdan soy 100 por ciento <BLANK>.",
+                "text": "Los cálculos son correctos, soy 100 por ciento <BLANK>.",
                 "type": "adjetivo positivo"
             },
             "gene": [
                 "nervioso",
-                "No nos traen la orden... ¿insulté al mozo?"
+                "No nos traen la comida... ¿insulté al mozo?"
             ],
             "x": false,
             "id": 51406
@@ -3404,8 +3404,8 @@
         {
             "a": {
                 "examples": [
-                    "El Más Grande",
-                    "Nasty",
+                    "Gigante",
+                    "Sucio",
                     "Rimador"
                 ],
                 "text": "Llámame cascarrabias, soy <BLANK>.",
@@ -3413,7 +3413,7 @@
             },
             "gene": [
                 "Gene",
-                "Ojalá mi nombre no rimara con ‘salamín’."
+                "Ojalá mi nombre no rimara con ‘hollín’."
             ],
             "x": false,
             "id": 51170
@@ -3426,11 +3426,11 @@
                     "crujido"
                 ],
                 "text": "Calmo el llanto de niños con el sonido de mi <BLANK>.",
-                "type": "sustantivo singular - algún sonido"
+                "type": "sustantivo singular - una vocalización"
             },
             "gene": [
                 "grito",
-                "Amó estar junto a niños, comiendo un pastelito."
+                "Amo estar junto a niños, comiendo un pastelito."
             ],
             "x": false,
             "id": 51449
@@ -3438,16 +3438,16 @@
         {
             "a": {
                 "examples": [
-                    "un Cadillac",
+                    "un avión",
                     "un camión",
                     "un barco"
                 ],
                 "text": "Es como si a mi cara la hubiera golpeado <BLANK>.",
-                "type": "un/una + sustantivo singular - un vehículo"
+                "type": "artículo + sustantivo singular - un vehículo"
             },
             "gene": [
                 "triciclo",
-                "Me atropellaban mucho de niño. Era un distraído."
+                "Me atropellaban mucho de niño, era como un ciclo."
             ],
             "x": false,
             "id": 51173
@@ -3460,10 +3460,10 @@
                     "mi compañía"
                 ],
                 "text": "Si me odias, odiarás <BLANK>.",
-                "type": "mi/mis + sustantivo"
+                "type": "adjetivo posesivo + sustantivo"
             },
             "gene": [
-                "mi perro",
+                "a mi perro",
                 "Es ruidoso y le gusta comer del basurero."
             ],
             "x": false,
@@ -3489,16 +3489,16 @@
         {
             "a": {
                 "examples": [
-                    "bananas",
+                    "plátanos",
                     "zanahorias",
                     "melones"
                 ],
                 "text": "Mis rimas son frescas como cosecha de <BLANK>.",
-                "type": "sustantivo plural - fruta o verdura"
+                "type": "sustantivo - fruta o verdura"
             },
             "gene": [
-                "durián",
-                "Crecen rápido, ¡y nunca paran!"
+                "peras",
+                "Creces rápido, ¡nunca me esperas!"
             ],
             "x": false,
             "id": 51176
@@ -3515,7 +3515,7 @@
             },
             "gene": [
                 "empanadas",
-                "Ojala llegue mi abuela, sí que sabe prepararlas."
+                "Ojalá llegue mi abuela, hace tantas, que en ellas nadas."
             ],
             "x": false,
             "id": 51874
@@ -3523,16 +3523,16 @@
         {
             "a": {
                 "examples": [
-                    "fideos con tuco",
-                    "chili con carne",
+                    "fideos con queso",
+                    "carne picante",
                     "chuletas con huevo"
                 ],
-                "text": "Si mis rimas fueran comida serían <BLANK>.",
+                "text": "Si mis rimas fueran comida, serían <BLANK>.",
                 "type": "sustantivo plural - una comida de entrada"
             },
             "gene": [
                 "panqueques",
-                "Pero no comas muchos o te agarra un ataque."
+                "Pero no comas muchos, hará que te atasques."
             ],
             "x": false,
             "id": 51177
@@ -3541,15 +3541,15 @@
             "a": {
                 "examples": [
                     "Nueva Zelanda",
-                    "Katmandu",
+                    "Katmandú",
                     "Canadá"
                 ],
-                "text": "Me conocen por todo el mundo desde Japón hasta <BLANK>.",
+                "text": "Me conocen por todo el mundo, desde Japón hasta <BLANK>.",
                 "type": "sustantivo propio - un lugar"
             },
             "gene": [
                 "Países Bajos",
-                "Cuando cruzamos mirada, ví lo hermosos que son tus ojos."
+                "Cuando cruzamos mirada, vi lo hermosos que son tus ojos."
             ],
             "x": false,
             "id": 51178
@@ -3561,12 +3561,12 @@
                     "50",
                     "100"
                 ],
-                "text": "Ún dos tres cuatro cinco seis <BLANK>.",
+                "text": "Un, dos, tres, cuatro, cinco, seis, <BLANK>.",
                 "type": "sustantivo - un número"
             },
             "gene": [
                 "cero",
-                "Me tomo un día de descanso, despues de tanto ‘esmero’."
+                "Me tomo un día de descanso, después de tanto ‘esmero’."
             ],
             "x": false,
             "id": 51074
@@ -3578,7 +3578,7 @@
                     "el sofá",
                     "el baño"
                 ],
-                "text": "Hazme alabanzas soy presidente de <BLANK>.",
+                "text": "Inclínate ante mí, el presidente de <BLANK>.",
                 "type": "artículo + sustantivo común - un lugar"
             },
             "gene": [
@@ -3591,16 +3591,16 @@
         {
             "a": {
                 "examples": [
-                    "Pollock",
-                    "Koons",
+                    "Miguel Ángel",
+                    "Frida Kahlo",
                     "Dalí"
                 ],
-                "text": "Mis palabras son pintura soy artista como <BLANK>.",
+                "text": "Mis palabras son pintura, soy artista como <BLANK>.",
                 "type": "sustantivo propio - un artista"
             },
             "gene": [
                 "Picasso",
-                "Se me cae el pelo, espero no quedar pelado."
+                "Se me cae el pelo, parece que sigo su pasos."
             ],
             "x": false,
             "id": 51182
@@ -3612,7 +3612,7 @@
                     "espátula",
                     "untadora"
                 ],
-                "text": "Mis rimas 'tan más afiladas que <BLANK>.",
+                "text": "Mis rimas están más afiladas que <BLANK>.",
                 "type": "sustantivo singular - utensillo de cocina"
             },
             "gene": [
@@ -3629,12 +3629,12 @@
                     "rottweiler",
                     "rapero"
                 ],
-                "text": "No soy cualquier rufián, primer lugar como <BLANK>.",
+                "text": "No soy cualquier rufián, tengo el primer lugar como <BLANK>.",
                 "type": "sustantivo"
             },
             "gene": [
                 "corcel",
-                "Ojala mis rimas no me lleven a la carcel."
+                "Ojalá mis rimas no me lleven a la cárcel."
             ],
             "x": false,
             "id": 51185
@@ -3643,7 +3643,7 @@
             "a": {
                 "examples": [
                     "trofeos",
-                    "craneos",
+                    "cráneos",
                     "billetes"
                 ],
                 "text": "No acumulo impuestos, me llevo a casa <BLANK>.",
@@ -3651,7 +3651,7 @@
             },
             "gene": [
                 "elogios",
-                "Que lindo ser famoso, aunque sea cometiendo plagio."
+                "Qué lindo ser famoso, aunque sea usando plagios."
             ],
             "x": false,
             "id": 51186
@@ -3659,16 +3659,16 @@
         {
             "a": {
                 "examples": [
-                    "El chita",
-                    "La foca",
-                    "El correcaminos"
+                    "el chita",
+                    "la foca",
+                    "el correcaminos"
                 ],
                 "text": "Las tiro tan rápido que me llaman <BLANK>.",
-                "type": "El/La + sustantivo singular - animal ágil"
+                "type": "artículo + sustantivo singular - animal ágil"
             },
             "gene": [
                 "la ballena",
-                "Cuando como pescado mi panza se llena..."
+                "Cuando como pescado mi panza se llena."
             ],
             "x": false,
             "id": 50988
@@ -3680,7 +3680,7 @@
                     "una tiara",
                     "un yate"
                 ],
-                "text": "Mis citas me lucen como si fuera <BLANK>.",
+                "text": "Mis citas me presumen como si fuera <BLANK>.",
                 "type": "artículo + sustantivo singular - objeto de valor"
             },
             "gene": [
@@ -3693,16 +3693,16 @@
         {
             "a": {
                 "examples": [
-                    "Matemáticas",
-                    "Literatura",
-                    "Ciencias"
+                    "matemáticas",
+                    "literatura",
+                    "ciencias"
                 ],
                 "text": "Soy la más grande eminencia en <BLANK>.",
                 "type": "sustantivo - materia del colegio"
             },
             "gene": [
-                "Ciudadanía",
-                "Si me dices que tu sweater es viejo no te creería."
+                "ciudadanía",
+                "Si me dices que tu camiseta es vieja no te creería."
             ],
             "x": false,
             "id": 51187
@@ -3714,8 +3714,8 @@
                     "se desmaya",
                     "sonríe"
                 ],
-                "text": "Donde quiera que vaya, gente, <BLANK>.",
-                "type": "verbo en tercera persona"
+                "text": "Donde quiera que vaya, la gente <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
                 "se vuelve loca",
@@ -3731,8 +3731,8 @@
                     "hablo",
                     "duermo"
                 ],
-                "text": "Mi nombre es La Destrucción pues nunca <BLANK>.",
-                "type": "verbo en primera persona - acción diaria"
+                "text": "Mi nombre es Juggernaut, porque nunca <BLANK>.",
+                "type": "verbo - acción diaria"
             },
             "gene": [
                 "me baño",
@@ -3749,11 +3749,11 @@
                     "estadios"
                 ],
                 "text": "Mi rap es tan potente que puede levantar <BLANK>.",
-                "type": "sustantivo común plural - edificios"
+                "type": "sustantivo común - edificios"
             },
             "gene": [
                 "gazebos",
-                "Que la verdad que es muy comodo para ventilar un poco."
+                "Que la verdad es muy cómodo para ventilar un poco."
             ],
             "x": false,
             "id": 51007
@@ -3762,15 +3762,15 @@
             "a": {
                 "examples": [
                     "carne",
-                    "provoleta",
-                    "aguacate"
+                    "queso",
+                    "pollo"
                 ],
-                "text": "Mis rimas son sabrosas como sandwich de <BLANK>.",
-                "type": "sustantivo - algo que lleva dentro un sandwich"
+                "text": "Mis rimas son sabrosas como un sándwich de <BLANK>.",
+                "type": "sustantivo - relleno para sándwiches"
             },
             "gene": [
                 "helecho",
-                "Qué es delicioso, dalo por hecho."
+                "Que es delicioso, dalo por hecho."
             ],
             "x": false,
             "id": 51008
@@ -3782,12 +3782,12 @@
                     "un calamar gigante",
                     "un elefante"
                 ],
-                "text": "Mi impacto es enorme e imparable como <BLANK>.",
+                "text": "Mi impacto es enorme e imparable, como <BLANK>.",
                 "type": "artículo + sustantivo singular - un animal"
             },
             "gene": [
                 "un tiburón",
-                "Cuándo nado no veo nada y soy de frío corazón."
+                "Cuando nado no veo nada y tengo un frío corazón."
             ],
             "x": false,
             "id": 51034

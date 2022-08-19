@@ -4,16 +4,16 @@
         {
             "a": {
                 "examples": [
-                    "papi",
+                    "papá",
                     "hermana",
-                    "tío"
+                    "primo"
                 ],
                 "text": "No tengo miedo, adelante, <BLANK>.",
-                "type": "sustantivo - un miembro de la familia"
+                "type": "sustantivo - un pariente"
             },
             "gene": [
-                "nephew",
-                "It\u2019s an offer you can\u2019t ref. use."
+                "sobrino",
+                "No rechazarás mi oferta, pueblerino."
             ],
             "x": false,
             "id": 50588
@@ -21,16 +21,16 @@
         {
             "a": {
                 "examples": [
-                    "contestar",
-                    "responder",
-                    "aclarar"
+                    "contesto",
+                    "respondo",
+                    "lo aclaro"
                 ],
-                "text": "Preparate para verme <BLANK>.",
-                "type": "verbo - sinónimo para 'respuesta'"
+                "text": "Retrocede y mira cómo <BLANK>.",
+                "type": "verbo - sinónimo de 'respuesta'"
             },
             "gene": [
-                "retort",
-                "If I laugh, I hope I don\u2019t snort."
+                "argumento",
+                "Si me río, espero no matar el momento."
             ],
             "x": false,
             "id": 50589
@@ -42,12 +42,12 @@
                     "intercambiar",
                     "golpear"
                 ],
-                "text": "No sé exactamente lo que quieres <BLANK>.",
-                "type": "verbo en infinitivo"
+                "text": "No sé exactamente lo que intentas <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
-                "relate",
-                "But I\u2019d still join you for a lunch date."
+                "recitar",
+                "Pero aún así, a una cita te quiero invitar."
             ],
             "x": false,
             "id": 50590
@@ -59,12 +59,12 @@
                     "sentado",
                     "derretida"
                 ],
-                "text": "Ve y dile a tu mamí que te fuiste <BLANK>.",
-                "type": "verbo terminado en -do"
+                "text": "Ve y dile a tu mamá que te fuiste <BLANK>.",
+                "type": "verbo participio"
             },
             "gene": [
-                "smelled",
-                "I prefer Corey Haim to Corey Feld. man."
+                "de pie",
+                "Me gustaría tener un libro original, pero lo fotocopié."
             ],
             "x": true,
             "id": 50591
@@ -76,12 +76,12 @@
                     "arriba",
                     "adentro"
                 ],
-                "text": "Tú me atacas, y terminarás <BLANK>.",
+                "text": "Tú me atacas y terminarás <BLANK>.",
                 "type": "posición o dirección"
             },
             "gene": [
-                "through",
-                "Wish I could be adopted by Felonius Gru."
+                "atravesado",
+                "Ojalá pudiera por Gru ser adoptado."
             ],
             "x": false,
             "id": 50592
@@ -94,11 +94,11 @@
                     "un año"
                 ],
                 "text": "Un momento, espera <BLANK>.",
-                "type": "un/a + sustantivo - unidad de tiempo"
+                "type": "artículo + sustantivo - unidad de tiempo"
             },
             "gene": [
-                "millennia",
-                "You thought nothing rhymes with that, dinya?"
+                "un milenio",
+                "Pensabas que no podría rimar eso, ¡qué ingenio!"
             ],
             "x": false,
             "id": 50593
@@ -111,11 +111,11 @@
                     "un camión"
                 ],
                 "text": "Es una pena que rimes como <BLANK>.",
-                "type": "un/a + sustantivo singular"
+                "type": "artículo + sustantivo singular"
             },
             "gene": [
-                "yeti",
-                "Maybe practice more and come back when you\u2019re ready?"
+                "un anticristo",
+                "¿Quizá práctica y regresa cuando estés listo?"
             ],
             "x": false,
             "id": 52750
@@ -124,15 +124,15 @@
             "a": {
                 "examples": [
                     "muchacho",
-                    "puerca",
+                    "jamón",
                     "gaseosa"
                 ],
-                "text": "Te conseguí un gorro que dice \u2018Peor <BLANK>.\u2019",
+                "text": "Te conseguí un gorro que dice 'Peor <BLANK>'.",
                 "type": "sustantivo singular"
             },
             "gene": [
-                "freeway",
-                "But I\u2019ll take you cause I have the car today."
+                "aduana",
+                "Pero igual tengo que pasar por ahí mañana."
             ],
             "x": false,
             "id": 52990
@@ -148,8 +148,8 @@
                 "type": "artículo + sustantivo singular - evento climático"
             },
             "gene": [
-                "existential crisis",
-                "You should read Sartre. His books are priceless."
+                "una crisis existencial",
+                "Yo lo que hago es leer a Sartre cuando me siento mal."
             ],
             "x": false,
             "id": 52785
@@ -161,12 +161,12 @@
                     "bambú",
                     "cemento"
                 ],
-                "text": "No tienes flow es más como <BLANK>.",
+                "text": "No tienes ritmo, es más como <BLANK>.",
                 "type": "sustantivo - sustancia densa"
             },
             "gene": [
-                "satin bedding",
-                "If you\u2019re looking it\u2019s a nice gift for weddings."
+                "cómodas",
+                "Si la buscas, es un buen regalo para las bodas."
             ],
             "x": false,
             "id": 52790
@@ -178,12 +178,12 @@
                     "condado",
                     "pueblo"
                 ],
-                "text": "Oye, chiqui, quitate de mi <BLANK>.",
+                "text": "Oye, niño, sal de mi <BLANK>.",
                 "type": "sustantivo común - un lugar"
             },
             "gene": [
-                "closet",
-                "If you need a pee break, we can pause it."
+                "armario",
+                "Pero si necesitas orinar, espero lo necesario."
             ],
             "x": true,
             "id": 50594
@@ -196,11 +196,11 @@
                     "desechos"
                 ],
                 "text": "Tus rimas son como un montón de <BLANK>.",
-                "type": "sustantivo - sinónimo para 'basura'"
+                "type": "sustantivo - sinónimo de 'basura'"
             },
             "gene": [
-                "rubbish",
-                "If I eat too much red meat then I feel sluggish."
+                "porquería",
+                "Si me acerco a la periferia, siento la brujería."
             ],
             "x": false,
             "id": 53003
@@ -210,14 +210,14 @@
                 "examples": [
                     "tramposo",
                     "zorra",
-                    "hombre deshonesto"
+                    "deshonesto"
                 ],
-                "text": "Honestamente eres completamente <BLANK>.",
-                "type": "sustantivo - sinónimo para 'mentiroso'"
+                "text": "Siendo honesto, eres completamente <BLANK>.",
+                "type": "sustantivo - sinónimo de 'mentiroso'"
             },
             "gene": [
-                "weasel",
-                "I\u2019m a humble clerk just peddling diesel."
+                "rata",
+                "Soy un humilde empleado que solo vende una bata."
             ],
             "x": false,
             "id": 53001
@@ -230,11 +230,11 @@
                     "Santiago"
                 ],
                 "text": "Te tiraré abajo como tren a <BLANK>.",
-                "type": "sustantivo propio - un lugar con trenes"
+                "type": "sustantivo propio - un lugar al sur de ti"
             },
             "gene": [
-                "Clarksville",
-                "Meet me at the station."
+                "La Antártida",
+                "Ir a la estación es una travesía divertida."
             ],
             "x": false,
             "id": 52941
@@ -246,12 +246,12 @@
                     "morder",
                     "chupar"
                 ],
-                "text": "Podrías escribir un libro llamado \u2018Cómo <BLANK>.\u2019",
-                "type": "verbo en infinitivo - lo que hace una víbora"
+                "text": "Podrías escribir un libro llamado ‘Cómo <BLANK>’.",
+                "type": "verbo - lo que hace una víbora"
             },
             "gene": [
-                "Lie",
-                "I\u2019ll write a book called \u2018Ask a Nice Guy!\u2019"
+                "Mentir",
+                "Y yo escribiré uno llamado ‘¡Qué buen sentir!’"
             ],
             "x": false,
             "id": 53002
@@ -259,16 +259,16 @@
         {
             "a": {
                 "examples": [
-                    "spaghetti",
+                    "espagueti",
                     "barro",
                     "plastilina"
                 ],
-                "text": "Tus palabras son un desastre como si escribieses con <BLANK>.",
-                "type": "sustantivo - una sustancia que arma un enchastre"
+                "text": "Tus palabras son un desastre como si escribieras con <BLANK>.",
+                "type": "sustantivo - una sustancia desastrosa"
             },
             "gene": [
-                "shredded cheese",
-                "And it\u2019s making me hungry. You\u2019re such a tease."
+                "queso rallado",
+                "Y me deja hambriento. Quiero comer asado."
             ],
             "x": false,
             "id": 52600
@@ -280,12 +280,12 @@
                     "galletas",
                     "fideos"
                 ],
-                "text": "Tus rimas son carbón tan pasadas como tus <BLANK>.",
+                "text": "Tus rimas son insípidas como tus <BLANK>.",
                 "type": "sustantivo plural - comidas"
             },
             "gene": [
-                "Popsicles",
-                "I\u2019ll accept a hug if you promise not to tickle."
+                "frutillas",
+                "Aceptaré un abrazo si prometes no hacer cosquillas."
             ],
             "x": false,
             "id": 53075
@@ -297,12 +297,12 @@
                     "destrozado",
                     "obsoleta"
                 ],
-                "text": "Tu marca ha expirado, eres de más <BLANK>.",
+                "text": "Tu marca expiró. Eres demasiado <BLANK>.",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "eggy",
-                "My third favorite aunt is Peggy."
+                "chillona",
+                "A mi tía favorita le dicen la llorona."
             ],
             "x": false,
             "id": 53074
@@ -318,8 +318,8 @@
                 "type": "artículo + sustantivo - parte del cuerpo"
             },
             "gene": [
-                "buttocks",
-                "That\u2019s a word that nearly rhymes with \u2018deluxe.\u2019"
+                "las nalgas",
+                "Que es una palabra que casi rima con ‘migajas’."
             ],
             "x": true,
             "id": 52594
@@ -327,16 +327,16 @@
         {
             "a": {
                 "examples": [
-                    "secador de pelo",
-                    "cama",
-                    "pan"
+                    "un secador de pelo",
+                    "una cama",
+                    "un pan"
                 ],
                 "text": "Te necesito como un pez necesita <BLANK>.",
-                "type": "sustantivo singular"
+                "type": "artículo + sustantivo singular"
             },
             "gene": [
-                "potato chip",
-                "Take them away from me! They go to my hips!"
+                "la papa frita",
+                "¡Sácalas! ¡Van a mi cinturita!"
             ],
             "x": false,
             "id": 52602
@@ -344,7 +344,7 @@
         {
             "a": {
                 "examples": [
-                    "C 3 P O",
+                    "C-3PO",
                     "Darth Vader",
                     "Jar Jar Binks"
                 ],
@@ -352,8 +352,8 @@
                 "type": "sustantivo propio - personaje de Star Wars"
             },
             "gene": [
-                "a Wookie",
-                "I put money down on that, with my bookie."
+                "un Wookie",
+                "Igual o más peludo que mi papi."
             ],
             "x": false,
             "id": 52597
@@ -366,11 +366,11 @@
                     "tus axilas"
                 ],
                 "text": "¿Sientes el dolor? Soy yo pateando <BLANK>.",
-                "type": "tu/s + sustantivo - parte del cuerpo"
+                "type": "adjetivo posesivo + sustantivo - parte del cuerpo"
             },
             "gene": [
-                "glands",
-                "I\u2019m being careful none of them actually lands."
+                "tus glándulas",
+                "Estoy teniendo cuidado de que ninguna esté en revista de farándulas."
             ],
             "x": false,
             "id": 52992
@@ -382,12 +382,12 @@
                     "pesada",
                     "ingenuo"
                 ],
-                "text": "La noche pasada en la cama tu vieja me dijo que eras <BLANK>.",
+                "text": "Anoche en la cama, tu mamá me dijo que eras <BLANK>.",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "a high school debater",
-                "If I knew she was your mom, I would not date her."
+                "un orador de secundaria",
+                "Si supiera que es tu madre, con ella no saldría."
             ],
             "x": true,
             "id": 52795
@@ -397,14 +397,14 @@
                 "examples": [
                     "mayordomo",
                     "valet",
-                    "limpiadora de baños"
+                    "limpiador de baños"
                 ],
-                "text": "Quiza serías útil para mi como <BLANK>.",
-                "type": "sustantivo - empleado de servicio"
+                "text": "Quizá serías útil para mí como <BLANK>.",
+                "type": "sustantivo - un trabajo de servicio"
             },
             "gene": [
-                "executive assistant",
-                "A hard job to find. Gotta be persistent."
+                "asistente ejecutivo",
+                "Trabajo difícil de mantener, pues debes ser persuasivo."
             ],
             "x": false,
             "id": 52598
@@ -414,14 +414,14 @@
                 "examples": [
                     "un cumpleaños",
                     "una boda",
-                    "un egreso"
+                    "una graduación"
                 ],
-                "text": "¿Dónde piensas que estás? En <BLANK>?",
-                "type": "un/a + sustantivo singular - un evento"
+                "text": "¿Dónde piensas que estás? ¿En <BLANK>?",
+                "type": "artículo + sustantivo singular - un evento"
             },
             "gene": [
-                "cotillion",
-                "Lots of words rhyme with that. I got a million."
+                "un cotillón",
+                "Muchas palabras riman con eso. Tengo de ellas un millón."
             ],
             "x": false,
             "id": 52991
@@ -429,16 +429,16 @@
         {
             "a": {
                 "examples": [
-                    "un miñon de pan",
+                    "una galleta salada",
                     "una manija",
                     "una roca"
                 ],
                 "text": "¿Alguna vez te dijeron que eres <BLANK>?",
-                "type": "un/a + sustantivo singular - algo aburrido"
+                "type": "artículo + sustantivo singular - algo aburrido"
             },
             "gene": [
-                "dryer sheet",
-                "You smell kinda good and stick to my feet."
+                "un pañuelo",
+                "Hueles bastante bien y parece que es un señuelo."
             ],
             "x": false,
             "id": 52601
@@ -446,16 +446,16 @@
         {
             "a": {
                 "examples": [
-                    "puppy",
-                    "flower",
-                    "twig"
+                    "un cachorro",
+                    "una flor",
+                    "una rama"
                 ],
-                "text": "Tu juego es débil. No lastimaría ni <BLANK>.",
-                "type": "a + artículo + sustantivo singular - un ser vivo pequeño"
+                "text": "Tu juego es débil. No lastimaría ni a <BLANK>.",
+                "type": "artículo + sustantivo singular - un ser vivo pequeño"
             },
             "gene": [
-                "tick",
-                "Is there one on me? I feel kinda sick."
+                "una garrapata",
+                "¿Tengo alguna? A ver si alguien la mata."
             ],
             "x": false,
             "id": 52994
@@ -468,11 +468,11 @@
                     "abofeteado"
                 ],
                 "text": "A un lado porque serás <BLANK>.",
-                "type": "verbo terminado en -do/-da"
+                "type": "verbo participio"
             },
             "gene": [
-                "distilled",
-                "Or not. Everyone has got free will."
+                "destilado",
+                "O no. Depende de lo que me sea comunicado."
             ],
             "x": false,
             "id": 52989
@@ -485,11 +485,11 @@
                     "90 grados"
                 ],
                 "text": "Mi ángulo va a girarte <BLANK>.",
-                "type": "un sentido de giro"
+                "type": "adverbio"
             },
             "gene": [
-                "inside out",
-                "There\u2019s literally no way you could survive that."
+                "al revés",
+                "Literalmente no hay manera de que puedas sobrevivir otra vez."
             ],
             "x": false,
             "id": 52794
@@ -499,14 +499,14 @@
                 "examples": [
                     "pastillas de viagra",
                     "dietas de pérdida de peso rápida",
-                    "tarjeta de crédito"
+                    "tarjetas de crédito"
                 ],
-                "text": "Tus rimas parecen publicidad para <BLANK>.",
+                "text": "Tus rimas parecen publicidad de <BLANK>.",
                 "type": "sustantivo plural - producto tonto o vergonzoso"
             },
             "gene": [
-                "Christmas ornaments",
-                "I play tennis but I don\u2019t enter tournaments."
+                "Adornos navideños",
+                "Juego al tenis pero no con pequeños."
             ],
             "x": true,
             "id": 52913
@@ -514,16 +514,16 @@
         {
             "a": {
                 "examples": [
-                    "un gato",
+                    "un gatito",
                     "una esponja",
-                    "un conejo"
+                    "un conejito"
                 ],
                 "text": "No te tengo miedo. Eres como <BLANK>.",
-                "type": "un/a + sustantivo singular - algo inofensivo"
+                "type": "artículo + sustantivo singular - algo inofensivo"
             },
             "gene": [
-                "cloud",
-                "Just promise me you won\u2019t get too loud."
+                "una nube",
+                "Solo prométeme que el volumen no sube."
             ],
             "x": false,
             "id": 52988
@@ -531,16 +531,16 @@
         {
             "a": {
                 "examples": [
-                    "un bol",
-                    "una lima",
+                    "un tazón",
+                    "un limón",
                     "bolsa de papitas"
                 ],
                 "text": "Tu cabeza es tan hueca, como <BLANK>.",
-                "type": "un/a + sustantivo singular - lo último que has comprado"
+                "type": "artículo + sustantivo singular - lo último que compraste"
             },
             "gene": [
-                "crate of radishes",
-                "My heart is full as a sack full of cabbages."
+                "una caja de rábanos",
+                "Mi corazón está lleno de sangre como los tábanos."
             ],
             "x": false,
             "id": 52942
@@ -552,12 +552,12 @@
                     "tres",
                     "cuatro"
                 ],
-                "text": "Soy uno en un millón. Tú pues uno en <BLANK>.",
+                "text": "Soy uno en un millón. Tú, uno en <BLANK>.",
                 "type": "un número pequeño"
             },
             "gene": [
-                "a handful",
-                "Like finding an Action Comics number 1 in a landfill."
+                "un puñado",
+                "Como encontrar el número 1 de un cómic empeñado."
             ],
             "x": false,
             "id": 52878
@@ -569,12 +569,12 @@
                     "tío",
                     "primo"
                 ],
-                "text": "Apartate antes que me enganche con tu <BLANK>.",
+                "text": "Apártate antes que coquetee con tu <BLANK>.",
                 "type": "sustantivo común - miembro de la familia"
             },
             "gene": [
-                "elderly aunt Jan",
-                "I love her wig and year-round Florida tan."
+                "vieja tía Beatriz",
+                "Amo su peluquín y su bronceado de actriz."
             ],
             "x": true,
             "id": 52943
@@ -587,11 +587,11 @@
                     "raspado"
                 ],
                 "text": "Querrás detenerte antes de que salgas <BLANK>.",
-                "type": "adjetivo - sinónimo para 'herido/a'"
+                "type": "adjetivo - sinónimo de 'herido'"
             },
             "gene": [
-                "manhandled",
-                "Speaking of which I gotta get better sandals."
+                "manipulado",
+                "Hablando de eso, tengo que mantener a un hombre enjaulado."
             ],
             "x": false,
             "id": 52599
@@ -604,11 +604,11 @@
                     "ama"
                 ],
                 "text": "Eres como cachorro rescatado que nadie <BLANK>.",
-                "type": "verbo presente singular en tercera persona"
+                "type": "verbo"
             },
             "gene": [
-                "gives snacks to",
-                "I find Enya\u2019s music, easy to relax to."
+                "le da bocadillos",
+                "Encuentro la música de Enya fácilmente en los pasillos."
             ],
             "x": false,
             "id": 52910
@@ -616,16 +616,16 @@
         {
             "a": {
                 "examples": [
-                    "chabón",
-                    "compradora",
+                    "persona",
+                    "tipo",
                     "cliente"
                 ],
-                "text": "Te estás metiendo con cualquier <BLANK>.",
-                "type": "sustantivo común - una persona"
+                "text": "Estás cometiendo un error metiéndote con <BLANK>.",
+                "type": "este/esta + sustantivo común - una persona"
             },
             "gene": [
-                "guy",
-                "Just kidding! I wouldn\u2019t hurt a fly!"
+                "usuario",
+                "¡Es broma! ¡No dañaría ni a un acuario!"
             ],
             "x": false,
             "id": 50597
@@ -633,16 +633,16 @@
         {
             "a": {
                 "examples": [
-                    "un Taco Bell",
-                    "un McDonalds",
+                    "un KFC",
+                    "un McDonald's",
                     "un Burger King"
                 ],
-                "text": "Tienes menos aliento que la gran apertura de <BLANK>.",
-                "type": "un/a + sustantivo propio - cadena de comida rápida"
+                "text": "Tienes menos expectativa que la gran inauguración de <BLANK>.",
+                "type": "artículo + sustantivo propio - cadena de comida rápida"
             },
             "gene": [
-                "Olive Garden",
-                "You don\u2019t like flowers? I beg your pardon?"
+                "un Taco Bell",
+                "¿No te gustan las flores? ¿Pero sí el clavel?"
             ],
             "x": false,
             "id": 52912
@@ -650,16 +650,16 @@
         {
             "a": {
                 "examples": [
-                    "sonreir",
+                    "sonreír",
                     "largar una carcajada",
-                    "reir"
+                    "reír"
                 ],
                 "text": "Todas tus rimas me hacen querer <BLANK>.",
-                "type": "verbo - sinónimo para 'reir'"
+                "type": "verbo - sinónimo de 'reír'"
             },
             "gene": [
-                "teehee",
-                "If you need more practice, I\u2019m usually free."
+                "ji ji",
+                "Si necesitas más práctica, suelo estar aquí-quí."
             ],
             "x": false,
             "id": 52650
@@ -667,7 +667,7 @@
         {
             "a": {
                 "examples": [
-                    "poster",
+                    "póster",
                     "mural",
                     "cabeza de reno"
                 ],
@@ -675,8 +675,8 @@
                 "type": "sustantivo singular - una decoración"
             },
             "gene": [
-                "painting of a clown",
-                "Tomorrow\u2019s my first trip to Chinatown!"
+                "pintura de payaso",
+                "¡Mañana es mi primer viaje a Burkina Faso!"
             ],
             "x": false,
             "id": 51092
@@ -688,12 +688,12 @@
                     "una jaula",
                     "una madriguera"
                 ],
-                "text": "Se viene mi punchline. Mejor busca escondite en <BLANK>.",
-                "type": "un/a + sustantivo común singular - lugar seguro"
+                "text": "Se viene mi remate. Mejor busca un escondite en <BLANK>.",
+                "type": "artículo + sustantivo común singular - lugar seguro"
             },
             "gene": [
-                "synagogue",
-                "At some state fairs, you can win a dog."
+                "una sinagoga",
+                "En algunas ferias, puedes ganar una toga."
             ],
             "x": false,
             "id": 52792
@@ -705,12 +705,12 @@
                     "una ahorcada",
                     "un mensaje"
                 ],
-                "text": "Tu flow está atascado deberías darle <BLANK>.",
-                "type": "un/a + sustantivo - acción"
+                "text": "Tu ritmo está atascado, deberías darle <BLANK>.",
+                "type": "artículo + sustantivo - acción"
             },
             "gene": [
-                "poke",
-                "I always laugh in groups when I don\u2019t get the joke."
+                "un toque",
+                "Siempre me río en grupo hasta que la quijada se me disloque."
             ],
             "x": false,
             "id": 52431
@@ -726,8 +726,8 @@
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "shvitz",
-                "Followed by your need to move your bowels."
+                "en sauna",
+                "Seguido de su necesidad de conocer la fauna."
             ],
             "x": true,
             "id": 52791
@@ -736,15 +736,15 @@
             "a": {
                 "examples": [
                     "las ruinas",
-                    "una pieza desordenada",
+                    "una alcantarilla",
                     "un callejón oscuro"
                 ],
                 "text": "Esperaría encontrarte en <BLANK>.",
-                "type": "un/a + sustantivo - un lugar horrible"
+                "type": "artículo + sustantivo - un lugar horrible"
             },
             "gene": [
-                "cold December",
-                "You prefer the cold to the heat, as I remember."
+                "un frío junio",
+                "Prefieres el frío al calor, qué infortunio."
             ],
             "x": false,
             "id": 52596
@@ -757,11 +757,11 @@
                     "chicle"
                 ],
                 "text": "Cuesta no atascarse cuando rimas como <BLANK>.",
-                "type": "sustantivo - algo dificil de tragar"
+                "type": "sustantivo - algo difícil de tragar"
             },
             "gene": [
-                "very thick pie",
-                "I mean, do I even need to explain why?"
+                "pastel muy espeso",
+                "Es decir, ¿necesito explicar eso?"
             ],
             "x": false,
             "id": 52793
@@ -770,15 +770,15 @@
             "a": {
                 "examples": [
                     "hoyo",
-                    "narina",
+                    "fosa nasal",
                     "apertura"
                 ],
                 "text": "Escúchame, y cierra tu <BLANK>.",
-                "type": "sustantivo común -  una apertura u orificio"
+                "type": "sustantivo común - una apertura u orificio"
             },
             "gene": [
-                "vent",
-                "Can\u2019t believe the direction you guys went."
+                "ventilación",
+                "No puedo creer que tomaron esa dirección."
             ],
             "x": true,
             "id": 50599
@@ -788,14 +788,14 @@
                 "examples": [
                     "bisonte",
                     "puercoespín",
-                    "sapo"
+                    "rana"
                 ],
-                "text": "Eres un oso una bestia yo soy elegante como <BLANK>.",
+                "text": "Eres un oso bestial yo soy elegante como <BLANK>.",
                 "type": "sustantivo singular - animal"
             },
             "gene": [
-                "rat",
-                "And I ride on your head like a little bear hat."
+                "rata",
+                "Y monto en tu cabeza como una osa barata."
             ],
             "x": false,
             "id": 52877
@@ -807,12 +807,12 @@
                     "el perdedor",
                     "el chistoso"
                 ],
-                "text": "En la lucha libre serías <BLANK>.",
+                "text": "En la lucha libre tú serías <BLANK>.",
                 "type": "artículo + sustantivo - algo que le dan una paliza en lucha libre"
             },
             "gene": [
-                "Ric Flair",
-                "He was the Nature Boy, in case you care."
+                "la escalera",
+                "Y con ella, el dolor se acelera."
             ],
             "x": false,
             "id": 52786
@@ -820,16 +820,16 @@
         {
             "a": {
                 "examples": [
-                    "suburbanas",
-                    "manchadas",
-                    "anticuadas"
+                    "suburbanos",
+                    "manchados",
+                    "anticuados"
                 ],
                 "text": "Tus juegos de palabra y tus letras son <BLANK>.",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "periwinkle",
-                "Excuse me while I take a rap battle tinkle."
+                "lentos",
+                "Discúlpame mientras voy a la batalla del rap de los lamentos."
             ],
             "x": false,
             "id": 52789
@@ -841,12 +841,12 @@
                     "una casa",
                     "un trofeo"
                 ],
-                "text": "¿Así que así te manejas?  Deja que te de <BLANK>.",
-                "type": "un/a + sustantivo singular - un objeto"
+                "text": "¿Así es como lo haces? Deja que te regale <BLANK>.",
+                "type": "artículo + sustantivo singular - un objeto"
             },
             "gene": [
-                "futon",
-                "I\u2019m saying it was bad and u have to lie down."
+                "un colchón",
+                "Estoy diciendo que fue malo y eres dormilón."
             ],
             "x": false,
             "id": 52441
@@ -855,15 +855,15 @@
             "a": {
                 "examples": [
                     "el atardecer",
-                    "las 3 de la mañana",
+                    "la madrugada",
                     "la hora de cenar"
                 ],
-                "text": "Eres tan útil como paneles de sol en <BLANK>.",
+                "text": "Eres tan útil como paneles solares en <BLANK>.",
                 "type": "artículo + sustantivo - tiempo oscuro en el día"
             },
             "gene": [
-                "Lowe\u2019s Hardware",
-                "It stands to reason, I\u2019d find you there."
+                "una cueva inhabitada",
+                "Es ilógico que te encuentre ahí acostada."
             ],
             "x": false,
             "id": 52787
@@ -873,14 +873,14 @@
                 "examples": [
                     "polvo",
                     "tierra",
-                    "hongos"
+                    "moho"
                 ],
                 "text": "Debes tener una vitrina vacía llena de <BLANK>.",
                 "type": "sustantivo - término para 'suciedad'"
             },
             "gene": [
-                "string",
-                "I still say braces are a cool form of bling."
+                "polvo",
+                "Insisto que los corchetes son como el parachoques de un Volvo."
             ],
             "x": false,
             "id": 52703
@@ -890,14 +890,14 @@
                 "examples": [
                     "cortar el pasto",
                     "barrer",
-                    "fregar"
+                    "lavar la loza"
                 ],
                 "text": "¿Terminaste? Debo ir a <BLANK>.",
-                "type": "verbo infinitivo"
+                "type": "verbo"
             },
             "gene": [
-                "starch",
-                "I gotta say it was an unseasonably cold March."
+                "ver las papas que frío",
+                "Tengo que decir que fue un marzo inusualmente frío."
             ],
             "x": false,
             "id": 52751
@@ -913,8 +913,8 @@
                 "type": "sustantivo singular - algo rompible"
             },
             "gene": [
-                "heart",
-                "Why fall in love when we\u2019ll just fall apart?"
+                "corazón",
+                "¿Por qué enamorarse si solo terminará en desazón?"
             ],
             "x": false,
             "id": 52705
@@ -922,16 +922,16 @@
         {
             "a": {
                 "examples": [
-                    "robo",
+                    "robos",
                     "incendios",
                     "evasión de impuestos"
                 ],
-                "text": "Dices que tus versos son mortales pero apenas son <BLANK>.",
+                "text": "Dices que tus versos son mortales pero solo cometes <BLANK>.",
                 "type": "sustantivo - un crimen"
             },
             "gene": [
-                "voter fraud",
-                "The key to a green yard is using good sod."
+                "fraude electoral",
+                "La clave de un jardín verde es tener un buen floral."
             ],
             "x": false,
             "id": 52704
@@ -944,11 +944,11 @@
                     "repulsivo"
                 ],
                 "text": "Es difícil respirar porque tu rap es <BLANK>.",
-                "type": "adjetivo - sinónimo para 'repulsivo'"
+                "type": "adjetivo - sinónimo de 'repulsivo'"
             },
             "gene": [
-                "heinous",
-                "But I\u2019ll change my mind if you become famous."
+                "odioso",
+                "Pero cambiaré de opinión si te haces famoso."
             ],
             "x": false,
             "id": 52755
@@ -960,12 +960,12 @@
                     "a control de plagas",
                     "a un granjero"
                 ],
-                "text": "Olvida a los Cazafantasmas llamaría por tí <BLANK>.",
-                "type": "a + sustantivo propio - un negocio"
+                "text": "Olvida a los Cazafantasmas, para ti llamaría <BLANK>.",
+                "type": "a + sustantivo - un servicio"
             },
             "gene": [
-                "robot repair",
-                "All I\u2019m saying is, I care."
+                "reparación de robots",
+                "Todo lo que digo es que son para complots."
             ],
             "x": false,
             "id": 52479
@@ -977,12 +977,12 @@
                     "dólares",
                     "lentejuelas"
                 ],
-                "text": "Mis clases no son gratis cuestan un billón de <BLANK>.",
+                "text": "Mis clases no son gratis cuestan mil millones de <BLANK>.",
                 "type": "sustantivo plural - un tipo de moneda"
             },
             "gene": [
-                "yen",
-                "Class starts right now, grab a notebook and pen."
+                "yenes",
+                "La clase empieza ahora mismo, toma un cuaderno y sartenes."
             ],
             "x": false,
             "id": 52549
@@ -990,16 +990,16 @@
         {
             "a": {
                 "examples": [
-                    "un vaso de agua",
+                    "un vaso con agua",
                     "una hamburguesa",
                     "una mancuerna"
                 ],
                 "text": "No se puede confiar en que lleves <BLANK>.",
-                "type": "un/a + sustantivo singular"
+                "type": "artículo + sustantivo singular"
             },
             "gene": [
-                "hors d\u2019ouevre tray",
-                "I\u2019m sure catering\u2019s, not your thing anyway."
+                "una bandeja de aperitivos",
+                "Estoy seguro de que los camareros son activos."
             ],
             "x": false,
             "id": 52477
@@ -1008,15 +1008,15 @@
             "a": {
                 "examples": [
                     "MTV",
-                    "\u2019Gran Hermano\u2019",
-                    "\u2019Lo que el viento se llevó\u2019"
+                    "’Gran Hermano’",
+                    "’Lo que el viento se llevó’"
                 ],
-                "text": "La verdad que, me aburres más que <BLANK>.",
+                "text": "La verdad es que me aburres más que <BLANK>.",
                 "type": "película/serie de TV/canal"
             },
             "gene": [
-                "\u2019Tinker Tailor Soldier Spy\u2019",
-                "Honestly, I wanted to like it. I tried."
+                "’Mini espías’",
+                "Sinceramente, quería que me gustara, pero son harpías."
             ],
             "x": false,
             "id": 52511
@@ -1025,15 +1025,15 @@
             "a": {
                 "examples": [
                     "el banco",
-                    "el colegio",
+                    "la escuela",
                     "la lavandería"
                 ],
-                "text": "Solo ponte el saco y corre hacia <BLANK>.",
+                "text": "Solo ponte el abrigo y corre hacia <BLANK>.",
                 "type": "artículo + sustantivo singular - lugar"
             },
             "gene": [
-                "Gap",
-                "And while you are there, will you get me a new cap?"
+                "el hueco",
+                "Y ya que estás ahí, ¿me comprarás un gorro sueco?"
             ],
             "x": false,
             "id": 52752
@@ -1045,12 +1045,12 @@
                     "vieja",
                     "siniestro"
                 ],
-                "text": "¡Escuche lo que decías de mí! ¡Eres tan <BLANK>!",
+                "text": "¡Escuche lo que dijiste de mí! ¡Eres tan <BLANK>!",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "gorgeous",
-                "Let\u2019s go on a promenade, you me and my corgis."
+                "magnífico",
+                "Vamos a dar un paseo, tú, yo y un científico."
             ],
             "x": false,
             "id": 52547
@@ -1058,16 +1058,16 @@
         {
             "a": {
                 "examples": [
-                    "fría",
-                    "apática",
-                    "tranqui"
+                    "glaciar",
+                    "desganada",
+                    "aburrida"
                 ],
-                "text": "Guau, tu última rima fue penosa y <BLANK>.",
-                "type": "adjetivo - sinónimo para 'lenta'"
+                "text": "Vaya, tu última rima fue patética y <BLANK>.",
+                "type": "adjetivo - sinónimo de 'lenta'"
             },
             "gene": [
-                "lethargic",
-                "What were you, frozen in the Arctic? haha"
+                "aletargada",
+                "¿Dónde estabas, abrazando tu almohada?"
             ],
             "x": false,
             "id": 52509
@@ -1075,16 +1075,16 @@
         {
             "a": {
                 "examples": [
-                    "cremado",
+                    "aplastado",
                     "pisoteada",
                     "sobrepasado"
                 ],
                 "text": "Písame los talones y terminarás <BLANK>.",
-                "type": "verbo terminado en -do/a"
+                "type": "verbo participio"
             },
             "gene": [
-                "spoiled",
-                "I\u2019ll give you a massage with my feet all oiled."
+                "mimado",
+                "Te daré un masaje con el pie aceitado."
             ],
             "x": true,
             "id": 52499
@@ -1093,15 +1093,15 @@
             "a": {
                 "examples": [
                     "fría",
-                    "azúl",
+                    "azul",
                     "refrescante"
                 ],
                 "text": "Extraño los días, donde tú eras <BLANK>.",
-                "type": "adjetivo - describe una pileta"
+                "type": "adjetivo - describe una piscina"
             },
             "gene": [
-                "Olympic-sized",
-                "Now you\u2019re so tiny, it\u2019s uncivilized.\u2019"
+                "de tamaño deportivo",
+                "Ahora eres tan pequeño que eres furtivo."
             ],
             "x": false,
             "id": 52510
@@ -1114,11 +1114,11 @@
                     "un yoyo"
                 ],
                 "text": "Voy en busca de trofeos pero solo eres <BLANK>.",
-                "type": "un/a + sustantivo singular - objeto pequeño"
+                "type": "artículo + sustantivo singular - objeto pequeño"
             },
             "gene": [
-                "shrimp",
-                "When I make patterned skirts, I always screw up the crimp."
+                "un camarón",
+                "Cuando hago faldas, siempre meto la pata con el patrón."
             ],
             "x": false,
             "id": 52702
@@ -1127,15 +1127,15 @@
             "a": {
                 "examples": [
                     "Drake",
-                    "Phil Collins",
+                    "Michael Jackson",
                     "Maroon 5"
                 ],
                 "text": "¿Escucharte? Prefiero escuchar a <BLANK>.",
                 "type": "sustantivo propio - un mal músico/cantante"
             },
             "gene": [
-                "Creed",
-                "I love Creed and I\u2019ve been meaning to dive back in!"
+                "Rammstein",
+                "¡Cuando escucho Rammstein, me siento como Einstein!"
             ],
             "x": false,
             "id": 52513
@@ -1143,16 +1143,16 @@
         {
             "a": {
                 "examples": [
-                    "coraje",
+                    "valentía",
                     "generosidad",
                     "belleza"
                 ],
-                "text": "Respira hondo que estoy por romperte tu <BLANK>.",
+                "text": "Respira hondo, que estoy por romper tu <BLANK>.",
                 "type": "sustantivo abstracto"
             },
             "gene": [
-                "education",
-                "Let me begin with this insane Marx quotation."
+                "educación",
+                "Permíteme comenzar con este presupuesto de cremación."
             ],
             "x": false,
             "id": 52500
@@ -1164,12 +1164,12 @@
                     "bueno",
                     "generosa"
                 ],
-                "text": "Olvídalo nunca más seré <BLANK>.",
+                "text": "Olvídalo, nunca más seré <BLANK>.",
                 "type": "adjetivo positivo"
             },
             "gene": [
-                "doughy",
-                "My favorite character on \u2018Friends\u2019 was Joey."
+                "tonto",
+                "Mi personaje favorito de 'El mago de Oz' era Toto."
             ],
             "x": false,
             "id": 50600
@@ -1179,14 +1179,14 @@
                 "examples": [
                     "tu sopa",
                     "tus fideos",
-                    "tus grisines"
+                    "tus palitos de pan"
                 ],
-                "text": "Viniste por mí pues ahora voy por <BLANK>",
-                "type": "tu/tus + sustantivo - algo encontrado en una despensa"
+                "text": "Viniste por mí, pues ahora voy por <BLANK>",
+                "type": "adjetivo posesivo + sustantivo - algo encontrado en una despensa"
             },
             "gene": [
-                "cereal",
-                "I\u2019ll lick it off the floor, the dirt\u2019s immaterial."
+                "tu cereal",
+                "Lo lameré del suelo, la suciedad es real."
             ],
             "x": false,
             "id": 52498
@@ -1196,14 +1196,14 @@
                 "examples": [
                     "una escalera",
                     "un flotador",
-                    "un bañador"
+                    "un traje de baño"
                 ],
-                "text": "Entre el ADN humano eres <BLANK>.",
-                "type": "un/a + sustantivo común - algo encontrado en una piscina"
+                "text": "En el ADN humano tú eres <BLANK>.",
+                "type": "artículo + sustantivo común - algo encontrado en una piscina"
             },
             "gene": [
-                "shark",
-                "You\u2019re the reason I don\u2019t swim in the dark."
+                "un tiburón",
+                "Tú eres la razón por la que no nado con cinturón."
             ],
             "x": false,
             "id": 52481
@@ -1216,11 +1216,11 @@
                     "insípidos"
                 ],
                 "text": "Me estoy durmiendo. Tus versos son <BLANK>.",
-                "type": "adjetivo plural - sinónimo para 'aburridos'"
+                "type": "adjetivo plural - sinónimo de 'aburridos'"
             },
             "gene": [
-                "plebeian",
-                "So I close my eyes and dream of the Caribbean."
+                "lacayos",
+                "Así que cierro los ojos y sueño con caballos."
             ],
             "x": false,
             "id": 52442
@@ -1232,12 +1232,12 @@
                     "caballo",
                     "harapos"
                 ],
-                "text": "Tu mami es tan tonta que rima \u2018rap\u2019 con <BLANK>.",
+                "text": "Tu mamá es tan tonta que piensa que ‘rap’ rima con <BLANK>.",
                 "type": "una palabra que no rima con 'rap'"
             },
             "gene": [
                 "trap",
-                "Oh dang. I just fell into one."
+                "Oh, maldición. Acabo hacer una rima."
             ],
             "x": true,
             "id": 52480
@@ -1253,8 +1253,8 @@
                 "type": "sustantivo plural - cosas feas"
             },
             "gene": [
-                "dangers",
-                "My fifth favorite baseball team is the Texas Rangers."
+                "cloacas",
+                "Mi equipo de fútbol favorito es de Caracas."
             ],
             "x": false,
             "id": 52483
@@ -1264,14 +1264,14 @@
                 "examples": [
                     "Sprite",
                     "agua",
-                    "licuado"
+                    "malteada"
                 ],
-                "text": "Aunque te murieras de sed no te daría <BLANK>.",
+                "text": "Aunque te murieras de sed, no te daría <BLANK>.",
                 "type": "sustantivo singular - bebida"
             },
             "gene": [
-                "whiskey",
-                "Under the circumstances, it would be risky."
+                "helado",
+                "Dadas las circunstancias, sería arriesgado."
             ],
             "x": true,
             "id": 52478
@@ -1287,8 +1287,8 @@
                 "type": "sustantivo plural - cosas horribles"
             },
             "gene": [
-                "puns",
-                "I never skip the bakery so I\u2019ve got big buns."
+                "juegos de palabras",
+                "Siempre me hago un sándwich con queso de cabras."
             ],
             "x": true,
             "id": 51861
@@ -1296,16 +1296,16 @@
         {
             "a": {
                 "examples": [
-                    "una bici",
+                    "una bicicleta",
                     "un auto",
                     "un bote"
                 ],
-                "text": "¿Sigues en carrera? Deja que te dé <BLANK>.",
-                "type": "un/a + sustantivo singular - vehículo"
+                "text": "¿Intentar mantener el ritmo? Deja que te regale <BLANK>.",
+                "type": "artículo + sustantivo singular - vehículo"
             },
             "gene": [
-                "tractor trailer",
-                "I\u2019m over here browsing my local grocery mailer."
+                "un autobús",
+                "Estoy aquí hojeando el catálogo y solo hay champús."
             ],
             "x": false,
             "id": 52443
@@ -1313,16 +1313,16 @@
         {
             "a": {
                 "examples": [
-                    "a un doctor",
-                    "a una enfermera",
-                    "a un cirujano"
+                    "un doctor",
+                    "una enfermera",
+                    "un cirujano"
                 ],
-                "text": "Fuiste semejante fracaso que tuvieron que llamar <BLANK>.",
-                "type": "a + artículo + sustantivo común - profesional de la medicina"
+                "text": "Fallaste tanto que tuvieron que llamar a <BLANK>.",
+                "type": "artículo + sustantivo común - profesional médico"
             },
             "gene": [
-                "specialist",
-                "Just so you know, I document every diss."
+                "un especialista",
+                "Solo para que sepas, cada insulto lo pongo en una lista."
             ],
             "x": false,
             "id": 52439
@@ -1338,8 +1338,8 @@
                 "type": "dirección o posición"
             },
             "gene": [
-                "through",
-                "Unless it\u2019s a haunted house. Then please do!"
+                "a través",
+                "A menos que sea una casa encantada. ¡Entonces, hazlo otra vez!"
             ],
             "x": false,
             "id": 50601
@@ -1351,12 +1351,12 @@
                     "pelo mojado",
                     "tortillas"
                 ],
-                "text": "Tus rimas son tan sueltas como cubo de <BLANK>.",
+                "text": "Tus rimas son tan sueltas como un balde de <BLANK>.",
                 "type": "sustantivo plural - cosas flexibles"
             },
             "gene": [
-                "mixed greens",
-                "Did you notice I\u2019m wearing my high school jeans?"
+                "verduras",
+                "¿Notaste que llevo mis vaqueros con costuras?"
             ],
             "x": true,
             "id": 52214
@@ -1366,14 +1366,14 @@
                 "examples": [
                     "almuerzo",
                     "collar",
-                    "reloj"
+                    "pajarera"
                 ],
-                "text": "Tus raps están en sus últimas hora de enterrar tu <BLANK>.",
+                "text": "Tus raps están en sus últimas horas de enterrar tu <BLANK>.",
                 "type": "sustantivo - algo que elaboras"
             },
             "gene": [
-                "baby",
-                "When I do CrossFit, I blast \u2018Call Me Maybe.\u2019"
+                "lujuria",
+                "Cuando hago ejercicios, pongo 'En la ciudad de la furia'."
             ],
             "x": false,
             "id": 52424
@@ -1381,16 +1381,16 @@
         {
             "a": {
                 "examples": [
-                    "casa",
-                    "auto",
+                    "tu casa",
+                    "tu auto",
                     "tus pulgares"
                 ],
-                "text": "Heriste mis sentimientos destrozaré <BLANK>.",
-                "type": "tu/s + sustantivo - una posesión"
+                "text": "Heriste mis sentimientos, destrozaré <BLANK>.",
+                "type": "adjetivo posesivo + sustantivo - una posesión"
             },
             "gene": [
-                "grape",
-                "That\u2019s what happens when Gene. Goes. Ape."
+                "tu coco",
+                "Eso es lo que pasa cuando Gene. Se vuelve. Loco."
             ],
             "x": false,
             "id": 52400
@@ -1406,8 +1406,8 @@
                 "type": "adjetivo positivo"
             },
             "gene": [
-                "special",
-                "It seems I always fold under pressure."
+                "especial",
+                "Parece que me pongo tímido en un evento social."
             ],
             "x": false,
             "id": 52693
@@ -1419,12 +1419,12 @@
                     "mascotas",
                     "deberes"
                 ],
-                "text": "Me llamarán un fracaso pero he visto tus <BLANK>.",
+                "text": "Dices que soy un fracaso pero he visto tus <BLANK>.",
                 "type": "sustantivo plural común"
             },
             "gene": [
-                "debt",
-                "Trying investing in pork it\u2019s always a safe bet."
+                "deudas",
+                "Intentar invertir en carne de cerdo siempre son apuestas concienzudas."
             ],
             "x": false,
             "id": 52080
@@ -1436,12 +1436,12 @@
                     "los costados",
                     "arriba"
                 ],
-                "text": "Si te viera en línea deslizaría para <BLANK>.",
+                "text": "Si te viera en internet, deslizaría para <BLANK>.",
                 "type": "sustantivo - una dirección"
             },
             "gene": [
-                "slant",
-                "That means u be my mentor I\u2019ll be your aunt."
+                "la izquierda",
+                "Eso significa que en un circo, yo cruzaré la cuerda."
             ],
             "x": true,
             "id": 52397
@@ -1449,16 +1449,16 @@
         {
             "a": {
                 "examples": [
-                    "interna",
+                    "interno",
                     "operador",
                     "supervisora"
                 ],
-                "text": "No eres mi jefe ni siquiera mi <BLANK>.",
+                "text": "No eres mi jefe, ni siquiera mi <BLANK>.",
                 "type": "sustantivo - posición oficial de trabajo"
             },
             "gene": [
-                "H R Director",
-                "She works hard. That\u2019s why I respect her."
+                "Director de Recursos Humanos",
+                "Ella trabaja duro con los cirujanos."
             ],
             "x": false,
             "id": 50602
@@ -1468,14 +1468,14 @@
                 "examples": [
                     "los huevos",
                     "los panqueques",
-                    "las galletas"
+                    "el tocino"
                 ],
-                "text": "¿Eso es todo lo que puedes decir? Pues chúpame <BLANK>.",
-                "type": "los/las + sustantivo plural - comida para el desayuno"
+                "text": "¿Eso es todo lo que puedes decir? Pues, bésame <BLANK>.",
+                "type": "artículo + sustantivo - comida para el desayuno"
             },
             "gene": [
-                "parfaits",
-                "Which I only treat myself to on birthdays."
+                "la miel de abeja",
+                "Que solo me doy el gusto en la Nochevieja."
             ],
             "x": true,
             "id": 52217
@@ -1487,12 +1487,12 @@
                     "rápidamente",
                     "monstruosamente"
                 ],
-                "text": "No paras de hablar mis palabras las elijo <BLANK>.",
+                "text": "No paras de hablar, mis palabras las elijo <BLANK>.",
                 "type": "adverbio"
             },
             "gene": [
-                "randomly",
-                "I don\u2019t use my name to answer surveys candidly."
+                "aleatoriamente",
+                "No utilizo mi nombre para responder encuestas, francamente."
             ],
             "x": false,
             "id": 51917
@@ -1504,12 +1504,12 @@
                     "rodar",
                     "acariciar"
                 ],
-                "text": "Comienza el conteo así que deja de <BLANK>.",
-                "type": "verbo en infinitivo"
+                "text": "Comienza el conteo, así que deja de <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
-                "toiling",
-                "I\u2019m not whistling at you, my tea is just boiling."
+                "servir",
+                "No te estoy silbando, mi té está a punto de hervir."
             ],
             "x": false,
             "id": 52079
@@ -1522,11 +1522,11 @@
                     "sartenes"
                 ],
                 "text": "Escuché lo que dijiste, ya casi no quedan <BLANK>.",
-                "type": "sustantivo plural - utensillo de cocina"
+                "type": "sustantivo plural - utensilio de cocina"
             },
             "gene": [
-                "roll of foil",
-                "Help me wrap my sandwich or it\u2019ll spoil."
+                "rollos de papel de aluminio",
+                "Ayúdame a envolver mi sándwich para mi condominio."
             ],
             "x": false,
             "id": 52129
@@ -1534,16 +1534,16 @@
         {
             "a": {
                 "examples": [
-                    "\u2019Élite\u2019",
-                    "\u2019Big Bang Theory\u2019",
-                    "\u2019Two and a Half Men\u2019"
+                    "’La casa de papel’",
+                    "’Friends’",
+                    "’Breaking Bad’"
                 ],
                 "text": "Eres más aburrido que temporada de <BLANK>.",
                 "type": "sustantivo propio - serie de TV mala"
             },
             "gene": [
-                "\u2019Murphy Brown\u2019",
-                "Actually I like that show. Miles is such a clown!"
+                "’Naruto’",
+                "En realidad odio ese programa. ¡No aparece ningún auto!"
             ],
             "x": false,
             "id": 50604
@@ -1551,16 +1551,16 @@
         {
             "a": {
                 "examples": [
-                    "medias",
+                    "calcetines",
                     "zapatos",
                     "pijamas"
                 ],
                 "text": "Buscar llegar a mi mente y solo llegas a mis <BLANK>.",
-                "type": "sustantivo plural - cosas que van en pares"
+                "type": "sustantivo plural - cosas en pares"
             },
             "gene": [
-                "knitting needles",
-                "My apartment buzzes cuz it\u2019s full of beetles."
+                "orejas",
+                "Mi departamento zumba porque está lleno de abejas."
             ],
             "x": false,
             "id": 52216
@@ -1572,12 +1572,12 @@
                     "tu abdomen",
                     "tu pie"
                 ],
-                "text": "¡Clac Clac Clac! mis tacones sobre <BLANK>.",
-                "type": "tu/s + sustantivo - una parte del cuerpo"
+                "text": "¡Clac, clac, clac! Hacen mis tacones sobre <BLANK>.",
+                "type": "adjetivo posesivo + sustantivo - una parte del cuerpo"
             },
             "gene": [
-                "thigh",
-                "Did I stab you I\u2019m sorry, shoot, are you okay?"
+                "tu pierna",
+                "Te apuñalé sin querer. Lo siento, soy muy tierna."
             ],
             "x": false,
             "id": 51900
@@ -1589,12 +1589,12 @@
                     "rara",
                     "intenso"
                 ],
-                "text": "Arrodíllate, antes que me ponga <BLANK>.",
+                "text": "Arrodíllate, antes que me vuelva <BLANK>.",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "nuts",
-                "I\u2019m good at this rapping! I\u2019m owning your butts!"
+                "demente",
+                "¡Soy bueno en esto del rap! ¡Me estoy adueñando de tu mente!"
             ],
             "x": true,
             "id": 52392
@@ -1606,12 +1606,12 @@
                     "patearé",
                     "te romperé"
                 ],
-                "text": "Intenta contenerme, igual <BLANK>.",
-                "type": "verbo en pasado (primera persona)"
+                "text": "Trata de sujetarme, igual <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
-                "judo throw",
-                "I binge on Swedish Fish when I\u2019m feeling low."
+                "te lanzaré",
+                "Voy a darme un atracón de salmón y lo endulzaré."
             ],
             "x": false,
             "id": 51920
@@ -1621,14 +1621,14 @@
                 "examples": [
                     "frías",
                     "tembleques",
-                    "chicas"
+                    "pequeñas"
                 ],
-                "text": "Tiras el mic pues tus manos son demasiado <BLANK>.",
-                "type": "adjetivo negativo (en plural femenino)"
+                "text": "Sueltas el micrófono porque tus manos son demasiado <BLANK>.",
+                "type": "adjetivo negativo"
             },
             "gene": [
-                "gloved",
-                "I lost a pair of mittens I just loved."
+                "enguantadas",
+                "Cuando tenías un par de mitones, me encantabas."
             ],
             "x": false,
             "id": 52082
@@ -1636,16 +1636,16 @@
         {
             "a": {
                 "examples": [
-                    "cuaquear",
-                    "graznidos",
-                    "gruñir"
+                    "zumbido",
+                    "habla",
+                    "cotorreo"
                 ],
-                "text": "No dices la posta. Solo escucho <BLANK>.",
-                "type": "sustantivo - sinónimo para 'habla/medio de comunicación'"
+                "text": "No hablas por hablar. Solo escucho <BLANK>.",
+                "type": "sustantivo - sinónimo de 'conversación'"
             },
             "gene": [
-                "screeching",
-                "\u2019Don\u2019t talk to strangers\u2019 is a rule worth teaching."
+                "chillido",
+                "'No hablar con extraños' es una regla que ahora tiene sentido."
             ],
             "x": false,
             "id": 52021
@@ -1661,8 +1661,8 @@
                 "type": "sustantivo - estado mental poco placentero"
             },
             "gene": [
-                "ice cream",
-                "Hope you like Ben and Jerry\u2019s Americone Dream."
+                "helado",
+                "Espero que disfrutes recorrer el mercado."
             ],
             "x": true,
             "id": 52151
@@ -1670,16 +1670,16 @@
         {
             "a": {
                 "examples": [
-                    "los lobos",
-                    "los ponis",
-                    "los murcielagos"
+                    "lobos",
+                    "ponis",
+                    "murciélagos"
                 ],
-                "text": "¿Cuál es tu problema? Te criaron <BLANK>?",
-                "type": "los/las + sustantivo plural- tipo de animal"
+                "text": "¿Cuál es tu problema? ¿Fuiste criado por <BLANK>?",
+                "type": "sustantivo plural- tipo de animal"
             },
             "gene": [
-                "armadillos",
-                "I\u2019ve taken up a hobby, embroidering pillows!"
+                "peces hadas",
+                "Me he aficionado a bordar almohadas."
             ],
             "x": false,
             "id": 52390
@@ -1691,12 +1691,12 @@
                     "débil",
                     "ruidoso"
                 ],
-                "text": "Quería un desafío pero eras demasiado <BLANK>.",
+                "text": "Quería un desafío pero eres demasiado <BLANK>.",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "funky",
-                "I really hate these jeans. Do I look chunky?"
+                "engreído",
+                "Realmente odio estos pantalones. ¿Me veo fornido?"
             ],
             "x": false,
             "id": 51918
@@ -1708,12 +1708,12 @@
                     "los perros",
                     "los abuelos"
                 ],
-                "text": "Las cosas que odio más que vos son <BLANK>.",
-                "type": "los/las + sustantivo plural"
+                "text": "Las cosas que odio más que tú son <BLANK>.",
+                "type": "artículo + sustantivo plural"
             },
             "gene": [
-                "caves",
-                "There\u2019s nothing to do in caves."
+                "las cuevas",
+                "No hay nada que hacer en las cuevas."
             ],
             "x": false,
             "id": 52127
@@ -1723,14 +1723,14 @@
                 "examples": [
                     "construyendo",
                     "nadando",
-                    "cantando"
+                    "cacareando"
                 ],
-                "text": "Contra tu peor puedo seguir <BLANK>.",
+                "text": "Vi lo peor de ti y todavía sigo <BLANK>.",
                 "type": "verbo gerundio"
             },
             "gene": [
-                "crying",
-                "They say words don\u2019t hurt, but they were lying."
+                "llorando",
+                "Dicen que las palabras no dañan, pero aún me estoy decepcionando."
             ],
             "x": false,
             "id": 51919
@@ -1743,11 +1743,11 @@
                     "estilo"
                 ],
                 "text": "Esto no es para quienes no tienen <BLANK>.",
-                "type": "sustantivo - sinónimo para 'habilidad'"
+                "type": "sustantivo - sinónimo de 'habilidad'"
             },
             "gene": [
-                "hops",
-                "My dad doesn\u2019t like it when I call him \u2018Pops.\u2019"
+                "destreza",
+                "A mi papá no le gusta para nada la pereza."
             ],
             "x": false,
             "id": 50605
@@ -1755,16 +1755,16 @@
         {
             "a": {
                 "examples": [
-                    "remendada",
-                    "friki",
+                    "barata",
+                    "ñoña",
                     "olorosa"
                 ],
                 "text": "Te llamaría basura pero ella no es tan <BLANK>.",
-                "type": "adjetivo negativo (en femenino)"
+                "type": "adjetivo negativo"
             },
             "gene": [
-                "pale",
-                "I try to eat healthy but I can\u2019t stand kale."
+                "pálida",
+                "Intento comer sano pero no soporto la ensalada cálida."
             ],
             "x": false,
             "id": 51951
@@ -1776,12 +1776,12 @@
                     "un rinoceronte",
                     "un gato"
                 ],
-                "text": "Escuche mejores sonidos de <BLANK>.",
-                "type": "un/a + sustantivo singular - animal"
+                "text": "Escuche mejores sonidos saliendo de <BLANK>.",
+                "type": "artículo + sustantivo singular - animal"
             },
             "gene": [
-                "goldfish",
-                "Pineapple on pizza, is totally delish!"
+                "un pez",
+                "La pizza con piña, ¡una exquisitez!"
             ],
             "x": false,
             "id": 51443
@@ -1789,16 +1789,16 @@
         {
             "a": {
                 "examples": [
-                    "al doctor",
-                    "al mesero",
-                    "a la policía"
+                    "el doctor",
+                    "el mesero",
+                    "la policía"
                 ],
-                "text": "¿No paras de arruinarlo? Debo llamar <BLANK>?",
-                "type": "a + artículo + sustantivo - una profesión"
+                "text": "¿Lo arruinaste? ¿Debería llamar a <BLANK>?",
+                "type": "artículo + sustantivo - una profesión"
             },
             "gene": [
-                "cable guy",
-                "They\u2019ve got good rates when you bundle with WiFi."
+                "el tipo del internet",
+                "Y así puedo ver muchas recetas gourmet."
             ],
             "x": false,
             "id": 52383
@@ -1811,11 +1811,11 @@
                     "destrozado"
                 ],
                 "text": "¿Qué día es hoy? El día que terminas <BLANK>.",
-                "type": "verbo - terminado en -do/-da"
+                "type": "adjetivo"
             },
             "gene": [
-                "tickled",
-                "I like kimchi. It\u2019s cabbage that\u2019s pickled!"
+                "en leche",
+                "Me gusta el kimchi. ¡Es un repollo en escabeche!"
             ],
             "x": false,
             "id": 52388
@@ -1828,11 +1828,11 @@
                     "ganso"
                 ],
                 "text": "No eres tan ardiente. Eres como cualquier <BLANK>.",
-                "type": "sustantivo común - un animal de granero"
+                "type": "sustantivo común - un animal de granja"
             },
             "gene": [
-                "bull",
-                "I sometimes push on a door when it says \u2018pull.\u2019"
+                "vaca que muge",
+                "A veces tiro una puerta cuando dice 'empuje'."
             ],
             "x": false,
             "id": 52382
@@ -1840,16 +1840,16 @@
         {
             "a": {
                 "examples": [
-                    "a las montañas",
-                    "al pantano",
-                    "al Ártico"
+                    "las montañas",
+                    "la Antártida",
+                    "la isla"
                 ],
-                "text": "¿Por qué no te largas? Vuelve <BLANK>.",
-                "type": "a + artículo + sustantivo - un lugar remoto"
+                "text": "¿Por qué no te vas? Vuelve a <BLANK>.",
+                "type": "artículo + sustantivo - un lugar remoto"
             },
             "gene": [
-                "Ohio",
-                "Now that was a burn. Oh me-o-my-o."
+                "el pantano",
+                "Eso es lo que haría un verdadero pagano."
             ],
             "x": false,
             "id": 52389
@@ -1858,15 +1858,15 @@
             "a": {
                 "examples": [
                     "agua",
-                    "Sprite Zero",
+                    "Sprite",
                     "café"
                 ],
                 "text": "¿Te hago traspirar? ¿Necesitas <BLANK>?",
                 "type": "sustantivo singular - bebida"
             },
             "gene": [
-                "Code Red",
-                "Oh you\u2019re okay? Guess it was just in my head."
+                "jugo de frambuesa",
+                "¿Estás bien? Supongo que solo estaba en mi cabeza."
             ],
             "x": false,
             "id": 51727
@@ -1874,16 +1874,16 @@
         {
             "a": {
                 "examples": [
-                    "tierna",
+                    "tierno",
                     "apestoso",
-                    "inesperado"
+                    "inesperada"
                 ],
                 "text": "¿Es todo lo que tienes? Fue bastante <BLANK>.",
                 "type": "adjetivo - describe un bebé"
             },
             "gene": [
-                "colicky",
-                "I cried and cried all the way to Dollar Tree."
+                "patético",
+                "Lloré y lloré todo el camino hasta México."
             ],
             "x": false,
             "id": 51808
@@ -1900,7 +1900,7 @@
             },
             "gene": [
                 "yo-yo",
-                "Overhunting, wiped out the dodo."
+                "La caza excesiva acabó con el dodo."
             ],
             "x": false,
             "id": 52359
@@ -1908,16 +1908,16 @@
         {
             "a": {
                 "examples": [
-                    "de las alcantarillas",
-                    "de la estación de servicio",
-                    "de un McDonalds"
+                    "la alcantarilla",
+                    "la estación de servicio",
+                    "un McDonald's"
                 ],
-                "text": "No puedes atraparme a través <BLANK>.",
-                "type": "de + artículo + sustantivo - una locación"
+                "text": "No puedes atraparme, me deslizo por <BLANK>.",
+                "type": "artículo + sustantivo - una ubicación"
             },
             "gene": [
-                "swamp",
-                "Gators be crunchin\u2019 on me like chomp chomp chomp."
+                "el pantano",
+                "Los caimanes me hacen crujir como un manzano."
             ],
             "x": false,
             "id": 51837
@@ -1927,14 +1927,14 @@
                 "examples": [
                     "un fracaso",
                     "una caca",
-                    "un zapallo"
+                    "un pavo"
                 ],
-                "text": "No paro de ganar tu eres solamente <BLANK>.",
-                "type": "un/una + sustantivo - palabra para 'perdedor'"
+                "text": "No paro de ganar, tú tan solo eres <BLANK>.",
+                "type": "artículo + sustantivo - palabra para 'perdedor'"
             },
             "gene": [
-                "fiasco",
-                "I own the D V D of \u2018Donnie Brasco.\u2019"
+                "un fiasco",
+                "Tengo el DVD de 'Donnie Brasco'."
             ],
             "x": false,
             "id": 51575
@@ -1950,8 +1950,8 @@
                 "type": "sustantivo - un número"
             },
             "gene": [
-                "46",
-                "When I eat a hot dog, I call it a pig remix."
+                "0",
+                "Cuando me como un perrito caliente, lo llamo remix de cerdo."
             ],
             "x": false,
             "id": 51637
@@ -1963,12 +1963,12 @@
                     "asustada",
                     "atemorizante"
                 ],
-                "text": "Deja de darme esa mirada tan <BLANK>.",
-                "type": "adjetivo negativo (en femenino)"
+                "text": "Deja de mirarme con esa cara tan <BLANK>.",
+                "type": "adjetivo negativo"
             },
             "gene": [
-                "cute",
-                "This game is so fun! A regular hoot!"
+                "delictual",
+                "¡Este juego es muy divertido! ¡Una alegría habitual!"
             ],
             "x": false,
             "id": 52301
@@ -1976,16 +1976,16 @@
         {
             "a": {
                 "examples": [
-                    "paranóica",
+                    "paranoica",
                     "asustado",
-                    "depresivo"
+                    "inútil"
                 ],
-                "text": "Te dejo en pedazos sintiendo <BLANK>.",
+                "text": "Te hago pedazos haciéndote sentir <BLANK>.",
                 "type": "adjetivo - un estado mental"
             },
             "gene": [
-                "chagrined",
-                "I call farting \u2018tooting\u2019 or \u2018breaking wind\u2019."
+                "disgustado",
+                "Me tiro muchos pedos, sobre todo cuando estoy hinchado."
             ],
             "x": false,
             "id": 52358
@@ -1993,16 +1993,16 @@
         {
             "a": {
                 "examples": [
-                    "basura",
-                    "centavos",
-                    "recibos"
+                    "porquerías",
+                    "monedas",
+                    "boletas"
                 ],
                 "text": "Lamento escuchar que no trajiste más que <BLANK>.",
                 "type": "sustantivo plural - cosas sin valor"
             },
             "gene": [
-                "dryer lint",
-                "I can offer you gum. It\u2019s peppermint."
+                "una polilla",
+                "Puedo ofrecerte un chicle, es de frutilla."
             ],
             "x": false,
             "id": 51729
@@ -2012,14 +2012,14 @@
                 "examples": [
                     "Pasta",
                     "Hamburguesa",
-                    "Zoquete"
+                    "Calcetín"
                 ],
                 "text": "El apodo que te daré es Chiqui <BLANK>.",
-                "type": "sustantivo - lo último que has comprado"
+                "type": "sustantivo - lo último que compraste"
             },
             "gene": [
-                "Peaches",
-                "Nothing makes me cry like the end of \u2018Beaches.\u2019"
+                "Botella",
+                "Nada me hace llorar como el final de 'La vida es bella'."
             ],
             "x": false,
             "id": 51568
@@ -2031,12 +2031,12 @@
                     "sobrina",
                     "primo"
                 ],
-                "text": "Me serviré pastel para comerlo con tu <BLANK>.",
+                "text": "Me serviré torta para comerla con tu <BLANK>.",
                 "type": "sustantivo común - un pariente"
             },
             "gene": [
-                "father",
-                "If he hates vanilla, I won\u2019t bother."
+                "padre",
+                "Si odia la vainilla, será mi compadre."
             ],
             "x": false,
             "id": 52287
@@ -2049,11 +2049,11 @@
                     "un pedo"
                 ],
                 "text": "Tu cerebro es tan pequeño que parece <BLANK>.",
-                "type": "un/a + sustantivo singular - algo pequeño"
+                "type": "artículo + sustantivo singular - algo pequeño"
             },
             "gene": [
-                "kumquat",
-                "In order to see it, gotta crouch in a dumb squat."
+                "una cerilla",
+                "Para verla, hay que ponerse en cuclillas."
             ],
             "x": false,
             "id": 52267
@@ -2061,16 +2061,16 @@
         {
             "a": {
                 "examples": [
-                    "mejor",
-                    "genial",
-                    "legendaria"
+                    "el mejor",
+                    "tan genial",
+                    "una leyenda"
                 ],
-                "text": "Como te equivocas pensando que eres <BLANK>.",
+                "text": "Estás muy mal al pensar que eres <BLANK>.",
                 "type": "adjetivo positivo"
             },
             "gene": [
-                "Tom Hanks",
-                "He said hi to me once. I just answered \u2018thanks.\u2019"
+                "Shakira",
+                "Me saludó una vez. Solo le dije, '¿usted respira?'."
             ],
             "x": false,
             "id": 52268
@@ -2083,11 +2083,11 @@
                     "chocar"
                 ],
                 "text": "No puedes juntarte conmigo, vas a <BLANK>.",
-                "type": "verbo en infinitivo - algo que has hecho por accidente"
+                "type": "verbo - algo que haces accidentalmente"
             },
             "gene": [
-                "explode",
-                "Just like Todd even if he\u2019s on Easy Mode."
+                "explotar",
+                "Al igual que Bomberman, aunque los jefes deberían rotar."
             ],
             "x": false,
             "id": 52261
@@ -2103,8 +2103,8 @@
                 "type": "adverbio"
             },
             "gene": [
-                "discreetly",
-                "Springsteen\u2019s band, comes from Street E."
+                "sigiloso",
+                "Como cuando intento comer algo sabroso."
             ],
             "x": true,
             "id": 52262
@@ -2117,11 +2117,11 @@
                     "tus pies"
                 ],
                 "text": "Cuidado con no caer sobre <BLANK>.",
-                "type": "tu/s + sustantivo - parte del cuerpo"
+                "type": "adjetivo posesivo + sustantivo - parte del cuerpo"
             },
             "gene": [
-                "trapezius",
-                "Be sure your shoes r tied, that\u2019s easiest."
+                "tu trapecio",
+                "Asegúrate de que tus zapatos estén atados, si no quedarás como adefecio."
             ],
             "x": false,
             "id": 52263
@@ -2134,11 +2134,11 @@
                     "aburridas"
                 ],
                 "text": "Pegaríamos onda si tus habilidades no fueran tan <BLANK>.",
-                "type": "adjetivo negativo plural (en femenino)"
+                "type": "adjetivo negativo"
             },
             "gene": [
-                "unpleasant",
-                "Socks for Christmas is not a fun present."
+                "desagradables",
+                "Los calcetines para Navidad no son regalos amigables."
             ],
             "x": false,
             "id": 52286
@@ -2150,12 +2150,12 @@
                     "fallar",
                     "arruinar todo"
                 ],
-                "text": "No sos ningún Superman. Tu poder es <BLANK>.",
-                "type": "verbo en infinitivo"
+                "text": "No eres ningún Superman. Tu poder es <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
-                "friending",
-                "And isn\u2019t that all that matters in the end-ing?"
+                "hacer amigos",
+                "¿Y no es eso lo único que importa? Solo digo."
             ],
             "x": false,
             "id": 52299
@@ -2164,15 +2164,15 @@
             "a": {
                 "examples": [
                     "en tu habitación",
-                    "ante mí",
+                    "a mi lado",
                     "en cama"
                 ],
-                "text": "El tren deja la estación y estás <BLANK>.",
-                "type": "frase iniciada por una preposición - ¿dónde está tu oponente?"
+                "text": "El tren deja la estación y tú estás <BLANK>.",
+                "type": "frase preposicional - ¿dónde está tu oponente?"
             },
             "gene": [
-                "on the platform",
-                "What\u2019s worse, a dog or a cat storm?"
+                "en el andén",
+                "¿Qué es peor, que te caiga una olla o un sartén?"
             ],
             "x": false,
             "id": 52284
@@ -2184,12 +2184,12 @@
                     "luchar",
                     "explotar"
                 ],
-                "text": "Cuando escucho tu voz quiero <BLANK>.",
+                "text": "Cuando escucho tu voz, quiero <BLANK>.",
                 "type": "verbo- una acción agresiva"
             },
             "gene": [
-                "look",
-                "I think you\u2019d be perfect for an audiobook."
+                "mirar",
+                "Creo que sería perfecto para un audiolibro escuchar."
             ],
             "x": false,
             "id": 52309
@@ -2197,16 +2197,16 @@
         {
             "a": {
                 "examples": [
-                    "banana",
-                    "torta",
+                    "plátano",
+                    "arándano",
                     "queso"
                 ],
-                "text": "Una pregunta: Sos la posta o solo <BLANK>?",
+                "text": "Pregunta rápida: ¿Eres de fiar o solo <BLANK>?",
                 "type": "sustantivo singular - comida suave"
             },
             "gene": [
-                "turkey slice",
-                "Something I enjoy, served with rice."
+                "pollo",
+                "Algo que me gusta, servido con repollo."
             ],
             "x": false,
             "id": 52273
@@ -2216,14 +2216,14 @@
                 "examples": [
                     "un imbécil",
                     "una llorona",
-                    "un rata"
+                    "una rata"
                 ],
                 "text": "Entiéndelo, no eres más que <BLANK>.",
-                "type": "un/a + sustantivo singular - algo molesto"
+                "type": "artículo + sustantivo singular - algo molesto"
             },
             "gene": [
-                "hero",
-                "How do you say that word, gyro or geero?"
+                "un rehén",
+                "¿Cómo se dice esa palabra, la sartén o el sartén?"
             ],
             "x": false,
             "id": 52304
@@ -2239,8 +2239,8 @@
                 "type": "verbo o frase verbal - sugiere un acto inapropiado"
             },
             "gene": [
-                "far away",
-                "My tuna breath, may keep you at bay."
+                "ensaya",
+                "Mi aliento a cebolla, puede mantenerte a raya."
             ],
             "x": true,
             "id": 52277
@@ -2256,8 +2256,8 @@
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "common",
-                "Like a college kid, eating ramen."
+                "común",
+                "Como un universitario, comiendo atún."
             ],
             "x": false,
             "id": 52282
@@ -2266,15 +2266,15 @@
             "a": {
                 "examples": [
                     "El Mago",
-                    "un mono volador",
+                    "un mono alado",
                     "Dorothy"
                 ],
-                "text": "Eres el León Cobarde, soy <BLANK>.",
+                "text": "Tú eres el león cobarde, yo soy <BLANK>.",
                 "type": "un personaje del Mago de Oz"
             },
             "gene": [
-                "a Munchkin",
-                "My reach is small but I\u2019ll get a punch in."
+                "el hombre de hojalata",
+                "No sé mentir bien, mi rostro me delata."
             ],
             "x": false,
             "id": 52292
@@ -2282,16 +2282,16 @@
         {
             "a": {
                 "examples": [
-                    "repetido",
+                    "cansador",
                     "inconsistente",
-                    "liviano"
+                    "endeble"
                 ],
-                "text": "Mi verso es legendario el tuyo <BLANK>.",
-                "type": "adjetivo - baja calidad"
+                "text": "Mi verso es legendario, el tuyo es <BLANK>.",
+                "type": "adjetivo - mala calidad"
             },
             "gene": [
-                "limp",
-                "When I was young, kids called me \u2018shrimp.\u2019"
+                "santurrón",
+                "Cuando era joven, los niños me decían 'camarón'."
             ],
             "x": false,
             "id": 52285
@@ -2307,8 +2307,8 @@
                 "type": "adjetivo positivo"
             },
             "gene": [
-                "delighted",
-                "I need my glasses as I am nearsighted."
+                "vacía",
+                "Necesito mis lentes porque tengo miopía."
             ],
             "x": false,
             "id": 52276
@@ -2318,14 +2318,14 @@
                 "examples": [
                     "un payaso",
                     "un dentista",
-                    "un preceptor"
+                    "un conserje"
                 ],
-                "text": "Parece como si te vistiera <BLANK>.",
-                "type": "un/a + sustantivo - una ocupación"
+                "text": "Parece que te vistió <BLANK>.",
+                "type": "artículo + sustantivo - una ocupación"
             },
             "gene": [
-                "preacher",
-                "Which I think is neat. Can you be my teacher?"
+                "un asesor",
+                "Lo cual me parece estupendo. ¿Puedes ser mi profesor?"
             ],
             "x": false,
             "id": 52313
@@ -2338,11 +2338,11 @@
                     "patética"
                 ],
                 "text": "No me interesa la gente tan <BLANK>.",
-                "type": "adjetivo (en femenino) - estado emocional"
+                "type": "adjetivo - estado emocional"
             },
             "gene": [
-                "mean",
-                "But I\u2019ll give you a hug. Doesn\u2019t that sound keen?"
+                "intrigante",
+                "Pero te daré un abrazo. ¿No te parece interesante?"
             ],
             "x": false,
             "id": 52295
@@ -2352,14 +2352,14 @@
                 "examples": [
                     "basura vieja",
                     "mal aliento",
-                    "olor feo"
+                    "cuerpo"
                 ],
-                "text": "Sabía que venías pues olía <BLANK>.",
-                "type": "sustantivo - algo con olor fuerte"
+                "text": "Sabía que venías porque olía a <BLANK>.",
+                "type": "sustantivo - algo que apesta"
             },
             "gene": [
-                "peppermints",
-                "F Y I, I think you smell like peppermints."
+                "caramelos de menta",
+                "Para que sepas, creo que hueles a caramelos de menta."
             ],
             "x": false,
             "id": 52298
@@ -2371,12 +2371,12 @@
                     "escupir",
                     "gritar"
                 ],
-                "text": "Con mirate una vez ya quiero <BLANK>.",
-                "type": "verbo en infinitivo - acción negativa"
+                "text": "Con mirarte una vez ya quiero <BLANK>.",
+                "type": "verbo - acción negativa"
             },
             "gene": [
-                "get lunch",
-                "I\u2019ll have a B L T and a Hawaiian Punch."
+                "almorzar",
+                "Me compraré un enorme sándwich en el bazar."
             ],
             "x": false,
             "id": 52296
@@ -2388,12 +2388,12 @@
                     "agua",
                     "pasta dental"
                 ],
-                "text": "Yo te escupo rimas vos escupís <BLANK>.",
+                "text": "Yo te escupo rimas, tú escupes <BLANK>.",
                 "type": "sustantivo - algo que escupirías"
             },
             "gene": [
-                "poems",
-                "You\u2019ve got quite a talent. Props to you Holmes."
+                "poemas",
+                "Tienes mucho talento. Te felicito, aunque estés con flemas."
             ],
             "x": false,
             "id": 52312
@@ -2401,16 +2401,16 @@
         {
             "a": {
                 "examples": [
-                    "bebé",
-                    "niño mimado",
-                    "idiota"
+                    "una bebé",
+                    "un niño mimado",
+                    "un idiota"
                 ],
-                "text": "Tu voz es molesta como <BLANK>.",
-                "type": "sustantivo singular - algo molesto"
+                "text": "Tu voz es molesta como la de <BLANK>.",
+                "type": "artículo + sustantivo singular - algo molesto"
             },
             "gene": [
-                "bird",
-                "Of course I\u2019m kidding. Don\u2019t be absurd!"
+                "un ave",
+                "Por supuesto que estoy bromeando. ¡No seas grave!"
             ],
             "x": false,
             "id": 52303
@@ -2418,16 +2418,16 @@
         {
             "a": {
                 "examples": [
-                    "manteca",
-                    "plumón",
-                    "seda"
+                    "la manteca",
+                    "un plumón",
+                    "la seda"
                 ],
-                "text": "Mírate, más suave que <BLANK>.",
-                "type": "sustantivo - material suave"
+                "text": "Mírate, eres más suave que <BLANK>.",
+                "type": "artículo + sustantivo - material suave"
             },
             "gene": [
-                "a kitten",
-                "When it comes to cats you know I be smitten."
+                "un gatito",
+                "Cuando se trata de gatos sabes que soy un erudito."
             ],
             "x": false,
             "id": 52314
@@ -2435,16 +2435,16 @@
         {
             "a": {
                 "examples": [
-                    "chata",
+                    "delgada",
                     "pálida",
-                    "masiva"
+                    "enorme"
                 ],
                 "text": "Lastimas mis ojos con tu cara tan <BLANK>.",
-                "type": "adjetivo negativo (en femenino)"
+                "type": "adjetivo negativo"
             },
             "gene": [
-                "glowing",
-                "I rip so many verses that I took up sewing."
+                "impura",
+                "Rompí tantos versos que me dediqué a la costura."
             ],
             "x": false,
             "id": 51640
@@ -2453,15 +2453,15 @@
             "a": {
                 "examples": [
                     "Tom Cruise",
-                    "Oprah",
-                    "Kermit"
+                    "Madonna",
+                    "la Rana René"
                 ],
-                "text": "Al hablar, te escuchas igual a <BLANK>.",
+                "text": "Al hablar, suenas como <BLANK>.",
                 "type": "sustantivo propio - una celebridad"
             },
             "gene": [
-                "Donald Duck",
-                "I want to get a soda. Can I borrow a buck?"
+                "el Pato Donald",
+                "Quiero comprar un refresco. ¿Puedes prestarme un dólar?"
             ],
             "x": false,
             "id": 52307
@@ -2471,14 +2471,14 @@
                 "examples": [
                     "charcos",
                     "hielo",
-                    "cascaras de banana"
+                    "cáscaras de plátano"
                 ],
-                "text": "Vas tropezando como si estuvieras sobre <BLANK>.",
+                "text": "Te resbalas y te deslizas como si estuvieras parado en <BLANK>.",
                 "type": "sustantivo plural - cosa resbaladiza"
             },
             "gene": [
-                "soaps",
-                "I\u2019m stuffing your rhymes into prepaid envelopes."
+                "jabones",
+                "Estoy regalándoselos a todos los barbones."
             ],
             "x": false,
             "id": 51715
@@ -2491,11 +2491,11 @@
                     "viejas"
                 ],
                 "text": "Nadie te quiere, tus rimas son <BLANK>.",
-                "type": "adjetivo plural negativo (en femenino)"
+                "type": "adjetivo negativo"
             },
             "gene": [
-                "goofy",
-                "And your hair\u2019s, a little too foofy."
+                "torpes",
+                "Y tu cuerpo, con demasiados golpes."
             ],
             "x": false,
             "id": 52246
@@ -2507,12 +2507,12 @@
                     "irritados",
                     "cansados"
                 ],
-                "text": "Hago a todos bailar. Tu los dejas <BLANK>.",
-                "type": "adjetivo plural negativo (en masculino)"
+                "text": "Hago a todos bailar. Tú los dejas <BLANK>.",
+                "type": "adjetivo negativo"
             },
             "gene": [
-                "giddy",
-                "You call them raps. I call them diddies."
+                "mareados",
+                "Tú los llamas raps. Yo los llamo pedorreados."
             ],
             "x": false,
             "id": 52324
@@ -2524,12 +2524,12 @@
                     "odiarte",
                     "mover mis puños"
                 ],
-                "text": "No puedo escucharte me hace <BLANK>.",
+                "text": "No puedo escucharte, me haces <BLANK>.",
                 "type": "verbo - acción negativa"
             },
             "gene": [
-                "get weepy",
-                "I cry when I eat. Is that creepy?"
+                "llorar",
+                "Lloro cuando como. ¿Para ti es espectacular?"
             ],
             "x": false,
             "id": 52319
@@ -2537,16 +2537,16 @@
         {
             "a": {
                 "examples": [
-                    "tu órgano sexual",
-                    "tu cerebro",
-                    "tu cuello"
+                    "órgano sexual",
+                    "cerebro",
+                    "cuello"
                 ],
-                "text": "Voy a hacerlo corto como <BLANK>.",
-                "type": "tu/s + sustantivo - una parte del cuerpo"
+                "text": "Voy a ser breve, como tu <BLANK>.",
+                "type": "adjetivo posesivo + sustantivo - una parte del cuerpo"
             },
             "gene": [
-                "left kidney",
-                "It dwarfs the right one, r u kiddin\u2019 me?"
+                "cerebelo",
+                "Empequeñece a la derecha, ¿me estás tomando el pelo?"
             ],
             "x": true,
             "id": 52258
@@ -2554,16 +2554,16 @@
         {
             "a": {
                 "examples": [
-                    "mami",
+                    "mamá",
                     "habitación",
                     "sótano"
                 ],
-                "text": "Vete corriendo ya a tu <BLANK>.",
-                "type": "sustantivo común singular - una persona o lugar"
+                "text": "Ahora vete corriendo donde está tu <BLANK>.",
+                "type": "sustantivo común - una persona o lugar"
             },
             "gene": [
-                "loving family",
-                "Take the express you\u2019ll get there wham bammily."
+                "amada familia",
+                "Llegarás allí y verás que te auxilia."
             ],
             "x": false,
             "id": 52321
@@ -2572,15 +2572,15 @@
             "a": {
                 "examples": [
                     "a los árboles",
-                    "al Sol",
+                    "al sol",
                     "al avión"
                 ],
-                "text": "Vete y mira <BLANK>.",
+                "text": "Sal de aquí y mira <BLANK>.",
                 "type": "a + artículo + sustantivo - algo en exteriores"
             },
             "gene": [
-                "crowd",
-                "I need fresh air when Mom gets too loud."
+                "al nido",
+                "Necesito aire fresco cuando mamá hace demasiado ruido."
             ],
             "x": false,
             "id": 51697
@@ -2588,16 +2588,16 @@
         {
             "a": {
                 "examples": [
-                    "mi mantita",
-                    "mi cepillo de dientes",
-                    "mi máquina de ruido"
+                    "manta",
+                    "cepillo de dientes",
+                    "máquina de ruido blanco"
                 ],
-                "text": "Tus rimas dan sueño necesito <BLANK>.",
-                "type": "mi/s + sustantivo - algo para dormir"
+                "text": "Tus rimas me dan sueño, necesito mi <BLANK>.",
+                "type": "adjetivo posesivo + sustantivo - algo para dormir"
             },
             "gene": [
-                "pajamas with feet",
-                "Then maybe warm milk, as an extra treat."
+                "pijama con pies",
+                "Tal vez leche tibia, me crea un gran interés."
             ],
             "x": false,
             "id": 51725
@@ -2606,15 +2606,15 @@
             "a": {
                 "examples": [
                     "canicas",
-                    "cachorros",
-                    "medias"
+                    "pescados",
+                    "calcetines"
                 ],
                 "text": "Tiras rimas como si estuvieras lleno de <BLANK>.",
                 "type": "sustantivo plural - cosas pequeñas"
             },
             "gene": [
-                "confetti",
-                "Can we open a window? I\u2019m getting sweaty."
+                "confeti",
+                "¿Podemos abrir un restaurante? Tenemos mucho espagueti."
             ],
             "x": false,
             "id": 51726
@@ -2622,16 +2622,16 @@
         {
             "a": {
                 "examples": [
-                    "Rio de Janeiro",
-                    "la casa de tu vieja",
+                    "Río de Janeiro",
+                    "la casa de tu mamá",
                     "Canadá"
                 ],
-                "text": "Creci en las calles. Vos creciste en <BLANK>.",
+                "text": "Crecí en las calles. Tú creciste en <BLANK>.",
                 "type": "sustantivo propio - un lugar"
             },
             "gene": [
-                "Kansas City",
-                "I\u2019ve never been to K C. Such a pity!"
+                "Cartagena",
+                "Nunca he estado ahí. ¡Qué pena!"
             ],
             "x": false,
             "id": 52323
@@ -2647,8 +2647,8 @@
                 "type": "sustantivo - atributo personal"
             },
             "gene": [
-                "smile",
-                "It makes me happy. It\u2019s been awhile."
+                "sonrisa",
+                "Estoy feliz. Me ha llegado una brisa."
             ],
             "x": false,
             "id": 50606
@@ -2656,16 +2656,16 @@
         {
             "a": {
                 "examples": [
-                    "Maradona",
+                    "Chespirito",
                     "Ghandi",
-                    "Carrie Fisher"
+                    "Freddie Mercury"
                 ],
                 "text": "Tus rimas no están vivas están tan muertas como <BLANK>.",
                 "type": "sustantivo propio - una persona muerta"
             },
             "gene": [
-                "John Candy",
-                "That movie \u2018Uncle Buck\u2019 really was dandy!"
+                "Beethoven",
+                "Ya sabemos que la película homónima es mala, ¡no se mofen!"
             ],
             "x": false,
             "id": 52362
@@ -2681,8 +2681,8 @@
                 "type": "adjetivo - describe tu última comida"
             },
             "gene": [
-                "gluten-free",
-                "Which is more popular at restaurants I see."
+                "libre de gluten",
+                "Que es más popular en los restaurantes que debuten."
             ],
             "x": false,
             "id": 51569
@@ -2695,11 +2695,11 @@
                     "correr"
                 ],
                 "text": "Debes darte cuenta que solo sirves para <BLANK>.",
-                "type": "verbo en infinitivo"
+                "type": "verbo"
             },
             "gene": [
-                "smiling",
-                "But also friendship. And bathroom tiling."
+                "hacer daño",
+                "Pero también la amistad. Y el alicatado del baño."
             ],
             "x": true,
             "id": 50607
@@ -2715,8 +2715,8 @@
                 "type": "artículo + sustantivo singular - animal tonto"
             },
             "gene": [
-                "tapeworm",
-                "Ewww. Just saying that word makes me squirm."
+                "una lombriz solitaria",
+                "Guácala. Solo decir esa palabra me hace poco sanitaria."
             ],
             "x": true,
             "id": 51604
@@ -2728,12 +2728,12 @@
                     "se hundirá",
                     "temblará"
                 ],
-                "text": "Cuando abra mi boca tu corazón <BLANK>.",
-                "type": "verbo en tercera persona (futuro)"
+                "text": "Cuando abra mi boca, tu corazón <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
-                "keep beating",
-                "After today, you think we\u2019ll keep meeting?"
+                "seguirá latiendo",
+                "Después de hoy, ¿crees que nos seguiremos reuniendo?"
             ],
             "x": false,
             "id": 51618
@@ -2742,15 +2742,15 @@
             "a": {
                 "examples": [
                     "ser estúpido",
-                    "estar loco",
+                    "estar loca",
                     "estar demente"
                 ],
                 "text": "¿Vienes a mí? Debes <BLANK>.",
                 "type": "ser/estar + adjetivo negativo"
             },
             "gene": [
-                "really neat",
-                "I\u2019ve got one extra toe on both of my feet!"
+                "ser medio tonto",
+                "¡Me salió un dedo más de pronto!"
             ],
             "x": false,
             "id": 50608
@@ -2763,11 +2763,11 @@
                     "retrasando"
                 ],
                 "text": "¿Terminaste? ¿O vas a seguir <BLANK>?",
-                "type": "verbo terminado en -ndo"
+                "type": "verbo gerundio"
             },
             "gene": [
-                "winning",
-                "We wore the same shirt! Hashtag twinning!"
+                "ganando",
+                "¡Llevamos la misma camiseta! ¡Hashtag copiando!"
             ],
             "x": false,
             "id": 50609
@@ -2775,16 +2775,16 @@
         {
             "a": {
                 "examples": [
-                    "tierra",
-                    "abuelas",
-                    "dinosaurios"
+                    "la Tierra",
+                    "las abuelas",
+                    "los dinosaurios"
                 ],
-                "text": "Soy lo nuevo y tu más viejo que <BLANK>.",
-                "type": "sustantivo plural - cosas viejas"
+                "text": "Soy lo nuevo y tú más viejo que <BLANK>.",
+                "type": "artículo + sustantivo plural - cosas viejas"
             },
             "gene": [
-                "\u2019Star Trek\u2019",
-                "We should watch those when you have a sec."
+                "los vikingos",
+                "Deberíamos ver esa serie los domingos."
             ],
             "x": false,
             "id": 51600
@@ -2792,16 +2792,16 @@
         {
             "a": {
                 "examples": [
-                    "zanahoria",
-                    "jamón",
+                    "zanahorias",
+                    "jamones",
                     "limones"
                 ],
-                "text": "Soy dulce como miel. Vos amargo como <BLANK>.",
+                "text": "Soy dulce como miel. Tú, amargo como <BLANK>.",
                 "type": "sustantivo plural - comida"
             },
             "gene": [
-                "grapes",
-                "All my favorite movies have giant apes"
+                "guisantes",
+                "Todas mis películas favoritas tienen simios gigantes."
             ],
             "x": false,
             "id": 51566
@@ -2813,12 +2813,12 @@
                     "los ojos",
                     "la mejilla"
                 ],
-                "text": "La verdad que me disgusta mirarte <BLANK>.",
+                "text": "La verdad es que me disgusta mirarte <BLANK>.",
                 "type": "artículo + sustantivo - parte de la cara"
             },
             "gene": [
-                "pierced eyebrow",
-                "Isn\u2019t that look dated? I mean, why now?"
+                "ceja perforada",
+                "¿No está pasado de moda? Además, ¿por qué es dorada?"
             ],
             "x": false,
             "id": 51381
@@ -2827,15 +2827,15 @@
             "a": {
                 "examples": [
                     "dolorosas",
-                    "chicanas",
+                    "insignificantes",
                     "sucias"
                 ],
-                "text": "Para en el hospital pues tus rimas son <BLANK>.",
-                "type": "adjetivo negativo (en plural femenino)"
+                "text": "Para en el hospital, pues tus rimas son <BLANK>.",
+                "type": "adjetivo negativo"
             },
             "gene": [
-                "leaking",
-                "Let\u2019s play hide-and-seek but remember no peeking."
+                "absurdas",
+                "Juguemos al escondite, pero no con personas zurdas."
             ],
             "x": false,
             "id": 51558
@@ -2847,12 +2847,12 @@
                     "mis habilidades",
                     "mi juego"
                 ],
-                "text": "Dice el rumor que te atacó <BLANK>.",
-                "type": "mi/s + sustantivo - algo sagrado"
+                "text": "Se rumorea que atacaste a <BLANK>.",
+                "type": "adjetivo posesivo + sustantivo - algo sagrado"
             },
             "gene": [
-                "good name",
-                "I like the name Gene. My dad\u2019s is the same."
+                "mi dinamismo",
+                "Me gusta el nombre Gene. El de mi padre es el mismo."
             ],
             "x": false,
             "id": 51617
@@ -2864,12 +2864,12 @@
                     "asombroso",
                     "algo"
                 ],
-                "text": "¿Es todo lo que tienes? Pense que eras <BLANK>.",
+                "text": "¿Es todo lo que tienes? Pensé que eras <BLANK>.",
                 "type": "adjetivo positivo"
             },
             "gene": [
-                "a neat guy",
-                "Want to go to lunch and split a meat pie?"
+                "niña",
+                "¿Quieres ir a comer y compartir una torta de piña?"
             ],
             "x": false,
             "id": 50610
@@ -2881,12 +2881,12 @@
                     "cereal",
                     "nueces"
                 ],
-                "text": "Soy la crema del postre tu solo un pote de <BLANK>.",
+                "text": "Soy la crema del postre, tú solo una olla de <BLANK>.",
                 "type": "sustantivo plural - comida"
             },
             "gene": [
-                "Twix",
-                "I really get chilly when watching Netflix."
+                "patas de fénix",
+                "Me da mucho frío cuando veo Netflix."
             ],
             "x": false,
             "id": 51498
@@ -2896,14 +2896,14 @@
                 "examples": [
                     "llorar",
                     "temblar",
-                    "desmayado"
+                    "desmayarte"
                 ],
                 "text": "El juego no termina hasta que te vea <BLANK>.",
-                "type": "verbo en infinitivo/gerundio - acción negativa"
+                "type": "verbo - acción negativa"
             },
             "gene": [
-                "complain",
-                "Why eat bananas when you can have a plantain?"
+                "quejarte",
+                "¿Por qué comer plátanos cuando puedes comer arte?"
             ],
             "x": false,
             "id": 51493
@@ -2919,8 +2919,8 @@
                 "type": "sustantivo propio - una persona"
             },
             "gene": [
-                "Todd",
-                "Todd\u2019s my friend. You\u2019re just kinda odd."
+                "Álvaro",
+                "Álvaro es mi amigo. Tú solo eres avaro."
             ],
             "x": false,
             "id": 51484
@@ -2928,16 +2928,16 @@
         {
             "a": {
                 "examples": [
-                    "papi",
-                    "mami",
+                    "papá",
+                    "mamá",
                     "maestro"
                 ],
-                "text": "Como Vader dijo a Luke Yo soy tu <BLANK>.",
+                "text": "Como Vader dijo a Luke, yo soy tu <BLANK>.",
                 "type": "sustantivo - figura de autoridad"
             },
             "gene": [
-                "best bud",
-                "Like Eighties horror? Look into \u2018CHUD.\u2019"
+                "gladiador",
+                "Si te gusta el verdadero cine, ve 'El resplandor'."
             ],
             "x": false,
             "id": 51379
@@ -2949,12 +2949,12 @@
                     "tigre",
                     "hormiga"
                 ],
-                "text": "Crees que ganarás insignificante <BLANK>?",
+                "text": "¿Crees que ganarás, insignificante <BLANK>?",
                 "type": "sustantivo singular - animal"
             },
             "gene": [
-                "goat",
-                "I\u2019m going to milk you, goat! And make some yogurt."
+                "cabra",
+                "¡Voy a quemarte en una ubicación macabra!"
             ],
             "x": false,
             "id": 51447
@@ -2966,12 +2966,12 @@
                     "puño",
                     "conclusión"
                 ],
-                "text": "Me das pena, ya viene mi <BLANK>.",
+                "text": "Me das pena, porque ya viene mi <BLANK>.",
                 "type": "sustantivo singular"
             },
             "gene": [
                 "alpaca",
-                "Looks like a llama but is from South Amaca."
+                "Parece una llama, pero más opaca."
             ],
             "x": false,
             "id": 51502
@@ -2983,12 +2983,12 @@
                     "una mesera",
                     "un granjero"
                 ],
-                "text": "Por qué no vuelves a ser <BLANK>?",
+                "text": "¿Por qué no vuelves a ser <BLANK>?",
                 "type": "artículo + sustantivo singular - una ocupación"
             },
             "gene": [
-                "priest",
-                "And officiate funerals, for the deceased."
+                "un sacerdote",
+                "Oficiar funerales y que te ofrezcan dotes."
             ],
             "x": false,
             "id": 51478
@@ -3000,12 +3000,12 @@
                     "avergonzado",
                     "disparado"
                 ],
-                "text": "Quitate de mi cara o terminarás <BLANK>.",
+                "text": "Quítate de mi cara o terminarás <BLANK>.",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "upset",
-                "I bought a chinchilla to keep as a pet."
+                "idiota",
+                "Compré una chinchilla para tenerla como mascota."
             ],
             "x": false,
             "id": 50611
@@ -3021,8 +3021,8 @@
                 "type": "sustantivo - algo oloroso"
             },
             "gene": [
-                "ointment",
-                "Hurry up and gimme some, I\u2019m late for my appointment."
+                "calabacita",
+                "Date prisa y dame un poco, llego tarde a mi cita."
             ],
             "x": false,
             "id": 51455
@@ -3034,12 +3034,12 @@
                     "el reloj",
                     "la blusa"
                 ],
-                "text": "Creo que le robaste a tu madre <BLANK>.",
+                "text": "Creo que a tu madre le robaste <BLANK>.",
                 "type": "artículo + sustantivo - artículo de vestimenta"
             },
             "gene": [
-                "clam diggers",
-                "If you\u2019re itchy, u might have the chiggers."
+                "unos rubíes caros",
+                "Si te pica, puede que tengas ácaros."
             ],
             "x": true,
             "id": 51476
@@ -3051,12 +3051,12 @@
                     "triste",
                     "emocionado"
                 ],
-                "text": "Si crees que ganarás debes estar <BLANK>.",
-                "type": "adjetivo - describe tu estado de animo"
+                "text": "Si crees que ganarás, debes estar <BLANK>.",
+                "type": "adjetivo - describe tu estado de ánimo"
             },
             "gene": [
-                "peachy",
-                "Best kept secret in fruit? The lychee!"
+                "en tu día",
+                "¿El secreto mejor guardado de la fruta? La sandía."
             ],
             "x": false,
             "id": 51472
@@ -3072,8 +3072,8 @@
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "out to lunch",
-                "Broccoli and bananas, come by the bunch."
+                "estar en la luna",
+                "El pan en algunos países tiene sabor a medialuna."
             ],
             "x": false,
             "id": 51343
@@ -3081,16 +3081,16 @@
         {
             "a": {
                 "examples": [
-                    "a un perrito",
-                    "a mi papá",
-                    "a un hamster"
+                    "un perrito",
+                    "mi papá",
+                    "un hámster"
                 ],
-                "text": "No te tengo miedo. Me recuerdas <BLANK>.",
-                "type": "a + artículo + sustantivo común - algo para nada aterrador"
+                "text": "No te tengo miedo. Me recuerdas a <BLANK>.",
+                "type": "artículo + sustantivo común - algo que no da miedo"
             },
             "gene": [
-                "Gary",
-                "Gary\u2019s someone I know. Not at all scary."
+                "Alfredo",
+                "Alfredo es un conocido, no da nada de miedo."
             ],
             "x": false,
             "id": 50612
@@ -3102,12 +3102,12 @@
                     "tu cara",
                     "tus tripas"
                 ],
-                "text": "Métete conmigo y mi pie va en <BLANK>.",
-                "type": "tu/s + sustantivo - una parte del cuerpo"
+                "text": "Métete conmigo y tendrás mi pie en <BLANK>.",
+                "type": "adjetivo posesivo + sustantivo - una parte del cuerpo"
             },
             "gene": [
-                "polyp",
-                "Don\u2019t laugh. My kicks pack a wallop."
+                "tu codo",
+                "No te rías. Mis patadas las doy con todo."
             ],
             "x": true,
             "id": 51488
@@ -3115,16 +3115,16 @@
         {
             "a": {
                 "examples": [
-                    "un clavo",
+                    "una pelusa",
                     "un rasguño",
                     "un gatito"
                 ],
-                "text": "La rompo con mis versos y tu no dejas ni <BLANK>.",
+                "text": "La rompo con mis versos y tú no dejas ni <BLANK>.",
                 "type": "artículo + sustantivo singular - algo pequeño"
             },
             "gene": [
-                "Skittle",
-                "I hate when someone calls a violin a \u2018fiddle.\u2019"
+                "una papa frita",
+                "Odio cuando alguien le dice a mi mascota 'perrita'."
             ],
             "x": false,
             "id": 51327
@@ -3136,12 +3136,12 @@
                     "tu tobillo",
                     "tu dedo"
                 ],
-                "text": "Soy un grande; y grande es <BLANK>.",
-                "type": "tu/s + sustantivo singular - parte del cuerpo"
+                "text": "Soy un grande; tú solo tienes grande <BLANK>.",
+                "type": "adjetivo posesivo + sustantivo singular - parte del cuerpo"
             },
             "gene": [
-                "foot",
-                "So really, we should call you Sasquatch."
+                "tu pie",
+                "Así que en verdad, deberíamos decirte Pie Grande."
             ],
             "x": false,
             "id": 51475
@@ -3149,16 +3149,16 @@
         {
             "a": {
                 "examples": [
-                    "imbécil",
-                    "tonto",
+                    "falso",
+                    "tonta",
                     "feo"
                 ],
                 "text": "Deberías disculparte por ser tan <BLANK>.",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "loony",
-                "I wish deserts weren\u2019t quite so dune-y."
+                "hueco",
+                "Desearía que el desierto no fuese tan seco."
             ],
             "x": false,
             "id": 51490
@@ -3168,14 +3168,14 @@
                 "examples": [
                     "un payaso",
                     "un meme",
-                    "un mal chiste"
+                    "un chiste"
                 ],
-                "text": "No me hagas reir. Te ves igual a <BLANK>.",
-                "type": "un/a + sustantivo común - algo para nada aterrador"
+                "text": "No me hagas reír. Te ves igual que <BLANK>.",
+                "type": "artículo + sustantivo común - algo que no da miedo"
             },
             "gene": [
-                "kitty cat",
-                "Hahahaha. I can\u2019t stop picturing that!"
+                "un abuelo",
+                "Jajajaja. ¡No puedo dejar de verlo con un anzuelo!"
             ],
             "x": false,
             "id": 50613
@@ -3185,14 +3185,14 @@
                 "examples": [
                     "aceite",
                     "pegamento",
-                    "leche"
+                    "tela"
                 ],
-                "text": "Parece que bebiste algo de <BLANK>.",
+                "text": "Parece que bebiste un poco de <BLANK>.",
                 "type": "sustantivo - una sustancia"
             },
             "gene": [
-                "grout",
-                "Like Todd\u2019s cousin Ed at that cookout."
+                "bencina",
+                "Como el primo de Tomás en la fiesta de la piscina."
             ],
             "x": false,
             "id": 51471
@@ -3200,16 +3200,16 @@
         {
             "a": {
                 "examples": [
-                    "a la tienda",
-                    "aun banco",
-                    "a McDonalds"
+                    "la tienda",
+                    "un banco",
+                    "McDonald's"
                 ],
-                "text": "Me vuelvo nacional y tu te vuelves <BLANK>.",
-                "type": "a + artículo + sustantivo - un lugar de trabajo"
+                "text": "Me vuelvo nacional y tú te devuelves a <BLANK>.",
+                "type": "artículo + sustantivo - un lugar de trabajo"
             },
             "gene": [
-                "dog pound",
-                "That\u2019s where I got my dog So Very Brown."
+                "la perrera",
+                "Ahí es donde conseguí mi perra zorrera."
             ],
             "x": false,
             "id": 51482
@@ -3221,12 +3221,12 @@
                     "terrible",
                     "impensada"
                 ],
-                "text": "Debería avergonzarte. Tu rima es tan <BLANK>.",
-                "type": "adjetivo negativo (en femenino)"
+                "text": "Deberías avergonzarte. Tu rima es tan <BLANK>.",
+                "type": "adjetivo negativo"
             },
             "gene": [
-                "neatly",
-                "My vegetarian sister gave up meat-ly."
+                "ordenada",
+                "Mi hermana vegetariana ya no come nada."
             ],
             "x": false,
             "id": 50614
@@ -3242,8 +3242,8 @@
                 "type": "sustantivo - una persona"
             },
             "gene": [
-                "Pope",
-                "I wash my body with shampoo when I\u2019m outta soap."
+                "el Papa",
+                "Me baño tres veces cuando el agua sucia me empapa."
             ],
             "x": false,
             "id": 50615
@@ -3251,16 +3251,16 @@
         {
             "a": {
                 "examples": [
-                    "reir",
+                    "reír",
                     "estornudar",
                     "colapsar"
                 ],
                 "text": "¿Crees que apestas? No me hagas <BLANK>.",
-                "type": "verbo en infinitivo"
+                "type": "verbo"
             },
             "gene": [
-                "describe",
-                "That last skit on \u2018Saturday Night Live.\u2019"
+                "describir",
+                "Esta última rima está difícil de escribir."
             ],
             "x": false,
             "id": 51466
@@ -3272,12 +3272,12 @@
                     "empujado",
                     "castigado"
                 ],
-                "text": "Da un paso pa'trás antes que termines <BLANK>.",
-                "type": "verbo terminado en -do"
+                "text": "Da un paso atrás, antes que termines <BLANK>.",
+                "type": "verbo participio"
             },
             "gene": [
-                "bit",
-                "If that sounds mean I don\u2019t give a, gosh darn."
+                "hecho una cerda",
+                "Si eso suena mezquino me importa una... rayos."
             ],
             "x": false,
             "id": 51469
@@ -3287,14 +3287,14 @@
                 "examples": [
                     "la enfermera",
                     "el mecánico",
-                    "el mánager"
+                    "el representante"
                 ],
                 "text": "Te mueves como si fueras <BLANK>.",
-                "type": "el/la sustantivo - un título de trabajo"
+                "type": "artículo + sustantivo - un título de trabajo"
             },
             "gene": [
-                "captain",
-                "A reunion with Tennille? It\u2019s gotta happen."
+                "el capitán",
+                "¿Un encuentro con Eren? Podría ver a su titán."
             ],
             "x": false,
             "id": 51470
@@ -3302,16 +3302,16 @@
         {
             "a": {
                 "examples": [
-                    "al plomero",
+                    "al fontanero",
                     "al doctor",
                     "al técnico"
                 ],
-                "text": "¿Te deje en pedazos? Debo llamar <BLANK>?",
+                "text": "¿Ya te deje en pedazos? ¿Debo llamar <BLANK>?",
                 "type": "a + artículo + sustantivo - una ocupación"
             },
             "gene": [
-                "welder",
-                "My dog messed with a skunk. You should smell \u2018er."
+                "al soldador",
+                "Mi perro se metió con una mofeta. Deberías oler a su cuidador."
             ],
             "x": false,
             "id": 51143
@@ -3321,14 +3321,14 @@
                 "examples": [
                     "una apendectomía",
                     "extracción de dientes",
-                    "un cardiograma"
+                    "un electroencefalograma"
                 ],
                 "text": "Parece que vienes de un error en <BLANK>.",
-                "type": "un/una + sustantivo - un procedimiento médico"
+                "type": "artículo + sustantivo - un procedimiento médico"
             },
             "gene": [
-                "foot scraping",
-                "Ask Gramma \u2018bout hers, there\u2019s no escaping."
+                "un raspado de pies",
+                "Pregúntale a la abuela por el suyo, al doctor le dio un puntapiés."
             ],
             "x": true,
             "id": 51468
@@ -3344,8 +3344,8 @@
                 "type": "adjetivo positivo"
             },
             "gene": [
-                "resistant",
-                "And my bowling scores are fairly consistent."
+                "resistente",
+                "Y mis resultados en los bolos es bastante convincente."
             ],
             "x": false,
             "id": 51246
@@ -3353,16 +3353,16 @@
         {
             "a": {
                 "examples": [
-                    "mente",
                     "cerebro",
-                    "imaginación"
+                    "imaginación",
+                    "psiquis"
                 ],
                 "text": "Ando alquilando dentro de tu <BLANK>.",
-                "type": "sustantivo - sinónimo para 'mente'"
+                "type": "sustantivo - sinónimo de 'mente'"
             },
             "gene": [
                 "superego",
-                "But I\u2019d rather rent, a Winnebago."
+                "Pero prefiero alquilar un borrego."
             ],
             "x": false,
             "id": 51249
@@ -3374,12 +3374,12 @@
                     "hielo",
                     "piedras"
                 ],
-                "text": "No puedo escucharte. Sos tan cabeza dura como <BLANK>.",
-                "type": "sustantivo plural - sustancia dura"
+                "text": "No puedo escucharte. Eres tan cabeza dura como <BLANK>.",
+                "type": "sustantivo - sustancia dura"
             },
             "gene": [
-                "math problems",
-                "But I like math! I\u2019m sure we can solve \u2018em!"
+                "problemas matemáticos",
+                "¡Los resuelvo con papel y lápiz! Aunque hayan programas informáticos."
             ],
             "x": false,
             "id": 50616
@@ -3392,11 +3392,11 @@
                     "un león"
                 ],
                 "text": "Eres tan fino como tres patas en <BLANK>.",
-                "type": "un/a + sustantivo singular - un animal"
+                "type": "artículo + sustantivo singular - un animal"
             },
             "gene": [
-                "muskox",
-                "Could u train one to use a litter box?"
+                "una hiena",
+                "¿Se puede entrenar a una para que use caja de arena?"
             ],
             "x": false,
             "id": 51465
@@ -3405,15 +3405,15 @@
             "a": {
                 "examples": [
                     "un picnic",
-                    "un feriado",
+                    "un día libre",
                     "una fiesta"
                 ],
-                "text": "Ya no seré buena gente esto no es <BLANK>.",
-                "type": "un/a + sustantivo - feriado o día especial"
+                "text": "Ya no seré buena gente, esto no es <BLANK>.",
+                "type": "artículo + sustantivo - festividad o día especial"
             },
             "gene": [
-                "sick day",
-                "I think I used up all of mine anyway."
+                "un día de licencia",
+                "Creo que debo mantener la decencia."
             ],
             "x": false,
             "id": 50617
@@ -3425,12 +3425,12 @@
                     "un desastre",
                     "la derrota"
                 ],
-                "text": "Estás al borde, de <BLANK>.",
+                "text": "Estás justo al borde de <BLANK>.",
                 "type": "artículo + sustantivo común - lugar peligroso"
             },
             "gene": [
-                "curb",
-                "Don\u2019t trip or fall, or some other verb."
+                "la depresión",
+                "No te tropieces ni te caigas, o alguna otra expresión."
             ],
             "x": false,
             "id": 51248
@@ -3442,12 +3442,12 @@
                     "dolor",
                     "veneno"
                 ],
-                "text": "Es la hora, de infligir <BLANK>.",
+                "text": "Es la hora de infligir <BLANK>.",
                 "type": "sustantivo común - concepto negativo"
             },
             "gene": [
-                "sorrow",
-                "Unless you\u2019re busy. I can do it tomorrow."
+                "con la cerbatana",
+                "A menos que estés ocupado. Puedo hacerlo mañana."
             ],
             "x": false,
             "id": 50618
@@ -3459,12 +3459,12 @@
                     "la lógica",
                     "la conclusión"
                 ],
-                "text": "No soy cruel, te pasaste <BLANK>.",
-                "type": "el/la + sustantivo común - relacionado a argumentos"
+                "text": "No soy cruel, no entiendes <BLANK>.",
+                "type": "artículo + sustantivo común - relacionado a argumentos"
             },
             "gene": [
-                "premise",
-                "And your front teeth. Go to the dentist."
+                "la premisa",
+                "Ni tu sueldo. Ve a Recursos Humanos, ¡date prisa!"
             ],
             "x": false,
             "id": 50619
@@ -3477,11 +3477,11 @@
                     "una desquiciada"
                 ],
                 "text": "Me da gracia que pienses que soy <BLANK>.",
-                "type": "un/a + sustantivo singular"
+                "type": "artículo + sustantivo singular"
             },
             "gene": [
-                "quick wit",
-                "Drinkin\u2019 my juice, your rhyme made me spit it."
+                "Andrea Pirlo",
+                "Bebo jugo en la cancha, tu rima me hizo escupirlo."
             ],
             "x": true,
             "id": 50620
@@ -3493,12 +3493,12 @@
                     "maravillosa",
                     "emocionante"
                 ],
-                "text": "Me da gracia que pienses que sos <BLANK>.",
-                "type": "adjetivo - sinónimo para 'genial'"
+                "text": "Me da gracia que pienses que eres <BLANK>.",
+                "type": "adjetivo - sinónimo de 'genial'"
             },
             "gene": [
-                "wowzers",
-                "When I play Mario Kart I choose Bowser."
+                "un gong",
+                "Cuando juego a Mario Kart, elijo a Donkey Kong."
             ],
             "x": false,
             "id": 50621
@@ -3508,14 +3508,14 @@
                 "examples": [
                     "bizco",
                     "simple y lento",
-                    "pura mierda"
+                    "pura caca"
                 ],
                 "text": "No soy yo, es <BLANK>.",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "honey baked",
-                "My Grampa thinks the moon landing was faked."
+                "inigualada",
+                "Mi abuelo cree que la llegada a la luna fue simulada."
             ],
             "x": true,
             "id": 50622
@@ -3525,14 +3525,14 @@
                 "examples": [
                     "felicidad",
                     "alegría",
-                    "risas"
+                    "regocijo"
                 ],
-                "text": "Conseguiré satisfacción cuando tenga <BLANK>.",
+                "text": "Tendre satisfacción, tendré <BLANK>.",
                 "type": "sustantivo - estado de mente positivo"
             },
             "gene": [
-                "introspection",
-                "My car just passed emissions inspection!"
+                "introspección",
+                "¡Mi auto acaba de pasar la inspección!"
             ],
             "x": false,
             "id": 50603
@@ -3548,8 +3548,8 @@
                 "type": "sustantivo singular"
             },
             "gene": [
-                "wee lad",
-                "Let\u2019s hear your Scottish accent. Mine\u2019s not bad."
+                "soviet",
+                "Oigamos tu acento ruso. Yo solo sé decir 'Priviet'."
             ],
             "x": false,
             "id": 50623
@@ -3561,12 +3561,12 @@
                     "mocos",
                     "ladrillos"
                 ],
-                "text": "No puedes sacudirme, me compongo de <BLANK>.",
+                "text": "No puedes sacudirme, estoy hecho de <BLANK>.",
                 "type": "sustantivo - una sustancia"
             },
             "gene": [
-                "snow",
-                "I\u2019m an igloo, that\u2019s why I\u2019m made of snow"
+                "nieve",
+                "Soy un iglú, por eso estoy hecho de nieve."
             ],
             "x": false,
             "id": 51172
@@ -3582,8 +3582,8 @@
                 "type": "sustantivo or adjetivo - una cantidad pequeña"
             },
             "gene": [
-                "bupkis",
-                "Know who I saw once in Vegas? Dick Butkis!"
+                "ni un poco",
+                "¿Sabes a quién vi en Hollywood? ¡Al niño de Coco!"
             ],
             "x": false,
             "id": 50624
@@ -3591,16 +3591,16 @@
         {
             "a": {
                 "examples": [
-                    "el estúpido",
-                    "la descortés",
-                    "el feo"
+                    "estúpida",
+                    "desconsiderada",
+                    "fea"
                 ],
-                "text": "Ciertamente eres de nosotros <BLANK>.",
-                "type": "el/la + adjetivo negativo"
+                "text": "Tú eres la única persona que definitivamente es <BLANK>.",
+                "type": "adjetivo negativo"
             },
             "gene": [
-                "double parked",
-                "I guess the street is not well marked."
+                "malpensada",
+                "Supongo que esa broma estuvo pesada."
             ],
             "x": false,
             "id": 50625
@@ -3613,11 +3613,11 @@
                     "empujada"
                 ],
                 "text": "¿No escuchaste? No puedo ser <BLANK>.",
-                "type": "verbo terminado en -do/-da"
+                "type": "verbo participio"
             },
             "gene": [
-                "graded",
-                "Like homework, not like cheese."
+                "travieso",
+                "Está bien un poco, pero no en exceso."
             ],
             "x": false,
             "id": 50683
@@ -3625,16 +3625,16 @@
         {
             "a": {
                 "examples": [
-                    "quesos",
-                    "salchichas",
-                    "puerros"
+                    "los quesos",
+                    "las salchichas",
+                    "los puerros"
                 ],
                 "text": "Hueles como si se pudrieran <BLANK>.",
                 "type": "sustantivo plural - comida"
             },
             "gene": [
-                "eggplant",
-                "Refrigerate them. Or maybe you can\u2019t."
+                "las berenjenas",
+                "Refrigéralas. Tal vez en neveras ajenas."
             ],
             "x": true,
             "id": 50690
@@ -3643,15 +3643,15 @@
             "a": {
                 "examples": [
                     "hongos",
-                    "madera",
+                    "maderas",
                     "perros"
                 ],
                 "text": "Vi mejores caras en <BLANK>.",
                 "type": "sustantivo plural común"
             },
             "gene": [
-                "clocks",
-                "What. I said \u2018clocks.\u2019"
+                "pennes",
+                "¿Qué? Dije ‘pennes’, es un tipo de pasta."
             ],
             "x": true,
             "id": 50691
@@ -3659,16 +3659,16 @@
         {
             "a": {
                 "examples": [
-                    "remera",
+                    "camiseta",
                     "pantalones",
                     "zapatos"
                 ],
-                "text": "Que triste que te ves en lo que llamas <BLANK>.",
+                "text": "Qué triste que te ves con tu <BLANK>.",
                 "type": "sustantivo - artículo de vestimenta"
             },
             "gene": [
-                "hat",
-                "Oh are you a Shriner? I apologize for that."
+                "sombrero",
+                "Oh, ¿eres un mimo? Me disculpo primero."
             ],
             "x": false,
             "id": 50693
@@ -3681,11 +3681,11 @@
                     "preocuparte"
                 ],
                 "text": "Estoy en tu mente. Comienzas a <BLANK>.",
-                "type": "verbo en infinitivo/segunda persona"
+                "type": "verbo"
             },
             "gene": [
-                "shiver",
-                "I buried the evidence down by the river."
+                "temblar",
+                "Enterré las pruebas junto al collar."
             ],
             "x": false,
             "id": 50694
@@ -3693,16 +3693,16 @@
         {
             "a": {
                 "examples": [
-                    "Ross",
+                    "Daenerys",
                     "Daredevil",
                     "Sheldon"
                 ],
-                "text": "No hay esperanza para tí. Eres como <BLANK>.",
+                "text": "No hay esperanza para ti. Eres como <BLANK>.",
                 "type": "sustantivo propio - personaje de TV"
             },
             "gene": [
                 "Miranda",
-                "Let\u2019s watch \u2018Sex and the City\u2019 on the veranda!"
+                "¡Veamos la versión de ‘Sex and the City’ que hicieron en Irlanda!"
             ],
             "x": false,
             "id": 50695
@@ -3714,12 +3714,12 @@
                     "yoyos",
                     "plastilina"
                 ],
-                "text": "Tengo en mente la plata. La tuya se queda en <BLANK>.",
+                "text": "Tengo en mente el dinero. La tuya se queda en <BLANK>.",
                 "type": "sustantivo plural - juguetes"
             },
             "gene": [
-                "\u2019My Little Pony\u2019",
-                "That show should win an Emmy and a Tony!"
+                "’Mi pequeño pony’",
+                "¡Esa serie debería ganar un Emmy y un Tony!"
             ],
             "x": false,
             "id": 50696
@@ -3732,11 +3732,11 @@
                     "atún"
                 ],
                 "text": "Tu aliento huele mal, ¿comiste <BLANK>?",
-                "type": "sustantivo plural - food"
+                "type": "sustantivo plural - comida"
             },
             "gene": [
-                "mutton",
-                "I always have trouble with my shirt\u2019s top button."
+                "chuleta",
+                "Siempre tengo problemas con el botón superior de mi camiseta."
             ],
             "x": false,
             "id": 50697
@@ -3748,12 +3748,12 @@
                     "una mula",
                     "un perro"
                 ],
-                "text": "Tus rimas apestan porque eres <BLANK>.",
-                "type": "un/a + sustantivo común singular - algo tonto"
+                "text": "Tus rimas son malas porque eres tonto como <BLANK>.",
+                "type": "artículo + sustantivo común singular - algo tonto"
             },
             "gene": [
-                "kitten",
-                "Cats are so cute, especially in mittens!"
+                "un gatito",
+                "¡Los gatos son tan tiernos, especialmente con guantecitos!"
             ],
             "x": false,
             "id": 50698
@@ -3761,16 +3761,16 @@
         {
             "a": {
                 "examples": [
-                    "enojado",
+                    "enojada",
                     "avergonzado",
                     "furioso"
                 ],
-                "text": "Cuando quedes en verguenza te sientes <BLANK>?",
+                "text": "Cuando quedes en vergüenza, ¿te sentirás <BLANK>?",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "better",
-                "Let\u2019s encourage each other. I like your sweater!"
+                "mejor",
+                "Animémonos. ¡Te daré de mi alfajor!"
             ],
             "x": false,
             "id": 50699
@@ -3787,7 +3787,7 @@
             },
             "gene": [
                 "perfume",
-                "Those Fantastic Four movies ruined Dr. Doom."
+                "Todas esas películas de superhéroes hicieron que mi paciencia se esfume."
             ],
             "x": false,
             "id": 50701
@@ -3800,11 +3800,11 @@
                     "una ballena"
                 ],
                 "text": "Cuando rimas suenas como la muerte de <BLANK>.",
-                "type": "un/a + sustantivo común - un animal"
+                "type": "artículo + sustantivo común - un animal"
             },
             "gene": [
-                "snake",
-                "My apologies if that was a hot take."
+                "una serpiente",
+                "Mis disculpas si eso fue una toma caliente."
             ],
             "x": false,
             "id": 50702
@@ -3812,16 +3812,16 @@
         {
             "a": {
                 "examples": [
-                    "a casa",
-                    "a tu lugar",
-                    "a las alcantarillas"
+                    "casa",
+                    "tu lugar",
+                    "las alcantarillas"
                 ],
-                "text": "Te veo sin rumbo. Vuelve <BLANK>.",
-                "type": "a + sustantivo común - un lugar"
+                "text": "Parece que te perdiste. Vuelve a <BLANK>.",
+                "type": "sustantivo común - un lugar"
             },
             "gene": [
-                "porch",
-                "Chris Evans is Cap, but was the Human Torch."
+                "la aduana",
+                "Chris Evans es el Capi, pero fue la Antorcha Humana."
             ],
             "x": false,
             "id": 50705
@@ -3831,14 +3831,14 @@
                 "examples": [
                     "rápidamente",
                     "rápido",
-                    "ya"
+                    "ahora"
                 ],
-                "text": "Si lo vas a decir dilo <BLANK>.",
+                "text": "Si lo vas a decir, dilo <BLANK>.",
                 "type": "adverbio de tiempo"
             },
             "gene": [
-                "soonish",
-                "I found \u2018Guardians of the Galaxy\u2019 too cartoonish."
+                "pronto",
+                "El guion de 'Guardianes de la Galaxia' me pareció demasiado tonto."
             ],
             "x": false,
             "id": 50706
@@ -3850,12 +3850,12 @@
                     "basurero",
                     "pozo"
                 ],
-                "text": "Fuera de mi zona vuelve a tu <BLANK>.",
+                "text": "Sal de mi casa, vuelve a tu <BLANK>.",
                 "type": "sustantivo común - lugar horrible"
             },
             "gene": [
-                "box",
-                "Remember in fall, we set back the clocks."
+                "lavadora",
+                "Recuerda que en otoño, retrasamos la hora."
             ],
             "x": false,
             "id": 50707
@@ -3863,16 +3863,16 @@
         {
             "a": {
                 "examples": [
-                    "rodilla",
-                    "pierna",
-                    "brazo"
+                    "la rodilla",
+                    "la pierna",
+                    "el páncreas"
                 ],
-                "text": "No tenes corazón de rapero a lo sumo <BLANK>.",
-                "type": "sustantivo - una parte del cuerpo"
+                "text": "No tienes corazón de rapero, a lo sumo <BLANK>.",
+                "type": "artículo + sustantivo - una parte del cuerpo"
             },
             "gene": [
-                "pancreas",
-                "There\u2019s no cure for a cold quite like hot tea is."
+                "el brazo",
+                "No hay cura para un resfriado como el té caliente en vaso."
             ],
             "x": false,
             "id": 50816
@@ -3884,12 +3884,12 @@
                     "tren",
                     "caballito"
                 ],
-                "text": "Sos como el chofer de mi <BLANK>.",
+                "text": "Eres como el chofer de mi <BLANK>.",
                 "type": "sustantivo - medio de transporte"
             },
             "gene": [
-                "18-wheeler",
-                "Get the heck off my coattails. Dang you! Get off please."
+                "Camión",
+                "Bájate del maldito faldón. ¡Maldita sea! Bájate, por favor."
             ],
             "x": false,
             "id": 52550
@@ -3897,16 +3897,16 @@
         {
             "a": {
                 "examples": [
-                    "Química",
-                    "Hora libre",
-                    "Teatro"
+                    "la química",
+                    "la hora libre",
+                    "el teatro"
                 ],
-                "text": "Te tomo por sorpresa no puedes con <BLANK>.",
-                "type": "sustantivo - materia del colegio"
+                "text": "Te tomó por sorpresa, no puedes con <BLANK>.",
+                "type": "artículo + sustantivo - materia del colegio"
             },
             "gene": [
-                "advanced lit",
-                "No elevators! Take the stairs to stay fit!"
+                "el juego de plataforma",
+                "¡Sin ascensores! ¡Por las escaleras para mantenerte en forma!"
             ],
             "x": false,
             "id": 50684
@@ -3918,12 +3918,12 @@
                     "la reina",
                     "la duquesa"
                 ],
-                "text": "Controlo el colegio me dicen <BLANK>.",
-                "type": "el/la + sustantivo - un título de la realeza"
+                "text": "Yo mando en la escuela, me dicen <BLANK>.",
+                "type": "artículo + sustantivo - un título de la realeza"
             },
             "gene": [
-                "dauphin",
-                "Which is not a title one hears very often."
+                "el delfín",
+                "Lo cual es un título poco desconocido afín."
             ],
             "x": false,
             "id": 50741
@@ -3939,8 +3939,8 @@
                 "type": "verbo - acción negativa"
             },
             "gene": [
-                "faint",
-                "I use candles to set the mood when I paint."
+                "desmayar",
+                "Uso velas para ambientar cuando me toca ensayar."
             ],
             "x": false,
             "id": 50797
@@ -3948,16 +3948,16 @@
         {
             "a": {
                 "examples": [
-                    "portero",
+                    "periodista",
                     "bibliotecaria",
                     "chef"
                 ],
-                "text": "Soy un músico maestro tu solo substituto para <BLANK>.",
+                "text": "Soy un maestro musical, tú solo reemplazo de <BLANK>.",
                 "type": "sustantivo - una ocupación"
             },
             "gene": [
-                "gym teacher",
-                "At the beach I love reading tales of Jack Reacher."
+                "profesor de gimnasia",
+                "En la playa me encanta leer cuentos de Anastasia."
             ],
             "x": false,
             "id": 50799
@@ -3969,12 +3969,12 @@
                     "se hundió",
                     "bajó"
                 ],
-                "text": "Perdón, pero, tu juego <BLANK>.",
-                "type": "verbo en pasado (tercera persona)"
+                "text": "Lo siento, pero para ti, el juego <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
-                "underneath",
-                "Really? Some jerk stole our Christmas wreath."
+                "te delató",
+                "¿En serio? Un imbécil nos robó la corona del plató."
             ],
             "x": false,
             "id": 51497
@@ -3984,14 +3984,14 @@
                 "examples": [
                     "picas",
                     "piensas",
-                    "vienes"
+                    "crees"
                 ],
                 "text": "Digo lo cierto, ¿no <BLANK>?",
-                "type": "verbo (segunda persona)"
+                "type": "verbo"
             },
             "gene": [
-                "believe",
-                "Captain America\u2019s real name is Steve."
+                "vienes",
+                "Yo creo que mi tía tiene el síndrome de Diógenes."
             ],
             "x": false,
             "id": 50929
@@ -3999,16 +3999,16 @@
         {
             "a": {
                 "examples": [
-                    "señor",
-                    "madam",
-                    "su señoría"
+                    "caballero",
+                    "dama",
+                    "señor"
                 ],
-                "text": "Estoy hablando, escuche <BLANK>.",
+                "text": "Yo estoy hablando ahora, así que escuche, <BLANK>.",
                 "type": "sustantivo - título de respeto"
             },
             "gene": [
-                "mister",
-                "Wearing flip flops will give you blisters."
+                "su señoría",
+                "La hemos atrapado en plena fechoría."
             ],
             "x": false,
             "id": 50930
@@ -4020,12 +4020,12 @@
                     "dulce",
                     "callada"
                 ],
-                "text": "Así va la cosa: 'Toy harto de ser <BLANK>.",
-                "type": "adjetivo - describe a tu madre"
+                "text": "Así va la cosa: Estoy harto de ser <BLANK>.",
+                "type": "adjetivo - describe a tu mamá"
             },
             "gene": [
-                "overbearing",
-                "She\u2019s such a--hi Mom! Love what you\u2019re wearing!"
+                "autoritaria",
+                "Ella es una... ¡Hola, mamá! ¡Me encanta que seas voluntaria!"
             ],
             "x": false,
             "id": 50934
@@ -4037,12 +4037,12 @@
                     "estilo",
                     "culazo"
                 ],
-                "text": "Imbéciles buscan imitar mi <BLANK>.",
+                "text": "Hay imbéciles que buscan imitar mi <BLANK>.",
                 "type": "sustantivo - atributo atractivo"
             },
             "gene": [
-                "groove",
-                "But I ate so much dinner it\u2019s hard to move."
+                "ritmo",
+                "Pero comí tanto que provocaría un sismo."
             ],
             "x": true,
             "id": 50940
@@ -4051,15 +4051,15 @@
             "a": {
                 "examples": [
                     "usado",
-                    "derrotado",
+                    "derrotada",
                     "lastimado"
                 ],
                 "text": "No respondas si no quieres terminar <BLANK>.",
-                "type": "verbo terminado en -do"
+                "type": "verbo participio"
             },
             "gene": [
-                "nasty",
-                "And you best avoid angioplasty."
+                "toda sucia",
+                "Y es mejor usar toda la astucia."
             ],
             "x": false,
             "id": 50802
@@ -4067,16 +4067,16 @@
         {
             "a": {
                 "examples": [
-                    "mierda",
-                    "tonto",
+                    "imbécil",
+                    "idiota",
                     "binjpipe"
                 ],
                 "text": "¿Quién te crees que eres, <BLANK>?",
                 "type": "sobrenombre insultante"
             },
             "gene": [
-                "pea brain",
-                "I bet that hurt like a knee sprain."
+                "cerebro de ardilla",
+                "Apuesto a que eso duele como un esguince de rodilla."
             ],
             "x": true,
             "id": 50807
@@ -4093,7 +4093,7 @@
             },
             "gene": [
                 "Celine Dion",
-                "I think she sang \u2018My Life Will Go On.\u2019"
+                "Creo que ella canta 'My Life Will Go On'."
             ],
             "x": false,
             "id": 51500
@@ -4105,12 +4105,12 @@
                     "estilo",
                     "onda"
                 ],
-                "text": "La verdad que me aburres. No tienes <BLANK>.",
+                "text": "La verdad es que me aburro. No tienes <BLANK>.",
                 "type": "sustantivo común - cualidad positiva"
             },
             "gene": [
-                "ammo",
-                "But get me on the chin I\u2019m out cold. Blammo!"
+                "munición",
+                "Pero dame en la barbilla que estoy fuera de condición."
             ],
             "x": false,
             "id": 50808
@@ -4118,16 +4118,16 @@
         {
             "a": {
                 "examples": [
-                    "la cabeza",
-                    "la nariz",
-                    "el pie"
+                    "cabeza",
+                    "nariz",
+                    "pie"
                 ],
-                "text": "¿Que ocurre? Una rana te robó <BLANK>?",
-                "type": "artículo + sustantivo singular - parte del cuerpo"
+                "text": "¿Qué es eso? ¿Tienes una rana en tu <BLANK>?",
+                "type": "sustantivo singular - parte del cuerpo"
             },
             "gene": [
-                "earlobe",
-                "You look like you stole a hotel robe."
+                "lóbulo de la oreja",
+                "Parece que le robaste a una pareja."
             ],
             "x": false,
             "id": 51876
@@ -4140,11 +4140,11 @@
                     "mi ombligo"
                 ],
                 "text": "¿Me estás hablando a mí? ¿O a <BLANK>?",
-                "type": "mi/s + sustantivo - parte inferior del cuerpo"
+                "type": "adjetivo posesivo + sustantivo - parte inferior del cuerpo"
             },
             "gene": [
-                "kneecap",
-                "When I watch long movies, I need a recap."
+                "mis tobillos",
+                "Cuando veo películas largas, necesito bocadillos."
             ],
             "x": true,
             "id": 50809
@@ -4156,12 +4156,12 @@
                     "cubiertas",
                     "rellenas"
                 ],
-                "text": "Habla a la mano mis orejas están <BLANK>.",
-                "type": "adjetivo plural (en femenino)"
+                "text": "Háblale a la mano, mis orejas están <BLANK>.",
+                "type": "adjetivo"
             },
             "gene": [
-                "plugged",
-                "They drank some wax and really chugged."
+                "tapadas",
+                "Bebieron un poco de cera y fue toda tragada."
             ],
             "x": false,
             "id": 50811
@@ -4173,12 +4173,12 @@
                     "canario",
                     "conejo"
                 ],
-                "text": "Te haré llorar como bebé <BLANK>.",
+                "text": "Te haré llorar como un bebé de <BLANK>.",
                 "type": "sustantivo - un animal pequeño"
             },
             "gene": [
                 "Pikachu",
-                "I think that name sounds like sneezing don\u2019t you?"
+                "Creo que ese nombre suena a estornudo, ¡achú!"
             ],
             "x": false,
             "id": 50830
@@ -4190,12 +4190,12 @@
                     "Mortal Kombat",
                     "Super Mario"
                 ],
-                "text": "Tu juego es re viejo, como <BLANK>.",
+                "text": "Tu juego es antiquísimo, como <BLANK>.",
                 "type": "Videojuego clásico"
             },
             "gene": [
-                "N B A Jam",
-                "Boom Shaka-Laka is what they\u2019d say when I\u2019d slam."
+                "NBA Jam",
+                "Me gustaba imaginar que era como Abraham."
             ],
             "x": false,
             "id": 50831
@@ -4207,12 +4207,12 @@
                     "remando",
                     "pescando"
                 ],
-                "text": "Andaba por ahí mientras estabas <BLANK>.",
+                "text": "Yo andaba por ahí, mientras que tú estabas <BLANK>.",
                 "type": "verbo gerundio"
             },
             "gene": [
-                "relaxing",
-                "In the Nineteen-Eighties, everyone was a-faxing."
+                "relajándote",
+                "Si estuvieras en los años ochenta, solo estarías quejándote."
             ],
             "x": false,
             "id": 50839
@@ -4224,12 +4224,12 @@
                     "congelado",
                     "ventoso"
                 ],
-                "text": "Debe doler, ser tan <BLANK>.",
+                "text": "Debe doler ser tan <BLANK>.",
                 "type": "adjetivo"
             },
             "gene": [
-                "swift",
-                "Speaking of, Taylor Swift is awesome."
+                "cristiano",
+                "A propósito, Cristiano Ronaldo es un arrogante."
             ],
             "x": false,
             "id": 51206
@@ -4241,12 +4241,12 @@
                     "desordenada",
                     "horrible"
                 ],
-                "text": "Nunca conocí alguien tan <BLANK>.",
+                "text": "Nunca conocí a alguien tan <BLANK>.",
                 "type": "adjetivo negativo"
             },
             "gene": [
-                "persnickety",
-                "My skeletal structure is somewhat rickety."
+                "mítica",
+                "Mi estructura esquelética es algo raquítica."
             ],
             "x": false,
             "id": 50844
@@ -4255,15 +4255,15 @@
             "a": {
                 "examples": [
                     "suertudo",
-                    "piola",
+                    "genial",
                     "humilde"
                 ],
-                "text": "Piensas que eres especial que eres <BLANK>.",
+                "text": "Piensas que eres especial, que eres <BLANK>.",
                 "type": "adjetivo positivo"
             },
             "gene": [
-                "optimistic",
-                "Julia Roberts makes her pizza super mystic."
+                "extremista",
+                "Julia Roberts hace su pizza súper optimista."
             ],
             "x": false,
             "id": 50846
@@ -4271,16 +4271,16 @@
         {
             "a": {
                 "examples": [
-                    "un choto",
-                    "una mierda",
-                    "una verga"
+                    "un diantre",
+                    "un bledo",
+                    "una fruta"
                 ],
-                "text": "Lo que hagas no me importa <BLANK>.",
-                "type": "un/a + mala palabra"
+                "text": "Hagas lo que hagas, me importa <BLANK>.",
+                "type": "artículo + mala palabra"
             },
             "gene": [
-                "poo",
-                "I gotta keep it clean, Mom\u2019s in the room."
+                "una mierda",
+                "Tengo que mantenerlo limpio, mamá está en la habitación."
             ],
             "x": true,
             "id": 51214
@@ -4292,12 +4292,12 @@
                     "saltar",
                     "tomar"
                 ],
-                "text": "Apurate y cava tu tumba basta de <BLANK>.",
-                "type": "verbo en infinitivo"
+                "text": "Apúrate y cava tu tumba, basta de <BLANK>.",
+                "type": "verbo"
             },
             "gene": [
-                "sewing",
-                "Hey! Waitaminute! Is that my car they\u2019re towing!"
+                "predicar",
+                "¡Oye! ¡Espera! ¡Es mi auto el que van a remolcar!"
             ],
             "x": false,
             "id": 50879
@@ -4310,11 +4310,11 @@
                     "arriba"
                 ],
                 "text": "¿Quieres algo de esto? Pues ven <BLANK>.",
-                "type": "preposición/dirección"
+                "type": "preposición o dirección"
             },
             "gene": [
-                "around",
-                "Hope my retainer\u2019s in the Lost and Found."
+                "aquí encima",
+                "Espero que haya nieve en la cima."
             ],
             "x": false,
             "id": 51200
@@ -4330,8 +4330,8 @@
                 "type": "onomatopeya"
             },
             "gene": [
-                "kaboom",
-                "Like Mom\u2019s swimsuit top, on the log flume."
+                "KABÚM",
+                "Como el traje de baño de mamá en Cancún."
             ],
             "x": true,
             "id": 51213
@@ -4340,15 +4340,15 @@
             "a": {
                 "examples": [
                     "chiquito",
-                    "peque",
+                    "diminuto",
                     "bajo"
                 ],
-                "text": "No me importa lo minucioso y tu eres muy <BLANK>.",
+                "text": "No me importan las cosas pequeñas y tú eres muy <BLANK>.",
                 "type": "adjetivo - término para 'pequeño'"
             },
             "gene": [
-                "teensy",
-                "I think the plural of \u2018blintz\u2019 is, \u2018bleensy.\u2019"
+                "jovenzuelo",
+                "Creo que para pescar se necesita un anzuelo."
             ],
             "x": false,
             "id": 51044
@@ -4356,16 +4356,16 @@
         {
             "a": {
                 "examples": [
-                    "dinero",
-                    "perros",
-                    "venganza"
+                    "el dinero",
+                    "los perros",
+                    "la venganza"
                 ],
-                "text": "¿Por que te obsesionas, con <BLANK>?",
-                "type": "sustantivo"
+                "text": "¿Por qué te obsesionas tanto con <BLANK>?",
+                "type": "artículo + sustantivo"
             },
             "gene": [
-                "bears",
-                "Wait, I like bears too. All types of bears."
+                "los osos",
+                "Espera, a mí también me gustan los osos. Todos los tipos de osos."
             ],
             "x": false,
             "id": 51054
@@ -4377,12 +4377,12 @@
                     "Vogue",
                     "People"
                 ],
-                "text": "Marchas como si estuvieras en la tapa de <BLANK>.",
+                "text": "Caminas presumidamente como si estuvieras en la portada de <BLANK>.",
                 "type": "sustantivo propio - una revista"
             },
             "gene": [
                 "Glamour",
-                "You were selling, an expensive hammer."
+                "Estabas vendiendo el martillo de Thor en un tour."
             ],
             "x": false,
             "id": 51055
