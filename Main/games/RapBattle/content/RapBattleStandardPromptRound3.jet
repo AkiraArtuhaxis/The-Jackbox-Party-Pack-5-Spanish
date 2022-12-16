@@ -3306,7 +3306,7 @@
                     "al doctor",
                     "al técnico"
                 ],
-                "text": "¿Ya te deje en pedazos? ¿Debo llamar <BLANK>?",
+                "text": "¿Ya te dejé en pedazos? ¿Debo llamar <BLANK>?",
                 "type": "a + artículo + sustantivo - una ocupación"
             },
             "gene": [
