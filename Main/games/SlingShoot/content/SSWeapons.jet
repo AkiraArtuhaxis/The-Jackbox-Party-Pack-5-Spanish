@@ -59,7 +59,7 @@
             "rainbowCenter": 128,
             "rainbowLength": 21,
             "unlockType": "Arma",
-            "unlockTitle": "Cañon prima",
+            "unlockTitle": "Cañon de prisma",
             "unlockDescription": "¡El equipo se convierte en todos los colores!"
         },
         {
@@ -72,7 +72,7 @@
             "prizeGate": 35000,
             "percentOfDamageTaken": 0.0,
             "unlockType": "Arma",
-            "unlockTitle": "Aura escudo",
+            "unlockTitle": "Aura de escudo",
             "unlockDescription": "¡Hace invencible al equipo!"
         },
         {
