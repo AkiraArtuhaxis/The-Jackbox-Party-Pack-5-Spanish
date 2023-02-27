@@ -1,0 +1,1264 @@
+{
+    "content": [
+        {
+            "id": "53195",
+            "title": "Este va para los robots",
+            "prompts": [
+                {
+                    "title": "más unos que ceros",
+                    "choices": [
+                        {
+                            "text": "1111111110",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "1000000001",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "1010101000",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "1110111000",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "1100100011",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "1010101011",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "tiene 6 ceros",
+                    "choices": [
+                        {
+                            "text": "1001100001",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "1110010001",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "101111100",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "101010101",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "1000001101",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "100110010",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "resulta en un número primo",
+                    "choices": [
+                        {
+                            "text": "1101100000",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "1000000000",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "1010101001",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "1101100111",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "1001001111",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "1000000001",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "contiene “00101”",
+                    "choices": [
+                        {
+                            "text": "1000101001",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "1001011000",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "1010101010",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "1101000001",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "1100101000",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "1001001100",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "BUP viene antes que BIP pero después de BLURP",
+                    "choices": [
+                        {
+                            "text": "BUPBIPBLURP",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "BLURPBUPBIP",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "BLURPBIPBLUP",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "BUPBLURPBUPBIP",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "BLURPBUPBIPBIP",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "BLURPNOHAYSALIDABUPBIP",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "es simétrico",
+                    "choices": [
+                        {
+                            "text": "110011",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "100000101",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "10801",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "BIP101BUP",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "101BIP101",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "18111101",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "53614",
+            "title": "Estás aquí",
+            "prompts": [
+                {
+                    "title": "Ocurre en la tierra",
+                    "choices": [
+                        {
+                            "text": "<i>Thor<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>S.O.S. Hay un Loco Suelto en el Espacio<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Alien<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Luz de luna<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Dunas<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Frasier<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Ocurre sobre el ecuador",
+                    "choices": [
+                        {
+                            "text": "<i>La marcha de los pingüinos<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Mamma Mia! Vamos otra vez<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "los Juegos Olímpicos del 2016",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "el hundimiento del Titanic",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Whale Rider<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Frasier<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Ocurre en los Estados Unidos",
+                    "choices": [
+                        {
+                            "text": "<i>Lilo y Stitch<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>El laberinto del fauno<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "la erupción del monte Santa Helena",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Contacto en Francia<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Batalla de las Ardenas",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Frasier<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Ocurrió en Seattle",
+                    "choices": [
+                        {
+                            "text": "<i>Cincuenta sombras de Grey<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "el nacimiento de Jeff Bezos",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>iCarly<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "el primer Starbucks",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "el juicio de O.J. Simpson",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Frasier<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Ocurrió en un episodio de <i>Frasier<\/i>",
+                    "choices": [
+                        {
+                            "text": "Frasier se casa",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Eddie da a luz a cachorros",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Niles duerme con Lilith",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Jeff Bezos nace",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Daphne tiene un bebé",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Tom Gottlieb hace de camarero",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Ocurrió en este juego de trivia sobre <i>Frasier<\/i>",
+                    "choices": [
+                        {
+                            "text": "una pregunta sobre la longitud del Nilo",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "un juego de palabras con el nombre de Daphne Moon",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "un Dis or Dat sobre Ensaladas Tiradas y Huevos Revueltos",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "El cuchillo de Kelsey Grammer desapareció de la caravana",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "una referencia a la Space Needle",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Frasier<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "53639",
+            "title": "Escapa de la simulación",
+            "prompts": [
+                {
+                    "title": "\"Help!\"",
+                    "choices": [
+                        {
+                            "text": "una canción de los Beatles",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "una revista de los años 60",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "unos cereales de desayuno",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "un álbum de los Beatles",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "un programa de dibujos de los Beatles",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "una película de los Beatles",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "¡Estoy en prisión!",
+                    "choices": [
+                        {
+                            "text": "Rocky Balboa",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Jean Valjean",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Andy Dufresne",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Piper Chapman",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Snake Pliskin",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Furiosa",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "¡Esto no es un juego!",
+                    "choices": [
+                        {
+                            "text": "<i>Tomb Raider<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Magic Mike<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Baby: El aprendiz del crimen<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Rampage: Devastación<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Resident Evil<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>La Cumbre Escarlata<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "¡Voy a morir al final!",
+                    "choices": [
+                        {
+                            "text": "Caracortada",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Soldado Ryan",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Lady Bird McPherson",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Jack Dawson",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Jay Gatsby",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Jane Eyre",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "¡Este es algún tipo de Inteligencia Artificial!",
+                    "choices": [
+                        {
+                            "text": "Skynet",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "DoLORAS",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "HAL 9000",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "GLaDOS",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "PYM",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dolores Abernathy",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Esta es la verdad sobre You Don't Know Jack: Full Stream",
+                    "choices": [
+                        {
+                            "text": "es solo un juego divertido y casual",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "tiene un secreto terrible",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Binjpipe es un servicio de streaming",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Binjpipe aparenta ser un servicio de streaming",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Cookie está en peligro",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Cookie estará bien",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "52210",
+            "title": "Casa Homófona",
+            "prompts": [
+                {
+                    "title": "right",
+                    "choices": [
+                        {
+                            "text": "write",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "wite",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "rate",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "wright",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "rite",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "rile",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "wear",
+                    "choices": [
+                        {
+                            "text": "wire",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "ware",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "wait",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "wren",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "here",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "where",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "peek",
+                    "choices": [
+                        {
+                            "text": "pique",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "peek",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "pink",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "pika",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "peke",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "puke",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "meet",
+                    "choices": [
+                        {
+                            "text": "mete",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "mate",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "meat",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "mute",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "mean",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "teat",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "praise",
+                    "choices": [
+                        {
+                            "text": "pries",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "prays",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "please",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "prairie",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "preens",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "preys",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "aisle",
+                    "choices": [
+                        {
+                            "text": "isle",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "you’ll",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "eye",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "I’ll",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "ails",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "ills",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "52199",
+            "title": "All the Single Letras",
+            "prompts": [
+                {
+                    "title": "Números romanos",
+                    "choices": [
+                        {
+                            "text": "X",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "W",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "M",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "L",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "V",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "II",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "notas musicales (cifrado americano)",
+                    "choices": [
+                        {
+                            "text": "E",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "A",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "J",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "I",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "C",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "F",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "elementos de la tabla periódica",
+                    "choices": [
+                        {
+                            "text": "A",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "H",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ar",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "O",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "C",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "K",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "respuestas correctas en este Jack Attack hasta el momento",
+                    "choices": [
+                        {
+                            "text": "A",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "C",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Q",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "D",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Y",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "X",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Agentes de <i>Hombres de negro<\/i>",
+                    "choices": [
+                        {
+                            "text": "K",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "E",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "J",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Y",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "M",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "O",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "había un granjero con un perro _____ era su nombre",
+                    "choices": [
+                        {
+                            "text": "O",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "G",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "D",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "P",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "I",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "B",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "51087",
+            "title": "No hay \"I\" en \"Equipo\"<br>(En serio, Respuestas con \"I\" Son Equivocadas)",
+            "prompts": [
+                {
+                    "title": "Los Vengadores",
+                    "choices": [
+                        {
+                            "text": "Mujer Maravilla",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Thor",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Falcon",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Doctor Who",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Ant Man",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Iron Man",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "el equipo de <i>Space Jam<\/i> <br>(El escuadrón Toon)",
+                    "choices": [
+                        {
+                            "text": "Bugs Bunny",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Pato Donald",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Gallo Claudio",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Michael Jordan",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Lola Bunny",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Roger Rabbit",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "El equipo A",
+                    "choices": [
+                        {
+                            "text": "Destro",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Hannibal Lector",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "B.A. Baracus",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Hannibal",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Faz",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Murdock",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Equipo de fantasmas de <i>El campo de los sueños<\/i>",
+                    "choices": [
+                        {
+                            "text": "Babe Ruth",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Descalzo Joe Jackson",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Buck Weaver",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ralph Morton",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Kevin Costner",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Sally Fields",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Equipo de Quidditch de Gryffindor",
+                    "choices": [
+                        {
+                            "text": "Harry Potter",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ron Weasley",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Severus Snape",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Ginny Weasley",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dean Thomas",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Griffin Dunne",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Equipo América",
+                    "choices": [
+                        {
+                            "text": "I.N.T.E.L.L.I.G.E.N.C.E.",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Gary Johnston",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Spottswoode",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Snake Eyes",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Joe",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Sarah",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "53303",
+            "title": "¡Cómo ESTÁS en peligro!<br>(¡Sí, TÚ!)",
+            "prompts": [
+                {
+                    "title": "se comerá a <RANDOM_PLAYER>",
+                    "choices": [
+                        {
+                            "text": "Norman Bates",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Hannibal Lecter",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Señora Lovett",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Annie Wilkes",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Godzuki",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Wendigo",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "se beberá la sangre de <RANDOM_PLAYER>",
+                    "choices": [
+                        {
+                            "text": "Conde Drácula",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Anton Chigurh",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Lestat de Lioncourt",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Barnabas Collins",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dexter Morgan",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Nicholas Kristof",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "pisará a <RANDOM_PLAYER>",
+                    "choices": [
+                        {
+                            "text": "Godzilla",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "King Kong",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "el sarlacc",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "El Hombre Pálido",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "El Hombre de Malvavisco",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "el rancor",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "raptará al hijo de <RANDOM_PLAYER>",
+                    "choices": [
+                        {
+                            "text": "Pennywise el payaso",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Jareth el Rey de los Gnomos",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Enfermera Ratched",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Baba Yagá",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Las Hermanas Andrew",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Las Hermanas Sanderson",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "matará y reemplazará a <RANDOM_PLAYER>",
+                    "choices": [
+                        {
+                            "text": "Hulk",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "La cosa",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "el monstruo de la Laguna Negra",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "un usurpador de cuerpos",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "un gremlin",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "un robot de Stepford",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "escribirá una despiadada columna de opinión del <i>NYTimes<\/i> sobre <RANDOM_PLAYER>",
+                    "choices": [
+                        {
+                            "text": "Maureen Dowd",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Wendy Torrance",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "David Brooks",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Gail Collins",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Anton Chigurh",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Nicholas Kristof",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

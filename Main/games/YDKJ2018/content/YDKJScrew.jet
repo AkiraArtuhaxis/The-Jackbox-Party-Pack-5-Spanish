@@ -1,0 +1,70 @@
+{
+    "content": [
+        {
+            "id": "RemoveVowels",
+            "controllerText": "¡Te han enroscado! ¡No más vocales para ti!",
+            "controllerName": "Desvocalización",
+            "power": 0
+        },
+        {
+            "id": "TinyFont",
+            "controllerText": "¡Te han enroscado! Espero que hayas traído tus lentes.",
+            "controllerName": "Letra chica",
+            "power": 0
+        },
+        {
+            "id": "HugeFont",
+            "controllerText": "¡Te han enroscado! Espero que tengas un teléfono enorme.",
+            "controllerName": "Letra enorme",
+            "power": 0
+        },
+        {
+            "id": "Hashtag",
+            "controllerText": "¡Te han enroscado! LOL, o sea, #bromis.",
+            "controllerName": "Etiquetado",
+            "power": 0
+        },
+        {
+            "id": "TextColor",
+            "controllerText": "¡Te han enroscado! ¡Intenta responder AHORA, imbécil!",
+            "controllerName": "Sombras de gris",
+            "power": 0
+        },
+        {
+            "id": "Mirror",
+            "controllerText": "¡Te han enroscado! ¡Intenta responder AHORA, imbécil!",
+            "controllerName": "Espejito espejito",
+            "power": 0
+        },
+        {
+            "id": "PassCode",
+            "controllerText": "¡Te han enroscado! ¡Intenta responder AHORA, imbécil!",
+            "controllerName": "Contraseña",
+            "power": 1
+        },
+        {
+            "id": "Flip",
+            "controllerText": "¡Te han enroscado! ¡Intenta responder AHORA, imbécil!",
+            "controllerName": "Invertido",
+            "power": 1
+        },
+        {
+            "id": "NameChange",
+            "controllerText": "¡Te han enroscado! ¡Intenta responder AHORA, imbécil!",
+            "controllerName": "Cambio de nombre",
+            "power": 1
+        },
+        {
+            "id": "Screensaver",
+            "controllerText": "¡Te han enroscado! ¡Intenta responder AHORA, imbécil!",
+            "controllerName": "Screensaver",
+            "power": 1
+        },
+        {
+            "id": "TOS",
+            "controllerText": "¡Te han enroscado! ¡Intenta responder AHORA, imbécil!",
+            "controllerName": "Términos de servicio falsos",
+            "power": 1
+        }
+    ]
+}

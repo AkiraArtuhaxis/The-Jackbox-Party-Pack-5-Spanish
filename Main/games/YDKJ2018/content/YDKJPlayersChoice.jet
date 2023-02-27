@@ -1,0 +1,382 @@
+{
+    "content": [
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta que involucre algo de silencio o una pregunta que es interrumpida a menudo?"
+            },
+            "id": "53763",
+            "choice1": {
+                "text": "una pregunta que involucre algo de silencio",
+                "id": "53750"
+            },
+            "choice2": {
+                "text": "una pregunta que es interrumpida a menudo",
+                "id": "53751"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta sobre el tiempo o una pregunta sobre el espacio?"
+            },
+            "id": "53544",
+            "choice1": {
+                "text": "una pregunta sobre el tiempo",
+                "id": "53230"
+            },
+            "choice2": {
+                "text": "una pregunta sobre el espacio",
+                "id": "53229"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta sobre pies o sobre caras?"
+            },
+            "id": "53541",
+            "choice1": {
+                "text": "una pregunta sobre pies",
+                "id": "53499"
+            },
+            "choice2": {
+                "text": "una pregunta sobre caras",
+                "id": "53497"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta en la que Cookie se enfade o una pregunta en la que Cookie se vengue?"
+            },
+            "id": "53457",
+            "choice1": {
+                "text": "una pregunta donde Cookie se enfada",
+                "id": "51952"
+            },
+            "choice2": {
+                "text": "una pregunta en la que Cookie se vengue",
+                "id": "50539"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta sin nada que ocultar o una pregunta con un motivo superior?"
+            },
+            "id": "53398",
+            "choice1": {
+                "text": "una pregunta sin nada que ocultar",
+                "id": "53394"
+            },
+            "choice2": {
+                "text": "una pregunta con un motivo superior",
+                "id": "53395"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta donde la respuesta rime con \"orange\" o una pregunta donde la respuesta rime con \"purple\"?"
+            },
+            "id": "53397",
+            "choice1": {
+                "text": "una pregunta donde la respuesta rime con \"orange\"",
+                "id": "53392"
+            },
+            "choice2": {
+                "text": "una pregunta donde la respuesta rime con \"purple\"",
+                "id": "53393"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta hecha con amor o una pregunta hecha con despecho?"
+            },
+            "id": "53391",
+            "choice1": {
+                "text": "pregunta hecha con amor",
+                "id": "52884"
+            },
+            "choice2": {
+                "text": "una pregunta hecha con despecho",
+                "id": "52883"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta hacia atrás o una pregunta hacia delante?"
+            },
+            "id": "53387",
+            "choice1": {
+                "text": "una pregunta hacia atrás",
+                "id": "52036"
+            },
+            "choice2": {
+                "text": "una pregunta hacia delante",
+                "id": "52037"
+            }
+        },
+        {
+            "question": {
+                "text": "Le gustaría una pregunta formal o una pregunta que mantenga las cosas informales"
+            },
+            "id": "53359",
+            "choice1": {
+                "text": "una pregunta formal",
+                "id": "53333"
+            },
+            "choice2": {
+                "text": "una pregunta que mantenga las cosas informales",
+                "id": "53334"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta sobre mamá o una pregunta sobre papá?"
+            },
+            "id": "53355",
+            "choice1": {
+                "text": "una pregunta sobre mamá",
+                "id": "52925"
+            },
+            "choice2": {
+                "text": "una pregunta sobre papá",
+                "id": "52926"
+            }
+        },
+        {
+            "question": {
+                "text": "Le gustaría una pregunta inteligente o una pregunta estúpida"
+            },
+            "id": "53354",
+            "choice1": {
+                "text": "una pregunta inteligente",
+                "id": "52885"
+            },
+            "choice2": {
+                "text": "una pregunta estúpida",
+                "id": "52886"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta atractiva o una pregunta con un gran sentido del humor?"
+            },
+            "id": "53020",
+            "choice1": {
+                "text": "Una pregunta atractiva",
+                "id": "52753"
+            },
+            "choice2": {
+                "text": "Una pregunta con un gran sentido del humor",
+                "id": "52754"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta que sabe o una pregunta que desearía no saber?"
+            },
+            "id": "53018",
+            "choice1": {
+                "text": "Una pregunta que sé",
+                "id": "52985"
+            },
+            "choice2": {
+                "text": "Una pregunta que desearía no saber",
+                "id": "52986"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta sobre aliens o una pregunta sobre robots?"
+            },
+            "id": "53014",
+            "choice1": {
+                "text": "Una pregunta sobre aliens",
+                "id": "52873"
+            },
+            "choice2": {
+                "text": "Una pregunta sobre robots",
+                "id": "52872"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta que mata dos pájaros con una piedra o una pregunta que mata un pájaro con dos piedras?"
+            },
+            "id": "53013",
+            "choice1": {
+                "text": "Una pregunta que mata dos pájaros con una piedra",
+                "id": "52870"
+            },
+            "choice2": {
+                "text": "Una pregunta que mata un pájaro con dos piedras",
+                "id": "52871"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta en la que NO cuentas tus pollos antes de que hayan eclosionado o una pregunta en la que SÍ cuentas tus pollos antes de que hayan eclosionado?"
+            },
+            "id": "53012",
+            "choice1": {
+                "text": "Una pregunta en la que NO cuentas tus pollos antes de que hayan eclosionado",
+                "id": "52851"
+            },
+            "choice2": {
+                "text": "Una pregunta en la que SÍ cuentas tus pollos antes de que hayan eclosionado",
+                "id": "52850"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta sobre buen sexo ouna pregunta sobre buen saxo?"
+            },
+            "id": "53011",
+            "choice1": {
+                "text": "Una pregunta sobre buen SEXO",
+                "id": "52733"
+            },
+            "choice2": {
+                "text": "Una pregunta sobre buen SAXO",
+                "id": "52734"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Preferirías una pregunta con bocinas de aire o una pregunta sobre bocinas de aire?"
+            },
+            "id": "53008",
+            "choice1": {
+                "text": "Una pregunta con bocinas de aire",
+                "id": "51958"
+            },
+            "choice2": {
+                "text": "Una pregunta SOBRE bocinas de aire",
+                "id": "51957"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta delicada sobre musicales o una pregunta musical sobre los delicados?"
+            },
+            "id": "53007",
+            "choice1": {
+                "text": "Una pregunta delicada sobre musicales",
+                "id": "52108"
+            },
+            "choice2": {
+                "text": "Una pregunta musical sobre los delicados",
+                "id": "52110"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta ruidosa... o una pregunta silenciosa?"
+            },
+            "id": "52534",
+            "choice1": {
+                "text": "una pregunta ruidosa",
+                "id": "51828"
+            },
+            "choice2": {
+                "text": "una pregunta silenciosa",
+                "id": "51830"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta corta... o una pregunta larga?"
+            },
+            "id": "52526",
+            "choice1": {
+                "text": "una pregunta corta",
+                "id": "51940"
+            },
+            "choice2": {
+                "text": "una pregunta larga",
+                "id": "51941"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta que levante el ánimo de Cookie... o una pregunta que hiera los sentimientos de Cookie?"
+            },
+            "id": "52524",
+            "choice1": {
+                "text": "una pregunta que levante el ánimo de Cookie",
+                "id": "51966"
+            },
+            "choice2": {
+                "text": "una pregunta que hiera los sentimientos de Cookie",
+                "id": "51965"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Te gustaría una pregunta en la que todo esté escrito correctamente... o una pregunta en la que todo esté escrito incorrectamente?"
+            },
+            "id": "52523",
+            "choice1": {
+                "text": "una pregunta en la que todo esté escrito correctamente",
+                "id": "51968"
+            },
+            "choice2": {
+                "text": "una pregunta en la que todo esté escrito incorrectamente",
+                "id": "51967"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta complicada... o una pregunta contundente?"
+            },
+            "id": "52521",
+            "choice1": {
+                "text": "una pregunta complicada",
+                "id": "51978"
+            },
+            "choice2": {
+                "text": "una pregunta contundente",
+                "id": "51977"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta en que la respuesta es Shia LaBeouf... o una pregunta en la que las respuestas no son Shia LaBeouf?"
+            },
+            "id": "52518",
+            "choice1": {
+                "text": "una pregunta en que la respuesta es Shia LaBeouf",
+                "id": "51937"
+            },
+            "choice2": {
+                "text": "o una pregunta en la que la respuesta NO es Shia LaBeouf",
+                "id": "51938"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Le gustaría una pregunta con nueces... o una pregunta sin nueces?"
+            },
+            "id": "52517",
+            "choice1": {
+                "text": "una pregunta con nueces",
+                "id": "51975"
+            },
+            "choice2": {
+                "text": "una pregunta sin nueces",
+                "id": "51974"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Preferirías una pregunta fácil...? ¿O una pregunta difícil?"
+            },
+            "id": "52515",
+            "choice1": {
+                "text": "una pregunta fácil",
+                "id": "51787"
+            },
+            "choice2": {
+                "text": "una pregunta difícil",
+                "id": "51788"
+            }
+        }
+    ]
+}

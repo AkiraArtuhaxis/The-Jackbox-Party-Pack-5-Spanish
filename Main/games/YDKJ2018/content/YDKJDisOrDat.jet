@@ -1,0 +1,2952 @@
+{
+    "content": [
+        {
+            "questions": [
+                {
+                    "text": "Perros de la calle",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Armageddon",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Fargo",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Monsters, Inc.",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Riesgo en el aire",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Billy Madison",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "El gran Lebowski",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "El personaje de Steve Buscemi está vivo al final de la película",
+                "shortText": "BUSCEMI VIVE"
+            },
+            "datChoice": {
+                "longText": " El personaje de Steve Buscemi está muerto al final de la película ",
+                "shortText": "BUSCEMI MUERE"
+            },
+            "id": "53726",
+            "category": {
+                "text": "Stiviar Es La Parte Más Difícil"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "aviones",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "penicilina",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "el zipper",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "cerveza en lata",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "pan en rebanadas",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "la bombilla",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Israel",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "Más Vieja que Betty White",
+                "shortText": "MÁS VIEJA QUE BETTY WHITE"
+            },
+            "datChoice": {
+                "longText": "Más Joven que Betty White",
+                "shortText": "MÁS JOVEN QUE BETTY WHITE"
+            },
+            "id": "53655",
+            "category": {
+                "text": "Pero aún le piden la cédula"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Saturno",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Charlotte",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Júpiter",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Marte",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Miranda",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Samantha",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Venus",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "tiene un anillo",
+                "shortText": "CON ANILLO"
+            },
+            "datChoice": {
+                "longText": "no tiene un anillo",
+                "shortText": "SIN ANILLO"
+            },
+            "id": "53644",
+            "category": {
+                "text": "Chiste Obligatorio de Urano"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "nacido en Nueva Orleans",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "criado por la tía Lucy ",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "trabajo como limpiaventanas",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "fue a prisión",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "sang <i>No Soy Un Ser Humano <\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "corrió un tren de vapor para atrapar un vanidoso actor",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "estuvo en coma",
+                    "correctChoiceString": "both"
+                }
+            ],
+            "disChoice": {
+                "longText": "algo que le paso al Oso Paddington en <i>Paddington 2",
+                "shortText": "PADDINGTON"
+            },
+            "datChoice": {
+                "longText": "algo que le paso al rapero Lil Wayne en la vida real",
+                "shortText": "LIL WAYNE"
+            },
+            "id": "53598",
+            "category": {
+                "text": "Mixtapes y Marmaladas"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Okey Dokey",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ha Ha Ha!  Bye Bye!",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "I Do, I Do, I Do, I Do, I Do",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Bang-A-Boomerang",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Let’s-A-Go",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Mamma Mia",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "It’s-A-Me, Mario",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "una canción por el grupo de pop de Suecia ABBA",
+                "shortText": "ABBA"
+            },
+            "datChoice": {
+                "longText": "algo que Mario dice en un videojuego",
+                "shortText": "Super Mario"
+            },
+            "id": "53596",
+            "category": {
+                "text": "Usted Conoce A Un Buen Plomero Sueco?"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "James __Avoy",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ewan __Gregor",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ian __Kellen",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Tim __Graw",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Norm __donald",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Shirley __Laine",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Seth __Farlane",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "Su apellido empieza con Mac",
+                "shortText": "MAC"
+            },
+            "datChoice": {
+                "longText": "Su apellido empieza con Mc",
+                "shortText": "MC"
+            },
+            "id": "53581",
+            "category": {
+                "text": "Macky D’s"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": " tiene un personaje llamado Ramón",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "incluye la canción de Lionel Richie “Hello”",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "los villanos se quieren comer a los héroes",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "El Abuelo vuelve como un fantasma ",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "tiene un mensaje sobre vegetarianismo",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "incluye la canción “The Witch of Popcorn”",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "tiene trolls",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "la caricatura del ’s 2016 <i>Trolls<\/i>",
+                "shortText": "TROLLS (PARA NIÑOS)"
+            },
+            "datChoice": {
+                "longText": "la película de horror del 1990 <i>Troll 2<\/i>",
+                "shortText": "TROLL 2 (HORROR)"
+            },
+            "id": "53579",
+            "category": {
+                "text": "Trolls Van A Ser Trolls"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "tiene un dinosaurio que lleva su nombre",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "tiene una estrella en el Paseo de la Fama de Hollywood",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "sirvió como embajador de las Naciones Unidas ",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "su tumba es una gran pirámide",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "lleva el nombre de un personaje de un comic",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "inspiró a una canción de Blue Oyster Cult",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "ha protagonizado en más de 90 películas ",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "Nicolas Cage, el actor de Hollywood",
+                "shortText": "NICOLAS CAGE"
+            },
+            "datChoice": {
+                "longText": "Godzilla, el Rey de todos los Monstruos",
+                "shortText": "GODZILLA"
+            },
+            "id": "53564",
+            "category": {
+                "text": "Dos Titanes Se Enfrentan"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "nacido en Francia",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "aparece en <i>Lady Bird<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "tiene piel blanca",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "no es vegano",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "el contenido graso es de 45%",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "creado por una mujer",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "suave y flexible",
+                    "correctChoiceString": "both"
+                }
+            ],
+            "disChoice": {
+                "longText": "algo cierto sobre el actor Timothée Chalamet",
+                "shortText": "TIMOTHÉE CHALAMET"
+            },
+            "datChoice": {
+                "longText": "algo cierto sobre el queso Camembert",
+                "shortText": "CAMEMBERT"
+            },
+            "id": "53543",
+            "category": {
+                "text": "Llámame por Tu Provolombre "
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Prancer",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Tapper",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Comet",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Donner",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Cooper",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Blitzer",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Blitzen",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "uno de los renos de Santa",
+                "shortText": "RENO"
+            },
+            "datChoice": {
+                "longText": "un presentador de noticias de CNN",
+                "shortText": "CNN"
+            },
+            "id": "53415",
+            "category": {
+                "text": "Responsabilizando al Jo-Jo-Gobierno"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "un pequeño dragón cubierto en espinas",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "un ave que canaliza electricidad",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "un pulpo paralizante cubierto en anillos",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "un roedor volante con pulgares",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "un perro de 6 pies de altura que puedes montar",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "una criatura con pico de pato y pies venenosos",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "un gato que habla como un humano",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un Pokémon",
+                "shortText": "POKÉMON"
+            },
+            "datChoice": {
+                "longText": "un animal real que puedes encontrar en Australia ahora mismo",
+                "shortText": "AUSTRALIA"
+            },
+            "id": "53413",
+            "category": {
+                "text": "¡Evítalos ya!"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "“La felicidad no es una meta. Es un product de ella.”",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "“Nunca me siento culpable por ser privilegiada.”",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "“Nadie puede hacerte sentir inferior sin tu consentimiento.”",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "“Si no puedes manejar la verdad, no puedes manejarme a mí.”",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "“Estoy viviendo el Sueño Americano, un error a la vez.”",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "“Una mujer es como una bolsita de té: no se puede saber qué tan fuerte es hasta que la pone en agua caliente.”",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "“Yo planeo para el futuro, pero vivo en el momento.”",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un eslogan de una de las <i>Las Amas de Casa Reales de Nueva York<\/i>",
+                "shortText": "AMAS DE CASA REALES"
+            },
+            "datChoice": {
+                "longText": "una cita de Eleanor Roosevelt",
+                "shortText": "ELEANOR ROOSEVELT"
+            },
+            "id": "53407",
+            "category": {
+                "text": "Primeras Damas de Casa"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Boys Republic",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Doveland",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Bye Bye Sea",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Kingdom of Viper",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Goat Island and Three Sisters",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Urban Zakapa",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Republic of Fredonia",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un grupo de música pop coreano",
+                "shortText": "K-POP"
+            },
+            "datChoice": {
+                "longText": "una micronación",
+                "shortText": "MICRONACIÓN"
+            },
+            "id": "53308",
+            "category": {
+                "text": "K por Kountry"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Ice Queen",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Hunny Bunny",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Sharon Needles",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Susan Strong",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Jinkx Monsoon",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Sasha Velour",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Cinnamon Bun",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un personaje de <i>Hora de aventura<\/i> (en inglés)",
+                "shortText": "HORA DE AVENTURA"
+            },
+            "datChoice": {
+                "longText": "una ganadora de <i>RuPaul: Carrera de Drags<\/i>",
+                "shortText": "CARRERA DE DRAGS"
+            },
+            "id": "52805",
+            "category": {
+                "text": "Brujas básicas"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Wave",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Stratos",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Orkut",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Orko",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Blade",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Buzz",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Fisto",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un personaje de la línea original de juguetes He-Man",
+                "shortText": "HE-MAN"
+            },
+            "datChoice": {
+                "longText": "una red social fallida lanzada por Google",
+                "shortText": "GOOGLE"
+            },
+            "id": "52742",
+            "category": {
+                "text": "Maestros de una Parte Muy Pequeña del Universo"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "croquetas",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "toca",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "orejeras",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "langostinos",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "charreteras",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "verbena",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "jabots",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "una pieza de moda de la época victoriana",
+                "shortText": "MODA VICTORIANA"
+            },
+            "datChoice": {
+                "longText": "comida servida en la recepción de la boda del príncipe Harry y Meghan Markle",
+                "shortText": "COMIDA DE BODAS REAL"
+            },
+            "id": "52698",
+            "category": {
+                "text": "Tu Usas Lo Que Comes"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Oxfam",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "True Religion",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Citizens of Humanity",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "All Hands",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Humanitarian Coalition",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "7 For All Mankind",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "InterAction",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "una marca popular de jeans",
+                "shortText": "DENIM"
+            },
+            "datChoice": {
+                "longText": "una organización humanitaria",
+                "shortText": "HUMANITARIANISMO"
+            },
+            "id": "52687",
+            "category": {
+                "text": "Salvar el mundo con estilo"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Naranja",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "Limón",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Banana",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Mango",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Cereza",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Albaricoque",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Lima",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un sabor de LaCroix",
+                "shortText": "LACROIX"
+            },
+            "datChoice": {
+                "longText": "una fruta en Ms. Pac-Man",
+                "shortText": "MS. PAC-MAN"
+            },
+            "id": "52661",
+            "category": {
+                "text": "Mademoiselle Pac-Man"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Gwyneth Paltrow en <i>Iron Man<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Angelina Jolie agente secreta",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Estrella de YouTube en <i> Big Brother UK<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Uno de los niños en el tour de Willy Wonka",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Rapera Cheryl James",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Concursante de la 1ra temporada de <i>Project Runway<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Sammy Davis Jr. en <i>Salt and Pepper<\/i>",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "su nombre es Sal",
+                "shortText": "SAL"
+            },
+            "datChoice": {
+                "longText": "su nombre es Pimienta",
+                "shortText": "PIMIENTA"
+            },
+            "id": "52654",
+            "category": {
+                "text": "Temporadas Secas"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Opciones para Vivir",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Vuelvo enseguida",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Caída en picada",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Seguridad o Matanza",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ultima Cita",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Metalhead",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Anatomía de un Accidente",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un episodio de <i>Black Mirror<\/i>",
+                "shortText": "BLACK MIRROR"
+            },
+            "datChoice": {
+                "longText": "una vieja película de educación vial",
+                "shortText": "EDUCACIÓN VIAL"
+            },
+            "id": "52653",
+            "category": {
+                "text": "Black Windshield"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Frau Farbissina",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Vanessa Kensington",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Caroline Bingly",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Robin Swallows",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Emma Woodhouse",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Kitty Bennet",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Fanny Price",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un personaje de una novela de Jane Austen",
+                "shortText": "JANE AUSTEN"
+            },
+            "datChoice": {
+                "longText": "un personaje de una película de <i>Austin Powers<\/i>",
+                "shortText": "AUSTIN POWERS"
+            },
+            "id": "52652",
+            "category": {
+                "text": "Austin-tatioso"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Farro",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Osiris",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Amaranto",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Teff",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Anubis",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Tefnut",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Freekeh",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "una deidad Egipcia",
+                "shortText": "DEIDAD EGIPCIA"
+            },
+            "datChoice": {
+                "longText": "un tipo de grano integral",
+                "shortText": "GRANO INTEGRAL"
+            },
+            "id": "52632",
+            "category": {
+                "text": "Oh gran Grano"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Appleby",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Sir Grapefellow",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Buc Wheats",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Colonel Korn",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Capitán Aardvark",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Baron Von Redberry",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Hambriento Joe",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "personajes de la novela de Joseph Heller <i>Trampa-22<\/i>",
+                "shortText": "TRAMPA-22"
+            },
+            "datChoice": {
+                "longText": "cereal de desayuno descontinuado de General Mills",
+                "shortText": "CEREAL"
+            },
+            "id": "52608",
+            "category": {
+                "text": "Una deliciosa taza de Fruit Troops"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Trash Can Nachos",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Reel Big Fish",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Cherry Poppin’ Daddies",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Holy Haluski",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Skankin’ Pickle",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Baltimore Beef Bad Boy",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Aint’ No Thing Butta Chicken Wing",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "una banda de ska",
+                "shortText": "SKA"
+            },
+            "datChoice": {
+                "longText": "uno de los platos exclusivos de Guy Fieri",
+                "shortText": "GUY FIERI"
+            },
+            "id": "52603",
+            "category": {
+                "text": "Frenesí ardiente de Fedoras"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Titanes del Atlántico",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Alien: Covenant",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Los Terminators",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Rápidos y furiosos 8",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "El Planeta de los Simios: Confrontación",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Thor Todopoderoso",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Día de los Independientes",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un éxito de taquilla multimillonario",
+                "shortText": "BLOCKBUSTER"
+            },
+            "datChoice": {
+                "longText": "una estafa directa a video hecha por The Asylum",
+                "shortText": "MOCKBUSTER"
+            },
+            "id": "52575",
+            "category": {
+                "text": "Mockblockers"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Blanche DuBois",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Shep Rose",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Thomas Ravenel",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Chance Wayne",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Amanda Wingfield",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Brick Pollitt",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Landon Clements",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un miembro del elenco del programa de telerrealidad <i>Southern Charm<\/i>",
+                "shortText": "<i>SOUTHERN CHARM<\/i>"
+            },
+            "datChoice": {
+                "longText": "un personaje de una obra de Tennessee Williams",
+                "shortText": "TENNESSEE WILLIAMS"
+            },
+            "id": "52572",
+            "category": {
+                "text": "Un Reality Show Llamado Deseo"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Un romance peligroso",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Ayúdame",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Solo déjame ir",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Cuando la esperanza no es suficiente",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "El plan B",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Respira profundo",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Nunca Más",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "película protagonizada por Jennifer Lopez",
+                "shortText": "PELICULA JLO"
+            },
+            "datChoice": {
+                "longText": "producto para el cuidado de la piel de Philosophy (traducido)",
+                "shortText": "CUIDADO DE PIEL"
+            },
+            "id": "52568",
+            "category": {
+                "text": "Acné del Bloque"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Actúa como dama, piensa como hombre",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Fuera de control",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Demasiado lejos",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Las nuevas reglas",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Triángulo amoroso",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "A Él no le Gustas Tanto",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "Ve por él",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un popular libro de consejos de citas para mujeres (traducido)",
+                "shortText": "CONSEJOS DE CITAS"
+            },
+            "datChoice": {
+                "longText": "una película protagonizada por Ben Affleck",
+                "shortText": "PELÍCULA DE BEN AFFLECK"
+            },
+            "id": "52564",
+            "category": {
+                "text": "<i>Argo<\/i> Zar Conmigo"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Rob Roy",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "El Padrino",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "La Roca",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Operación Trueno",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Sol naciente",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Sangre y arena",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Los cuatro jinetes del Apocalipsis",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "bebida que contiene<br>whisky",
+                "shortText": "COCKTAIL DE WHISKEY"
+            },
+            "datChoice": {
+                "longText": "película que contiene a<br>Sean Connery",
+                "shortText": "SEAN CONNERY"
+            },
+            "id": "52546",
+            "category": {
+                "text": "Una Moore y nada más"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Conquistado por Dragones",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "El impulso siniestro",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "El Toque de Satán",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Mi novio mamút lanudo",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Yo era un hombre lobo adolescente",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Amante dientes de sable",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Mami billonaria quiere booty",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "una película de cine B comentadas por <i>MST3K<\/i>",
+                "shortText": "MST3K"
+            },
+            "datChoice": {
+                "longText": "una novela erótica escrita por Whitney Fox",
+                "shortText": "NOVELA ERÓTICA"
+            },
+            "id": "52543",
+            "category": {
+                "text": "¡He sido esclavizado por científicos locos!"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Gusi",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ratón Modesto",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Doctor León",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "El lobo solitario",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Joe Pug",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Dr. Perro",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Dinosaurio Jr.",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "una banda de rock que ha tocado en el Lollapalooza",
+                "shortText": "BANDA DE ROCK"
+            },
+            "datChoice": {
+                "longText": "un animal de los libros para niños <i>Busytown<\/i> de Richard Scarry",
+                "shortText": "ANIMAL DE RICHARD SCARRY"
+            },
+            "id": "52520",
+            "category": {
+                "text": "Croc and Roll"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Acero del panorama urbano",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Silencio del anochecer",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Aguas torrenciales",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Reflexión de piscina",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Águila solitaria",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Anonymous",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "El precio del amor",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "una novela sexy de Danielle Steel",
+                "shortText": "novela de Danielle Steel"
+            },
+            "datChoice": {
+                "longText": "una variedad de gris ofrecida por la compañía de pintura Behr",
+                "shortText": "variedad de gris"
+            },
+            "id": "52519",
+            "category": {
+                "text": "Tan erótico como ver cómo se seca la pintura"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Komondor",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Komkor",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Kuvasz",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Kombrig",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Komandarm",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Kooikerhondje",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Generalissimus",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "una raza de perro según el American Kennel Club",
+                "shortText": "RAZA DE PERRO"
+            },
+            "datChoice": {
+                "longText": "un rango militar en la Unión Soviética",
+                "shortText": "RANGO MILITAR SOVIÉTICO"
+            },
+            "id": "52514",
+            "category": {
+                "text": "Ladrando órdenes"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Salón Dorado",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Hoja escarchada",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Campos Gladios",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Trenchtown",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Dragón Verde",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "L’Eagle",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Granja del Granjero Maggot",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "ubicación mencionada en el <i>Señor de los Anillos<\/i>",
+                "shortText": "SDLA"
+            },
+            "datChoice": {
+                "longText": "una tienda de cannabis en Denver, Colorado",
+                "shortText": "TIENDA DE CANNABIS"
+            },
+            "id": "52512",
+            "category": {
+                "text": "Volado en el Monte del Destino"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "The Naked Brothers Band",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Banda de hermanos",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Los Hermanos Caradura",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "¿Dónde estás, hermano?",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Hermanos a la obra",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Los hermanos Bloom",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Hermanastros",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "hermanos forman una banda",
+                "shortText": "BANDA DE HNOS"
+            },
+            "datChoice": {
+                "longText": "hermanos NO forman una banda",
+                "shortText": "SIN BANDA"
+            },
+            "id": "52508",
+            "category": {
+                "text": "Hermanos en armonía"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "The Last of Us",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "End of Time",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Survivor",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "A Way Out",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Halo",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "Destiny",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "XO",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "una canción de Beyoncé",
+                "shortText": "Beyoncé"
+            },
+            "datChoice": {
+                "longText": "un videojuego",
+                "shortText": "videojuego"
+            },
+            "id": "52503",
+            "category": {
+                "text": "Pulsa A para ponerte en formación"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Pike",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Tuck",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Pan",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Aérea",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Esfera",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ishtar",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Salto",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "una voltereta olímpica de gimnasia",
+                "shortText": "VOLTERETA"
+            },
+            "datChoice": {
+                "longText": "una película que fracasó",
+                "shortText": "FRACASO"
+            },
+            "id": "52501",
+            "category": {
+                "text": "Salta o fracasa"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Hoy no llevo ropa interior.",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Hazle un cumplido a alguien y se callará.",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "No todas las palabras F son la palabra con “F”.",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "El internet es para porno.",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Todos son un poco racistas.",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Acabo de hacer espagueti por primera vez.",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Por algo es la temporada de algo.",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "canción del musical <i>Avenue Q<\/i>",
+                "shortText": "AVENUE Q"
+            },
+            "datChoice": {
+                "longText": "tuit de la “celebridad” Gary Busey",
+                "shortText": "GARY BUSEY"
+            },
+            "id": "52475",
+            "category": {
+                "text": "Gary visita la avenida Q"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Polvo de belleza",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Polvo peruano de oscuridad instantánea",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Desvanecedor de granos en 10 segundos",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Neblina calmaniños",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Fantasías patentadas",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Repelente para vampiros psíquicos",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Lord Kakadura",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "algo que puedes comprar en Goop, de Gwyneth Paltrow",
+                "shortText": "GOOP"
+            },
+            "datChoice": {
+                "longText": "algo que puedes comprar en la tienda de artículos de bromas de los Weasley en <i>Harry Potter<\/i>",
+                "shortText": "SORTILEGIOS WEASLEY"
+            },
+            "id": "52447",
+            "category": {
+                "text": "Nuestra línea de lujo de hechizos"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Girl with a Pearl Earring",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "La chica del tren",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Chica en la oscuridad",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Muchacha con sombrero rojo",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Dama con dos caballeros",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Una buena chica",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Militar y muchacha riendo",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "una pintura de Vermeer",
+                "shortText": "VERMEER"
+            },
+            "datChoice": {
+                "longText": "una novela de thriller con una “chica”",
+                "shortText": "THRILLER DE CHICA"
+            },
+            "id": "52264",
+            "category": {
+                "text": "¡Chicas, chicas, chicas!"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Hombre encogido de hombros",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Amante bien colgado",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Mujer profesional industrial",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Hombre con orejas de conejo",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Chica con paraguas",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Niña saltando la cuerda",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Selfi",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "una obra de arte atribuida a Banksy",
+                "shortText": "BANKSY"
+            },
+            "datChoice": {
+                "longText": "un emoji en mi celular",
+                "shortText": "EMOJI"
+            },
+            "id": "52171",
+            "category": {
+                "text": "Texto o subtexto"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Freya",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Yeelen",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Balder",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Frigg",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Veet",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Moom",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Sally Hansen",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un dios nórdico",
+                "shortText": "DIOS NÓRDICO"
+            },
+            "datChoice": {
+                "longText": "un kit de depilación con cera en casa",
+                "shortText": "CERA PARA DEPILAR"
+            },
+            "id": "52097",
+            "category": {
+                "text": "Me depilé la lengua, ahora es Thor"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Blue Diamond (diamante azul)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Gold Digger (buscadora de oro)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Silk (seda)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Amazing (asombroso)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "So Delicious (tan delicioso)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Waves (ondas)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Dream (sueño)",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "una canción de Kanye West",
+                "shortText": "KANYE WEST"
+            },
+            "datChoice": {
+                "longText": "una marca de leche de almendras",
+                "shortText": "LECHE DE ALMENDRAS"
+            },
+            "id": "51924",
+            "category": {
+                "text": "Kanye intolerante"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Getting to Yes (Obtenga el sí)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Classic Yes (Clásico sí)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Essentially Yes (Esencialmente sí)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Year of Yes (El año del sí)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "In a Word: Yes (En una palabra: Sí)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Introducing Yes (Introduciendo al sí)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "The Best Yes (El mejor sí)",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "libro best-seller de autoayuda",
+                "shortText": "libro"
+            },
+            "datChoice": {
+                "longText": "album de la banda de prog rock Yes",
+                "shortText": "álbum de Yes"
+            },
+            "id": "51826",
+            "category": {
+                "text": "Oh sí"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Oyster Knife (cuchillo para ostras)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Pig Destroyer (destructor de cerdos)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Oxbow (meandro)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Meat Claws (garras de carne)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Electric Wizard (mago eléctrico)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Fish Lifter (elevador de pescados)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Mammoth Grinder (picador de mamúts)",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un utensilio especializado para chefs vendido por Sur la Table",
+                "shortText": "utensilio de chef"
+            },
+            "datChoice": {
+                "longText": "una banda de death metal",
+                "shortText": "death metal"
+            },
+            "id": "51745",
+            "category": {
+                "text": "Las artes culinarias son jodidamente metal"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Baby Huey",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Rich the Kid",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ricky Ricón",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Lil Yachty",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Pequeña Audrey",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Lil Scrappy",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Young Dro",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un clásico personaje de historietas publicadas por Harvey Comics",
+                "shortText": "comics"
+            },
+            "datChoice": {
+                "longText": "un famoso rapero de Atlanta",
+                "shortText": "rapero"
+            },
+            "id": "51553",
+            "category": {
+                "text": "Yung Casper el F amigable"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Early-Pearly (Perlita Tempranita)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Go-Kart Mozart",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Outlaw Pete",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "Pete the Cat (Pete el Gato)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Little Dynamite (Pequeña Dinamita)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Little Gun (Pistolita)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Little Miss Bossy (Doña Mandona)",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un personaje de un famoso libro para niños",
+                "shortText": "libro para niños"
+            },
+            "datChoice": {
+                "longText": "un personaje de una canción de Springsteen",
+                "shortText": "Springsteen"
+            },
+            "id": "51234",
+            "category": {
+                "text": "Buenas noches, oscuridad en el borde de la ciudad"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Zekpro",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Quillivant",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Trianium",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Atesson",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Daytrana",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Focalin",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "DrowseBuster",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "marca de fidget spinners",
+                "shortText": "FIDGET SPINNER"
+            },
+            "datChoice": {
+                "longText": "medicación recetada para el TDAH",
+                "shortText": "MEDICINA PARA TDAH"
+            },
+            "id": "51011",
+            "category": {
+                "text": "Consulta con tu doctor si estos juguetes son los adecuados para ti"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Chimpancé",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "León",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Murciélago",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Rata",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Hormiga",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Unicornio",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Gollum",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un animal mencionado en la Biblia del Rey James",
+                "shortText": "BIBLIA"
+            },
+            "datChoice": {
+                "longText": "un animal CGI interpretado por Andy Serkis",
+                "shortText": "ANDY SERKIS"
+            },
+            "id": "50280",
+            "category": {
+                "text": "Todas las criaturas CGI de Dios"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Man. City",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Crystal Palace",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Club Boomerang",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Queens Park Rangers",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Hen Night Barcelona",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Stoke City",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Swinging Richards",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un club de fútbol inglés",
+                "shortText": "CLUB DE FÚTBOL INGLÉS"
+            },
+            "datChoice": {
+                "longText": "un strip club masculino",
+                "shortText": "STRIP CLUB MASCULINO"
+            },
+            "id": "50279",
+            "category": {
+                "text": "Muévelo como Beckham"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "El Rey Rojo",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "El Rey Loco",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "El Perro",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "El Mosquito",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Bandersnatch",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Meñique",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Hot Pie",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un personaje de <i>A través del espejo<\/i> de Lewis Carroll",
+                "shortText": "<i>A través del espejo<\/i>"
+            },
+            "datChoice": {
+                "longText": "un personaje de <i>Game of Thrones<\/i>",
+                "shortText": "<i>Game of Thrones<\/i>"
+            },
+            "id": "50260",
+            "category": {
+                "text": "Un conejo tan blanco como Snow"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Pensar a lo grande",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Usar un sistema de recompensas",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Entregue la mercancía",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Utilice sus ventajas",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Resolver malentendidos",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Apoyo",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Diviértase",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "Fórmula de 11 pasos de Donald Trump para triunfar en los negocios",
+                "shortText": "TRUMP"
+            },
+            "datChoice": {
+                "longText": "consejos de WebMD sobre cómo evitar mojar la cama",
+                "shortText": "MOJAR LA CAMA"
+            },
+            "id": "50230",
+            "category": {
+                "text": "¡Encuentren dónde se filtró!"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Jack Links",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ben Higgins",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Armour Eckrich",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Jake Pavelka",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Lorenzo Borghese",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Eddy Packing",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Matt Grant",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "nombre del hombre soltero en <i>The Bachelor<\/i>",
+                "shortText": "THE BACHELOR"
+            },
+            "datChoice": {
+                "longText": "una marca de charqui",
+                "shortText": "CHARQUI"
+            },
+            "id": "50221",
+            "category": {
+                "text": "Me bastaba con tu Chad-ludo"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "<i>Antes del despertar<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "<i>Estrellas perdidas<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "<i>Demasiado enamorada<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "<i>Dulce mal<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "<i>El discípulo oscuro<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "<i>Perder la cabeza<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "<i>Última oportunidad<\/i>",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un libro en la franquicia Star Wars",
+                "shortText": "STAR WARS"
+            },
+            "datChoice": {
+                "longText": "un “libro popular de virginidad” según Good Reads",
+                "shortText": "VÍRGENES"
+            },
+            "id": "50208",
+            "category": {
+                "text": "Haciendo el amor con Han Solo"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Aloysius Van Winkle",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Digby Van Winkle",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Nevill Francis Mott",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Neville Jacobs",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Maddie Humphrey",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Polykarp Kusch",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Wolfgang Pauli",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un perro de Instagram que tiene más de 100 mil seguidores",
+                "shortText": "PERRO INSTAGRAMER"
+            },
+            "datChoice": {
+                "longText": "un ganador del Premio Nobel de Física",
+                "shortText": "LAUREADO NOBEL"
+            },
+            "id": "50206",
+            "category": {
+                "text": "Piensa en la bío"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Nitro",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ethereum",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Whizzer",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Dash",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Ripple",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Bizarro",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Gold Rusher",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "una criptomoneda como la Bitcoin",
+                "shortText": "CRIPTOMONEDA"
+            },
+            "datChoice": {
+                "longText": "una montaña rusa en Six Flags",
+                "shortText": "MONTAÑA RUSA"
+            },
+            "id": "50204",
+            "category": {
+                "text": "La atracción de la fluctuación de mercado"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Hyperloop",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "SpaceX",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Plataforma de Tiempo",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Neuralink",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Necrófono",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "SolarCity",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Servo-Guardias",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un proyecto tecnológico liderado por Elon Musk",
+                "shortText": "ELON MUSK"
+            },
+            "datChoice": {
+                "longText": "una invención del supervillano de historietas Doctor Doom",
+                "shortText": "DOCTOR DOOM"
+            },
+            "id": "50191",
+            "category": {
+                "text": "¡Personas de la Tierra, prepárense para ser interrumpidas!"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Heartland Values PAC (Valores del corazón)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Vivid White Bright PAC (Brillante blanco pintoresco)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "3-in-1 Power PAC (Poder 3-en-1)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Pride PAC (Orgullo)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "3T PAC",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Platinum ActionPAC (Acción de platino)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "All Mighty PAC (Todo poderoso)",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un comité de acción política",
+                "shortText": "COMITÉ DE ACCIÓN POLÍTICA"
+            },
+            "datChoice": {
+                "longText": "parte del nombre de un “Pac” de detergente para lavandería o lavar platos",
+                "shortText": "CÁPSULA DE DETERGENTE"
+            },
+            "id": "50184",
+            "category": {
+                "text": "Haciendo una campaña absolutamente limpia"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Mano de Dios",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Master Palm",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Bosch",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "Viking",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Goliat",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Patriota",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Husky",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "NOMBRE DE UN PROGRAMA ORIGINAL DE AMAZON",
+                "shortText": "SERIE DE AMAZON"
+            },
+            "datChoice": {
+                "longText": "MARCA DE HERRAMIENTAS",
+                "shortText": "MARCA DE HERRAMIENTAS"
+            },
+            "id": "50182",
+            "category": {
+                "text": "El hombre en el castillo haciendo renovaciones"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Curtido",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Cortana",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Brovada",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Atchara",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Clova",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Gari",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Evi",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "el nombre de un asistente virtual",
+                "shortText": "ASISTENTE VIRTUAL"
+            },
+            "datChoice": {
+                "longText": "un tipo de encurtido",
+                "shortText": "ENCURTIDO"
+            },
+            "id": "50181",
+            "category": {
+                "text": "Siri, sumérgeme en vinagre"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Tint (Tinte)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Bright (Brillo)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Easy (Fácil)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Resolution (Resolución)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Glow (Brillo)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Dark (Oscuridad)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Smoothness (Suavidad)",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un programa original de Netflix",
+                "shortText": "EN NETFLIX"
+            },
+            "datChoice": {
+                "longText": "una configuración de calibración de imagin en mi televisor HD",
+                "shortText": "EN LAS OPCIONES DE MI TV"
+            },
+            "id": "50171",
+            "category": {
+                "text": "Otra razón más por la que me cuesta ver <i>House of Cards<\/i>"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Dude Wipes (tipo)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Star Wipes (de estrella)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Good Wipes (buenas)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Clock Wipes (de reloj)",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Water Wipes (de agua)",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Invisible Wipes",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Bob’s Butt Wipes (...toallitas para la cola de Bob)",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "un tipo de transición para la edición de películas",
+                "shortText": "TRANSICIÓN DE PELÍCULA"
+            },
+            "datChoice": {
+                "longText": "una marca de toallitas descartables para la cola",
+                "shortText": "TOALLITAS PARA LA COLA"
+            },
+            "id": "50169",
+            "category": {
+                "text": "En sus marcas (marrones)"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Aleta",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Anillo retardante",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Anillo de cera",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Válvula antirretorno",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Estimulador de 9“",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Pinzas de trébol",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Bola flotante",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "una parte del inodoro",
+                "shortText": "PARTE DE INODORO"
+            },
+            "datChoice": {
+                "longText": "un juguete íntimo",
+                "shortText": "JUGUETE ÍNTIMO"
+            },
+            "id": "50168",
+            "category": {
+                "text": "Alivio hardcore"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Trinidad y Tobago",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Rizzoli y Isles",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Turcas y Caicos",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Wallis y Futuna",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Benson y Stabler",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "McNulty y Bunk",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Castle y Beckett",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "el nombre de una isla",
+                "shortText": "ISLA"
+            },
+            "datChoice": {
+                "longText": "un duo de detectives de TV",
+                "shortText": "DUO DE DETECTIVES"
+            },
+            "id": "50166",
+            "category": {
+                "text": "No, él es una isla"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Piedra ahogada",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Piedra estacionaria",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Piedra filosofal",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Piedra de la resurrección",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Piedra desplazada",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Piedra en movimiento",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Piedra quemada",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un término de curling",
+                "shortText": "TÉRMINO DE CURLING"
+            },
+            "datChoice": {
+                "longText": "una piedra mágica del mundo de Harry Potter",
+                "shortText": "PIEDRA DE POTTER"
+            },
+            "id": "50163",
+            "category": {
+                "text": "¡Eres un barreador, Harry!"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Transformers",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Dungeons & Dragons",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Caja de cartón",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Beanie Babies",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Frazada",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Rama",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Bolsa de tierra",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "incorporado al Salón Nacional de la Fama del Juguete",
+                "shortText": "SALÓN DE LA FAMA"
+            },
+            "datChoice": {
+                "longText": "no",
+                "shortText": "NO"
+            },
+            "id": "50102",
+            "category": {
+                "text": "Vivirán para siempre"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Slim Cognito",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Skinny Britches",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Bra Cha Cha",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Undie Tectable",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Faja Bisabuela",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Zorx",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Mujer Calzón Chino",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "una prenda interior para moldear el cuerpo de Spanx",
+                "shortText": "SPANX"
+            },
+            "datChoice": {
+                "longText": "un personaje de <i>Capitán Calzoncillos<\/i>",
+                "shortText": "CAPITÁN CALZONCILLOS"
+            },
+            "id": "7179",
+            "category": {
+                "text": "Capitán Rollitos"
+            }
+        }
+    ]
+}

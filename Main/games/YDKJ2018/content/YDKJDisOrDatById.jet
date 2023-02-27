@@ -1,0 +1,92 @@
+{
+    "content": [
+        {
+            "questions": [
+                {
+                    "text": "Cobb",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Denver",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Gado-gado",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Larb",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Tortilla Española",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Tomagoyaki",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Nizarda",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un tipo de ensalada",
+                "shortText": "ENSALADA SALUDABLE"
+            },
+            "datChoice": {
+                "longText": "un tipo de omelet o huevos revueltos",
+                "shortText": "HUEVOS REVUELTOS"
+            },
+            "id": "53149",
+            "category": {
+                "text": "Mucho huevo y poca ensalada"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Siempre Discreto",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Aire Fresco",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "El Diario",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Resumen de Bienestar",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "99% Invisible",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Almohadillas Poise",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "S-Town",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "un podcast popular en las listas de Apple Podcast",
+                "shortText": "PODCAST"
+            },
+            "datChoice": {
+                "longText": "un producto de incontinencia adulta",
+                "shortText": "SOLUCIÓN DE LA CACA"
+            },
+            "id": "50173",
+            "category": {
+                "text": "Estirando el chicle y el estreñimiento"
+            }
+        }
+    ]
+}

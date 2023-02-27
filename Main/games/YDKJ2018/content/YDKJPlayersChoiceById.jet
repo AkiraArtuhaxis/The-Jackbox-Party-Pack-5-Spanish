@@ -1,0 +1,46 @@
+{
+    "content": [
+        {
+            "question": {
+                "text": "¿Preferirías una pregunta que ya has jugado...? ¿O una pregunta que volverás a jugar más adelante?"
+            },
+            "id": "52516",
+            "choice1": {
+                "text": "una pregunta que ya has jugado",
+                "id": "52232"
+            },
+            "choice2": {
+                "text": "una pregunta que volverás a jugar más adelante",
+                "id": "52236"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Preferirías una pregunta fácil...? ¿O una pregunta difícil?"
+            },
+            "id": "52515",
+            "choice1": {
+                "text": "una pregunta fácil",
+                "id": "51787"
+            },
+            "choice2": {
+                "text": "una pregunta difícil",
+                "id": "51788"
+            }
+        },
+        {
+            "question": {
+                "text": "¿Preferirías una pregunta con bocinas de aire o una pregunta sobre bocinas de aire?"
+            },
+            "id": "53008",
+            "choice1": {
+                "text": "Una pregunta con bocinas de aire",
+                "id": "51958"
+            },
+            "choice2": {
+                "text": "Una pregunta SOBRE bocinas de aire",
+                "id": "51957"
+            }
+        }
+    ]
+}

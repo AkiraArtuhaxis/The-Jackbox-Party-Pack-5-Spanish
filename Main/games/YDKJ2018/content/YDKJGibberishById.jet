@@ -1,0 +1,28 @@
+{
+    "content": [
+        {
+            "id": "53695",
+            "category": {
+                "text": "Ese extraño presentimiento de que te olvidaste de algo muy importante"
+            },
+            "gibberishText": {
+                "text": "Pues, capa de las mulas hoy."
+            },
+            "spellings": [],
+            "correctText": {
+                "text": "Escapa de la simulación."
+            },
+            "clues": [
+                {
+                    "text": "Estás atrapado fuera de la realidad, Cookie...."
+                },
+                {
+                    "text": "... y necesitas “escapar de la simulación”."
+                },
+                {
+                    "text": "En serio, la respuesta es “escapa de la simulación”."
+                }
+            ]
+        }
+    ]
+}

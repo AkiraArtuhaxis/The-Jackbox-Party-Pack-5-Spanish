@@ -1,0 +1,1368 @@
+{
+    "content": [
+        {
+            "id": "53634",
+            "category": {
+                "text": "El pelo en mi botón es algo... particular"
+            },
+            "gibberishText": {
+                "text": "¿Estar afro, mi botón?"
+            },
+            "spellings": [
+                "started from the bottom",
+                "start from the bottom",
+                "started for the bottom",
+                "started the bottom",
+                "started at the bottom"
+            ],
+            "correctText": {
+                "text": "“Started From The Bottom”"
+            },
+            "clues": [
+                {
+                    "text": "Solía estar muy abajo..."
+                },
+                {
+                    "text": "...ahora estoy en la cima."
+                },
+                {
+                    "text": "Canción de Drake sobre su humilde comienzo (título en inglés)"
+                }
+            ]
+        },
+        {
+            "id": "53633",
+            "category": {
+                "text": "Rastrillando por el faro"
+            },
+            "gibberishText": {
+                "text": "Ve al faro, cual rastrilla"
+            },
+            "spellings": [
+                "de tal palo tal astilla",
+                "del palo la astilla",
+                "de tal palo la astilla",
+                "del palo viene la astilla",
+                "del palo viene tal astilla",
+                "del palo, la astilla",
+                "de tal palo, la astilla",
+                "del palo, viene la astilla",
+                "del palo, viene tal astilla"
+            ],
+            "correctText": {
+                "text": "De tal palo, tal astilla"
+            },
+            "clues": [
+                {
+                    "text": "Soy solo una pequeña parte..."
+                },
+                {
+                    "text": "...del tronco familiar."
+                },
+                {
+                    "text": "Es igual a sus padres."
+                }
+            ]
+        },
+        {
+            "id": "53632",
+            "category": {
+                "text": "Morder realeza es la nueva moda"
+            },
+            "gibberishText": {
+                "text": "Al <i>king<\/i> ha morder, eh"
+            },
+            "spellings": [
+                "making the murderer",
+                "making a murder",
+                "faking a murderer",
+                "making a murder"
+            ],
+            "correctText": {
+                "text": "<i>Making a Murderer<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Una serie documental de Netflix..."
+                },
+                {
+                    "text": "...centrada en un homicidio."
+                },
+                {
+                    "text": "Creando asesinos <i>(en inglés)<\/i>"
+                }
+            ]
+        },
+        {
+            "id": "53562",
+            "category": {
+                "text": "¡Cómo se atreven a ponerle maní!"
+            },
+            "gibberishText": {
+                "text": "¿Sí y con maní?"
+            },
+            "spellings": [
+                "sillicon valley",
+                "silacon valley",
+                "silacon valey",
+                "silicon vally"
+            ],
+            "correctText": {
+                "text": "<i>Silicon Valley<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Una serie (con un título en inglés) sobre gente que hace computadoras..."
+                },
+                {
+                    "text": "...en un pueblo obsesionado con la tecnología."
+                },
+                {
+                    "text": "Eh... es esa serie de HBO... No se me ocurre una mejor pista, disculpen."
+                }
+            ]
+        },
+        {
+            "id": "53297",
+            "category": {
+                "text": "#TeamInvierno"
+            },
+            "gibberishText": {
+                "text": "No quiero sol."
+            },
+            "spellings": [
+                "nsfw",
+                "not safe 4 work",
+                "not safe for werk",
+                "note safe for work",
+                "no seguro para el trabajo",
+                "no apto para el trabajo"
+            ],
+            "correctText": {
+                "text": "Not safe for work"
+            },
+            "clues": [
+                {
+                    "text": "En inglés, cuidado con este contenido..."
+                },
+                {
+                    "text": "... se debe mirar en privado."
+                },
+                {
+                    "text": "Esto no es aceptable en un contexto laboral."
+                }
+            ]
+        },
+        {
+            "id": "53226",
+            "category": {
+                "text": "Estamos al aire"
+            },
+            "gibberishText": {
+                "text": "¡No ves, Tulio!"
+            },
+            "spellings": [
+                "Top chef jr",
+                "Top Chef Jr.",
+                "Top Chief Junior",
+                "Top Chef Junor"
+            ],
+            "correctText": {
+                "text": "<i>Top Chef Junior<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Son muy jóvenes..."
+                },
+                {
+                    "text": "...pero son cocineros increíbles."
+                },
+                {
+                    "text": "El mejor experto de comidas, niño"
+                }
+            ]
+        },
+        {
+            "id": "53174",
+            "category": {
+                "text": "¡Este talco está vencido!"
+            },
+            "gibberishText": {
+                "text": "Hedor al querer tener talco."
+            },
+            "spellings": [
+                "temor a perder algo",
+                "temer a perder algo",
+                "temor perder algo",
+                "temer perder algo",
+                "teme perder algo",
+                "teme a perder algo",
+                "teme el perder algo",
+                "temor a perderse algo",
+                "temer a perderse algo",
+                "temor perderse algo",
+                "temer perderse algo",
+                "teme perderse algo",
+                "teme a perderse algo",
+                "teme el perderse algo"
+            ],
+            "correctText": {
+                "text": "Temor a perderse de algo"
+            },
+            "clues": [
+                {
+                    "text": "¿Tienes miedo..."
+                },
+                {
+                    "text": "...de que otras personas estén divirtiéndose más que tú?"
+                },
+                {
+                    "text": "La ansiedad de no asistir"
+                }
+            ]
+        },
+        {
+            "id": "53091",
+            "category": {
+                "text": "Qué desperdicio de mesa de pool"
+            },
+            "gibberishText": {
+                "text": "Pool, ¿por? De sommier"
+            },
+            "spellings": [
+                "cool for summer",
+                "cool for the sumer",
+                "cool the summer",
+                "cool 4 the summer"
+            ],
+            "correctText": {
+                "text": "“Cool for the Summer”"
+            },
+            "clues": [
+                {
+                    "text": "Es en inglés una temporada cálida..."
+                },
+                {
+                    "text": "...y para ella estoy en la onda."
+                },
+                {
+                    "text": "Estoy en la onda en diciembre en inglés."
+                }
+            ]
+        },
+        {
+            "id": "53006",
+            "category": {
+                "text": "Quiero ir a ver tu perriiiiiitoooo"
+            },
+            "gibberishText": {
+                "text": "Laila, oh, no gima, ¿quiere subir a verlo?"
+            },
+            "spellings": [
+                "baila como si nadie estuviera viendo",
+                "baila como si nadie estuviese viendo",
+                "baila como si nadie estuviese viendo.",
+                "baila como si nadie te estuviese viendo",
+                "baila como si nadie te estuviese viendo.",
+                "baila como nadie estuviera viendo",
+                "baila como nadie estuviese viendo",
+                "bailar como si nadie te estuviera viendo",
+                "bailar como si nadie estuviera viendo",
+                "bailar como si nadie te estuviese viendo",
+                "bailar como si nadie estuviese viendo"
+            ],
+            "correctText": {
+                "text": "Baila como si nadie te estuviera viendo."
+            },
+            "clues": [
+                {
+                    "text": "Suéltate, sé libre..."
+                },
+                {
+                    "text": "...no te preocupes por lo que piensan los demás."
+                },
+                {
+                    "text": "Mueve tu cuerpo como si la gente tuviera sus ojos cerrados."
+                }
+            ]
+        },
+        {
+            "id": "53005",
+            "category": {
+                "text": "¿Vamos por unas cervezas?"
+            },
+            "gibberishText": {
+                "text": "¿Bar hay lleno o falta aval?"
+            },
+            "spellings": [
+                "para el bien o para el mal",
+                "para bien o mal",
+                "bien o para mal",
+                "para bien y mal",
+                "par bien o par mal",
+                "par el bien o par el mal",
+                "para el bien o el mal",
+                "para el bien o mal"
+            ],
+            "correctText": {
+                "text": "Para bien o para mal"
+            },
+            "clues": [
+                {
+                    "text": "Suenan las campanas de la iglesia..."
+                },
+                {
+                    "text": "...en la salud y en la enfermedad."
+                },
+                {
+                    "text": "Más vale que ustedes sigan juntos por lo bueno y lo malo."
+                }
+            ]
+        },
+        {
+            "id": "53004",
+            "category": {
+                "text": "Soy el que le toca medir cosas que no pueden decirse en este horario"
+            },
+            "gibberishText": {
+                "text": "Gruesa en ancho, y sí."
+            },
+            "spellings": [
+                "prueba un arcoíris",
+                "prueba un arcoiris",
+                "prueba el arcoiris",
+                "prueba el arcoiri",
+                "pruebas el arcoiris",
+                "pruebas un arcoíris",
+                "prueba un arcoiris",
+                "prueba el arcoiris",
+                "prueba el arcoiri",
+                "prueba un arco íris",
+                "prueba un arco iris",
+                "prueba el arco íris",
+                "prueba el arco iris"
+            ],
+            "correctText": {
+                "text": "Prueba el arcoíris."
+            },
+            "clues": [
+                {
+                    "text": "Los colores son detectados..."
+                },
+                {
+                    "text": "...en tu lengua."
+                },
+                {
+                    "text": "¡Dale un gusto a todos los colores!"
+                }
+            ]
+        },
+        {
+            "id": "52463",
+            "category": {
+                "text": "Hora de salir"
+            },
+            "gibberishText": {
+                "text": "Lo apuro si muevo."
+            },
+            "spellings": [
+                "no hay humo si no hay fuego",
+                "hay humo hay fuego",
+                "donde hay humo hay fuego",
+                "si no hay humo no hay fuego",
+                "sin humo sin fuego"
+            ],
+            "correctText": {
+                "text": "No hay humo sin fuego."
+            },
+            "clues": [
+                {
+                    "text": "Solo busca las señales..."
+                },
+                {
+                    "text": "...par ver si las cosas se están calentando."
+                },
+                {
+                    "text": "Evidencia de un incendio indica que las cosas se queman."
+                }
+            ]
+        },
+        {
+            "id": "52462",
+            "category": {
+                "text": "La guerra contra las luciérnagas"
+            },
+            "gibberishText": {
+                "text": "Vi brillar, no va bonito."
+            },
+            "spellings": [
+                "Mi vilano favorito",
+                "mi viyano favorito",
+                "mi viliano favorito",
+                "mi villaon favorito"
+            ],
+            "correctText": {
+                "text": "<i>Mi villano favorito<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Hablo de algo mío..."
+                },
+                {
+                    "text": "....y no es para nada bueno."
+                },
+                {
+                    "text": "Es de mi preferencia."
+                }
+            ]
+        },
+        {
+            "id": "52457",
+            "category": {
+                "text": "Pescando en un mar muy lejano"
+            },
+            "gibberishText": {
+                "text": "Tan solo, una hilo ya de Mar Perz."
+            },
+            "spellings": [
+                "Solo una historia de star wars",
+                "solo",
+                "solo la historia de star wars",
+                "solo historia star wars",
+                "solo historia star war",
+                "solo una historia star wars"
+            ],
+            "correctText": {
+                "text": "<i>Han Solo: Una historia de Star Wars<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Está este joven contrabandista..."
+                },
+                {
+                    "text": "... en una galaxia muy muy lejana"
+                },
+                {
+                    "text": "Solo, en un cuento sobre batallas espaciales."
+                }
+            ]
+        },
+        {
+            "id": "52454",
+            "category": {
+                "text": "¿Cuándo llega este muchacho?"
+            },
+            "gibberishText": {
+                "text": "Él ya vino en remis, mijos."
+            },
+            "spellings": [
+                "Padrino de mis hijos",
+                "Padrino de mis hijas",
+                "el padrino de hijos",
+                "el padrino de hijas",
+                "padrino de hijos",
+                "padrino de hijas",
+                "el padrino de mis hijas",
+                "el padrino de mi hijo",
+                "el padrino de mi hija",
+                "el padrino de mijo"
+            ],
+            "correctText": {
+                "text": "El padrino de mis hijos"
+            },
+            "clues": [
+                {
+                    "text": "Tienes mucho que aprender..."
+                },
+                {
+                    "text": "...si quieres ser de la familia."
+                },
+                {
+                    "text": "¿Te gustaría tener a mis hijos de ahijados?"
+                }
+            ]
+        },
+        {
+            "id": "52435",
+            "category": {
+                "text": "¿Qué hago con tanto dinero de mi sufrimiento?"
+            },
+            "gibberishText": {
+                "text": "Sufre, mas cobres."
+            },
+            "spellings": [
+                "Super smash brother",
+                "superb smash brothers",
+                "superb smash brother",
+                "super smash brother’s"
+            ],
+            "correctText": {
+                "text": "<i>Super Smash Brothers<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Son todos personajes icónicos..."
+                },
+                {
+                    "text": "...y excelentes combatientes."
+                },
+                {
+                    "text": "Los asombrosos hermanos luchadores de los videojuegos."
+                }
+            ]
+        },
+        {
+            "id": "52308",
+            "category": {
+                "text": "Una española buscando a su amiga"
+            },
+            "gibberishText": {
+                "text": "Para Pau, ¿la veis?"
+            },
+            "spellings": [
+                "all about that base",
+                "all about the bass",
+                "all about the base",
+                "I’m all about that bass",
+                "I’m all about the bass",
+                "I’m all about that base"
+            ],
+            "correctText": {
+                "text": "“All About that Bass”"
+            },
+            "clues": [
+                {
+                    "text": "Solo me importa una cosa..."
+                },
+                {
+                    "text": "...y es una canción en inglés de Meghan Trainor."
+                },
+                {
+                    "text": "Me centro exclusivamente en los rangos de sonido graves."
+                }
+            ]
+        },
+        {
+            "id": "52168",
+            "category": {
+                "text": "Estoy deprimido"
+            },
+            "gibberishText": {
+                "text": "Pensé en la carrera hoy..."
+            },
+            "spellings": [
+                "en qué estarás pensando",
+                "en que estaras pensando",
+                "en qué estaras pensando",
+                "en que estarás pensando",
+                "en qué estará pensando",
+                "en qué estara pensando",
+                "en que estará pensando",
+                "qué estarás pensando",
+                "qué estaras pensando",
+                "que estarás pensando",
+                "qué estará pensando",
+                "qué estara pensando",
+                "que estará pensando",
+                "En qué estarás pensando!",
+                "en qué estarás pensando!",
+                "en que estaras pensando!",
+                "en qué estaras pensando!",
+                "en que estarás pensando!",
+                "en qué estará pensando!",
+                "en qué estara pensando!",
+                "en que estará pensando!",
+                "qué estarás pensando!",
+                "qué estaras pensando!",
+                "que estarás pensando!",
+                "qué estará pensando!",
+                "qué estara pensando!",
+                "que estará pensando!",
+                "¡en qué estarás pensando!",
+                "¡en que estaras pensando!",
+                "¡en qué estaras pensando!",
+                "¡en que estarás pensando!",
+                "¡en qué estará pensando!",
+                "¡en qué estara pensando!",
+                "¡en que estará pensando!",
+                "¡qué estarás pensando!",
+                "¡qué estaras pensando!",
+                "¡que estarás pensando!",
+                "¡qué estará pensando!",
+                "¡qué estara pensando!",
+                "¡que estará pensando!"
+            ],
+            "correctText": {
+                "text": "¡En qué estarás pensando!"
+            },
+            "clues": [
+                {
+                    "text": "No puedo evitar la curiosidad..."
+                },
+                {
+                    "text": "...de saber que tienes en la cabeza."
+                },
+                {
+                    "text": "¡Cuál será el pensamiento que tendrás en este momento!"
+                }
+            ]
+        },
+        {
+            "id": "52071",
+            "category": {
+                "text": "Males estomacales"
+            },
+            "gibberishText": {
+                "text": "Hay males tan ácidos y no deben orarlos."
+            },
+            "spellings": [
+                "animales fanáticos y dónde encontrarlos",
+                "animales fantasticos y donde encontrarlos",
+                "animales fantásticos y donde encontrarlos",
+                "animales fantasticos y dónde encontrarlos",
+                "animales fantasticos y donde se encuentran",
+                "animales fantásticos y dónde se encuentran",
+                "animales fantásticos y donde se encuentran",
+                "animales fanasticos y dónde se encuentran",
+                "animales fanasticos y donde encontrarlos",
+                "animales fanásticos y donde encontrarlos",
+                "animales fanasticos y dónde encontrarlos",
+                "animales fanasticos y donde se encuentran",
+                "animales fanásticos y dónde se encuentran",
+                "animales fanásticos y donde se encuentran",
+                "animales fanasticos y dónde se encuentran"
+            ],
+            "correctText": {
+                "text": "<i>Animales fantásticos y dónde encontrarlos<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "La magia está en todas partes..."
+                },
+                {
+                    "text": "...si buscas en el lugar correcto."
+                },
+                {
+                    "text": "Animales asombrosos con un mapa a su ubicación."
+                }
+            ]
+        },
+        {
+            "id": "52059",
+            "category": {
+                "text": "Incómoda visita al baño"
+            },
+            "gibberishText": {
+                "text": "Al mear se hace rara esta afección..."
+            },
+            "spellings": [
+                "la verdad es mas extraña que la ficcion",
+                "la verdad es mas extraña que la ficción.",
+                "la verdad es mas extraña que la ficcion.",
+                "verdad es más rara que ficción",
+                "verdad es mas rara que ficcion",
+                "verdad es mas rara que ficción",
+                "verdad es más rara que ficcion",
+                "verdad rara que la ficcion",
+                "verdad rara que la ficción",
+                "verdad es más extraña que la fición",
+                "verdad es más extraña que la ficion",
+                "verdad es mas extraña que la fición",
+                "verdad es mas extraña que la ficion",
+                "verdad es más rara que ficción.",
+                "verdad es mas rara que ficcion.",
+                "verdad es mas rara que ficción.",
+                "verdad es más rara que ficcion.",
+                "verdad rara que la ficcion.",
+                "verdad rara que la ficción.",
+                "verdad es más extraña que la fición.",
+                "verdad es más extraña que la ficion.",
+                "verdad es mas extraña que la fición.",
+                "verdad es mas extraña que la ficion."
+            ],
+            "correctText": {
+                "text": "La verdad es más extraña que la ficción."
+            },
+            "clues": [
+                {
+                    "text": "Oh, la realidad..."
+                },
+                {
+                    "text": "...a veces es muy rara."
+                },
+                {
+                    "text": "Los hechos son más bizarros que la fantasía."
+                }
+            ]
+        },
+        {
+            "id": "52056",
+            "category": {
+                "text": "Flipando en el coche"
+            },
+            "gibberishText": {
+                "text": "¡Eh, da vuelta el carro!"
+            },
+            "spellings": [
+                "mea fuera del tarro",
+                "meo fuera del tarro",
+                "meando fuera del tarro",
+                "meó fuera del tarro",
+                "meo fuera del tarro"
+            ],
+            "correctText": {
+                "text": "Mear fuera del tarro"
+            },
+            "clues": [
+                {
+                    "text": "Hiciste algo..."
+                },
+                {
+                    "text": "...pero le apuntaste mal."
+                },
+                {
+                    "text": "Estás orinando afuera de donde deberías."
+                }
+            ]
+        },
+        {
+            "id": "52054",
+            "category": {
+                "text": "Asadito con el partidito"
+            },
+            "gibberishText": {
+                "text": "Somos quienes gritan ¡GOL O COMERÁS!"
+            },
+            "spellings": [
+                "polvo eres y al polvo volveras",
+                "polvo al polvo y al polvo volverás",
+                "polvo al polvo y al polvo volveras",
+                "polvo eres al polvo volverás",
+                "polvo eres al polvo volveras",
+                "del polvo vienes y al polvo volverás",
+                "del polvo vienes y al polvo volveras",
+                "somos polvo y al polvo volveremos",
+                "del polvo venimos y al polvo volvemos",
+                "del polvo venimos y al polvo volveremos"
+            ],
+            "correctText": {
+                "text": "polvo eres y al polvo volverás"
+            },
+            "clues": [
+                {
+                    "text": "Es el círculo de la vida..."
+                },
+                {
+                    "text": "...pero se acerca más a la muerte."
+                },
+                {
+                    "text": "Suciedad sos y a la suciedad regresarás."
+                }
+            ]
+        },
+        {
+            "id": "52026",
+            "category": {
+                "text": "El trapecista con la vara muy alta"
+            },
+            "gibberishText": {
+                "text": "Trapecista quiere varas gordas."
+            },
+            "spellings": [
+                "La mentira tiene patas cortas",
+                "mentira tiene patas cortas",
+                "mentira tiene patas cortas.",
+                "mentira es de patas cortas",
+                "la mentira es de patas cortas",
+                "mentira es de patas cortas.",
+                "la mentira es de patas cortas.",
+                "las mentiras son de patas cortas",
+                "las mentiras son de patas cortas."
+            ],
+            "correctText": {
+                "text": "La mentira tiene patas cortas."
+            },
+            "clues": [
+                {
+                    "text": "Decir la verdad es lo correcto..."
+                },
+                {
+                    "text": "...y bueno, no decirla suele salir mal."
+                },
+                {
+                    "text": "Mis afirmaciones falsas tienen piernas poco extensas."
+                }
+            ]
+        },
+        {
+            "id": "52025",
+            "category": {
+                "text": "¡Hora de una bebida refrescante!"
+            },
+            "gibberishText": {
+                "text": "Vaya, cloruro. ¡No lo tomes!"
+            },
+            "spellings": [
+                "para los gustos los colores",
+                "para gustos, colores",
+                "para gustos colores",
+                "para los gustos, colores",
+                "para los gustos colores",
+                "para distintos gustos, distintos colores",
+                "para distintos gustos distintos colores",
+                "para cada gusto, un color",
+                "para cada gusto un color"
+            ],
+            "correctText": {
+                "text": "Para los gustos, los colores."
+            },
+            "clues": [
+                {
+                    "text": "No tenemos por qué hacer todos lo mismo..."
+                },
+                {
+                    "text": "...hay muchas opciones disponibles."
+                },
+                {
+                    "text": "Hay muchas opciones, para cada persona alguna funciona."
+                }
+            ]
+        },
+        {
+            "id": "52023",
+            "category": {
+                "text": "La vida de un amputado"
+            },
+            "gibberishText": {
+                "text": "Con el ojo me despido."
+            },
+            "spellings": [
+                "no me enojo me desquito",
+                "no me enojo, solo me desquito",
+                "no me enojo solo me desquito",
+                "ni me enojo, me desquito",
+                "ni me enojo me desquito",
+                "no me enoja, me desquito",
+                "no me enoja me desquito"
+            ],
+            "correctText": {
+                "text": "No me enojo, me desquito."
+            },
+            "clues": [
+                {
+                    "text": "No pierdas la cordura..."
+                },
+                {
+                    "text": "...solo no pierdas la calma, y véngate."
+                },
+                {
+                    "text": "No te enfurezcas, solo sácate las ganas."
+                }
+            ]
+        },
+        {
+            "id": "52011",
+            "category": {
+                "text": "Una semana pecaminosa más tarde"
+            },
+            "gibberishText": {
+                "text": "Orando en la misa."
+            },
+            "spellings": [
+                "llorar de la risa",
+                "llorar de risa",
+                "llorando de risa",
+                "llorar de tanto reír",
+                "llorar de tanto reir"
+            ],
+            "correctText": {
+                "text": "Llorando de la risa"
+            },
+            "clues": [
+                {
+                    "text": "Es muy gracioso..."
+                },
+                {
+                    "text": "...se me humedecen los ojos."
+                },
+                {
+                    "text": "Estoy sollozando de la carcajada."
+                }
+            ]
+        },
+        {
+            "id": "52010",
+            "category": {
+                "text": "¿Dónde hago mis plegarias?"
+            },
+            "gibberishText": {
+                "text": "Ore allí, señor Black."
+            },
+            "spellings": [
+                "orang is the new black",
+                "orange is a new black",
+                "orunge is the new black",
+                "oranges the new black",
+                "orange es the new black",
+                "orange is the new blak"
+            ],
+            "correctText": {
+                "text": "<i>Orange is the New Black<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "En inglés, los colores a la moda..."
+                },
+                {
+                    "text": "... puede que cambien luego de tu juicio."
+                },
+                {
+                    "text": "Este cítrico es el color oscuro más moderno."
+                }
+            ]
+        },
+        {
+            "id": "52000",
+            "category": {
+                "text": "¡Llamen al ginecólogo!"
+            },
+            "gibberishText": {
+                "text": "Tensiones del himen"
+            },
+            "spellings": [
+                "Lecciones de crimen",
+                "lesiones del crimen",
+                "lesiones de crimen",
+                "lecciones crimen"
+            ],
+            "correctText": {
+                "text": "<i>Lecciones del crimen<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Hay algo muy importante que aprender..."
+                },
+                {
+                    "text": "...sobre violar las leyes."
+                },
+                {
+                    "text": "Enseñanzas de delitos."
+                }
+            ]
+        },
+        {
+            "id": "51983",
+            "category": {
+                "text": "Respiren hondo"
+            },
+            "gibberishText": {
+                "text": "Están con hipo"
+            },
+            "spellings": [
+                "es un pan comido",
+                "eso es pan comido",
+                "pan comido",
+                "un pan comido",
+                "es un pan comido.",
+                "eso es pan comido.",
+                "pan comido.",
+                "un pan comido."
+            ],
+            "correctText": {
+                "text": "Es pan comido."
+            },
+            "clues": [
+                {
+                    "text": "Es algo sencillo de hacer..."
+                },
+                {
+                    "text": "...de hecho, es un alimento."
+                },
+                {
+                    "text": "Esto es algo hecho de trigo que fue mordido."
+                }
+            ]
+        },
+        {
+            "id": "51982",
+            "category": {
+                "text": "El peor paladar de la historia de la humanidad"
+            },
+            "gibberishText": {
+                "text": "¡Coles y pizza, cuál dicha!"
+            },
+            "spellings": [
+                "no es física cuántica",
+                "no es física cuantica",
+                "no es fisica cuántica",
+                "no es fisica cuantica",
+                "no es física cuántica.",
+                "no es física cuántica.",
+                "no es física cuantica.",
+                "no es fisica cuántica.",
+                "no es fisica cuantica.",
+                "no física cuántica",
+                "no física cuantica",
+                "no fisica cuántica",
+                "no fisica cuantica",
+                "no física cuántica.",
+                "no fisica cuantica.",
+                "no física cuantica.",
+                "no fisica cuántica.",
+                "no es físicas cuánticas",
+                "no es físicas cuanticas",
+                "no es fisicas cuánticas",
+                "no es fisicas cuanticas",
+                "no es físicas cuánticas.",
+                "no es físicas cuanticas.",
+                "no es fisicas cuánticas.",
+                "no es fisicas cuanticas.",
+                "esto no es física cuántica",
+                "esto no es física cuántica",
+                "esto no es física cuántica",
+                "esto no es fisica cuantica",
+                "esto no es física cuántica.",
+                "esto no es física cuántica.",
+                "esto no es física cuántica.",
+                "esto no es fisica cuantica."
+            ],
+            "correctText": {
+                "text": "No es física cuántica."
+            },
+            "clues": [
+                {
+                    "text": "Es fácil..."
+                },
+                {
+                    "text": "...porque no es complicado."
+                },
+                {
+                    "text": "No es una rama de la ciencia que estudia partículas subatómicas."
+                }
+            ]
+        },
+        {
+            "id": "51973",
+            "category": {
+                "text": "¡Qué sistema!"
+            },
+            "gibberishText": {
+                "text": "¿Embebido? ¡Hay uno así, Mark!"
+            },
+            "spellings": [
+                "bienvenido a jurassic park",
+                "bienvenido a jurasic park",
+                "bienvenido a jurrassic park",
+                "bienvenido a jurrasic park",
+                "bienvenido a jurassik park",
+                "bienvenidos a jurassic park",
+                "bienvenidos a jurasic park",
+                "bienvenidos a jurrassic park",
+                "bienvenidos a jurrasic park",
+                "bienvenidos a jurassik park"
+            ],
+            "correctText": {
+                "text": "¡Bienvenido a Jurassic Park!"
+            },
+            "clues": [
+                {
+                    "text": "Te damos la entrada..."
+                },
+                {
+                    "text": "...al mundo del dinosaurio."
+                },
+                {
+                    "text": "¡Hola, estás en tierra de monstruos!"
+                }
+            ]
+        },
+        {
+            "id": "51972",
+            "category": {
+                "text": "Kantiano ante todas las cosas"
+            },
+            "gibberishText": {
+                "text": "Kant es top, ¡desfilen!"
+            },
+            "spellings": [
+                "I can’t stop the feeling",
+                "cant stop the feeling",
+                "I cant stop the feeling",
+                "cannot stop the feeling"
+            ],
+            "correctText": {
+                "text": "<i>Can’t Stop the Feeling<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "<i>(en inglés)<\/i> Ando de un humor..."
+                },
+                {
+                    "text": "...que no puedes prevenir que tenga."
+                },
+                {
+                    "text": "Nada que hagas puede detener mis emociones."
+                }
+            ]
+        },
+        {
+            "id": "51971",
+            "category": {
+                "text": "Ya no quiero ser grande..."
+            },
+            "gibberishText": {
+                "text": "Te mueres como grandecito."
+            },
+            "spellings": [
+                "ojalá sueñes con los angelitos",
+                "ojala sueñes con los angelitos",
+                "que sueñes con los ángeles",
+                "que sueñes con los angeles",
+                "sueña con los angelitos",
+                "sueña con angelitos",
+                "sueña con los pajaritos",
+                "sueña con pajaritos",
+                "ojalá sueñes con los angelitos.",
+                "ojala sueñes con los angelitos.",
+                "que sueñes con los ángeles.",
+                "que sueñes con los angeles.",
+                "sueña con los angelitos.",
+                "sueña con angelitos.",
+                "sueña con los pajaritos.",
+                "sueña con pajaritos."
+            ],
+            "correctText": {
+                "text": "Que sueñes con los angelitos."
+            },
+            "clues": [
+                {
+                    "text": "Duerme tranquilo..."
+                },
+                {
+                    "text": "...no tengas pesadillas."
+                },
+                {
+                    "text": "Ojalá tú alucines con seres del plano celestial."
+                }
+            ]
+        },
+        {
+            "id": "51909",
+            "category": {
+                "text": "¡Te da aaalas!"
+            },
+            "gibberishText": {
+                "text": "¡Bar vende pavo!"
+            },
+            "spellings": [
+                "dando en el clavo",
+                "diste en el clavo",
+                "dar en el blanco",
+                "dando en el blanco",
+                "diste en el blanco"
+            ],
+            "correctText": {
+                "text": "Dar en el clavo"
+            },
+            "clues": [
+                {
+                    "text": "Tienes razón..."
+                },
+                {
+                    "text": "...estás perfectamente en lo correcto."
+                },
+                {
+                    "text": "Golpeaste en el tornillo justo que tenías que golpear."
+                }
+            ]
+        },
+        {
+            "id": "51883",
+            "category": {
+                "text": "Entrevista de trabajo para NASCAR... sin carnet"
+            },
+            "gibberishText": {
+                "text": "¿Dirás que él maneja?"
+            },
+            "spellings": [
+                "Tirate de cabeza",
+                "ir de cabeza",
+                "mandarse de cabeza",
+                "saltar de cabeza"
+            ],
+            "correctText": {
+                "text": "Tirarse de cabeza"
+            },
+            "clues": [
+                {
+                    "text": "Ignora tus preocupaciones..."
+                },
+                {
+                    "text": "...hazlo sin pensarlo por un segundo."
+                },
+                {
+                    "text": "¡Lánzate desde tu cara!"
+                }
+            ]
+        },
+        {
+            "id": "51870",
+            "category": {
+                "text": "Tela gruesa y sucia"
+            },
+            "gibberishText": {
+                "text": "Tela gruesa, Thiago, bañe."
+            },
+            "spellings": [
+                "que la fuerza te acompanie",
+                "que la fuerza te acompane",
+                "la fuerza te acompañe",
+                "la fuerza te acompanie",
+                "que la fuersa te acompañe",
+                "la fuersa te acompañe",
+                "la fuerza te acompaña",
+                "que la fuerza te acompanie.",
+                "que la fuerza te acompane.",
+                "la fuerza te acompañe.",
+                "la fuerza te acompanie",
+                "que la fuersa te acompañe.",
+                "la fuersa te acompañe."
+            ],
+            "correctText": {
+                "text": "Que la fuerza te acompañe."
+            },
+            "clues": [
+                {
+                    "text": "¿De qué lado están..."
+                },
+                {
+                    "text": "...la oscuridad o la luz?"
+                },
+                {
+                    "text": "Diablos, esas peleas espaciales son intensas."
+                }
+            ]
+        },
+        {
+            "id": "51783",
+            "category": {
+                "text": "¡Un aplauso para el tierno!"
+            },
+            "gibberishText": {
+                "text": "Ve a hacer caer gin tierno"
+            },
+            "spellings": [
+                "seacerca el invierno",
+                "se acerca invierno",
+                "acerca el invierno",
+                "se acerca linvierno",
+                "seaserca el invierno",
+                "se aserca invierno",
+                "aserca el invierno",
+                "se aserca linvierno",
+                "seacerca el invierno.",
+                "se acerca invierno.",
+                "acerca el invierno.",
+                "se acerca linvierno.",
+                "seaserca el invierno.",
+                "se aserca invierno.",
+                "aserca el invierno.",
+                "se aserca linvierno."
+            ],
+            "correctText": {
+                "text": "Se acerca el invierno."
+            },
+            "clues": [
+                {
+                    "text": "Es hora de prepararse..."
+                },
+                {
+                    "text": "...para una temporada muy fría."
+                },
+                {
+                    "text": "La estación del frío viene hacia nosotros."
+                }
+            ]
+        },
+        {
+            "id": "51775",
+            "category": {
+                "text": "Vecinos invasores"
+            },
+            "gibberishText": {
+                "text": "¡Qué lacra tu zorrillo!"
+            },
+            "spellings": [
+                "le falta un tornillo",
+                "te falta un tornillo",
+                "te falta una tuerca",
+                "le falta una tuerca",
+                "te falta un tornillo.",
+                "te falta una tuerca.",
+                "le falta una tuerca."
+            ],
+            "correctText": {
+                "text": "Le falta un tornillo."
+            },
+            "clues": [
+                {
+                    "text": "A veces pensar puede resultar complicado..."
+                },
+                {
+                    "text": "... o algo no está bien armado."
+                },
+                {
+                    "text": "Carece de una clavija."
+                }
+            ]
+        },
+        {
+            "id": "51773",
+            "category": {
+                "text": "Propaganda de la vida salvaje"
+            },
+            "gibberishText": {
+                "text": "Oh, hice capibara lamer a mi, ¿vos?"
+            },
+            "spellings": [
+                "no vine aqui para hacer amigos",
+                "no vine para hacer amigos",
+                "no vine para amigos",
+                "no vine aquí para amigos",
+                "no vine aqui para amigos",
+                "no vine para hacer amigo",
+                "no vine aqui para hacer amigo",
+                "no vine para hacer amigo",
+                "no vine para amigo",
+                "no vine aquí para amigo",
+                "no vine aqui para amigo",
+                "no vine aquí para hacer amigos.",
+                "no vine aqui para hacer amigos.",
+                "no vine para hacer amigos.",
+                "no vine para amigos.",
+                "no vine aquí para amigos.",
+                "no vine aqui para amigos.",
+                "no vine para hacer amigo.",
+                "no vine aqui para hacer amigo.",
+                "no vine para hacer amigo.",
+                "no vine para amigo.",
+                "no vine aquí para amigo.",
+                "no vine aqui para amigo."
+            ],
+            "correctText": {
+                "text": "No vine aquí para hacer amigos."
+            },
+            "clues": [
+                {
+                    "text": "Suele escucharse esto en realities de la televisión..."
+                },
+                {
+                    "text": "...normalmente de un “villano”."
+                },
+                {
+                    "text": "Este no es un lugar al que he llegado para formar nuevas cercanías con otras personas."
+                }
+            ]
+        }
+    ]
+}

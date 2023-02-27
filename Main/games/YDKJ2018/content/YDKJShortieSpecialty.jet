@@ -1,0 +1,2004 @@
+{
+    "content": [
+        {
+            "id": "53602",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "OCQEFD",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Lo que se encontró primero en el Antártico."
+                }
+            ]
+        },
+        {
+            "id": "53601",
+            "category": {
+                "text": "PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "OCQEFD",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Su nombre significa \"conquistador\" en latín."
+                }
+            ]
+        },
+        {
+            "id": "52099",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Conocido por comer flores."
+                }
+            ]
+        },
+        {
+            "id": "52031",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Producido a través del galvanismo."
+                }
+            ]
+        },
+        {
+            "id": "52030",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sujeto de una película erótica producida por Andy Warhol."
+                }
+            ]
+        },
+        {
+            "id": "52028",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFD",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Cambia de color, pero siempre empieza verde."
+                }
+            ]
+        },
+        {
+            "id": "52027",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFD",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Prohibido en Suecia durante 30 años."
+                }
+            ]
+        },
+        {
+            "id": "52024",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Predijo correctamente 7 partidos de la Copa Mundial."
+                }
+            ]
+        },
+        {
+            "id": "51942",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Hasta 2017, el sujeto del programa de televisión más caro jamás hecho."
+                }
+            ]
+        },
+        {
+            "id": "51933",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFD",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "A veces se le denomina “Gan Gan.”"
+                }
+            ]
+        },
+        {
+            "id": "51927",
+            "category": {
+                "text": "PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Aristóteles lo llamó \"estúpido\"."
+                }
+            ]
+        },
+        {
+            "id": "51914",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFD",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Leslie Nielsen limpió una mesa con esto en <i>La pistola desnuda<\/i> (también conocida como <i>¿Y dónde está la policía?<\/i>)."
+                }
+            ]
+        },
+        {
+            "id": "51910",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Emparejad con Kanye en la canción de Madonna “Illuminati.”"
+                }
+            ]
+        },
+        {
+            "id": "51908",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Coleccionista de conchas."
+                }
+            ]
+        },
+        {
+            "id": "51905",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "El alter ego de John Lennon en <i>Yellow Submarine<\/i>."
+                }
+            ]
+        },
+        {
+            "id": "51903",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFD",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Una parte importante de la inspiración para la invención de la primera cámara web."
+                }
+            ]
+        },
+        {
+            "id": "51893",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Fue un monstruo recurrente en la serie de NBC <i>Grimm<\/i>."
+                }
+            ]
+        },
+        {
+            "id": "51892",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "OCQEFD",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Interpretado en una película de John Malkovich."
+                }
+            ]
+        },
+        {
+            "id": "51890",
+            "category": {
+                "text": "¡¿PULPO, CAFÉ, REINA ISABEL O FRANKENSTEIN?!"
+            },
+            "choices": [
+                {
+                    "text": "Pulpo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Café",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reina Isabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frankenstein",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "OCQEFM",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Descubierto por primera vez en Suiza."
+                }
+            ]
+        },
+        {
+            "id": "53102",
+            "category": {
+                "text": "Tipo = { Mujer, Autora }"
+            },
+            "choices": [
+                {
+                    "text": "Agatha Christie",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Virginia Woolf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Toni Morrison",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Charlotte Brontë",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“se busca gobernanta”<br>"
+                },
+                {
+                    "timing": "S + 1.54",
+                    "text": "“seguros contra incendios”<br>"
+                },
+                {
+                    "timing": "S + 3.70",
+                    "text": "“Qué hay en el áti..."
+                },
+                {
+                    "timing": "S + 4.74",
+                    "text": "¡BÚSQUEDA RECHAZADA! ¡NUNCA DEBES IR AL ÁTICO!“<br>"
+                },
+                {
+                    "timing": "S + 9.28",
+                    "text": "¿De quién hemos descubierto el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "53098",
+            "category": {
+                "text": "Type = { Escritor, Arcaico }"
+            },
+            "choices": [
+                {
+                    "text": "Aristóteles",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rupi Kaur",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Safo",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Robert Frost",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“quería: acompañante de lira para poesía”<br>"
+                },
+                {
+                    "timing": "S + 3.15",
+                    "text": "“quería: actividades para el exilio”<br>"
+                },
+                {
+                    "timing": "S + 5.70",
+                    "text": "“quería: mujeres para tener sexo”<br>"
+                },
+                {
+                    "timing": "S + 8.66",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "53090",
+            "category": {
+                "text": "Type = { Mujer, Artista }"
+            },
+            "choices": [
+                {
+                    "text": "Jada Pinkett Smith",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Wanda Sykes",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Queen Latifah",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Brandy",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“¿Hay algún soltero caliente en <i>Chicago<\/i>?”<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "“¿Se encuentran algunas <i>Solteras<\/i> por mi vecinidad?”<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "“¿A dónde debería ir en mi <i>Viaje de chicas<\/i> a buscar esas elusivas solteras?”<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "53089",
+            "category": {
+                "text": "Type = { Masculino, Cantante }"
+            },
+            "choices": [
+                {
+                    "text": "Sammy Davis Jr.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Bobby Darrin",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frank Sinatra",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Louie Armstrong",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“¿Está disponible RATPACK?”<br>"
+                },
+                {
+                    "timing": "S + 2.78",
+                    "text": "“¿Está disponible CNDYMAN?”<br>"
+                },
+                {
+                    "timing": "S + 5.97",
+                    "text": "“¿Está disponible MRBJNG?”<br>"
+                },
+                {
+                    "timing": "S + 9.54",
+                    "text": "¿De quién es el historial de búsqueda de patentes de autos que hemos encontrado?"
+                }
+            ]
+        },
+        {
+            "id": "52999",
+            "category": {
+                "text": "Type = { Historia, Mujer }"
+            },
+            "choices": [
+                {
+                    "text": "Marie Curie",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Juana de Arco",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Edith Piaf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Simone de Beauvoir",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“C’est La Vie”<br>"
+                },
+                {
+                    "timing": "S + 1.30",
+                    "text": "“Faith”<br>"
+                },
+                {
+                    "timing": "S + 2.27",
+                    "text": "“Girl On Fire”<br>"
+                },
+                {
+                    "timing": "S + 3.94",
+                    "text": "¿De quién es la playlist que hemos conseguido?"
+                }
+            ]
+        },
+        {
+            "id": "51961",
+            "category": {
+                "text": "Type = { Literatura, Clásica }"
+            },
+            "choices": [
+                {
+                    "text": "Virginia Woolf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Emily Bronte",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Jane Austen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Louisa May Alcott",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“¿están escribiendo mis hermanas?”<br>"
+                },
+                {
+                    "timing": "S + 2.18",
+                    "text": "“¿están borrascosas las cumbres?”<br>"
+                },
+                {
+                    "timing": "S + 5.09",
+                    "text": "“estoy enferma de tuberculozzzzzzzzz”<br>"
+                },
+                {
+                    "timing": "S + 8.90",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51935",
+            "category": {
+                "text": "Type = { Música, Clásica }"
+            },
+            "choices": [
+                {
+                    "text": "Axl Rose",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bob Dylan",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tom Jones",
+                    "isCorrect": false
+                },
+                {
+                    "text": "David Bowie",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“Aladdin Sane”<br>"
+                },
+                {
+                    "timing": "S + 1.40",
+                    "text": "“David Robert Jones”<br>"
+                },
+                {
+                    "timing": "S + 2.97",
+                    "text": "“El Duque Blanco”<br>"
+                },
+                {
+                    "timing": "S + 4.52",
+                    "text": "¿Quién se estaba googleando a sí mismo?"
+                }
+            ]
+        },
+        {
+            "id": "51923",
+            "category": {
+                "text": "Type = { Masculino, Revolucionario }"
+            },
+            "choices": [
+                {
+                    "text": "Martin Luther King Jr.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mikhail Gorbachev",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nelson Mandela",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Fidel Castro",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“alternativas si estuve encarcelado injustamente por 27 años”<br>"
+                },
+                {
+                    "timing": "S + 3.88",
+                    "text": "“mirar Invictus”<br>"
+                },
+                {
+                    "timing": "S + 5.66",
+                    "text": "“¿mejor título para ‘caminata normal a la libertad’?”<br>"
+                },
+                {
+                    "timing": "S + 8.28",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51824",
+            "category": {
+                "text": "Type = { Cine, Actor }"
+            },
+            "choices": [
+                {
+                    "text": "Mads Mikkelsen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Javier Bardem",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Forest Whitaker",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Christopher Lee",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“¿Cómo puedo atrapar al capitán Jack Sparrow?”<br>"
+                },
+                {
+                    "timing": "S + 2.45",
+                    "text": "“¿Cómo puedo matar a James Bond?”<br>"
+                },
+                {
+                    "timing": "S + 4.26",
+                    "text": "“¿Cómo me aseguro que no haya lugar para los débiles?”<br>"
+                },
+                {
+                    "timing": "S + 7.09",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51823",
+            "category": {
+                "text": "Type = { Música, Femenino }"
+            },
+            "choices": [
+                {
+                    "text": "Britney Spears",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Christina Aguilera",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mandy Moore",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gwen Stefani",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“Indicaciones para esquivar esa pista”<br>"
+                },
+                {
+                    "timing": "S + 2.22",
+                    "text": "“¿‘I ain’t no’ es gramaticalmente correcto?”<br>"
+                },
+                {
+                    "timing": "S + 5.86",
+                    "text": "“¿Por qué estas bananas saben a [REDACTED]?”<br>"
+                },
+                {
+                    "timing": "S + 9.02",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51811",
+            "category": {
+                "text": "Type = { Moda, Famoso }"
+            },
+            "choices": [
+                {
+                    "text": "Alexander McQueen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Coco Chanel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Gianni Versace",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vera Wang",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“¿Qué vestido sirve para toda ocasión?”<br>"
+                },
+                {
+                    "timing": "S + 2.90",
+                    "text": "“¿puedo registrar la marca del número 5?”<br>"
+                },
+                {
+                    "timing": "S + 5.06",
+                    "text": "“¿‘Boy Bag’ tiene un doble sentido?”<br>"
+                },
+                {
+                    "timing": "S + 7.68",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51755",
+            "category": {
+                "text": "Type = { Película, Clásica }"
+            },
+            "choices": [
+                {
+                    "text": "Ben Stiller",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ben Stein",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ben Savage",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Benjamin Bratt",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“Bueller?”<br>"
+                },
+                {
+                    "timing": "S + 1.31",
+                    "text": "“Bueller?”<br>"
+                },
+                {
+                    "timing": "S + 2.47",
+                    "text": "“Bueller?”<br>"
+                },
+                {
+                    "timing": "S + 3.83",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51388",
+            "category": {
+                "text": "Type = { Música, Actual }"
+            },
+            "choices": [
+                {
+                    "text": "Jay-Z",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Drake",
+                    "isCorrect": true
+                },
+                {
+                    "text": "50 Cent",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Future",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“mejores asientos del partido de los Toronto Raptors”<br>"
+                },
+                {
+                    "timing": "S + 2.67",
+                    "text": "“significados de nombres de niño: Aubrey”<br>"
+                },
+                {
+                    "timing": "S + 5.01",
+                    "text": "“busca quién solía llamarme a mi celular”<br>"
+                },
+                {
+                    "timing": "S + 7.74",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51315",
+            "category": {
+                "text": "Type = { Liderazgo, Internacional }"
+            },
+            "choices": [
+                {
+                    "text": "Margaret Thatcher",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Angela Merkel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Indira Gandhi",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Benazir Bhutto",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“Kate McKinnon nachahmen”<br>"
+                },
+                {
+                    "timing": "S + 2.13",
+                    "text": "“navigiere zum Bundestag”<br>"
+                },
+                {
+                    "timing": "S + 4.08",
+                    "text": "“was ist ‘austeridad’?”<br>"
+                },
+                {
+                    "timing": "S + 6.92",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51310",
+            "category": {
+                "text": "Type = { Historia, Hombre }"
+            },
+            "choices": [
+                {
+                    "text": "Genghis Khan",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alejandro el Grande",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nostradamus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Grigori Rasputín",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“cura para envenenamiento”<br>"
+                },
+                {
+                    "timing": "S + 1.87",
+                    "text": "“cura para apuñalamiento”<br>"
+                },
+                {
+                    "timing": "S + 3.54",
+                    "text": "“cura para ser disparado y ahogado”<br>"
+                },
+                {
+                    "timing": "S + 5.69",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51148",
+            "category": {
+                "text": "Type = { Hollywood, Contemporaria }"
+            },
+            "choices": [
+                {
+                    "text": "Reese Witherspoon",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Emily Blunt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Natalie Portman",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Renee Zellweger",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“buscar un lugar tranqui”<br>"
+                },
+                {
+                    "timing": "S + 1.99",
+                    "text": "“tridentes a la moda”<br>"
+                },
+                {
+                    "timing": "S + 3.93",
+                    "text": "“QUIZ: ¿Con quién de <i>The Office<\/i> te casarías?”<br>"
+                },
+                {
+                    "timing": "S + 7.50",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51104",
+            "category": {
+                "text": "Type = { Hombre, Hollywood }"
+            },
+            "choices": [
+                {
+                    "text": "Bruce Willis",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Charlie Sheen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jeff Bridges",
+                    "isCorrect": false
+                },
+                {
+                    "text": "John Travolta",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "“desetiquetar fotos de Robert Shapiro”<br>"
+                },
+                {
+                    "timing": "S + 2.30",
+                    "text": "“vendo chaqueta de T-Bird”<br>"
+                },
+                {
+                    "timing": "S + 3.85",
+                    "text": "“¿Idina Menzel? ¿cómo se pronuncia?”<br>"
+                },
+                {
+                    "timing": "S + 5.98",
+                    "text": "¿De quién hemos adquirido el historial de búsqueda?"
+                }
+            ]
+        },
+        {
+            "id": "51936",
+            "category": {
+                "text": "El contenido nos une"
+            },
+            "choices": [
+                {
+                    "text": "<i>Cuando Harry conoció a Sally<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>El satánico Dr. No<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Picardías estudiantiles<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Alguien tiene que ceder<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como odias las “mujeres que salen del agua”, quizá puedas tolerar:"
+                }
+            ]
+        },
+        {
+            "id": "51945",
+            "category": {
+                "text": "Estamos aquí para ayudar"
+            },
+            "choices": [
+                {
+                    "text": "La guerra de las Dos Rosas",
+                    "isCorrect": true
+                },
+                {
+                    "text": "La batalla de Hastings",
+                    "isCorrect": false
+                },
+                {
+                    "text": "La Revolución Francesa",
+                    "isCorrect": false
+                },
+                {
+                    "text": "La Guerra Fría",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como disfrutas de películas que “terminan con bodas entre familias enemistadas”, puede que disfrutes de este evento histórico:"
+                }
+            ]
+        },
+        {
+            "id": "52016",
+            "category": {
+                "text": "Siempre estamos escuchando"
+            },
+            "choices": [
+                {
+                    "text": "<i>La conjura de los necios<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>El diario de Bridget Jones<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>La guía del autoestopista galáctico<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Problemas de gente rica<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como has comprado “42 toallas” recientemente, pensamos que disfrutarías leer:"
+                }
+            ]
+        },
+        {
+            "id": "52115",
+            "category": {
+                "text": "Estamos escuchando... Estás escuchando"
+            },
+            "choices": [
+                {
+                    "text": "“Stressed Out” (Estresado)",
+                    "isCorrect": false
+                },
+                {
+                    "text": "“I Can’t Feel My Face” (No siento mi cara)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "“Wake Me Up” (Despiértame)",
+                    "isCorrect": false
+                },
+                {
+                    "text": "“Cool for the Summer” (Fresca para el verano)",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como te han diagnosticado “Hipoestesia”, creemos que te gustaría la canción:"
+                }
+            ]
+        },
+        {
+            "id": "52116",
+            "category": {
+                "text": "Cómo disfrutar al máximo tu experiencia Binjpipe"
+            },
+            "choices": [
+                {
+                    "text": "<i>El juego de Gerald<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>El muñeco diabólico<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Juegos macabros<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Mi amigo el dragón<\/i>",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como disfrutas de “películas aptas para todo público con reservas”, pensamos que tu familia disfrutaría:"
+                }
+            ]
+        },
+        {
+            "id": "52137",
+            "category": {
+                "text": "Qué disfrutar"
+            },
+            "choices": [
+                {
+                    "text": "un gigante imbatible",
+                    "isCorrect": false
+                },
+                {
+                    "text": "un profeta celestial",
+                    "isCorrect": false
+                },
+                {
+                    "text": "un rey israelí",
+                    "isCorrect": true
+                },
+                {
+                    "text": "un soldado filisteo",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como miraste <i>Better Call Saul<\/i>, pensamos que disfrutarías una historia de la biblia hebrea sobre:"
+                }
+            ]
+        },
+        {
+            "id": "52139",
+            "category": {
+                "text": "Deja que te ayudemos"
+            },
+            "choices": [
+                {
+                    "text": "un equipo inicial de baloncesto",
+                    "isCorrect": false
+                },
+                {
+                    "text": "un equipo inicial de voley",
+                    "isCorrect": true
+                },
+                {
+                    "text": "un equipo inicial de polo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "un equipo inicial de waterpolo",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como miraste <i>Big Hero 6: Grandes heroes<\/i> y <i>El sexto sentido<\/i> pensamos que te gustaría:"
+                }
+            ]
+        },
+        {
+            "id": "52222",
+            "category": {
+                "text": "Primero una comunidad, luego un negocio"
+            },
+            "choices": [
+                {
+                    "text": "<i>Bailando con las estrellas<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>RuPaul: Carrera de Drags<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Negociando con tiburones<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Duck Dynasty<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como mostraste interés en “Polaris” y “Vega”, pensamos que te gustaría:"
+                }
+            ]
+        },
+        {
+            "id": "52225",
+            "category": {
+                "text": "Esa sensación de satisfacción de ser cliente de Binjpipe"
+            },
+            "choices": [
+                {
+                    "text": "Thomas Middleditch",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Martin Starr",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kumail Nanjiani",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zach Woods",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como tu perfil de LinkedIn muestra que trabajaste en “Silicon Valley” después de salir con tus “Amigas por siempre” y trabajar en “la oficina”, puede que disfrutes:"
+                }
+            ]
+        },
+        {
+            "id": "52238",
+            "category": {
+                "text": "Compartiendo el futuro del contenido"
+            },
+            "choices": [
+                {
+                    "text": "<i>Lazos de sangre<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Buen cabello<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>La colina de los ojos malditos<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>En el corazón del mar<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como pareces obsesionado con “partes del cuerpo humano compuestas de queratina”, creemos que te sentirás extrañamente atraido a:"
+                }
+            ]
+        },
+        {
+            "id": "52241",
+            "category": {
+                "text": "Sabemos lo que necesitas"
+            },
+            "choices": [
+                {
+                    "text": "<i>Game of Thrones<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Riverdale<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Westworld<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>The Blacklist<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como te gustan “series de TV basadas en películas”, creemos que te gustaría:"
+                }
+            ]
+        },
+        {
+            "id": "52249",
+            "category": {
+                "text": "¿Qué sigue?"
+            },
+            "choices": [
+                {
+                    "text": "Rebel Wilson",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Anna Kendrick",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Emily Blunt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vera Farmiga",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como te gusta el “Amor sin escalas” y “En el bosque”, creemos que en esta actriz verás “Notas perfectas”:"
+                }
+            ]
+        },
+        {
+            "id": "52274",
+            "category": {
+                "text": "Nuestra amistad digital"
+            },
+            "choices": [
+                {
+                    "text": "<i>Caballo de guerra <\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Apóyate en mí <\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Belleza negra <\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Phar Lap<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como eres una “persona loca por los caballos” que ODIA “las películas de caballos donde el caballo principal muere”, creemos que te encantará..."
+                }
+            ]
+        },
+        {
+            "id": "52278",
+            "category": {
+                "text": "Podemos ayudarte a que disfrutes de nosotros"
+            },
+            "choices": [
+                {
+                    "text": "<i>Red social<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Juego de gemelas<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Hermana, hermana<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Tres por tres<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como insistes en que “gemelos sean interpreten a gemelos”, creemos que podría gustarte..."
+                }
+            ]
+        },
+        {
+            "id": "52288",
+            "category": {
+                "text": "Un poquito de ayuda de nuestra parte"
+            },
+            "choices": [
+                {
+                    "text": "<i>Cosmopolitan<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Playboy<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Vanity Fair<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>US Airways Magazine<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como googleaste “Demi Moore, embarazada y desnuda”, puede que te guste la edición de agosto de 1991 de..."
+                }
+            ]
+        },
+        {
+            "id": "52334",
+            "category": {
+                "text": "Una comunidad unida de personas"
+            },
+            "choices": [
+                {
+                    "text": "Vampire Weekend",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kings of Leon",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Twenty One Pilots",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Imagine Dragons",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como disfrutaste de los personajes de “Viserion”, “Elliot”, y “Smaug”, te recomendamos música de la banda:"
+                }
+            ]
+        },
+        {
+            "id": "52348",
+            "category": {
+                "text": "Tu familia corporativa"
+            },
+            "choices": [
+                {
+                    "text": "<i>Atlanta<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Broad City<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Twin Peaks<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Jersey Shore<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Como te gusta ganar dinero trabajando de “Paper Boi”, recomendamos que hagas un viaje a:"
+                }
+            ]
+        },
+        {
+            "id": "52446",
+            "category": {
+                "text": "Aquí para ti"
+            },
+            "choices": [
+                {
+                    "text": "Armie HAMMER (martillo)",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Britney SPEARS (lanza)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Robin QUIVERS (aljaba)",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Chris ROCK (piedra)",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Cómo te gusta “atacar con alabardas a las personas”, te recomendamos películas protagonizadas por:"
+                }
+            ]
+        },
+        {
+            "id": "52921",
+            "category": {
+                "text": "Binjpipe devuelve"
+            },
+            "choices": [
+                {
+                    "text": "Ansel Adams",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Anne Geddes",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Annie Leibovitz",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Andy Warhol",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Porque disfrutaste de <i>Un jefe en pañales<\/i> y <i>Baby Driver<\/i>, pensamos que te gustarían las fotografías de este artista:"
+                }
+            ]
+        },
+        {
+            "id": "53662",
+            "category": {
+                "text": "Un abrazo de Binjpipe"
+            },
+            "choices": [
+                {
+                    "text": "<i>El proyecto Florida<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Educando a Arizona<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Alaska ardiente<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Californication<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Porque disfrutaste de las expediciones de Juan Ponce de León, pensamos que te gustaría:"
+                }
+            ]
+        }
+    ]
+}
