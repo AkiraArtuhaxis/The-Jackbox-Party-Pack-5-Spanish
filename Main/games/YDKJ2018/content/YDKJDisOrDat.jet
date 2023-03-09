@@ -487,31 +487,31 @@
         {
             "questions": [
                 {
-                    "text": "“La felicidad no es una meta. Es un product de ella.”",
+                    "text": "“La felicidad no es una meta. Es un producto de ella”.",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "“Nunca me siento culpable por ser privilegiada.”",
+                    "text": "“Nunca me siento culpable por ser privilegiada”.",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "“Nadie puede hacerte sentir inferior sin tu consentimiento.”",
+                    "text": "“Nadie puede hacerte sentir inferior sin tu consentimiento”.",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "“Si no puedes manejar la verdad, no puedes manejarme a mí.”",
+                    "text": "“Si no puedes manejar la verdad, no puedes manejarme a mí”.",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "“Estoy viviendo el Sueño Americano, un error a la vez.”",
+                    "text": "“Estoy viviendo el Sueño Americano, un error a la vez”.",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "“Una mujer es como una bolsita de té: no se puede saber qué tan fuerte es hasta que la pone en agua caliente.”",
+                    "text": "“Una mujer es como una bolsita de té: no se puede saber qué tan fuerte es hasta que la pone en agua caliente”.",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "“Yo planeo para el futuro, pero vivo en el momento.”",
+                    "text": "“Yo planeo para el futuro, pero vivo en el momento”.",
                     "correctChoiceString": "dis"
                 }
             ],
@@ -1291,7 +1291,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Mi novio mamút lanudo",
+                    "text": "Mi novio mamut lanudo",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -1963,7 +1963,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Mammoth Grinder (picador de mamúts)",
+                    "text": "Mammoth Grinder (picador de mamuts)",
                     "correctChoiceString": "dat"
                 }
             ],

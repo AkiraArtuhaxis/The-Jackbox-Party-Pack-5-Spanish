@@ -28,7 +28,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Si las naciones de la Tierra convencieran al villano de <i>Star Wars</i> Kylo Ren de firmar el \"Tratado del espacio,\" ¿cuál de estos actos malvados podría seguir cometiendo sin romperlo?"
+                    "text": "Si las naciones de la Tierra convencieran al villano de <i>Star Wars</i> Kylo Ren de firmar el \"Tratado del espacio\", ¿cuál de estos actos malvados podría seguir cometiendo sin romperlo?"
                 }
             ]
         },
@@ -247,7 +247,7 @@
             },
             "choices": [
                 {
-                    "text": "Ser incapaz de recordar la palabra “CrossFit.”",
+                    "text": "Ser incapaz de recordar la palabra “CrossFit”.",
                     "isCorrect": false
                 },
                 {
@@ -255,7 +255,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Perder la habilidad de aprender nuevas palabras que no sean \"CrossFit.\"",
+                    "text": "Perder la habilidad de aprender nuevas palabras que no sean \"CrossFit\".",
                     "isCorrect": false
                 },
                 {
@@ -499,7 +499,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\"Ella vende sillas de montar al margen.\"",
+                    "text": "\"Ella vende sillas de montar al margen\".",
                     "isCorrect": false
                 },
                 {
@@ -603,19 +603,19 @@
             },
             "choices": [
                 {
-                    "text": "$8,000,000",
+                    "text": "$8.000.000",
                     "isCorrect": false
                 },
                 {
-                    "text": "$54,000,000",
+                    "text": "$54.000.000",
                     "isCorrect": true
                 },
                 {
-                    "text": "$430,000,000",
+                    "text": "$430.000.000",
                     "isCorrect": false
                 },
                 {
-                    "text": "$1,000,000,000",
+                    "text": "$1.000.000.000",
                     "isCorrect": false
                 }
             ],
@@ -711,11 +711,11 @@
             },
             "choices": [
                 {
-                    "text": "“Buscando mujer que CAMINA BELLA, COMO LA NOCHE.”",
+                    "text": "“Buscando mujer que CAMINA BELLA, COMO LA NOCHE”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Tratando de tomar el CAMINO NO TOMADO.”",
+                    "text": "“Tratando de tomar el CAMINO NO TOMADO”.",
                     "isCorrect": false
                 },
                 {
@@ -1272,19 +1272,19 @@
             },
             "choices": [
                 {
-                    "text": "“Un segundo, solo dame 3 millones de años.”",
+                    "text": "“Un segundo, solo dame 3 millones de años”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Un segundo, solo dame 30 millones de años.”",
+                    "text": "“Un segundo, solo dame 30 millones de años”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Un segundo, solo dame 300 millones de años.”",
+                    "text": "“Un segundo, solo dame 300 millones de años”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Un segundo, solo dame 3 mil millones de años.”",
+                    "text": "“Un segundo, solo dame 3 mil millones de años”.",
                     "isCorrect": false
                 }
             ],
@@ -1504,19 +1504,19 @@
             },
             "choices": [
                 {
-                    "text": "“Voy a expeler menos del 10% de la plata que consumí hoy.”",
+                    "text": "“Voy a expeler menos del 10% de la plata que consumí hoy”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Voy a expeler aproximadamente 33% de la plata que consumí hoy.”",
+                    "text": "“Voy a expeler aproximadamente 33% de la plata que consumí hoy”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Voy a expeler aproximadamente 50% de la plata que consumí hoy.”",
+                    "text": "“Voy a expeler aproximadamente 50% de la plata que consumí hoy”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Voy a expeler más del 99% de la plata que consumí hoy.”",
+                    "text": "“Voy a expeler más del 99% de la plata que consumí hoy”.",
                     "isCorrect": true
                 }
             ],
@@ -1669,19 +1669,19 @@
             },
             "choices": [
                 {
-                    "text": "“El Arco de Triunfo es una... fuente, de hecho.”",
+                    "text": "“El Arco de Triunfo es una... fuente, de hecho”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“La basílica de San Pedro es una... fuente, de hecho.”",
+                    "text": "“La basílica de San Pedro es una... fuente, de hecho”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“La Fontana di Trevi es una...  fuente, de hecho.”",
+                    "text": "“La Fontana di Trevi es una...  fuente, de hecho”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“La puerta de Brandenburgo es una... fuente, de hecho.”",
+                    "text": "“La puerta de Brandenburgo es una... fuente, de hecho”.",
                     "isCorrect": false
                 }
             ],
@@ -2367,19 +2367,19 @@
             },
             "choices": [
                 {
-                    "text": "“Me gusta el apoyo, pero tienen olor a metal quemado.”",
+                    "text": "“Me gusta el apoyo, pero tienen olor a metal quemado”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Diseños muy lindos, pero tienen olor a funeraria.”",
+                    "text": "“Diseños muy lindos, pero tienen olor a funeraria”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Muy sexys pero tienen olor a animales de circo.”",
+                    "text": "“Muy sexys pero tienen olor a animales de circo”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Buen encaje, pero tienen olor a cerveza y queso.”",
+                    "text": "“Buen encaje, pero tienen olor a cerveza y queso”.",
                     "isCorrect": true
                 }
             ],
@@ -2631,7 +2631,7 @@
             },
             "choices": [
                 {
-                    "text": "“¿Que no deje de dormir por 18 horas? Gracias, no lo haré.”",
+                    "text": "“¿Que no deje de dormir por 18 horas? Gracias, no lo haré”.",
                     "isCorrect": true
                 },
                 {
@@ -2640,7 +2640,7 @@
                 },
                 {
                     "best": true,
-                    "text": "“Me masturbo las púas durante el día. No esperaría mucho.”",
+                    "text": "“Me masturbo las púas durante el día. No esperaría mucho”.",
                     "isCorrect": false
                 },
                 {
@@ -2676,7 +2676,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "A- “¡Genial! Pero los pasillos estaban bloqueados por gemelas aterradoras.”",
+                    "text": "A- “¡Genial! Pero los pasillos estaban bloqueados por gemelas aterradoras”.",
                     "isCorrect": false
                 },
                 {
@@ -2864,19 +2864,19 @@
             },
             "choices": [
                 {
-                    "text": "“I’m in love with the HENDECAGON of you.”",
+                    "text": "“I’m in love with the HENDECAGON of you”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“I’m in love with the NONAGON of you.”",
+                    "text": "“I’m in love with the NONAGON of you”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“I’m in love with the HEPTAGON of you.”",
+                    "text": "“I’m in love with the HEPTAGON of you”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“I’m in love with the DODECAGON of you.”",
+                    "text": "“I’m in love with the DODECAGON of you”.",
                     "isCorrect": false
                 }
             ],
@@ -3320,19 +3320,19 @@
             },
             "choices": [
                 {
-                    "text": "\"Error común, es un ganso.\"",
+                    "text": "\"Error común, es un ganso\".",
                     "isCorrect": false
                 },
                 {
-                    "text": "\"Más bien, es más o menos una garza.\"",
+                    "text": "\"Más bien, es más o menos una garza\".",
                     "isCorrect": false
                 },
                 {
-                    "text": "\"Técnicamente, es un cisne.\"",
+                    "text": "\"Técnicamente, es un cisne\".",
                     "isCorrect": false
                 },
                 {
-                    "text": "\"No señor, un somorgujo es un somorgujo.\"",
+                    "text": "“No señor, un somorgujo es un somorgujo”.",
                     "isCorrect": true
                 }
             ],
@@ -3372,7 +3372,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“Estrellas—Nos dominan a nosotros, la clase trabajadora.”",
+                    "text": "“Estrellas—Nos dominan a nosotros, la clase trabajadora”.",
                     "isCorrect": false
                 }
             ],
@@ -4164,7 +4164,7 @@
             },
             "choices": [
                 {
-                    "text": "“Todos saben que el AGUA SE CONVIERTE EN HIELO.”",
+                    "text": "“Todos saben que el AGUA SE CONVIERTE EN HIELO”.",
                     "isCorrect": false
                 },
                 {
@@ -4172,7 +4172,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“El HIELO SE CONVIERTE EN AGUA pero tu no te conviertes en nada.”",
+                    "text": "“El HIELO SE CONVIERTE EN AGUA pero tu no te conviertes en nada”.",
                     "isCorrect": false
                 },
                 {
@@ -4544,7 +4544,7 @@
             },
             "choices": [
                 {
-                    "text": "“Todo el mundo sabe que no eres más que un palo de PÓLVORA.”",
+                    "text": "“Todo el mundo sabe que no eres más que un palo de PÓLVORA”.",
                     "isCorrect": false
                 },
                 {
@@ -4556,7 +4556,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“Hombre, no eres más que NITROGLICERINA y estabilizadores.”",
+                    "text": "“Hombre, no eres más que NITROGLICERINA y estabilizadores”.",
                     "isCorrect": true
                 }
             ],
@@ -4576,7 +4576,7 @@
             },
             "choices": [
                 {
-                    "text": "“Dar cera. Pulir cera.”",
+                    "text": "“Dar cera. Pulir cera”.",
                     "isCorrect": true
                 },
                 {
@@ -4584,7 +4584,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“Volveré.”",
+                    "text": "“Volveré”.",
                     "isCorrect": false
                 },
                 {
@@ -5040,19 +5040,19 @@
             },
             "choices": [
                 {
-                    "text": "“Llámame Jordan.”",
+                    "text": "“Llámame Jordan”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Llámame Armie.”",
+                    "text": "“Llámame Armie”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Llámame Chadwick.”",
+                    "text": "“Llámame Chadwick”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Llámame Channing.”",
+                    "text": "“Llámame Channing”.",
                     "isCorrect": false
                 }
             ],
@@ -5172,19 +5172,19 @@
             },
             "choices": [
                 {
-                    "text": "“<i>Jurassic Park</i> es sobre un parque temático de dinosaurios.”",
+                    "text": "“<i>Jurassic Park</i> es sobre un parque temático de dinosaurios”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“<i>El club de la pelea</i> es sobre un grupo que pelean entre ellos.\"",
+                    "text": "“<i>El club de la pelea</i> es sobre un grupo que pelean entre ellos\".",
                     "isCorrect": false
                 },
                 {
-                    "text": "“<i>Gladiador</i> es sobre un gladiador romano.”",
+                    "text": "“<i>Gladiador</i> es sobre un gladiador romano”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“<i>El último de los mohicanos</i> es sobre el último de los mohicanos.”",
+                    "text": "“<i>El último de los mohicanos</i> es sobre el último de los mohicanos”.",
                     "isCorrect": true
                 }
             ],
@@ -5536,11 +5536,11 @@
             },
             "choices": [
                 {
-                    "text": "“Ninguna manzana fue lastimada para la creación de este dulce.”",
+                    "text": "“Ninguna manzana fue lastimada para la creación de este dulce”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Querido consumidor, ansío su suave y húmeda boca.”",
+                    "text": "“Querido consumidor, ansío su suave y húmeda boca”.",
                     "isCorrect": false
                 },
                 {
@@ -6064,19 +6064,19 @@
             },
             "choices": [
                 {
-                    "text": "“Siri, dile a Cortana que apague las luces.”",
+                    "text": "“Siri, dile a Cortana que apague las luces”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Alexa, dile a Siri que baje el volumen.”",
+                    "text": "“Alexa, dile a Siri que baje el volumen”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Cortana, dile a Alexa que ponga música.”",
+                    "text": "“Cortana, dile a Alexa que ponga música”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Alexa, dile al Asistente de Google que lo haga mejor la próxima vez.”",
+                    "text": "“Alexa, dile al Asistente de Google que lo haga mejor la próxima vez”.",
                     "isCorrect": false
                 }
             ],
@@ -6096,19 +6096,19 @@
             },
             "choices": [
                 {
-                    "text": "“Escuché que Chad roba TÉ VERDE de la sala de descansos.”",
+                    "text": "“Escuché que Chad roba TÉ VERDE de la sala de descansos”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Jen no es rubia, se tiñe el cabello con TÉ BLANCO.”",
+                    "text": "“Jen no es rubia, se tiñe el cabello con TÉ BLANCO”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Vi a Gladis y TÉ NEGRO besándose en la sala de descansos.”",
+                    "text": "“Vi a Gladis y TÉ NEGRO besándose en la sala de descansos”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Brent tiene una familia secreta con TÉ ROJO en otro estado.”",
+                    "text": "“Brent tiene una familia secreta con TÉ ROJO en otro estado”.",
                     "isCorrect": true
                 }
             ],
@@ -6469,7 +6469,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Cada Navidad, los coros de villancicos tocan mi puerta exigiendo “pan dulce” y cantando “no nos iremos hasta conseguir un poco, no nos iremos hasta conseguir un poco.”"
+                    "text": "Cada Navidad, los coros de villancicos tocan mi puerta exigiendo “pan dulce” y cantando “no nos iremos hasta conseguir un poco, no nos iremos hasta conseguir un poco”."
                 },
                 {
                     "timing": "S + 8.87",
@@ -6616,15 +6616,15 @@
             },
             "choices": [
                 {
-                    "text": "“No vas a creer a lo que este marinero sin camisa llama un TORPEDO.”",
+                    "text": "“No vas a creer a lo que este marinero sin camisa llama un TORPEDO”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Estoy soltero y le digo MILLAS NÁUTICAS a las cosas más locas.”",
+                    "text": "“Estoy soltero y le digo MILLAS NÁUTICAS a las cosas más locas”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Estoy esperando que le de un apodo a mi MUNICIÓN, soldado.”",
+                    "text": "“Estoy esperando que le de un apodo a mi MUNICIÓN, soldado”.",
                     "isCorrect": false
                 },
                 {
@@ -7144,19 +7144,19 @@
             },
             "choices": [
                 {
-                    "text": "“Dulzura, me voy a alimentar en el Ártico.”",
+                    "text": "“Dulzura, me voy a alimentar en el Ártico”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Cariño, voy a tener crías en Hawái.”",
+                    "text": "“Cariño, voy a tener crías en Hawái”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Duraznito, me voy a alimentar en Panamá.”",
+                    "text": "“Duraznito, me voy a alimentar en Panamá”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Puchi, voy a tener crías en la Antártida.”",
+                    "text": "“Puchi, voy a tener crías en la Antártida”.",
                     "isCorrect": false
                 }
             ],
@@ -7248,7 +7248,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“Me sacarán los aperitivos de mis manos frías y muertas.”",
+                    "text": "“Me sacarán los aperitivos de mis manos frías y muertas”.",
                     "isCorrect": true
                 },
                 {
@@ -7256,7 +7256,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“Haz ensalada, no guerra.”",
+                    "text": "“Haz ensalada, no guerra”.",
                     "isCorrect": false
                 }
             ],
@@ -7376,15 +7376,15 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“La batalla de Midway está sucediendo y no tengo nada que ponerme.”",
+                    "text": "“La batalla de Midway está sucediendo y no tengo nada que ponerme”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“El senador McCarthy tiene audiencias pero no me estaría escuchando.”",
+                    "text": "“El senador McCarthy tiene audiencias pero no me estaría escuchando”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“El archiduque Fernando fue asesinado antes de nuestro almuerzo.”",
+                    "text": "“El archiduque Fernando fue asesinado antes de nuestro almuerzo”.",
                     "isCorrect": true
                 }
             ],
@@ -7404,19 +7404,19 @@
             },
             "choices": [
                 {
-                    "text": "“...Arizona y Nevada.”",
+                    "text": "“...Arizona y Nevada”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“...Nevada y Utah.”",
+                    "text": "“...Nevada y Utah”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“...Utah y Colorado.”",
+                    "text": "“...Utah y Colorado”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“...Nuevo México y Arizona.”",
+                    "text": "“...Nuevo México y Arizona”.",
                     "isCorrect": false
                 }
             ],
@@ -7712,19 +7712,19 @@
             },
             "choices": [
                 {
-                    "text": "“...corazón.”",
+                    "text": "“...corazón”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“...boca.”",
+                    "text": "“...boca”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“...patas.”",
+                    "text": "“...patas”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“...ano.”",
+                    "text": "“...ano”.",
                     "isCorrect": false
                 }
             ],
@@ -8344,11 +8344,11 @@
             },
             "choices": [
                 {
-                    "text": "“Los leggings no son más que leggings.”",
+                    "text": "“Los leggings no son más que leggings”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Los leggings son pantalones, pero no en la oficina.”",
+                    "text": "“Los leggings son pantalones, pero no en la oficina”.",
                     "isCorrect": false
                 },
                 {
@@ -8356,7 +8356,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "“¿Leggings? ¿Pantalones? No importa.”",
+                    "text": "“¿Leggings? ¿Pantalones? No importa”.",
                     "isCorrect": false
                 }
             ],
@@ -9020,19 +9020,19 @@
             },
             "choices": [
                 {
-                    "text": "“Recomiendo vinos sobre una cuerda floja.”",
+                    "text": "“Recomiendo vinos sobre una cuerda floja”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Recomiendo vinos al dormir.”",
+                    "text": "“Recomiendo vinos al dormir”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Recomiendo vinos en un cráter volcánico activo.”",
+                    "text": "“Recomiendo vinos en un cráter volcánico activo”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Recomiendo vinos con una voz grave y profunda.”",
+                    "text": "“Recomiendo vinos con una voz grave y profunda”.",
                     "isCorrect": false
                 }
             ],
@@ -9572,19 +9572,19 @@
             },
             "choices": [
                 {
-                    "text": "“<i>Supergirl</i> incrementa su fuerza, pero no su tamaño.”",
+                    "text": "“<i>Supergirl</i> incrementa su fuerza, pero no su tamaño”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Los equipos del Superbowl nunca interactúan físicamente.”",
+                    "text": "“Los equipos del Superbowl nunca interactúan físicamente”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“<i>Supernatural</i> no es tan bueno como lo será.”",
+                    "text": "“<i>Supernatural</i> no es tan bueno como lo será”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“<i>Superior Donuts</i> son de todos los gustos, hasta que las veo.”",
+                    "text": "“<i>Superior Donuts</i> son de todos los gustos, hasta que las veo”.",
                     "isCorrect": true
                 }
             ],
@@ -10424,19 +10424,19 @@
             },
             "choices": [
                 {
-                    "text": "“Cuidado con la GRAVEDAD de las nuevas responsabilidades.”",
+                    "text": "“Cuidado con la GRAVEDAD de las nuevas responsabilidades”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Los desafíos están aCALORantes este año.”",
+                    "text": "“Los desafíos están aCALORantes este año”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Tendrás INTERACCIONES DÉBILES con tus seres queridos.”",
+                    "text": "“Tendrás INTERACCIONES DÉBILES con tus seres queridos”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Tendrás INTERACCIONES FUERTES con lobos enojados.”",
+                    "text": "“Tendrás INTERACCIONES FUERTES con lobos enojados”.",
                     "isCorrect": false
                 }
             ],
@@ -10556,19 +10556,19 @@
             },
             "choices": [
                 {
-                    "text": "“Mis pies son un desastre, pero estos cortes son PRINCESAS.”",
+                    "text": "“Mis pies son un desastre, pero estos cortes son PRINCESAS”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“La pérdida de sangre es común, los cortes son ALMENDRADOS.”",
+                    "text": "“La pérdida de sangre es común, los cortes son ALMENDRADOS”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“A través del dolor avanzo, mis cortes son COJINES.”",
+                    "text": "“A través del dolor avanzo, mis cortes son COJINES”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Con sangre hasta las rodillas, estos cortes son MARQUISE.”",
+                    "text": "“Con sangre hasta las rodillas, estos cortes son MARQUISE”.",
                     "isCorrect": false
                 }
             ],
@@ -10660,19 +10660,19 @@
             },
             "choices": [
                 {
-                    "text": "“Pinkie Pie, tienes DISMORFIA MUSCULAR.”",
+                    "text": "“Pinkie Pie, tienes DISMORFIA MUSCULAR”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Fluttershy, tienes HIPOMANÍA.”",
+                    "text": "“Fluttershy, tienes HIPOMANÍA”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Applejack, tienes un TRASTORNO DE DESPERSONALIZACIÓN.”",
+                    "text": "“Applejack, tienes un TRASTORNO DE DESPERSONALIZACIÓN”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Twilight Sparkle, tienes NARCISISMO MALIGNO.”",
+                    "text": "“Twilight Sparkle, tienes NARCISISMO MALIGNO”.",
                     "isCorrect": false
                 }
             ],
@@ -11336,19 +11336,19 @@
             },
             "choices": [
                 {
-                    "text": "“No te hagas DRAMA. Espero que TURGO entiendas que quiero hacer lo correcto.”",
+                    "text": "“No te hagas DRAMA. Espero que TURGO entiendas que quiero hacer lo correcto”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“No es por dejarte EN VIVO, pero ya comí COMEDIANTE.”",
+                    "text": "“No es por dejarte EN VIVO, pero ya comí COMEDIANTE”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Tendremos que congregarnos luego, mi CONGRESISTA.”",
+                    "text": "“Tendremos que congregarnos luego, mi CONGRESISTA”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Espero no empezar una GUERRA, en GENERAL, contigo.”",
+                    "text": "“Espero no empezar una GUERRA, en GENERAL, contigo”.",
                     "isCorrect": false
                 }
             ],
@@ -11368,19 +11368,19 @@
             },
             "choices": [
                 {
-                    "text": "“Querido John Deere, te corto el césped. Regresa.”",
+                    "text": "“Querido John Deere, te corto el césped. Regresa”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Querido John Deere, siega la hora de que nos separemos. Adiós.”",
+                    "text": "“Querido John Deere, siega la hora de que nos separemos. Adiós”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Querido John Deere, heno de decirte que te estás muriendo.”",
+                    "text": "“Querido John Deere, heno de decirte que te estás muriendo”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Querido John Deere, estoy embarazada con tus bebés de maíz.”",
+                    "text": "“Querido John Deere, estoy embarazada con tus bebés de maíz”.",
                     "isCorrect": false
                 }
             ],
@@ -12328,11 +12328,11 @@
             },
             "choices": [
                 {
-                    "text": "“Qué onda Nicaragua. Ando viendo tu frontera con Honduras.”",
+                    "text": "“Qué onda Nicaragua. Ando viendo tu frontera con Honduras”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Holis Irlanda. Ando visitando tu frontera con Irlanda del Norte.”",
+                    "text": "“Holis Irlanda. Ando visitando tu frontera con Irlanda del Norte”.",
                     "isCorrect": false
                 },
                 {
@@ -12488,19 +12488,19 @@
             },
             "choices": [
                 {
-                    "text": "“Es sobre unos podidos GRANJEROS CHINOS.”",
+                    "text": "“Es sobre unos podidos GRANJEROS CHINOS”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Es una vierta que ocurre en una NAVE ESPACIAL.”",
+                    "text": "“Es una vierta que ocurre en una NAVE ESPACIAL”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Sigue a un hijo de fruta por la REVOLUCIÓN ESTADOUNIDENSE.”",
+                    "text": "“Sigue a un hijo de fruta por la REVOLUCIÓN ESTADOUNIDENSE”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“La FANTASMA FRANCESA es toda una ruta.\"",
+                    "text": "“La FANTASMA FRANCESA es toda una ruta\".",
                     "isCorrect": false
                 }
             ],
@@ -12808,15 +12808,15 @@
             },
             "choices": [
                 {
-                    "text": "“Detecto una nota de HECES DE ABEJA.”",
+                    "text": "“Detecto una nota de HECES DE ABEJA”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Me gusta el gusto a ÁCIDO CORROSIVO.”",
+                    "text": "“Me gusta el gusto a ÁCIDO CORROSIVO”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Está bien equilibrado por la SALIVA DE MURCIÉLAGO.”",
+                    "text": "“Está bien equilibrado por la SALIVA DE MURCIÉLAGO”.",
                     "isCorrect": false
                 },
                 {
@@ -13040,7 +13040,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“Es para mi apnea del sueño.”",
+                    "text": "“Es para mi apnea del sueño”.",
                     "isCorrect": true
                 },
                 {
@@ -13048,7 +13048,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“Estúpido polio.”",
+                    "text": "“Estúpido polio”.",
                     "isCorrect": false
                 }
             ],
@@ -14060,11 +14060,11 @@
             },
             "choices": [
                 {
-                    "text": "“A nuestra izquierda tenemos un punto de encuentro de DALLAS para perdedores.”",
+                    "text": "“A nuestra izquierda tenemos un punto de encuentro de DALLAS para perdedores”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Este es un lugar popular de LA CIUDAD DE MÉXICO, como sea.”",
+                    "text": "“Este es un lugar popular de LA CIUDAD DE MÉXICO, como sea”.",
                     "isCorrect": false
                 },
                 {
@@ -14072,7 +14072,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“Esta plaza de MADRID es un lugar perfecto para morir.”",
+                    "text": "“Esta plaza de MADRID es un lugar perfecto para morir”.",
                     "isCorrect": true
                 }
             ],

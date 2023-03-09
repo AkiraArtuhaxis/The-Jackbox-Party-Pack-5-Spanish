@@ -57,7 +57,7 @@
         {
             "id": "Screensaver",
             "controllerText": "¡Te han enroscado! ¡Intenta responder AHORA, imbécil!",
-            "controllerName": "Screensaver",
+            "controllerName": "Salvapantallas",
             "power": 1
         },
         {

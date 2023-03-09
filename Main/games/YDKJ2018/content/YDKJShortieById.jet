@@ -164,7 +164,7 @@
                 },
                 {
                     "best": true,
-                    "text": "“Cookie estuvo conmigo todo el día, oficial.”",
+                    "text": "“Cookie estuvo conmigo todo el día, oficial”.",
                     "isCorrect": false
                 }
             ],
@@ -584,19 +584,19 @@
             },
             "choices": [
                 {
-                    "text": "“El rol de Amy Smart la convierte de actriz a estrella.”",
+                    "text": "“El rol de Amy Smart la convierte de actriz a estrella”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Una vez que Amy Smart arranca, nadie puede detenerla.”",
+                    "text": "“Una vez que Amy Smart arranca, nadie puede detenerla”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Incluso las líneas más cortas de Amy Smart tienen un impacto inmenso.”",
+                    "text": "“Incluso las líneas más cortas de Amy Smart tienen un impacto inmenso”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“La actuación de Amy Smart es tan densa que te atrae.”",
+                    "text": "“La actuación de Amy Smart es tan densa que te atrae”.",
                     "isCorrect": false
                 }
             ],
@@ -969,19 +969,19 @@
             },
             "choices": [
                 {
-                    "text": "“gimnosperma.”",
+                    "text": "“gimnosperma”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“angiosperma.”",
+                    "text": "“angiosperma”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“endosperma.”",
+                    "text": "“endosperma”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“pteridosperma.”",
+                    "text": "“pteridosperma”.",
                     "isCorrect": false
                 }
             ],
@@ -1391,7 +1391,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "¿En qué película TODO termina destruido al final?"
+                    "text": "¿En qué película TODOH termina destruído al final?"
                 }
             ]
         },
@@ -1498,19 +1498,19 @@
             },
             "choices": [
                 {
-                    "text": "“...reumáticas.”",
+                    "text": "“...reumáticas”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“...neumáticas.”",
+                    "text": "“...neumáticas”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“...cromáticas.”",
+                    "text": "“...cromáticas”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“...flemáticas.”",
+                    "text": "“...flemáticas”.",
                     "isCorrect": false
                 }
             ],
@@ -1955,15 +1955,15 @@
             },
             "choices": [
                 {
-                    "text": "“Respira hondo, y puja de tu PECHO.”",
+                    "text": "“Respira hondo, y puja de tu PECHO”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Relájate, y da un gran empujón por tu OMBLIGO.”",
+                    "text": "“Relájate, y da un gran empujón por tu OMBLIGO”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Tú puedes. Solo puja de tu FRENTE.”",
+                    "text": "“Tú puedes. Solo puja de tu FRENTE”.",
                     "isCorrect": true
                 },
                 {
@@ -2493,11 +2493,11 @@
             "choices": [
                 {
                     "best": true,
-                    "text": "“Hoy, el fonógrafo fue inventado, un verdadero giro imparable para la industria de los discos.”",
+                    "text": "“Hoy, el fonógrafo fue inventado, un verdadero giro imparable para la industria de los discos”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Esta nueva Teoría de la Relatividad es increíble....quizás....”",
+                    "text": "“Esta nueva Teoría de la Relatividad es increíble... quizás...”",
                     "isCorrect": false
                 },
                 {
@@ -2969,7 +2969,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "“Quisiera enTABLAr una conversación.”",
+                    "text": "“Quisiera enTABLAr una conversación”.",
                     "isCorrect": false
                 }
             ],
@@ -3161,19 +3161,19 @@
             },
             "choices": [
                 {
-                    "text": "“Coloco mi contenedor de agua allí, sobre el sillón.”",
+                    "text": "“Coloco mi contenedor de agua allí, sobre el sillón”.",
                     "isCorrect": true
                 },
                 {
-                    "text": "“Coloco mi cabra hembra a mi lado, sobre la pila de heno.”",
+                    "text": "“Coloco mi cabra hembra a mi lado, sobre la pila de heno”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Coloco mi barra fina de metal allí, sobre el plato de porcelana.”",
+                    "text": "“Coloco mi barra fina de metal allí, sobre el plato de porcelana”.",
                     "isCorrect": false
                 },
                 {
-                    "text": "“Pongo mi teléfono en silencio para evitar la abrumadora pila de mis responsabilidades.”",
+                    "text": "“Pongo mi teléfono en silencio para evitar la abrumadora pila de mis responsabilidades”.",
                     "isCorrect": false
                 }
             ],
@@ -3186,7 +3186,7 @@
                 },
                 {
                     "timing": "S + 4.86",
-                    "text": "“He de colocar mi ánfora p'allá, al diván.”"
+                    "text": "“He de colocar mi ánfora p'allá, al diván”."
                 }
             ]
         },
