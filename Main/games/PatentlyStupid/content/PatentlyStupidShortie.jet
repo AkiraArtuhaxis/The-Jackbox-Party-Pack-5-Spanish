@@ -83,7 +83,7 @@
             "decoys": "mi papá | un regalo de bodas | el perro que tiene todo",
             "x": false,
             "id": 53735,
-            "prompt": "¡Nunca se que comprar para <BLANK>!"
+            "prompt": "¡Nunca sé qué comprar para <BLANK>!"
         },
         {
             "decoys": "hablar | cambiar el pañal de mi bebé | mirar una película",
@@ -107,7 +107,7 @@
             "decoys": "dar de propina | acariciar un gato | eructar",
             "x": false,
             "id": 53731,
-            "prompt": "¡Nunca se cuanto debo <BLANK>!"
+            "prompt": "¡Nunca sé cuánto debo <BLANK>!"
         },
         {
             "decoys": "mi sanidad | un cerdo grasiento | mi juventud",
@@ -161,7 +161,7 @@
             "decoys": "cumpleaños | nombre | talle de zapato",
             "x": false,
             "id": 53721,
-            "prompt": "¡Mi cónyuge se la pasa olvidándose mi <BLANK>!"
+            "prompt": "¡Mi pareja se la pasa olvidándose mi <BLANK>!"
         },
         {
             "decoys": "zapatos | juguetes | quesos",
@@ -383,7 +383,7 @@
             "decoys": "ropa | Picasso | carisma",
             "x": false,
             "id": 53352,
-            "prompt": "¡Estoy harto de que mi cónyuge se lleve mi <BLANK>!"
+            "prompt": "¡Estoy harto de que mi pareja se lleve mi <BLANK>!"
         },
         {
             "decoys": "programar | aprender a cortar carne | ser paciente",
@@ -461,7 +461,7 @@
             "decoys": "comer | archivar impuestos | disparar láseres",
             "x": false,
             "id": 53135,
-            "prompt": "¡Quiero hablar y <BLANK> al mismo tiempo!"
+            "prompt": "¡Quiero caminar y <BLANK> al mismo tiempo!"
         },
         {
             "decoys": "fideo | manatí | overol",
@@ -563,7 +563,7 @@
             "decoys": "juego bolos|como|peleo contra monstruos",
             "x": false,
             "id": 53061,
-            "prompt": "¡Siempre me agarra hambre mientras <BLANK>!"
+            "prompt": "¡Siempre me da hambre mientras <BLANK>!"
         },
         {
             "decoys": "papel higiénico| caramelos | gasolina",
@@ -1025,7 +1025,7 @@
             "decoys": "Watergate | mis ojos | un tatuaje",
             "x": false,
             "id": 53885,
-            "prompt": "¡Quiero cubrir <BLANK>!"
+            "prompt": "¡Quiero ocultar <BLANK>!"
         },
         {
             "decoys": "la hora de mi muerte | mis impuestos | póker",
@@ -1085,7 +1085,7 @@
             "decoys": "besarme | pedirme indicaciones | tirarme barro",
             "x": false,
             "id": 53875,
-            "prompt": "¡Nadie podrá <BLANK> a mí nunca más!"
+            "prompt": "¡A mí nadie podrá <BLANK> nunca más!"
         },
         {
             "decoys": "mi pelo peinado | mi aliento fresco | al perro en el patio",
@@ -1199,7 +1199,7 @@
             "decoys": "uso de malas palabras | flatulencia | furia en la carretera",
             "x": false,
             "id": 53856,
-            "prompt": "¡Necesito reducir seriamente mi(s) <BLANK>!"
+            "prompt": "¡Necesito reducir severamente mi(s) <BLANK>!"
         },
         {
             "decoys": "dejado en paz | quince centímetros más alto | Beyoncé",

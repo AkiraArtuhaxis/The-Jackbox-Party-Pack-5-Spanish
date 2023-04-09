@@ -1,0 +1,60 @@
+{
+    "credits": [
+    [
+        {"title":"JACKBOX EN ESPAÑOL","lines":["Artuhaxis", "Akira896", "Fixed Fun"]},
+        {"title":"DIRECTOR Y LÍDER EDITORIAL", "lines":[ "Warren Arnold" ]},
+        {"title":"INGENIERO LÍDER", "lines":[ "Pascal Pochol" ]},
+        {"title":"DIRECTOR DE ARTE Y LÍDER DE DISEÑO", "lines":[ "Dave Innis" ]},
+        {"title":"LÍDER DE AUDIO", "lines":[ "Andy Poland" ]}
+    ],
+    [
+        {"title":"GERENTE DE PRODUCCIÓN", "lines":["Luke Cody"]},
+        {"title":"ANFITRIONES", "lines":["Alex Frenkel como Lena", "Phil Ridarelli como Toby"]}
+    ],
+	[
+		{"title":"DISEÑO DE JUEGO ORIGINAL", "lines":["Dave Innis"]},
+		{"title":"EQUIPO DE DISEÑO", "lines":["Dave Innis","Warren Arnold","Pascal Pochol","Andy Poland","Arnie Niekamp"]}
+	],
+    [
+        {"title":"INGENIERO DE JACKBOX.TV","lines":["Alex Swan"]},
+        {"title":"INGENIEROS DE SERVIDOR","lines":["Kyle Leach", "Jordan Orelli"]}
+    ],
+    [
+        {"title":"ARTE ADICIONAL","lines":["Hector M Padilla"]},
+        {"title":"DISEÑO DE SONIDO ADICIONAL","lines":["Kate Kelly"]},
+        {"title":"INGENIERÍA ADICIONAL","lines":["Ben Jacobs","Mike Zuba"]}
+    ],
+    {"title":"ESCRITORES","lines":["Warren Arnold","Brooke Breit","Claire McFadden", "CJ Tuor", "Arnie Niekamp"]},
+    [
+        {"title":"LÍDER DE CONTROL DE CALIDAD","lines":["Steve Pakal"]},
+        {"title":"CONTROL DE CALIDAD","lines":["Jacob Mooney","Jessica Glass","Tyler “Ty” Houston", "Mike Parilla"]}
+    ],
+    {"title":"INTERNOS DE INGENIERÍA","lines":["Jack Reynolds","Myka Martinez","Laura Adams","Michael Siciliano"]},
+    [
+		{"title":"VOCES ADICIONALES","lines":["Warren Arnold", "Brooke Breit", "Spencer Ham","Kate Kelly","Edward Moses","CJ Tuor"]},
+		{"title":"CANTANTE","lines":["Mike Finney"]}
+	],
+    [
+        {"title":"ASISTENTE DE PRODUCCIÓN","lines":["Clara Hanford"]},
+        {"title":"INVESTIGACIÓN DE USUARIO","lines":["Jacob Mooney"]}
+    ],
+    [
+        {"title":"CEO","lines":["Mike Bilder"]},
+        {"title":"CCO","lines":["Allard Laban"]},
+        {"title":"CTO","lines":["Evan Jacover"]},
+        {"title":"VP DE AUDIO Y EDITORIAL", "lines":["Andy Poland"]}
+    ],
+    [
+        {"title":"VP DE JACKBOX PARA NEGOCIOS","lines":["Rob Johnson"]},
+        {"title":"DIRECTOR DE EDITORIAL","lines":["Arnie Niekamp"]},
+        {"title":"GERENTE DE MARKETING","lines":["Brooke Eanet"]}
+    ],
+    [
+        {"title":"GERENTE DE RRHH Y OFICINA","lines":["Rob Alletto"]},
+        {"title":"CONSEJERO LEGAL","lines":["Kurt Hirsch"]},
+        {"title":"MANDO","lines":["Anna Wodynski"]}
+    ],
+    {"title":"AGRADECIMIENTOS ESPECIALES","lines":["Brian Chard","Adam Charney","Nolan J. Downs","Ryan Digiorgi","Kyle Fleischer","Tom Gottlieb","Greg Gretsch","Spencer Ham","Mark Turowetz","Owen Watson"]},
+    {"title":"FUNDADOR DE JACKBOX GAMES","lines":["Harry Gottlieb"]}
+]
+}

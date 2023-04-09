@@ -1474,14 +1474,14 @@
                     ]
                 },
                 {
-                    "title": "Crustáceo Cascarudo",
+                    "title": "El Crustáceo Cascarudo",
                     "choices": [
                         {
                             "text": "Bob Esponja",
                             "isCorrect": true
                         },
                         {
-                            "text": "Sr. Kangrejo",
+                            "text": "Don Kangrejo",
                             "isCorrect": false
                         },
                         {
@@ -1489,7 +1489,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Sr. Cangrejo",
+                            "text": "Don Cangrejo",
                             "isCorrect": true
                         },
                         {

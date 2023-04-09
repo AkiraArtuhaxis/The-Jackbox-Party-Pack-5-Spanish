@@ -1,7 +1,20 @@
 {
     "credits": [
     [
-        {"title":"JACKBOX EN ESPAÑOL","lines":["Artuhaxis", "Akira896", "Fixed Fun"]},
+        {"title":"JACKBOX EN ESPAÑOL","lines":[""]},
+        {"title":"TRADUCCIÓN","lines":["Artuhaxis", "Akira896"]},
+        {"title":"IMÁGENES","lines":["Fixed Fun"]}
+    ],
+    [
+        {"title":"ANFITRIONES", "lines":["Ana Fernández como Lina", "Fausto Serra como Tobías"]},
+        {"title":"VOCES ADICIONALES","lines":["Walter Tassi", "Santiago Giordani", "Rocío Benítez Blasco","Tomás Serio","Akira896","maritomomomemardo","Ernesto Fernández","ner0","Camila Iriart","Trinidad González"]}
+    ],
+    [
+        {"title":"GUION","lines":["Artuhaxis", "Fixed Fun"]},
+        {"title":"RECORTE Y ECUALIZACIÓN DE AUDIOS","lines":["Artuhaxis"]},
+        {"title":"SUPERVISIÓN DEL DOBLAJE","lines":["Akira896"]}
+    ],
+    [
         {"title":"DIRECTOR Y LÍDER EDITORIAL", "lines":[ "Warren Arnold" ]},
         {"title":"INGENIERO LÍDER", "lines":[ "Pascal Pochol" ]},
         {"title":"DIRECTOR DE ARTE Y LÍDER DE DISEÑO", "lines":[ "Dave Innis" ]},
