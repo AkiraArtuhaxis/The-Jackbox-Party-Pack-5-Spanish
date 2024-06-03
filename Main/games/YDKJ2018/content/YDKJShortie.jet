@@ -1176,11 +1176,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "¡¡¡UN POR CIENTO!!!",
+                    "text": "¡¡¡UNO POR CIENTO!!!",
                     "isCorrect": false
                 },
                 {
-                    "text": "¡¡¡MENOS DE UNA DÉCIMA DE UN POR CIENTO!!!",
+                    "text": "¡¡¡MENOS DE UNA DÉCIMA DE UNO POR CIENTO!!!",
                     "isCorrect": true
                 }
             ],
@@ -13985,7 +13985,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "¿Cuál de estos personajes de los mitos griegos probablemente no puede “sonreirte con la mirada”?"
+                    "text": "¿Cuál de estos personajes de los mitos griegos probablemente no puede “sonreírte con la mirada”?"
                 }
             ]
         },
