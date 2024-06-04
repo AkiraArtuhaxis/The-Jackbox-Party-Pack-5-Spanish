@@ -4309,7 +4309,7 @@
                     "pam",
                     "crank"
                 ],
-                "text": "Intentaste entrar pero la puerta hizo <BLANK>!",
+                "text": "¡Intentaste entrar pero la puerta hizo <BLANK>!",
                 "type": "Ninguno"
             },
             "gene": [
